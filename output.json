@@ -1,0 +1,466 @@
+[
+    {
+        "id": "sr:stage:610713",
+        "type": "motogp",
+        "index": "11 / 14",
+        "title": "Gran Premio de Teruel 2020",
+        "start": "2020-10-23T08:55:00+00:00",
+        "end": "2020-10-25T13:00:00+00:00",
+        "trackName": "Motorland Aragon",
+        "countryCode": "ES",
+        "countryName": "Spain",
+        "cityName": "Alcaniz",
+        "steps": [
+            {
+                "id": "sr:stage:610715",
+                "title": "Practice 1",
+                "type": "practice",
+                "start": "2020-10-23T08:55:00+00:00",
+                "end": "2020-10-23T09:40:00+00:00"
+            },
+            {
+                "id": "sr:stage:610717",
+                "title": "Practice 2",
+                "type": "practice",
+                "start": "2020-10-23T12:30:00+00:00",
+                "end": "2020-10-23T13:15:00+00:00"
+            },
+            {
+                "id": "sr:stage:610719",
+                "title": "Practice 3",
+                "type": "practice",
+                "start": "2020-10-24T08:55:00+00:00",
+                "end": "2020-10-24T09:40:00+00:00"
+            },
+            {
+                "id": "sr:stage:610721",
+                "title": "Practice 4",
+                "type": "practice",
+                "start": "2020-10-24T12:10:00+00:00",
+                "end": "2020-10-24T12:40:00+00:00"
+            },
+            {
+                "id": "sr:stage:610723",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "start": "2020-10-24T12:50:00+00:00",
+                "end": "2020-10-24T13:30:00+00:00"
+            },
+            {
+                "id": "sr:stage:610729",
+                "title": "Race",
+                "type": "race",
+                "start": "2020-10-25T12:00:00+00:00",
+                "end": "2020-10-25T13:00:00+00:00"
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:619645",
+        "type": "f1",
+        "index": "12 / 17",
+        "title": "Portuguese Grand Prix 2020",
+        "start": "2020-10-23T10:00:00+00:00",
+        "end": "2020-10-25T15:10:00+00:00",
+        "trackName": "Autodromo International Algarve",
+        "countryCode": "PT",
+        "countryName": "Portugal",
+        "cityName": "Portimao",
+        "steps": [
+            {
+                "id": "sr:stage:619647",
+                "title": "Practice 1",
+                "type": "practice",
+                "start": "2020-10-23T10:00:00+00:00",
+                "end": "2020-10-23T11:30:00+00:00"
+            },
+            {
+                "id": "sr:stage:619649",
+                "title": "Practice 2",
+                "type": "practice",
+                "start": "2020-10-23T14:00:00+00:00",
+                "end": "2020-10-23T15:30:00+00:00"
+            },
+            {
+                "id": "sr:stage:619651",
+                "title": "Practice 3",
+                "type": "practice",
+                "start": "2020-10-24T10:00:00+00:00",
+                "end": "2020-10-24T11:00:00+00:00"
+            },
+            {
+                "id": "sr:stage:619653",
+                "title": "Qualification",
+                "type": "qualifying",
+                "start": "2020-10-24T13:00:00+00:00",
+                "end": "2020-10-24T14:00:00+00:00"
+            },
+            {
+                "id": "sr:stage:619661",
+                "title": "Race",
+                "type": "race",
+                "start": "2020-10-25T13:10:00+00:00",
+                "end": "2020-10-25T15:10:00+00:00"
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:619863",
+        "type": "f1",
+        "index": "13 / 17",
+        "title": "Gran Premio Emilia Romagna 2020",
+        "start": "2020-10-31T09:00:00+00:00",
+        "end": "2020-11-01T15:10:00+00:00",
+        "trackName": "Autodromo Enzo e Dino Ferrari",
+        "countryCode": "IT",
+        "countryName": "Italy",
+        "cityName": "Imola",
+        "steps": [
+            {
+                "id": "sr:stage:619865",
+                "title": "Practice 1",
+                "type": "practice",
+                "start": "2020-10-31T09:00:00+00:00",
+                "end": "2020-10-31T10:30:00+00:00"
+            },
+            {
+                "id": "sr:stage:619871",
+                "title": "Qualification",
+                "type": "qualifying",
+                "start": "2020-10-31T13:00:00+00:00",
+                "end": "2020-10-31T14:00:00+00:00"
+            },
+            {
+                "id": "sr:stage:619879",
+                "title": "Race",
+                "type": "race",
+                "start": "2020-11-01T12:10:00+00:00",
+                "end": "2020-11-01T14:10:00+00:00"
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:610931",
+        "type": "motogp",
+        "index": "12 / 14",
+        "title": "Gran Premio de Europa 2020",
+        "start": "2020-11-06T08:55:00+00:00",
+        "end": "2020-11-08T14:00:00+00:00",
+        "trackName": "Circuit de la Comunitat Valenciana Ricardo Tormo",
+        "countryCode": "ES",
+        "countryName": "Spain",
+        "cityName": "Valencia",
+        "steps": [
+            {
+                "id": "sr:stage:610933",
+                "title": "Practice 1",
+                "type": "practice",
+                "start": "2020-11-06T08:55:00+00:00",
+                "end": "2020-11-06T09:40:00+00:00"
+            },
+            {
+                "id": "sr:stage:610935",
+                "title": "Practice 2",
+                "type": "practice",
+                "start": "2020-11-06T13:10:00+00:00",
+                "end": "2020-11-06T13:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:610937",
+                "title": "Practice 3",
+                "type": "practice",
+                "start": "2020-11-07T08:55:00+00:00",
+                "end": "2020-11-07T09:40:00+00:00"
+            },
+            {
+                "id": "sr:stage:610939",
+                "title": "Practice 4",
+                "type": "practice",
+                "start": "2020-11-07T12:30:00+00:00",
+                "end": "2020-11-07T13:00:00+00:00"
+            },
+            {
+                "id": "sr:stage:610941",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "start": "2020-11-07T13:10:00+00:00",
+                "end": "2020-11-07T13:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:610947",
+                "title": "Race",
+                "type": "race",
+                "start": "2020-11-08T13:00:00+00:00",
+                "end": "2020-11-08T14:00:00+00:00"
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:629665",
+        "type": "f1",
+        "index": "14 / 17",
+        "title": "Turkish Grand Prix 2020",
+        "start": "2020-11-13T07:00:00+00:00",
+        "end": "2020-11-15T14:00:00+00:00",
+        "trackName": "Istanbul Park Circuit",
+        "countryCode": "TR",
+        "countryName": "Turkey",
+        "cityName": "Istanbul",
+        "steps": [
+            {
+                "id": "sr:stage:629667",
+                "title": "Practice 1",
+                "type": "practice"
+            },
+            {
+                "id": "sr:stage:629669",
+                "title": "Practice 2",
+                "type": "practice"
+            },
+            {
+                "id": "sr:stage:629671",
+                "title": "Practice 3",
+                "type": "practice"
+            },
+            {
+                "id": "sr:stage:629673",
+                "title": "Qualification",
+                "type": "qualifying"
+            },
+            {
+                "id": "sr:stage:629683",
+                "title": "Race",
+                "type": "race"
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:559207",
+        "type": "motogp",
+        "index": "13 / 14",
+        "title": "Gran Premio de Valenciana 2020",
+        "start": "2020-11-13T08:55:00+00:00",
+        "end": "2020-11-15T14:00:00+00:00",
+        "trackName": "Circuit de la Comunitat Valenciana Ricardo Tormo",
+        "countryCode": "ES",
+        "countryName": "Spain",
+        "cityName": "Valencia",
+        "steps": [
+            {
+                "id": "sr:stage:559209",
+                "title": "Practice 1",
+                "type": "practice",
+                "start": "2020-11-13T08:55:00+00:00",
+                "end": "2020-11-13T09:40:00+00:00"
+            },
+            {
+                "id": "sr:stage:559211",
+                "title": "Practice 2",
+                "type": "practice",
+                "start": "2020-11-13T13:10:00+00:00",
+                "end": "2020-11-13T13:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:559213",
+                "title": "Practice 3",
+                "type": "practice",
+                "start": "2020-11-14T08:55:00+00:00",
+                "end": "2020-11-14T09:40:00+00:00"
+            },
+            {
+                "id": "sr:stage:559215",
+                "title": "Practice 4",
+                "type": "practice",
+                "start": "2020-11-14T12:30:00+00:00",
+                "end": "2020-11-14T13:00:00+00:00"
+            },
+            {
+                "id": "sr:stage:559217",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "start": "2020-11-14T13:10:00+00:00",
+                "end": "2020-11-14T13:50:00+00:00"
+            },
+            {
+                "id": "sr:stage:559223",
+                "title": "Race",
+                "type": "race",
+                "start": "2020-11-15T13:00:00+00:00",
+                "end": "2020-11-15T14:00:00+00:00"
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:625999",
+        "type": "motogp",
+        "index": "14 / 14",
+        "title": "Grande Premio de Portugal 2020",
+        "start": "2020-11-20T10:00:00+00:00",
+        "end": "2020-11-22T13:00:00+00:00",
+        "trackName": "Autodromo International Algarve",
+        "countryCode": "PT",
+        "countryName": "Portugal",
+        "cityName": "Portimao",
+        "steps": [
+            {
+                "id": "sr:stage:626001",
+                "title": "Practice 1",
+                "type": "practice",
+                "start": "2020-11-20T00:00:00+00:00",
+                "end": "2020-11-20T00:00:00+00:00"
+            },
+            {
+                "id": "sr:stage:626003",
+                "title": "Practice 2",
+                "type": "practice",
+                "start": "2020-11-20T00:00:00+00:00",
+                "end": "2020-11-20T00:00:00+00:00"
+            },
+            {
+                "id": "sr:stage:626005",
+                "title": "Practice 3",
+                "type": "practice",
+                "start": "2020-11-21T00:00:00+00:00",
+                "end": "2020-11-21T00:00:00+00:00"
+            },
+            {
+                "id": "sr:stage:626007",
+                "title": "Practice 4",
+                "type": "practice",
+                "start": "2020-11-21T00:00:00+00:00",
+                "end": "2020-11-21T00:00:00+00:00"
+            },
+            {
+                "id": "sr:stage:626009",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "start": "2020-11-21T00:00:00+00:00",
+                "end": "2020-11-21T00:00:00+00:00"
+            },
+            {
+                "id": "sr:stage:626015",
+                "title": "Race",
+                "type": "race",
+                "start": "2020-11-22T00:00:00+00:00",
+                "end": "2020-11-22T00:00:00+00:00"
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:630101",
+        "type": "f1",
+        "index": "15 / 17",
+        "title": "Bahrain Grand Prix 2020",
+        "start": "2020-11-27T06:00:00+00:00",
+        "end": "2020-11-29T15:00:00+00:00",
+        "trackName": "Bahrain International Circuit",
+        "countryCode": "BH",
+        "countryName": "Bahrain",
+        "cityName": "Sakhir",
+        "steps": [
+            {
+                "id": "sr:stage:630103",
+                "title": "Practice 1",
+                "type": "practice"
+            },
+            {
+                "id": "sr:stage:630105",
+                "title": "Practice 2",
+                "type": "practice"
+            },
+            {
+                "id": "sr:stage:630107",
+                "title": "Practice 3",
+                "type": "practice"
+            },
+            {
+                "id": "sr:stage:630109",
+                "title": "Qualification",
+                "type": "qualifying"
+            },
+            {
+                "id": "sr:stage:630117",
+                "title": "Race",
+                "type": "race"
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:630319",
+        "type": "f1",
+        "index": "16 / 17",
+        "title": "Sakhir Grand Prix 2020",
+        "start": "2020-12-04T05:00:00+00:00",
+        "end": "2020-12-06T16:00:00+00:00",
+        "trackName": "Bahrain international circuit - Outer track",
+        "countryCode": "BH",
+        "countryName": "Bahrain",
+        "cityName": "Sakhir",
+        "steps": [
+            {
+                "id": "sr:stage:630321",
+                "title": "Practice 1",
+                "type": "practice"
+            },
+            {
+                "id": "sr:stage:630323",
+                "title": "Practice 2",
+                "type": "practice"
+            },
+            {
+                "id": "sr:stage:630325",
+                "title": "Practice 3",
+                "type": "practice"
+            },
+            {
+                "id": "sr:stage:630327",
+                "title": "Qualification",
+                "type": "qualifying"
+            },
+            {
+                "id": "sr:stage:630335",
+                "title": "Race",
+                "type": "race"
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:630537",
+        "type": "f1",
+        "index": "17 / 17",
+        "title": "Abu Dhabi Grand Prix 2020",
+        "start": "2020-12-11T05:00:00+00:00",
+        "end": "2020-12-13T16:00:00+00:00",
+        "trackName": "Yas Marina Circuit",
+        "countryCode": "AE",
+        "countryName": "United Arab Emirates",
+        "cityName": "Abu Dhabi",
+        "steps": [
+            {
+                "id": "sr:stage:630539",
+                "title": "Practice 1",
+                "type": "practice"
+            },
+            {
+                "id": "sr:stage:630541",
+                "title": "Practice 2",
+                "type": "practice"
+            },
+            {
+                "id": "sr:stage:630543",
+                "title": "Practice 3",
+                "type": "practice"
+            },
+            {
+                "id": "sr:stage:630545",
+                "title": "Qualification",
+                "type": "qualifying"
+            },
+            {
+                "id": "sr:stage:630553",
+                "title": "Race",
+                "type": "race"
+            }
+        ]
+    }
+]
