@@ -1,116 +1,11 @@
 [
     {
-        "id": "sr:stage:610713",
-        "type": "motogp",
-        "index": "11 / 14",
-        "title": "Gran Premio de Teruel 2020",
-        "start": "2020-10-23T08:55:00+00:00",
-        "end": "2020-10-25T13:00:00+00:00",
-        "trackName": "Motorland Aragon",
-        "countryCode": "ES",
-        "countryName": "Spain",
-        "cityName": "Alcaniz",
-        "steps": [
-            {
-                "id": "sr:stage:610715",
-                "title": "Practice 1",
-                "type": "practice",
-                "start": "2020-10-23T08:55:00+00:00",
-                "end": "2020-10-23T09:40:00+00:00"
-            },
-            {
-                "id": "sr:stage:610717",
-                "title": "Practice 2",
-                "type": "practice",
-                "start": "2020-10-23T12:30:00+00:00",
-                "end": "2020-10-23T13:15:00+00:00"
-            },
-            {
-                "id": "sr:stage:610719",
-                "title": "Practice 3",
-                "type": "practice",
-                "start": "2020-10-24T08:55:00+00:00",
-                "end": "2020-10-24T09:40:00+00:00"
-            },
-            {
-                "id": "sr:stage:610721",
-                "title": "Practice 4",
-                "type": "practice",
-                "start": "2020-10-24T12:10:00+00:00",
-                "end": "2020-10-24T12:40:00+00:00"
-            },
-            {
-                "id": "sr:stage:610723",
-                "title": "Qualifying",
-                "type": "qualifying",
-                "start": "2020-10-24T12:50:00+00:00",
-                "end": "2020-10-24T13:30:00+00:00"
-            },
-            {
-                "id": "sr:stage:610729",
-                "title": "Race",
-                "type": "race",
-                "start": "2020-10-25T12:00:00+00:00",
-                "end": "2020-10-25T13:00:00+00:00"
-            }
-        ]
-    },
-    {
-        "id": "sr:stage:619645",
-        "type": "f1",
-        "index": "12 / 17",
-        "title": "Portuguese Grand Prix 2020",
-        "start": "2020-10-23T10:00:00+00:00",
-        "end": "2020-10-25T15:10:00+00:00",
-        "trackName": "Autodromo International Algarve",
-        "countryCode": "PT",
-        "countryName": "Portugal",
-        "cityName": "Portimao",
-        "steps": [
-            {
-                "id": "sr:stage:619647",
-                "title": "Practice 1",
-                "type": "practice",
-                "start": "2020-10-23T10:00:00+00:00",
-                "end": "2020-10-23T11:30:00+00:00"
-            },
-            {
-                "id": "sr:stage:619649",
-                "title": "Practice 2",
-                "type": "practice",
-                "start": "2020-10-23T14:00:00+00:00",
-                "end": "2020-10-23T15:30:00+00:00"
-            },
-            {
-                "id": "sr:stage:619651",
-                "title": "Practice 3",
-                "type": "practice",
-                "start": "2020-10-24T10:00:00+00:00",
-                "end": "2020-10-24T11:00:00+00:00"
-            },
-            {
-                "id": "sr:stage:619653",
-                "title": "Qualification",
-                "type": "qualifying",
-                "start": "2020-10-24T13:00:00+00:00",
-                "end": "2020-10-24T14:00:00+00:00"
-            },
-            {
-                "id": "sr:stage:619661",
-                "title": "Race",
-                "type": "race",
-                "start": "2020-10-25T13:10:00+00:00",
-                "end": "2020-10-25T15:10:00+00:00"
-            }
-        ]
-    },
-    {
         "id": "sr:stage:619863",
         "type": "f1",
         "index": "13 / 17",
         "title": "Gran Premio Emilia Romagna 2020",
         "start": "2020-10-31T09:00:00+00:00",
-        "end": "2020-11-01T15:10:00+00:00",
+        "end": "2020-11-01T14:10:00+00:00",
         "trackName": "Autodromo Enzo e Dino Ferrari",
         "countryCode": "IT",
         "countryName": "Italy",
@@ -184,7 +79,7 @@
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2020-11-07T13:10:00+00:00",
-                "end": "2020-11-07T13:55:00+00:00"
+                "end": "2020-11-07T13:50:00+00:00"
             },
             {
                 "id": "sr:stage:610947",
