@@ -95,8 +95,8 @@
         "type": "f1",
         "index": "14 / 17",
         "title": "Turkish Grand Prix 2020",
-        "start": "2020-11-13T07:00:00+00:00",
-        "end": "2020-11-15T14:00:00+00:00",
+        "start": "2020-11-13T08:00:00+00:00",
+        "end": "2020-11-15T12:10:00+00:00",
         "trackName": "Istanbul Park Circuit",
         "countryCode": "TR",
         "countryName": "Turkey",
@@ -105,27 +105,37 @@
             {
                 "id": "sr:stage:629667",
                 "title": "Practice 1",
-                "type": "practice"
+                "type": "practice",
+                "start": "2020-11-13T08:00:00+00:00",
+                "end": "2020-11-13T09:30:00+00:00"
             },
             {
                 "id": "sr:stage:629669",
                 "title": "Practice 2",
-                "type": "practice"
+                "type": "practice",
+                "start": "2020-11-13T12:00:00+00:00",
+                "end": "2020-11-13T13:30:00+00:00"
             },
             {
                 "id": "sr:stage:629671",
                 "title": "Practice 3",
-                "type": "practice"
+                "type": "practice",
+                "start": "2020-11-14T09:00:00+00:00",
+                "end": "2020-11-14T10:00:00+00:00"
             },
             {
                 "id": "sr:stage:629673",
                 "title": "Qualification",
-                "type": "qualifying"
+                "type": "qualifying",
+                "start": "2020-11-14T12:00:00+00:00",
+                "end": "2020-11-14T13:00:00+00:00"
             },
             {
                 "id": "sr:stage:629683",
                 "title": "Race",
-                "type": "race"
+                "type": "race",
+                "start": "2020-11-15T10:10:00+00:00",
+                "end": "2020-11-15T12:10:00+00:00"
             }
         ]
     },
@@ -246,8 +256,8 @@
         "type": "f1",
         "index": "15 / 17",
         "title": "Bahrain Grand Prix 2020",
-        "start": "2020-11-27T06:00:00+00:00",
-        "end": "2020-11-29T15:00:00+00:00",
+        "start": "2020-11-27T11:00:00+00:00",
+        "end": "2020-11-29T17:10:00+00:00",
         "trackName": "Bahrain International Circuit",
         "countryCode": "BH",
         "countryName": "Bahrain",
@@ -256,27 +266,37 @@
             {
                 "id": "sr:stage:630103",
                 "title": "Practice 1",
-                "type": "practice"
+                "type": "practice",
+                "start": "2020-11-27T11:00:00+00:00",
+                "end": "2020-11-27T12:30:00+00:00"
             },
             {
                 "id": "sr:stage:630105",
                 "title": "Practice 2",
-                "type": "practice"
+                "type": "practice",
+                "start": "2020-11-27T15:00:00+00:00",
+                "end": "2020-11-27T16:30:00+00:00"
             },
             {
                 "id": "sr:stage:630107",
                 "title": "Practice 3",
-                "type": "practice"
+                "type": "practice",
+                "start": "2020-11-28T12:00:00+00:00",
+                "end": "2020-11-28T13:00:00+00:00"
             },
             {
                 "id": "sr:stage:630109",
                 "title": "Qualification",
-                "type": "qualifying"
+                "type": "qualifying",
+                "start": "2020-11-28T15:00:00+00:00",
+                "end": "2020-11-28T16:00:00+00:00"
             },
             {
                 "id": "sr:stage:630117",
                 "title": "Race",
-                "type": "race"
+                "type": "race",
+                "start": "2020-11-29T15:10:00+00:00",
+                "end": "2020-11-29T17:10:00+00:00"
             }
         ]
     },
@@ -285,8 +305,8 @@
         "type": "f1",
         "index": "16 / 17",
         "title": "Sakhir Grand Prix 2020",
-        "start": "2020-12-04T05:00:00+00:00",
-        "end": "2020-12-06T16:00:00+00:00",
+        "start": "2020-12-04T13:30:00+00:00",
+        "end": "2020-12-06T17:10:00+00:00",
         "trackName": "Bahrain international circuit - Outer track",
         "countryCode": "BH",
         "countryName": "Bahrain",
@@ -295,27 +315,37 @@
             {
                 "id": "sr:stage:630321",
                 "title": "Practice 1",
-                "type": "practice"
+                "type": "practice",
+                "start": "2020-12-04T13:30:00+00:00",
+                "end": "2020-12-04T15:00:00+00:00"
             },
             {
                 "id": "sr:stage:630323",
                 "title": "Practice 2",
-                "type": "practice"
+                "type": "practice",
+                "start": "2020-12-04T17:30:00+00:00",
+                "end": "2020-12-04T19:00:00+00:00"
             },
             {
                 "id": "sr:stage:630325",
                 "title": "Practice 3",
-                "type": "practice"
+                "type": "practice",
+                "start": "2020-12-05T15:00:00+00:00",
+                "end": "2020-12-05T16:00:00+00:00"
             },
             {
                 "id": "sr:stage:630327",
                 "title": "Qualification",
-                "type": "qualifying"
+                "type": "qualifying",
+                "start": "2020-12-05T18:00:00+00:00",
+                "end": "2020-12-05T19:00:00+00:00"
             },
             {
                 "id": "sr:stage:630335",
                 "title": "Race",
-                "type": "race"
+                "type": "race",
+                "start": "2020-12-06T17:10:00+00:00",
+                "end": "2020-12-06T19:10:00+00:00"
             }
         ]
     },
@@ -324,8 +354,8 @@
         "type": "f1",
         "index": "17 / 17",
         "title": "Abu Dhabi Grand Prix 2020",
-        "start": "2020-12-11T05:00:00+00:00",
-        "end": "2020-12-13T16:00:00+00:00",
+        "start": "2020-12-11T09:00:00+00:00",
+        "end": "2020-12-13T15:10:00+00:00",
         "trackName": "Yas Marina Circuit",
         "countryCode": "AE",
         "countryName": "United Arab Emirates",
@@ -334,27 +364,37 @@
             {
                 "id": "sr:stage:630539",
                 "title": "Practice 1",
-                "type": "practice"
+                "type": "practice",
+                "start": "2020-12-11T09:00:00+00:00",
+                "end": "2020-12-11T10:30:00+00:00"
             },
             {
                 "id": "sr:stage:630541",
                 "title": "Practice 2",
-                "type": "practice"
+                "type": "practice",
+                "start": "2020-12-11T13:00:00+00:00",
+                "end": "2020-12-11T14:30:00+00:00"
             },
             {
                 "id": "sr:stage:630543",
                 "title": "Practice 3",
-                "type": "practice"
+                "type": "practice",
+                "start": "2020-12-12T10:00:00+00:00",
+                "end": "2020-12-12T11:00:00+00:00"
             },
             {
                 "id": "sr:stage:630545",
                 "title": "Qualification",
-                "type": "qualifying"
+                "type": "qualifying",
+                "start": "2020-12-12T13:00:00+00:00",
+                "end": "2020-12-12T14:00:00+00:00"
             },
             {
                 "id": "sr:stage:630553",
                 "title": "Race",
-                "type": "race"
+                "type": "race",
+                "start": "2020-12-13T13:10:00+00:00",
+                "end": "2020-12-13T15:10:00+00:00"
             }
         ]
     }
