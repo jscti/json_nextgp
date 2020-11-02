@@ -1,40 +1,5 @@
 [
     {
-        "id": "sr:stage:619863",
-        "type": "f1",
-        "index": "13 / 17",
-        "title": "Gran Premio Emilia Romagna 2020",
-        "start": "2020-10-31T09:00:00+00:00",
-        "end": "2020-11-01T14:10:00+00:00",
-        "trackName": "Autodromo Enzo e Dino Ferrari",
-        "countryCode": "IT",
-        "countryName": "Italy",
-        "cityName": "Imola",
-        "steps": [
-            {
-                "id": "sr:stage:619865",
-                "title": "Practice 1",
-                "type": "practice",
-                "start": "2020-10-31T09:00:00+00:00",
-                "end": "2020-10-31T10:30:00+00:00"
-            },
-            {
-                "id": "sr:stage:619871",
-                "title": "Qualification",
-                "type": "qualifying",
-                "start": "2020-10-31T13:00:00+00:00",
-                "end": "2020-10-31T14:00:00+00:00"
-            },
-            {
-                "id": "sr:stage:619879",
-                "title": "Race",
-                "type": "race",
-                "start": "2020-11-01T12:10:00+00:00",
-                "end": "2020-11-01T14:10:00+00:00"
-            }
-        ]
-    },
-    {
         "id": "sr:stage:610931",
         "type": "motogp",
         "index": "12 / 14",
