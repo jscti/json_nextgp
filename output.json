@@ -1,59 +1,5 @@
 [
     {
-        "id": "sr:stage:630101",
-        "type": "f1",
-        "index": "15 / 17",
-        "title": "Bahrain Grand Prix 2020",
-        "start": "2020-11-27T11:00:00+00:00",
-        "end": "2020-11-29T16:10:00+00:00",
-        "trackName": "Bahrain International Circuit",
-        "countryCode": "BH",
-        "countryName": "Bahrain",
-        "cityName": "Sakhir",
-        "steps": [
-            {
-                "id": "sr:stage:630103",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2020-11-27T11:00:00+00:00",
-                "end": "2020-11-27T12:30:00+00:00"
-            },
-            {
-                "id": "sr:stage:630105",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2020-11-27T15:00:00+00:00",
-                "end": "2020-11-27T16:30:00+00:00"
-            },
-            {
-                "id": "sr:stage:630107",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2020-11-28T11:00:00+00:00",
-                "end": "2020-11-28T12:00:00+00:00"
-            },
-            {
-                "id": "sr:stage:630109",
-                "title": "Qualification",
-                "type": "qualifying",
-                "index": null,
-                "start": "2020-11-28T14:00:00+00:00",
-                "end": "2020-11-28T15:00:00+00:00"
-            },
-            {
-                "id": "sr:stage:630117",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2020-11-29T14:10:00+00:00",
-                "end": "2020-11-29T16:10:00+00:00"
-            }
-        ]
-    },
-    {
         "id": "sr:stage:630319",
         "type": "f1",
         "index": "16 / 17",
