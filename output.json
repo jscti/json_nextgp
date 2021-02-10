@@ -64,7 +64,7 @@
     {
         "id": "sr:stage:686472",
         "type": "f1",
-        "index": "1 / 22",
+        "index": "1 / 23",
         "title": "Bahrain Grand Prix 2021",
         "start": "2021-03-26T11:30:00+00:00",
         "end": "2021-03-28T17:00:00+00:00",
@@ -180,7 +180,7 @@
     {
         "id": "sr:stage:694156",
         "type": "f1",
-        "index": "2 / 22",
+        "index": "2 / 23",
         "title": "Imola Grand Prix 2021",
         "start": "2021-04-16T09:30:00+00:00",
         "end": "2021-04-18T15:00:00+00:00",
@@ -356,9 +356,63 @@
         ]
     },
     {
+        "id": "sr:stage:686922",
+        "type": "f1",
+        "index": "3 / 23",
+        "title": "Portuguese Grand Prix 2021",
+        "start": "2021-04-30T10:00:00+00:00",
+        "end": "2021-05-02T15:00:00+00:00",
+        "trackName": "Autodromo International Algarve",
+        "countryCode": "PT",
+        "countryName": "Portugal",
+        "cityName": "Portimao",
+        "steps": [
+            {
+                "id": "sr:stage:686924",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2021-04-30T10:00:00+00:00",
+                "end": "2021-04-30T11:30:00+00:00"
+            },
+            {
+                "id": "sr:stage:686926",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2021-04-30T14:00:00+00:00",
+                "end": "2021-04-30T15:30:00+00:00"
+            },
+            {
+                "id": "sr:stage:686928",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2021-05-01T10:00:00+00:00",
+                "end": "2021-05-01T11:00:00+00:00"
+            },
+            {
+                "id": "sr:stage:686930",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2021-05-01T13:00:00+00:00",
+                "end": "2021-05-01T14:00:00+00:00"
+            },
+            {
+                "id": "sr:stage:686938",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2021-05-02T13:00:00+00:00",
+                "end": "2021-05-02T15:00:00+00:00"
+            }
+        ]
+    },
+    {
         "id": "sr:stage:687140",
         "type": "f1",
-        "index": "3 / 22",
+        "index": "4 / 23",
         "title": "Gran Premio de Espana 2021",
         "start": "2021-05-07T09:30:00+00:00",
         "end": "2021-05-09T15:00:00+00:00",
@@ -474,7 +528,7 @@
     {
         "id": "sr:stage:687358",
         "type": "f1",
-        "index": "4 / 22",
+        "index": "5 / 23",
         "title": "Grand Prix de Monaco 2021",
         "start": "2021-05-20T09:30:00+00:00",
         "end": "2021-05-23T15:00:00+00:00",
@@ -652,7 +706,7 @@
     {
         "id": "sr:stage:687576",
         "type": "f1",
-        "index": "5 / 22",
+        "index": "6 / 23",
         "title": "Azerbaijan Grand Prix 2021",
         "start": "2021-06-04T09:30:00+00:00",
         "end": "2021-06-06T14:00:00+00:00",
@@ -706,7 +760,7 @@
     {
         "id": "sr:stage:687806",
         "type": "f1",
-        "index": "6 / 22",
+        "index": "7 / 23",
         "title": "Grand Prix du Canada 2021",
         "start": "2021-06-11T15:30:00+00:00",
         "end": "2021-06-13T20:00:00+00:00",
@@ -884,7 +938,7 @@
     {
         "id": "sr:stage:688024",
         "type": "f1",
-        "index": "7 / 22",
+        "index": "8 / 23",
         "title": "Grand Prix de France 2021",
         "start": "2021-06-25T09:30:00+00:00",
         "end": "2021-06-27T15:00:00+00:00",
@@ -938,7 +992,7 @@
     {
         "id": "sr:stage:688254",
         "type": "f1",
-        "index": "8 / 22",
+        "index": "9 / 23",
         "title": "Grosser Preis von Osterreich 2021",
         "start": "2021-07-02T09:30:00+00:00",
         "end": "2021-07-04T15:00:00+00:00",
@@ -1054,7 +1108,7 @@
     {
         "id": "sr:stage:688484",
         "type": "f1",
-        "index": "9 / 22",
+        "index": "10 / 23",
         "title": "British Grand Prix 2021",
         "start": "2021-07-16T10:30:00+00:00",
         "end": "2021-07-18T16:00:00+00:00",
@@ -1108,7 +1162,7 @@
     {
         "id": "sr:stage:688702",
         "type": "f1",
-        "index": "10 / 22",
+        "index": "11 / 23",
         "title": "Magyar Nagydij 2021",
         "start": "2021-07-30T09:30:00+00:00",
         "end": "2021-08-01T15:00:00+00:00",
@@ -1286,7 +1340,7 @@
     {
         "id": "sr:stage:688932",
         "type": "f1",
-        "index": "11 / 22",
+        "index": "12 / 23",
         "title": "Belgian Grand Prix 2021",
         "start": "2021-08-27T09:30:00+00:00",
         "end": "2021-08-29T15:00:00+00:00",
@@ -1340,7 +1394,7 @@
     {
         "id": "sr:stage:689174",
         "type": "f1",
-        "index": "12 / 22",
+        "index": "13 / 23",
         "title": "Dutch Grand Prix 2021",
         "start": "2021-09-03T09:30:00+00:00",
         "end": "2021-09-05T15:00:00+00:00",
@@ -1456,7 +1510,7 @@
     {
         "id": "sr:stage:689392",
         "type": "f1",
-        "index": "13 / 22",
+        "index": "14 / 23",
         "title": "Gran Premio DItalia 2021",
         "start": "2021-09-10T09:30:00+00:00",
         "end": "2021-09-12T15:00:00+00:00",
@@ -1572,7 +1626,7 @@
     {
         "id": "sr:stage:689622",
         "type": "f1",
-        "index": "14 / 22",
+        "index": "15 / 23",
         "title": "Russian Grand Prix 2021",
         "start": "2021-09-24T08:30:00+00:00",
         "end": "2021-09-26T14:00:00+00:00",
@@ -1688,7 +1742,7 @@
     {
         "id": "sr:stage:689852",
         "type": "f1",
-        "index": "15 / 22",
+        "index": "16 / 23",
         "title": "Singapore Grand Prix 2021",
         "start": "2021-10-01T09:00:00+00:00",
         "end": "2021-10-03T14:00:00+00:00",
@@ -1742,7 +1796,7 @@
     {
         "id": "sr:stage:690082",
         "type": "f1",
-        "index": "16 / 22",
+        "index": "17 / 23",
         "title": "Japanese Grand Prix 2021",
         "start": "2021-10-08T02:30:00+00:00",
         "end": "2021-10-10T07:00:00+00:00",
@@ -1796,7 +1850,7 @@
     {
         "id": "sr:stage:690300",
         "type": "f1",
-        "index": "17 / 22",
+        "index": "18 / 23",
         "title": "United States Grand Prix 2021",
         "start": "2021-10-22T16:30:00+00:00",
         "end": "2021-10-24T21:00:00+00:00",
@@ -1974,7 +2028,7 @@
     {
         "id": "sr:stage:690518",
         "type": "f1",
-        "index": "18 / 22",
+        "index": "19 / 23",
         "title": "Gran Premio de Mexico 2021",
         "start": "2021-10-29T16:30:00+00:00",
         "end": "2021-10-31T21:00:00+00:00",
@@ -2028,7 +2082,7 @@
     {
         "id": "sr:stage:690736",
         "type": "f1",
-        "index": "19 / 22",
+        "index": "20 / 23",
         "title": "Grande Premio do Brasil 2021",
         "start": "2021-11-05T14:30:00+00:00",
         "end": "2021-11-07T19:00:00+00:00",
@@ -2144,7 +2198,7 @@
     {
         "id": "sr:stage:686254",
         "type": "f1",
-        "index": "20 / 22",
+        "index": "21 / 23",
         "title": "Australian Grand Prix 2021",
         "start": "2021-11-19T01:30:00+00:00",
         "end": "2021-11-21T08:00:00+00:00",
@@ -2198,7 +2252,7 @@
     {
         "id": "sr:stage:690978",
         "type": "f1",
-        "index": "21 / 22",
+        "index": "22 / 23",
         "title": "Saudi Arabian Grand Prix 2021",
         "start": "2021-12-03T12:30:00+00:00",
         "end": "2021-12-05T18:00:00+00:00",
@@ -2252,7 +2306,7 @@
     {
         "id": "sr:stage:691196",
         "type": "f1",
-        "index": "22 / 22",
+        "index": "23 / 23",
         "title": "Abu Dhabi Grand Prix 2021",
         "start": "2021-12-10T09:30:00+00:00",
         "end": "2021-12-12T15:00:00+00:00",
