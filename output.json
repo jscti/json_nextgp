@@ -62,6 +62,68 @@
         ]
     },
     {
+        "id": "sr:stage:695572",
+        "type": "motogp",
+        "index": "3 / 19",
+        "title": "Grande Premio de Portugal 2021",
+        "start": "2021-04-16T08:55:00+00:00",
+        "end": "2021-04-18T13:00:00+00:00",
+        "trackName": "Autodromo International Algarve",
+        "countryCode": "PT",
+        "countryName": "Portugal",
+        "cityName": "Portimao",
+        "steps": [
+            {
+                "id": "sr:stage:695574",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2021-04-16T08:55:00+00:00",
+                "end": "2021-04-16T09:40:00+00:00"
+            },
+            {
+                "id": "sr:stage:695576",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2021-04-16T13:10:00+00:00",
+                "end": "2021-04-16T13:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:695578",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2021-04-17T08:55:00+00:00",
+                "end": "2021-04-17T09:40:00+00:00"
+            },
+            {
+                "id": "sr:stage:695580",
+                "title": "Practice 4",
+                "type": "practice",
+                "index": 4,
+                "start": "2021-04-17T12:30:00+00:00",
+                "end": "2021-04-17T13:00:00+00:00"
+            },
+            {
+                "id": "sr:stage:695582",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "index": null,
+                "start": "2021-04-17T13:10:00+00:00",
+                "end": "2021-04-17T13:50:00+00:00"
+            },
+            {
+                "id": "sr:stage:695588",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2021-04-18T12:00:00+00:00",
+                "end": "2021-04-18T13:00:00+00:00"
+            }
+        ]
+    },
+    {
         "id": "sr:stage:694156",
         "type": "f1",
         "index": "2 / 23",
@@ -112,68 +174,6 @@
                 "index": null,
                 "start": "2021-04-18T13:00:00+00:00",
                 "end": "2021-04-18T15:00:00+00:00"
-            }
-        ]
-    },
-    {
-        "id": "sr:stage:695572",
-        "type": "motogp",
-        "index": "3 / 19",
-        "title": "Grande Premio de Portugal 2021",
-        "start": "2021-04-16T10:10:00+00:00",
-        "end": "2021-04-18T15:00:00+00:00",
-        "trackName": "Autodromo International Algarve",
-        "countryCode": "PT",
-        "countryName": "Portugal",
-        "cityName": "Portimao",
-        "steps": [
-            {
-                "id": "sr:stage:695574",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2021-04-16T10:10:00+00:00",
-                "end": "2021-04-16T11:20:00+00:00"
-            },
-            {
-                "id": "sr:stage:695576",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2021-04-16T14:00:00+00:00",
-                "end": "2021-04-16T15:10:00+00:00"
-            },
-            {
-                "id": "sr:stage:695578",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2021-04-17T09:55:00+00:00",
-                "end": "2021-04-17T10:40:00+00:00"
-            },
-            {
-                "id": "sr:stage:695580",
-                "title": "Practice 4",
-                "type": "practice",
-                "index": 4,
-                "start": "2021-04-17T13:30:00+00:00",
-                "end": "2021-04-17T14:00:00+00:00"
-            },
-            {
-                "id": "sr:stage:695582",
-                "title": "Qualifying",
-                "type": "qualifying",
-                "index": null,
-                "start": "2021-04-17T14:10:00+00:00",
-                "end": "2021-04-17T14:50:00+00:00"
-            },
-            {
-                "id": "sr:stage:695588",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2021-04-18T14:10:00+00:00",
-                "end": "2021-04-18T14:50:00+00:00"
             }
         ]
     },
