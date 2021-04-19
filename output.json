@@ -1,121 +1,5 @@
 [
     {
-        "id": "sr:stage:695572",
-        "type": "motogp",
-        "index": "3 / 19",
-        "title": "Grande Premio de Portugal 2021",
-        "start": "2021-04-16T08:55:00+00:00",
-        "end": "2021-04-18T13:00:00+00:00",
-        "trackName": "Autodromo International Algarve",
-        "countryCode": "PT",
-        "countryName": "Portugal",
-        "cityName": "Portimao",
-        "steps": [
-            {
-                "id": "sr:stage:695574",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2021-04-16T08:55:00+00:00",
-                "end": "2021-04-16T09:40:00+00:00"
-            },
-            {
-                "id": "sr:stage:695576",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2021-04-16T13:10:00+00:00",
-                "end": "2021-04-16T13:55:00+00:00"
-            },
-            {
-                "id": "sr:stage:695578",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2021-04-17T08:55:00+00:00",
-                "end": "2021-04-17T09:40:00+00:00"
-            },
-            {
-                "id": "sr:stage:695580",
-                "title": "Practice 4",
-                "type": "practice",
-                "index": 4,
-                "start": "2021-04-17T12:30:00+00:00",
-                "end": "2021-04-17T13:00:00+00:00"
-            },
-            {
-                "id": "sr:stage:695582",
-                "title": "Qualifying",
-                "type": "qualifying",
-                "index": null,
-                "start": "2021-04-17T13:10:00+00:00",
-                "end": "2021-04-17T13:50:00+00:00"
-            },
-            {
-                "id": "sr:stage:695588",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2021-04-18T12:00:00+00:00",
-                "end": "2021-04-18T13:00:00+00:00"
-            }
-        ]
-    },
-    {
-        "id": "sr:stage:694156",
-        "type": "f1",
-        "index": "2 / 23",
-        "title": "Imola Grand Prix 2021",
-        "start": "2021-04-16T09:30:00+00:00",
-        "end": "2021-04-18T15:00:00+00:00",
-        "trackName": "Autodromo Enzo e Dino Ferrari",
-        "countryCode": "IT",
-        "countryName": "Italy",
-        "cityName": "Imola",
-        "steps": [
-            {
-                "id": "sr:stage:694158",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2021-04-16T09:00:00+00:00",
-                "end": "2021-04-16T10:00:00+00:00"
-            },
-            {
-                "id": "sr:stage:694160",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2021-04-16T12:30:00+00:00",
-                "end": "2021-04-16T13:30:00+00:00"
-            },
-            {
-                "id": "sr:stage:694162",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2021-04-17T09:00:00+00:00",
-                "end": "2021-04-17T10:00:00+00:00"
-            },
-            {
-                "id": "sr:stage:694164",
-                "title": "Qualification",
-                "type": "qualifying",
-                "index": null,
-                "start": "2021-04-17T12:00:00+00:00",
-                "end": "2021-04-17T13:00:00+00:00"
-            },
-            {
-                "id": "sr:stage:694172",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2021-04-18T13:00:00+00:00",
-                "end": "2021-04-18T15:00:00+00:00"
-            }
-        ]
-    },
-    {
         "id": "sr:stage:640232",
         "type": "motogp",
         "index": "4 / 19",
@@ -182,8 +66,8 @@
         "type": "f1",
         "index": "3 / 23",
         "title": "Portuguese Grand Prix 2021",
-        "start": "2021-04-30T10:00:00+00:00",
-        "end": "2021-05-02T15:00:00+00:00",
+        "start": "2021-04-30T10:30:00+00:00",
+        "end": "2021-05-02T16:00:00+00:00",
         "trackName": "Autodromo International Algarve",
         "countryCode": "PT",
         "countryName": "Portugal",
@@ -194,7 +78,7 @@
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
-                "start": "2021-04-30T10:00:00+00:00",
+                "start": "2021-04-30T10:30:00+00:00",
                 "end": "2021-04-30T11:30:00+00:00"
             },
             {
@@ -203,31 +87,31 @@
                 "type": "practice",
                 "index": 2,
                 "start": "2021-04-30T14:00:00+00:00",
-                "end": "2021-04-30T15:30:00+00:00"
+                "end": "2021-04-30T15:00:00+00:00"
             },
             {
                 "id": "sr:stage:686928",
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 3,
-                "start": "2021-05-01T10:00:00+00:00",
-                "end": "2021-05-01T11:00:00+00:00"
+                "start": "2021-05-01T11:00:00+00:00",
+                "end": "2021-05-01T12:00:00+00:00"
             },
             {
                 "id": "sr:stage:686930",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
-                "start": "2021-05-01T13:00:00+00:00",
-                "end": "2021-05-01T14:00:00+00:00"
+                "start": "2021-05-01T14:00:00+00:00",
+                "end": "2021-05-01T15:00:00+00:00"
             },
             {
                 "id": "sr:stage:686938",
                 "title": "Race",
                 "type": "race",
                 "index": null,
-                "start": "2021-05-02T13:00:00+00:00",
-                "end": "2021-05-02T15:00:00+00:00"
+                "start": "2021-05-02T14:00:00+00:00",
+                "end": "2021-05-02T16:00:00+00:00"
             }
         ]
     },
