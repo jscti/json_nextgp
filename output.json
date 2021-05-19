@@ -1,67 +1,5 @@
 [
     {
-        "id": "sr:stage:640450",
-        "type": "motogp",
-        "index": "5 / 19",
-        "title": "Grand Prix de France 2021",
-        "start": "2021-05-14T07:55:00+00:00",
-        "end": "2021-05-16T13:00:00+00:00",
-        "trackName": "Le Mans Bugatti Circuit",
-        "countryCode": "FR",
-        "countryName": "France",
-        "cityName": "Le Mans",
-        "steps": [
-            {
-                "id": "sr:stage:640452",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2021-05-14T07:55:00+00:00",
-                "end": "2021-05-14T08:40:00+00:00"
-            },
-            {
-                "id": "sr:stage:640454",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2021-05-14T12:10:00+00:00",
-                "end": "2021-05-14T12:55:00+00:00"
-            },
-            {
-                "id": "sr:stage:640456",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2021-05-15T07:55:00+00:00",
-                "end": "2021-05-15T08:40:00+00:00"
-            },
-            {
-                "id": "sr:stage:640458",
-                "title": "Practice 4",
-                "type": "practice",
-                "index": 4,
-                "start": "2021-05-15T11:30:00+00:00",
-                "end": "2021-05-15T12:00:00+00:00"
-            },
-            {
-                "id": "sr:stage:640460",
-                "title": "Qualifying",
-                "type": "qualifying",
-                "index": null,
-                "start": "2021-05-15T12:10:00+00:00",
-                "end": "2021-05-15T12:50:00+00:00"
-            },
-            {
-                "id": "sr:stage:640466",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2021-05-16T12:00:00+00:00",
-                "end": "2021-05-16T13:00:00+00:00"
-            }
-        ]
-    },
-    {
         "id": "sr:stage:687358",
         "type": "f1",
         "index": "5 / 23",
@@ -294,60 +232,6 @@
         ]
     },
     {
-        "id": "sr:stage:705000",
-        "type": "f1",
-        "index": "7 / 23",
-        "title": "Turkish Grand Prix 2021",
-        "start": "2021-06-11T08:00:00+00:00",
-        "end": "2021-06-13T12:10:00+00:00",
-        "trackName": "Istanbul Park Circuit",
-        "countryCode": "TR",
-        "countryName": "Turkey",
-        "cityName": "Istanbul",
-        "steps": [
-            {
-                "id": "sr:stage:705002",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2021-06-11T08:00:00+00:00",
-                "end": "2021-06-11T09:30:00+00:00"
-            },
-            {
-                "id": "sr:stage:705004",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2021-06-11T12:00:00+00:00",
-                "end": "2021-06-11T13:30:00+00:00"
-            },
-            {
-                "id": "sr:stage:705006",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2021-06-12T09:00:00+00:00",
-                "end": "2021-06-12T10:00:00+00:00"
-            },
-            {
-                "id": "sr:stage:705008",
-                "title": "Qualification",
-                "type": "qualifying",
-                "index": null,
-                "start": "2021-06-12T12:00:00+00:00",
-                "end": "2021-06-12T13:00:00+00:00"
-            },
-            {
-                "id": "sr:stage:705016",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2021-06-13T10:10:00+00:00",
-                "end": "2021-06-13T12:10:00+00:00"
-            }
-        ]
-    },
-    {
         "id": "sr:stage:641104",
         "type": "motogp",
         "index": "8 / 19",
@@ -406,6 +290,114 @@
                 "index": null,
                 "start": "2021-06-20T12:00:00+00:00",
                 "end": "2021-06-20T13:00:00+00:00"
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:688024",
+        "type": "f1",
+        "index": "7 / 23",
+        "title": "Grand Prix de France 2021",
+        "start": "2021-06-18T09:30:00+00:00",
+        "end": "2021-06-20T15:00:00+00:00",
+        "trackName": "Circuit Paul Ricard",
+        "countryCode": "FR",
+        "countryName": "France",
+        "cityName": "Le Castellet",
+        "steps": [
+            {
+                "id": "sr:stage:688026",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2021-06-18T09:30:00+00:00",
+                "end": "2021-06-18T10:30:00+00:00"
+            },
+            {
+                "id": "sr:stage:688028",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2021-06-18T13:00:00+00:00",
+                "end": "2021-06-18T14:00:00+00:00"
+            },
+            {
+                "id": "sr:stage:688030",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2021-06-19T10:00:00+00:00",
+                "end": "2021-06-19T11:00:00+00:00"
+            },
+            {
+                "id": "sr:stage:688032",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2021-06-19T13:00:00+00:00",
+                "end": "2021-06-19T14:00:00+00:00"
+            },
+            {
+                "id": "sr:stage:688040",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2021-06-20T13:00:00+00:00",
+                "end": "2021-06-20T15:00:00+00:00"
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:707664",
+        "type": "f1",
+        "index": "8 / 23",
+        "title": "Styrian Grand Prix 2021",
+        "start": "2021-06-25T00:00:00+00:00",
+        "end": "2021-06-27T23:55:00+00:00",
+        "trackName": "Red Bull Ring",
+        "countryCode": "AT",
+        "countryName": "Austria",
+        "cityName": "Spielberg",
+        "steps": [
+            {
+                "id": "sr:stage:707666",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2021-06-25T09:00:00+00:00",
+                "end": "2021-06-25T10:30:00+00:00"
+            },
+            {
+                "id": "sr:stage:707668",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2021-06-25T13:00:00+00:00",
+                "end": "2021-06-25T14:30:00+00:00"
+            },
+            {
+                "id": "sr:stage:707670",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2021-06-26T10:00:00+00:00",
+                "end": "2021-06-26T11:00:00+00:00"
+            },
+            {
+                "id": "sr:stage:707672",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2021-06-26T13:00:00+00:00",
+                "end": "2021-06-26T14:00:00+00:00"
+            },
+            {
+                "id": "sr:stage:707680",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2021-06-27T13:10:00+00:00",
+                "end": "2021-06-27T15:10:00+00:00"
             }
         ]
     },
@@ -472,60 +464,6 @@
         ]
     },
     {
-        "id": "sr:stage:688024",
-        "type": "f1",
-        "index": "8 / 23",
-        "title": "Grand Prix de France 2021",
-        "start": "2021-06-25T09:30:00+00:00",
-        "end": "2021-06-27T15:00:00+00:00",
-        "trackName": "Circuit Paul Ricard",
-        "countryCode": "FR",
-        "countryName": "France",
-        "cityName": "Le Castellet",
-        "steps": [
-            {
-                "id": "sr:stage:688026",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2021-06-25T09:30:00+00:00",
-                "end": "2021-06-25T10:30:00+00:00"
-            },
-            {
-                "id": "sr:stage:688028",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2021-06-25T13:00:00+00:00",
-                "end": "2021-06-25T14:00:00+00:00"
-            },
-            {
-                "id": "sr:stage:688030",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2021-06-26T10:00:00+00:00",
-                "end": "2021-06-26T11:00:00+00:00"
-            },
-            {
-                "id": "sr:stage:688032",
-                "title": "Qualification",
-                "type": "qualifying",
-                "index": null,
-                "start": "2021-06-26T13:00:00+00:00",
-                "end": "2021-06-26T14:00:00+00:00"
-            },
-            {
-                "id": "sr:stage:688040",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2021-06-27T13:00:00+00:00",
-                "end": "2021-06-27T15:00:00+00:00"
-            }
-        ]
-    },
-    {
         "id": "sr:stage:688254",
         "type": "f1",
         "index": "9 / 23",
@@ -576,68 +514,6 @@
                 "index": null,
                 "start": "2021-07-04T13:00:00+00:00",
                 "end": "2021-07-04T15:00:00+00:00"
-            }
-        ]
-    },
-    {
-        "id": "sr:stage:641540",
-        "type": "motogp",
-        "index": "10 / 19",
-        "title": "Finland Grand Prix 2021",
-        "start": "2021-07-09T07:55:00+00:00",
-        "end": "2021-07-11T13:00:00+00:00",
-        "trackName": "KymiRing",
-        "countryCode": "FI",
-        "countryName": "Finland",
-        "cityName": "Iitti",
-        "steps": [
-            {
-                "id": "sr:stage:641542",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2021-07-09T07:55:00+00:00",
-                "end": "2021-07-09T08:40:00+00:00"
-            },
-            {
-                "id": "sr:stage:641544",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2021-07-09T12:10:00+00:00",
-                "end": "2021-07-09T12:55:00+00:00"
-            },
-            {
-                "id": "sr:stage:641546",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2021-07-10T07:55:00+00:00",
-                "end": "2021-07-10T08:40:00+00:00"
-            },
-            {
-                "id": "sr:stage:641548",
-                "title": "Practice 4",
-                "type": "practice",
-                "index": 4,
-                "start": "2021-07-10T11:30:00+00:00",
-                "end": "2021-07-10T12:00:00+00:00"
-            },
-            {
-                "id": "sr:stage:641550",
-                "title": "Qualifying",
-                "type": "qualifying",
-                "index": null,
-                "start": "2021-07-10T12:10:00+00:00",
-                "end": "2021-07-10T12:50:00+00:00"
-            },
-            {
-                "id": "sr:stage:641556",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2021-07-11T12:00:00+00:00",
-                "end": "2021-07-11T13:00:00+00:00"
             }
         ]
     },
@@ -746,6 +622,68 @@
                 "index": null,
                 "start": "2021-08-01T13:00:00+00:00",
                 "end": "2021-08-01T15:00:00+00:00"
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:707410",
+        "type": "motogp",
+        "index": "10 / 19",
+        "title": "Grand Prix of Styria 2021",
+        "start": "2021-08-06T00:00:00+00:00",
+        "end": "2021-08-08T23:55:00+00:00",
+        "trackName": "Red Bull Ring",
+        "countryCode": "AT",
+        "countryName": "Austria",
+        "cityName": "Spielberg",
+        "steps": [
+            {
+                "id": "sr:stage:707412",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2021-08-06T07:55:00+00:00",
+                "end": "2021-08-06T08:40:00+00:00"
+            },
+            {
+                "id": "sr:stage:707414",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2021-08-06T12:10:00+00:00",
+                "end": "2021-08-06T12:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:707416",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2021-08-07T07:55:00+00:00",
+                "end": "2021-08-07T08:40:00+00:00"
+            },
+            {
+                "id": "sr:stage:707418",
+                "title": "Practice 4",
+                "type": "practice",
+                "index": 4,
+                "start": "2021-08-07T11:30:00+00:00",
+                "end": "2021-08-07T12:00:00+00:00"
+            },
+            {
+                "id": "sr:stage:707420",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "index": null,
+                "start": "2021-08-07T12:10:00+00:00",
+                "end": "2021-08-07T12:50:00+00:00"
+            },
+            {
+                "id": "sr:stage:707426",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2021-08-08T12:00:00+00:00",
+                "end": "2021-08-08T13:00:00+00:00"
             }
         ]
     },
