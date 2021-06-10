@@ -317,15 +317,15 @@
                 "id": "sr:stage:710382",
                 "title": "Qualification",
                 "type": "qualifying",
-                "index": null,
+                "index": 1,
                 "start": "2021-07-16T15:30:00+00:00",
                 "end": "2021-07-16T16:00:00+00:00"
             },
             {
                 "id": "sr:stage:710390",
                 "title": "Sprint Qualifying",
-                "type": "race",
-                "index": 1,
+                "type": "qualifying",
+                "index": 2,
                 "start": "2021-07-17T15:30:00+00:00",
                 "end": "2021-07-17T16:00:00+00:00"
             },
@@ -333,7 +333,7 @@
                 "id": "sr:stage:710452",
                 "title": "Race",
                 "type": "race",
-                "index": 2,
+                "index": null,
                 "start": "2021-07-18T14:00:00+00:00",
                 "end": "2021-07-18T16:00:00+00:00"
             }
