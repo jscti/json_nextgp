@@ -116,60 +116,6 @@
         ]
     },
     {
-        "id": "sr:stage:707664",
-        "type": "f1",
-        "index": "8 / 22",
-        "title": "Styrian Grand Prix 2021",
-        "start": "2021-06-25T00:00:00+00:00",
-        "end": "2021-06-27T23:55:00+00:00",
-        "trackName": "Red Bull Ring",
-        "countryCode": "AT",
-        "countryName": "Austria",
-        "cityName": "Spielberg",
-        "steps": [
-            {
-                "id": "sr:stage:707666",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2021-06-25T09:00:00+00:00",
-                "end": "2021-06-25T10:30:00+00:00"
-            },
-            {
-                "id": "sr:stage:707668",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2021-06-25T13:00:00+00:00",
-                "end": "2021-06-25T14:30:00+00:00"
-            },
-            {
-                "id": "sr:stage:707670",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2021-06-26T10:00:00+00:00",
-                "end": "2021-06-26T11:00:00+00:00"
-            },
-            {
-                "id": "sr:stage:707672",
-                "title": "Qualification",
-                "type": "qualifying",
-                "index": null,
-                "start": "2021-06-26T13:00:00+00:00",
-                "end": "2021-06-26T14:00:00+00:00"
-            },
-            {
-                "id": "sr:stage:707680",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2021-06-27T13:10:00+00:00",
-                "end": "2021-06-27T15:10:00+00:00"
-            }
-        ]
-    },
-    {
         "id": "sr:stage:641322",
         "type": "motogp",
         "index": "9 / 19",
@@ -228,6 +174,60 @@
                 "index": null,
                 "start": "2021-06-27T12:00:00+00:00",
                 "end": "2021-06-27T13:00:00+00:00"
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:707664",
+        "type": "f1",
+        "index": "8 / 22",
+        "title": "Styrian Grand Prix 2021",
+        "start": "2021-06-25T09:30:00+00:00",
+        "end": "2021-06-27T15:00:00+00:00",
+        "trackName": "Red Bull Ring",
+        "countryCode": "AT",
+        "countryName": "Austria",
+        "cityName": "Spielberg",
+        "steps": [
+            {
+                "id": "sr:stage:707666",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2021-06-25T09:30:00+00:00",
+                "end": "2021-06-25T10:30:00+00:00"
+            },
+            {
+                "id": "sr:stage:707668",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2021-06-25T13:00:00+00:00",
+                "end": "2021-06-25T14:00:00+00:00"
+            },
+            {
+                "id": "sr:stage:707670",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2021-06-26T10:00:00+00:00",
+                "end": "2021-06-26T11:00:00+00:00"
+            },
+            {
+                "id": "sr:stage:707672",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2021-06-26T13:00:00+00:00",
+                "end": "2021-06-26T14:00:00+00:00"
+            },
+            {
+                "id": "sr:stage:707680",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2021-06-27T13:00:00+00:00",
+                "end": "2021-06-27T15:00:00+00:00"
             }
         ]
     },
