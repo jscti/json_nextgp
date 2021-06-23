@@ -691,7 +691,7 @@
         "id": "sr:stage:642630",
         "type": "motogp",
         "index": "14 / 19",
-        "title": "Gran Premio di San Marino e della Riviera di Rimini 2021",
+        "title": "Gran Premio di San Marino 2021",
         "start": "2021-09-17T07:55:00+00:00",
         "end": "2021-09-19T13:00:00+00:00",
         "trackName": "Misano World Circuit",
@@ -804,126 +804,64 @@
         ]
     },
     {
-        "id": "sr:stage:642848",
+        "id": "sr:stage:640014",
         "type": "motogp",
         "index": "15 / 19",
-        "title": "Grand Prix of Japan 2021",
-        "start": "2021-10-01T01:50:00+00:00",
-        "end": "2021-10-03T07:00:00+00:00",
-        "trackName": "Twin Ring Motegi",
-        "countryCode": "JP",
-        "countryName": "Japan",
-        "cityName": "Hiyama",
+        "title": "Grand Prix of The Americas 2021",
+        "start": "2021-10-01T14:55:00+00:00",
+        "end": "2021-10-03T20:00:00+00:00",
+        "trackName": "Circuit of The Americas",
+        "countryCode": "US",
+        "countryName": "USA",
+        "cityName": "Austin",
         "steps": [
             {
-                "id": "sr:stage:642850",
+                "id": "sr:stage:640016",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
-                "start": "2021-10-01T01:50:00+00:00",
-                "end": "2021-10-01T02:35:00+00:00"
+                "start": "2021-10-01T14:55:00+00:00",
+                "end": "2021-10-01T15:40:00+00:00"
             },
             {
-                "id": "sr:stage:642852",
+                "id": "sr:stage:640018",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
-                "start": "2021-10-01T06:05:00+00:00",
-                "end": "2021-10-01T06:50:00+00:00"
+                "start": "2021-10-01T19:10:00+00:00",
+                "end": "2021-10-01T19:55:00+00:00"
             },
             {
-                "id": "sr:stage:642854",
+                "id": "sr:stage:640020",
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 3,
-                "start": "2021-10-02T01:50:00+00:00",
-                "end": "2021-10-02T02:35:00+00:00"
+                "start": "2021-10-02T14:55:00+00:00",
+                "end": "2021-10-02T15:40:00+00:00"
             },
             {
-                "id": "sr:stage:642856",
+                "id": "sr:stage:640022",
                 "title": "Practice 4",
                 "type": "practice",
                 "index": 4,
-                "start": "2021-10-02T05:25:00+00:00",
-                "end": "2021-10-02T05:55:00+00:00"
+                "start": "2021-10-02T18:30:00+00:00",
+                "end": "2021-10-02T19:00:00+00:00"
             },
             {
-                "id": "sr:stage:642858",
+                "id": "sr:stage:640024",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
-                "start": "2021-10-02T06:05:00+00:00",
-                "end": "2021-10-02T06:45:00+00:00"
+                "start": "2021-10-02T19:10:00+00:00",
+                "end": "2021-10-02T19:50:00+00:00"
             },
             {
-                "id": "sr:stage:642864",
+                "id": "sr:stage:640030",
                 "title": "Race",
                 "type": "race",
                 "index": null,
-                "start": "2021-10-03T06:00:00+00:00",
-                "end": "2021-10-03T07:00:00+00:00"
-            }
-        ]
-    },
-    {
-        "id": "sr:stage:643066",
-        "type": "motogp",
-        "index": "16 / 19",
-        "title": "Thailand Grand Prix 2021",
-        "start": "2021-10-08T01:55:00+00:00",
-        "end": "2021-10-10T07:00:00+00:00",
-        "trackName": "Chang International Circuit",
-        "countryCode": "TH",
-        "countryName": "Thailand",
-        "cityName": "Buriram",
-        "steps": [
-            {
-                "id": "sr:stage:643068",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2021-10-08T01:55:00+00:00",
-                "end": "2021-10-08T02:40:00+00:00"
-            },
-            {
-                "id": "sr:stage:643070",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2021-10-08T06:10:00+00:00",
-                "end": "2021-10-08T06:55:00+00:00"
-            },
-            {
-                "id": "sr:stage:643072",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2021-10-09T01:55:00+00:00",
-                "end": "2021-10-09T02:40:00+00:00"
-            },
-            {
-                "id": "sr:stage:643074",
-                "title": "Practice 4",
-                "type": "practice",
-                "index": 4,
-                "start": "2021-10-09T05:30:00+00:00",
-                "end": "2021-10-09T06:00:00+00:00"
-            },
-            {
-                "id": "sr:stage:643076",
-                "title": "Qualifying",
-                "type": "qualifying",
-                "index": null,
-                "start": "2021-10-09T06:10:00+00:00",
-                "end": "2021-10-09T06:50:00+00:00"
-            },
-            {
-                "id": "sr:stage:643082",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2021-10-10T06:00:00+00:00",
-                "end": "2021-10-10T07:00:00+00:00"
+                "start": "2021-10-03T19:00:00+00:00",
+                "end": "2021-10-03T20:00:00+00:00"
             }
         ]
     },
@@ -978,6 +916,68 @@
                 "index": null,
                 "start": "2021-10-10T05:00:00+00:00",
                 "end": "2021-10-10T07:00:00+00:00"
+            }
+        ]
+    },
+    {
+        "id": "sr:stage:643066",
+        "type": "motogp",
+        "index": "16 / 19",
+        "title": "Thailand Grand Prix 2021",
+        "start": "2021-10-15T01:55:00+00:00",
+        "end": "2021-10-17T07:00:00+00:00",
+        "trackName": "Chang International Circuit",
+        "countryCode": "TH",
+        "countryName": "Thailand",
+        "cityName": "Buriram",
+        "steps": [
+            {
+                "id": "sr:stage:643068",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2021-10-15T01:55:00+00:00",
+                "end": "2021-10-15T02:40:00+00:00"
+            },
+            {
+                "id": "sr:stage:643070",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2021-10-15T06:10:00+00:00",
+                "end": "2021-10-15T06:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:643072",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2021-10-16T01:55:00+00:00",
+                "end": "2021-10-16T02:40:00+00:00"
+            },
+            {
+                "id": "sr:stage:643074",
+                "title": "Practice 4",
+                "type": "practice",
+                "index": 4,
+                "start": "2021-10-16T05:30:00+00:00",
+                "end": "2021-10-16T06:00:00+00:00"
+            },
+            {
+                "id": "sr:stage:643076",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "index": null,
+                "start": "2021-10-16T06:10:00+00:00",
+                "end": "2021-10-16T06:50:00+00:00"
+            },
+            {
+                "id": "sr:stage:643082",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2021-10-17T06:00:00+00:00",
+                "end": "2021-10-17T07:00:00+00:00"
             }
         ]
     },
