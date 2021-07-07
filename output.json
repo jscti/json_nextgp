@@ -2,7 +2,7 @@
     {
         "id": "sr:stage:710374",
         "type": "f1",
-        "index": "10 / 23",
+        "index": "10 / 22",
         "title": "British Grand Prix 2021",
         "start": "2021-07-16T13:30:00+00:00",
         "end": "2021-07-18T16:00:00+00:00",
@@ -56,7 +56,7 @@
     {
         "id": "sr:stage:688702",
         "type": "f1",
-        "index": "11 / 23",
+        "index": "11 / 22",
         "title": "Magyar Nagydij 2021",
         "start": "2021-07-30T09:30:00+00:00",
         "end": "2021-08-01T15:00:00+00:00",
@@ -296,7 +296,7 @@
     {
         "id": "sr:stage:688932",
         "type": "f1",
-        "index": "12 / 23",
+        "index": "12 / 22",
         "title": "Belgian Grand Prix 2021",
         "start": "2021-08-27T09:30:00+00:00",
         "end": "2021-08-29T15:00:00+00:00",
@@ -350,7 +350,7 @@
     {
         "id": "sr:stage:689174",
         "type": "f1",
-        "index": "13 / 23",
+        "index": "13 / 22",
         "title": "Dutch Grand Prix 2021",
         "start": "2021-09-03T09:30:00+00:00",
         "end": "2021-09-05T15:00:00+00:00",
@@ -466,7 +466,7 @@
     {
         "id": "sr:stage:689392",
         "type": "f1",
-        "index": "14 / 23",
+        "index": "14 / 22",
         "title": "Gran Premio DItalia 2021",
         "start": "2021-09-10T09:30:00+00:00",
         "end": "2021-09-12T15:00:00+00:00",
@@ -582,7 +582,7 @@
     {
         "id": "sr:stage:689622",
         "type": "f1",
-        "index": "15 / 23",
+        "index": "15 / 22",
         "title": "Russian Grand Prix 2021",
         "start": "2021-09-24T08:30:00+00:00",
         "end": "2021-09-26T14:00:00+00:00",
@@ -636,7 +636,7 @@
     {
         "id": "sr:stage:705000",
         "type": "f1",
-        "index": "16 / 23",
+        "index": "16 / 22",
         "title": "Turkish Grand Prix 2021",
         "start": "2021-10-01T08:00:00+00:00",
         "end": "2021-10-03T12:10:00+00:00",
@@ -752,7 +752,7 @@
     {
         "id": "sr:stage:690082",
         "type": "f1",
-        "index": "17 / 23",
+        "index": "17 / 22",
         "title": "Japanese Grand Prix 2021",
         "start": "2021-10-08T02:30:00+00:00",
         "end": "2021-10-10T07:00:00+00:00",
@@ -866,9 +866,71 @@
         ]
     },
     {
+        "id": "sr:stage:643502",
+        "type": "motogp",
+        "index": "17 / 19",
+        "title": "Malaysian Grand Prix 2021",
+        "start": "2021-10-22T02:50:00+00:00",
+        "end": "2021-10-24T08:00:00+00:00",
+        "trackName": "Sepang International Circuit",
+        "countryCode": "MY",
+        "countryName": "Malaysia",
+        "cityName": "Sepang",
+        "steps": [
+            {
+                "id": "sr:stage:643504",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2021-10-22T02:50:00+00:00",
+                "end": "2021-10-22T03:35:00+00:00"
+            },
+            {
+                "id": "sr:stage:643506",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2021-10-22T07:05:00+00:00",
+                "end": "2021-10-22T07:50:00+00:00"
+            },
+            {
+                "id": "sr:stage:643508",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2021-10-23T02:50:00+00:00",
+                "end": "2021-10-23T03:35:00+00:00"
+            },
+            {
+                "id": "sr:stage:643510",
+                "title": "Practice 4",
+                "type": "practice",
+                "index": 4,
+                "start": "2021-10-23T06:25:00+00:00",
+                "end": "2021-10-23T06:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:643512",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "index": null,
+                "start": "2021-10-23T07:05:00+00:00",
+                "end": "2021-10-23T07:45:00+00:00"
+            },
+            {
+                "id": "sr:stage:643518",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2021-10-24T00:00:00+00:00",
+                "end": "2021-10-24T23:55:00+00:00"
+            }
+        ]
+    },
+    {
         "id": "sr:stage:690300",
         "type": "f1",
-        "index": "18 / 23",
+        "index": "18 / 22",
         "title": "United States Grand Prix 2021",
         "start": "2021-10-22T16:30:00+00:00",
         "end": "2021-10-24T21:00:00+00:00",
@@ -920,133 +982,9 @@
         ]
     },
     {
-        "id": "sr:stage:643284",
-        "type": "motogp",
-        "index": "17 / 19",
-        "title": "Australian Grand Prix 2021",
-        "start": "2021-10-22T23:50:00+00:00",
-        "end": "2021-10-24T05:00:00+00:00",
-        "trackName": "Phillip Island Circuit",
-        "countryCode": "AU",
-        "countryName": "Australia",
-        "cityName": "Phillip Island",
-        "steps": [
-            {
-                "id": "sr:stage:643286",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2021-10-21T23:50:00+00:00",
-                "end": "2021-10-22T00:35:00+00:00"
-            },
-            {
-                "id": "sr:stage:643288",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2021-10-22T04:05:00+00:00",
-                "end": "2021-10-22T04:50:00+00:00"
-            },
-            {
-                "id": "sr:stage:643290",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2021-10-22T23:50:00+00:00",
-                "end": "2021-10-23T00:35:00+00:00"
-            },
-            {
-                "id": "sr:stage:643292",
-                "title": "Practice 4",
-                "type": "practice",
-                "index": 4,
-                "start": "2021-10-23T03:25:00+00:00",
-                "end": "2021-10-23T03:55:00+00:00"
-            },
-            {
-                "id": "sr:stage:643294",
-                "title": "Qualifying",
-                "type": "qualifying",
-                "index": null,
-                "start": "2021-10-23T05:10:00+00:00",
-                "end": "2021-10-23T05:50:00+00:00"
-            },
-            {
-                "id": "sr:stage:643300",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2021-10-24T04:00:00+00:00",
-                "end": "2021-10-24T05:00:00+00:00"
-            }
-        ]
-    },
-    {
-        "id": "sr:stage:643502",
-        "type": "motogp",
-        "index": "18 / 19",
-        "title": "Malaysian Grand Prix 2021",
-        "start": "2021-10-29T02:50:00+00:00",
-        "end": "2021-10-31T08:00:00+00:00",
-        "trackName": "Sepang International Circuit",
-        "countryCode": "MY",
-        "countryName": "Malaysia",
-        "cityName": "Sepang",
-        "steps": [
-            {
-                "id": "sr:stage:643504",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2021-10-29T02:50:00+00:00",
-                "end": "2021-10-29T03:35:00+00:00"
-            },
-            {
-                "id": "sr:stage:643506",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2021-10-29T07:05:00+00:00",
-                "end": "2021-10-29T07:50:00+00:00"
-            },
-            {
-                "id": "sr:stage:643508",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2021-10-30T02:50:00+00:00",
-                "end": "2021-10-30T03:35:00+00:00"
-            },
-            {
-                "id": "sr:stage:643510",
-                "title": "Practice 4",
-                "type": "practice",
-                "index": 4,
-                "start": "2021-10-30T06:25:00+00:00",
-                "end": "2021-10-30T06:55:00+00:00"
-            },
-            {
-                "id": "sr:stage:643512",
-                "title": "Qualifying",
-                "type": "qualifying",
-                "index": null,
-                "start": "2021-10-30T07:05:00+00:00",
-                "end": "2021-10-30T07:45:00+00:00"
-            },
-            {
-                "id": "sr:stage:643518",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2021-10-31T00:00:00+00:00",
-                "end": "2021-10-31T23:55:00+00:00"
-            }
-        ]
-    },
-    {
         "id": "sr:stage:690518",
         "type": "f1",
-        "index": "19 / 23",
+        "index": "19 / 22",
         "title": "Gran Premio de Mexico 2021",
         "start": "2021-10-29T16:30:00+00:00",
         "end": "2021-10-31T21:00:00+00:00",
@@ -1098,9 +1036,71 @@
         ]
     },
     {
+        "id": "sr:stage:715646",
+        "type": "motogp",
+        "index": "18 / 19",
+        "title": "Grande Premio de Portugal 2 2021",
+        "start": "2021-11-05T09:55:00+00:00",
+        "end": "2021-11-07T14:00:00+00:00",
+        "trackName": "Autodromo International Algarve",
+        "countryCode": "PT",
+        "countryName": "Portugal",
+        "cityName": "Portimao",
+        "steps": [
+            {
+                "id": "sr:stage:715648",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2021-11-05T09:55:00+00:00",
+                "end": "2021-11-05T10:40:00+00:00"
+            },
+            {
+                "id": "sr:stage:715650",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2021-11-05T14:10:00+00:00",
+                "end": "2021-11-05T14:55:00+00:00"
+            },
+            {
+                "id": "sr:stage:715652",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2021-11-06T09:55:00+00:00",
+                "end": "2021-11-06T10:40:00+00:00"
+            },
+            {
+                "id": "sr:stage:715654",
+                "title": "Practice 4",
+                "type": "practice",
+                "index": 4,
+                "start": "2021-11-06T13:30:00+00:00",
+                "end": "2021-11-06T14:00:00+00:00"
+            },
+            {
+                "id": "sr:stage:715656",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "index": null,
+                "start": "2021-11-06T14:10:00+00:00",
+                "end": "2021-11-06T14:50:00+00:00"
+            },
+            {
+                "id": "sr:stage:715662",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2021-11-07T13:00:00+00:00",
+                "end": "2021-11-07T14:00:00+00:00"
+            }
+        ]
+    },
+    {
         "id": "sr:stage:690736",
         "type": "f1",
-        "index": "20 / 23",
+        "index": "20 / 22",
         "title": "Grande Premio do Brasil 2021",
         "start": "2021-11-05T14:30:00+00:00",
         "end": "2021-11-07T19:00:00+00:00",
@@ -1214,63 +1214,9 @@
         ]
     },
     {
-        "id": "sr:stage:686254",
-        "type": "f1",
-        "index": "21 / 23",
-        "title": "Australian Grand Prix 2021",
-        "start": "2021-11-19T01:30:00+00:00",
-        "end": "2021-11-21T08:00:00+00:00",
-        "trackName": "Melbourne Grand Prix Circuit",
-        "countryCode": "AU",
-        "countryName": "Australia",
-        "cityName": "Melbourne",
-        "steps": [
-            {
-                "id": "sr:stage:686256",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2021-11-19T01:30:00+00:00",
-                "end": "2021-11-19T02:30:00+00:00"
-            },
-            {
-                "id": "sr:stage:686258",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2021-11-19T05:00:00+00:00",
-                "end": "2021-11-19T06:00:00+00:00"
-            },
-            {
-                "id": "sr:stage:686260",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2021-11-20T03:00:00+00:00",
-                "end": "2021-11-20T04:00:00+00:00"
-            },
-            {
-                "id": "sr:stage:686262",
-                "title": "Qualification",
-                "type": "qualifying",
-                "index": null,
-                "start": "2021-11-20T06:00:00+00:00",
-                "end": "2021-11-20T07:00:00+00:00"
-            },
-            {
-                "id": "sr:stage:686270",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2021-11-21T06:00:00+00:00",
-                "end": "2021-11-21T08:00:00+00:00"
-            }
-        ]
-    },
-    {
         "id": "sr:stage:690978",
         "type": "f1",
-        "index": "22 / 23",
+        "index": "21 / 22",
         "title": "Saudi Arabian Grand Prix 2021",
         "start": "2021-12-03T12:30:00+00:00",
         "end": "2021-12-05T18:00:00+00:00",
@@ -1324,7 +1270,7 @@
     {
         "id": "sr:stage:691196",
         "type": "f1",
-        "index": "23 / 23",
+        "index": "22 / 22",
         "title": "Abu Dhabi Grand Prix 2021",
         "start": "2021-12-10T09:30:00+00:00",
         "end": "2021-12-12T15:00:00+00:00",
