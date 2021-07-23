@@ -410,11 +410,11 @@
         ]
     },
     {
-        "id": "sr:stage:689392",
+        "id": "sr:stage:718534",
         "type": "f1",
         "index": "14 / 22",
         "title": "Gran Premio DItalia 2021",
-        "start": "2021-09-10T09:30:00+00:00",
+        "start": "2021-09-10T12:30:00+00:00",
         "end": "2021-09-12T15:00:00+00:00",
         "trackName": "Autodromo Nazionale Monza",
         "countryCode": "IT",
@@ -422,39 +422,39 @@
         "cityName": "Monza",
         "steps": [
             {
-                "id": "sr:stage:689394",
+                "id": "sr:stage:718536",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
-                "start": "2021-09-10T09:30:00+00:00",
-                "end": "2021-09-10T10:30:00+00:00"
+                "start": "2021-09-10T12:30:00+00:00",
+                "end": "2021-09-10T13:30:00+00:00"
             },
             {
-                "id": "sr:stage:689396",
+                "id": "sr:stage:718538",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
-                "start": "2021-09-10T13:00:00+00:00",
-                "end": "2021-09-10T14:00:00+00:00"
-            },
-            {
-                "id": "sr:stage:689398",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
                 "start": "2021-09-11T10:00:00+00:00",
                 "end": "2021-09-11T11:00:00+00:00"
             },
             {
-                "id": "sr:stage:689400",
+                "id": "sr:stage:718542",
                 "title": "Qualification",
                 "type": "qualifying",
-                "index": null,
-                "start": "2021-09-11T13:00:00+00:00",
-                "end": "2021-09-11T14:00:00+00:00"
+                "index": 1,
+                "start": "2021-09-10T16:00:00+00:00",
+                "end": "2021-09-10T17:00:00+00:00"
             },
             {
-                "id": "sr:stage:689408",
+                "id": "sr:stage:718550",
+                "title": "Sprint Qualifying",
+                "type": "qualifying",
+                "index": 2,
+                "start": "2021-09-11T14:30:00+00:00",
+                "end": "2021-09-11T15:00:00+00:00"
+            },
+            {
+                "id": "sr:stage:718612",
                 "title": "Race",
                 "type": "race",
                 "index": null,
