@@ -64,7 +64,7 @@
     {
         "id": "sr:stage:688932",
         "type": "f1",
-        "index": "12 / 22",
+        "index": "12 / 21",
         "title": "Belgian Grand Prix 2021",
         "start": "2021-08-27T09:30:00+00:00",
         "end": "2021-08-29T15:00:00+00:00",
@@ -118,7 +118,7 @@
     {
         "id": "sr:stage:689174",
         "type": "f1",
-        "index": "13 / 22",
+        "index": "13 / 21",
         "title": "Dutch Grand Prix 2021",
         "start": "2021-09-03T09:30:00+00:00",
         "end": "2021-09-05T15:00:00+00:00",
@@ -234,7 +234,7 @@
     {
         "id": "sr:stage:718534",
         "type": "f1",
-        "index": "14 / 22",
+        "index": "14 / 21",
         "title": "Gran Premio DItalia 2021",
         "start": "2021-09-10T12:30:00+00:00",
         "end": "2021-09-12T15:00:00+00:00",
@@ -350,7 +350,7 @@
     {
         "id": "sr:stage:689622",
         "type": "f1",
-        "index": "15 / 22",
+        "index": "15 / 21",
         "title": "Russian Grand Prix 2021",
         "start": "2021-09-24T08:30:00+00:00",
         "end": "2021-09-26T14:00:00+00:00",
@@ -404,7 +404,7 @@
     {
         "id": "sr:stage:705000",
         "type": "f1",
-        "index": "16 / 22",
+        "index": "16 / 21",
         "title": "Turkish Grand Prix 2021",
         "start": "2021-10-01T08:00:00+00:00",
         "end": "2021-10-03T12:10:00+00:00",
@@ -518,60 +518,6 @@
         ]
     },
     {
-        "id": "sr:stage:690082",
-        "type": "f1",
-        "index": "17 / 22",
-        "title": "Japanese Grand Prix 2021",
-        "start": "2021-10-08T02:30:00+00:00",
-        "end": "2021-10-10T07:00:00+00:00",
-        "trackName": "Suzuka International Racing Course",
-        "countryCode": "JP",
-        "countryName": "Japan",
-        "cityName": "Suzuka",
-        "steps": [
-            {
-                "id": "sr:stage:690084",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2021-10-08T02:30:00+00:00",
-                "end": "2021-10-08T03:30:00+00:00"
-            },
-            {
-                "id": "sr:stage:690086",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2021-10-08T06:00:00+00:00",
-                "end": "2021-10-08T07:00:00+00:00"
-            },
-            {
-                "id": "sr:stage:690088",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2021-10-09T03:00:00+00:00",
-                "end": "2021-10-09T04:00:00+00:00"
-            },
-            {
-                "id": "sr:stage:690090",
-                "title": "Qualification",
-                "type": "qualifying",
-                "index": null,
-                "start": "2021-10-09T06:00:00+00:00",
-                "end": "2021-10-09T07:00:00+00:00"
-            },
-            {
-                "id": "sr:stage:690098",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2021-10-10T05:00:00+00:00",
-                "end": "2021-10-10T07:00:00+00:00"
-            }
-        ]
-    },
-    {
         "id": "sr:stage:643502",
         "type": "motogp",
         "index": "16 / 18",
@@ -636,7 +582,7 @@
     {
         "id": "sr:stage:690300",
         "type": "f1",
-        "index": "18 / 22",
+        "index": "17 / 21",
         "title": "United States Grand Prix 2021",
         "start": "2021-10-22T16:30:00+00:00",
         "end": "2021-10-24T21:00:00+00:00",
@@ -690,7 +636,7 @@
     {
         "id": "sr:stage:690518",
         "type": "f1",
-        "index": "19 / 22",
+        "index": "18 / 21",
         "title": "Gran Premio de Mexico 2021",
         "start": "2021-10-29T16:30:00+00:00",
         "end": "2021-10-31T21:00:00+00:00",
@@ -806,7 +752,7 @@
     {
         "id": "sr:stage:690736",
         "type": "f1",
-        "index": "20 / 22",
+        "index": "19 / 21",
         "title": "Grande Premio do Brasil 2021",
         "start": "2021-11-05T14:30:00+00:00",
         "end": "2021-11-07T19:00:00+00:00",
@@ -922,7 +868,7 @@
     {
         "id": "sr:stage:690978",
         "type": "f1",
-        "index": "21 / 22",
+        "index": "20 / 21",
         "title": "Saudi Arabian Grand Prix 2021",
         "start": "2021-12-03T12:30:00+00:00",
         "end": "2021-12-05T18:00:00+00:00",
@@ -976,7 +922,7 @@
     {
         "id": "sr:stage:691196",
         "type": "f1",
-        "index": "22 / 22",
+        "index": "21 / 21",
         "title": "Abu Dhabi Grand Prix 2021",
         "start": "2021-12-10T09:30:00+00:00",
         "end": "2021-12-12T15:00:00+00:00",
