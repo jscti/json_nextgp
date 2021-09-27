@@ -1,59 +1,5 @@
 [
     {
-        "id": "sr:stage:689622",
-        "type": "f1",
-        "index": "15 / 21",
-        "title": "Russian Grand Prix 2021",
-        "start": "2021-09-24T08:30:00+00:00",
-        "end": "2021-09-26T14:00:00+00:00",
-        "trackName": "Sochi International Street Circuit",
-        "countryCode": "RU",
-        "countryName": "Russia",
-        "cityName": "Sochi",
-        "steps": [
-            {
-                "id": "sr:stage:689624",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2021-09-24T08:30:00+00:00",
-                "end": "2021-09-24T09:30:00+00:00"
-            },
-            {
-                "id": "sr:stage:689626",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2021-09-24T12:00:00+00:00",
-                "end": "2021-09-24T13:00:00+00:00"
-            },
-            {
-                "id": "sr:stage:689628",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2021-09-25T09:00:00+00:00",
-                "end": "2021-09-25T10:00:00+00:00"
-            },
-            {
-                "id": "sr:stage:689630",
-                "title": "Qualification",
-                "type": "qualifying",
-                "index": null,
-                "start": "2021-09-25T12:00:00+00:00",
-                "end": "2021-09-25T13:00:00+00:00"
-            },
-            {
-                "id": "sr:stage:689638",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2021-09-26T12:00:00+00:00",
-                "end": "2021-09-26T14:00:00+00:00"
-            }
-        ]
-    },
-    {
         "id": "sr:stage:640014",
         "type": "motogp",
         "index": "15 / 18",
@@ -120,8 +66,8 @@
         "type": "f1",
         "index": "16 / 21",
         "title": "Turkish Grand Prix 2021",
-        "start": "2021-10-08T09:30:00+00:00",
-        "end": "2021-10-10T15:00:00+00:00",
+        "start": "2021-10-08T08:30:00+00:00",
+        "end": "2021-10-10T14:00:00+00:00",
         "trackName": "Istanbul Park Circuit",
         "countryCode": "TR",
         "countryName": "Turkey",
@@ -132,40 +78,40 @@
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
-                "start": "2021-10-08T09:30:00+00:00",
-                "end": "2021-10-08T10:30:00+00:00"
+                "start": "2021-10-08T08:30:00+00:00",
+                "end": "2021-10-08T09:30:00+00:00"
             },
             {
                 "id": "sr:stage:705004",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
-                "start": "2021-10-08T13:00:00+00:00",
-                "end": "2021-10-08T14:00:00+00:00"
+                "start": "2021-10-08T12:00:00+00:00",
+                "end": "2021-10-08T13:00:00+00:00"
             },
             {
                 "id": "sr:stage:705006",
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 3,
-                "start": "2021-10-09T10:00:00+00:00",
-                "end": "2021-10-09T11:00:00+00:00"
+                "start": "2021-10-09T09:00:00+00:00",
+                "end": "2021-10-09T10:00:00+00:00"
             },
             {
                 "id": "sr:stage:705008",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
-                "start": "2021-10-09T13:00:00+00:00",
-                "end": "2021-10-09T14:00:00+00:00"
+                "start": "2021-10-09T12:00:00+00:00",
+                "end": "2021-10-09T13:00:00+00:00"
             },
             {
                 "id": "sr:stage:705016",
                 "title": "Race",
                 "type": "race",
                 "index": null,
-                "start": "2021-10-10T13:00:00+00:00",
-                "end": "2021-10-10T15:00:00+00:00"
+                "start": "2021-10-10T12:00:00+00:00",
+                "end": "2021-10-10T14:00:00+00:00"
             }
         ]
     },
