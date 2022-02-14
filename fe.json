@@ -1,51 +1,5 @@
 [
     {
-        "id": "sr:stage:944307",
-        "type": "fe",
-        "index": "3 / 16",
-        "title": "GP Mexico City",
-        "start": "2022-02-12T14:00:00+00:00",
-        "end": "2022-02-12T23:00:00+00:00",
-        "trackName": "Autodromo Hermanos Rodriguez",
-        "countryCode": "MX",
-        "countryName": "Mexico",
-        "cityName": "Mexico City",
-        "steps": [
-            {
-                "id": "sr:stage:944309",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2022-02-12T14:00:00+00:00",
-                "end": "2022-02-12T14:30:00+00:00"
-            },
-            {
-                "id": "sr:stage:944311",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2022-02-12T15:50:00+00:00",
-                "end": "2022-02-12T16:20:00+00:00"
-            },
-            {
-                "id": "sr:stage:944313",
-                "title": "Qualification",
-                "type": "qualifying",
-                "index": null,
-                "start": "2022-02-12T17:40:00+00:00",
-                "end": "2022-02-12T18:55:00+00:00"
-            },
-            {
-                "id": "sr:stage:944319",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2022-02-12T22:00:00+00:00",
-                "end": "2022-02-12T23:00:00+00:00"
-            }
-        ]
-    },
-    {
         "id": "sr:stage:944949",
         "type": "fe",
         "index": "4 / 16",
