@@ -1,51 +1,5 @@
 [
     {
-        "id": "sr:stage:971763",
-        "type": "motogp",
-        "index": "3 / 21",
-        "title": "Gran Premio de la Republica Argentina 2022",
-        "start": "2022-04-02T15:35:00+00:00",
-        "end": "2022-04-03T19:00:00+00:00",
-        "trackName": "Autodromo Termas de Rio Hondo",
-        "countryCode": "AR",
-        "countryName": "Argentina",
-        "cityName": "Santiago del Estero",
-        "steps": [
-            {
-                "id": "sr:stage:971765",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2022-04-02T15:35:00+00:00",
-                "end": "2022-04-02T16:35:00+00:00"
-            },
-            {
-                "id": "sr:stage:971767",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2022-04-02T18:40:00+00:00",
-                "end": "2022-04-02T19:40:00+00:00"
-            },
-            {
-                "id": "sr:stage:971773",
-                "title": "Qualifying",
-                "type": "qualifying",
-                "index": null,
-                "start": "2022-04-02T20:05:00+00:00",
-                "end": "2022-04-02T20:45:00+00:00"
-            },
-            {
-                "id": "sr:stage:971779",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2022-04-03T18:00:00+00:00",
-                "end": "2022-04-03T19:00:00+00:00"
-            }
-        ]
-    },
-    {
         "id": "sr:stage:971981",
         "type": "motogp",
         "index": "4 / 21",
@@ -303,7 +257,7 @@
         "trackName": "Autodromo Internazionale del Mugello",
         "countryCode": "IT",
         "countryName": "Italy",
-        "cityName": "Scarperia Firenze",
+        "cityName": "Scarperia e San Piero",
         "steps": [
             {
                 "id": "sr:stage:972855",
@@ -918,8 +872,8 @@
         "type": "motogp",
         "index": "18 / 21",
         "title": "Thailand Grand Prix 2022",
-        "start": "2022-09-30T01:55:00+00:00",
-        "end": "2022-10-02T07:00:00+00:00",
+        "start": "2022-09-30T03:50:00+00:00",
+        "end": "2022-10-02T09:00:00+00:00",
         "trackName": "Chang International Circuit",
         "countryCode": "TH",
         "countryName": "Thailand",
@@ -930,48 +884,48 @@
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
-                "start": "2022-09-30T01:55:00+00:00",
-                "end": "2022-09-30T02:40:00+00:00"
+                "start": "2022-09-30T03:50:00+00:00",
+                "end": "2022-09-30T04:35:00+00:00"
             },
             {
                 "id": "sr:stage:1003459",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
-                "start": "2022-09-30T06:10:00+00:00",
-                "end": "2022-09-30T06:55:00+00:00"
+                "start": "2022-09-30T08:05:00+00:00",
+                "end": "2022-09-30T08:50:00+00:00"
             },
             {
                 "id": "sr:stage:1003461",
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 3,
-                "start": "2022-10-01T01:55:00+00:00",
-                "end": "2022-10-01T02:40:00+00:00"
+                "start": "2022-10-01T03:50:00+00:00",
+                "end": "2022-10-01T04:35:00+00:00"
             },
             {
                 "id": "sr:stage:1003463",
                 "title": "Practice 4",
                 "type": "practice",
                 "index": 4,
-                "start": "2022-10-01T05:30:00+00:00",
-                "end": "2022-10-01T06:00:00+00:00"
+                "start": "2022-10-01T07:25:00+00:00",
+                "end": "2022-10-01T07:55:00+00:00"
             },
             {
                 "id": "sr:stage:1003465",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
-                "start": "2022-10-01T06:10:00+00:00",
-                "end": "2022-10-01T06:50:00+00:00"
+                "start": "2022-10-01T08:05:00+00:00",
+                "end": "2022-10-01T08:45:00+00:00"
             },
             {
                 "id": "sr:stage:1003471",
                 "title": "Race",
                 "type": "race",
                 "index": null,
-                "start": "2022-10-02T06:00:00+00:00",
-                "end": "2022-10-02T07:00:00+00:00"
+                "start": "2022-10-02T08:00:00+00:00",
+                "end": "2022-10-02T09:00:00+00:00"
             }
         ]
     },
