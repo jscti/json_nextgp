@@ -6,6 +6,9 @@
         "title": "Australian Grand Prix 2022",
         "start": "2022-04-08T03:00:00+00:00",
         "end": "2022-04-10T07:00:00+00:00",
+        "timezone": "Australia/Melbourne",
+        "latitude": -37.8142176,
+        "longitude": 144.9631608,
         "trackName": "Melbourne Grand Prix Circuit",
         "countryCode": "AU",
         "countryName": "Australia",
@@ -17,7 +20,13 @@
                 "type": "practice",
                 "index": 1,
                 "start": "2022-04-08T03:00:00+00:00",
-                "end": "2022-04-08T04:00:00+00:00"
+                "startLocal": "2022-04-08T13:00:00+10:00",
+                "end": "2022-04-08T04:00:00+00:00",
+                "endLocal": "2022-04-08T14:00:00+10:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:937749",
@@ -25,7 +34,13 @@
                 "type": "practice",
                 "index": 2,
                 "start": "2022-04-08T06:00:00+00:00",
-                "end": "2022-04-08T07:00:00+00:00"
+                "startLocal": "2022-04-08T16:00:00+10:00",
+                "end": "2022-04-08T07:00:00+00:00",
+                "endLocal": "2022-04-08T17:00:00+10:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:937751",
@@ -33,7 +48,13 @@
                 "type": "practice",
                 "index": 3,
                 "start": "2022-04-09T03:00:00+00:00",
-                "end": "2022-04-09T04:00:00+00:00"
+                "startLocal": "2022-04-09T13:00:00+10:00",
+                "end": "2022-04-09T04:00:00+00:00",
+                "endLocal": "2022-04-09T14:00:00+10:00",
+                "hasTime": true,
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:937753",
@@ -41,7 +62,13 @@
                 "type": "qualifying",
                 "index": null,
                 "start": "2022-04-09T06:00:00+00:00",
-                "end": "2022-04-09T07:00:00+00:00"
+                "startLocal": "2022-04-09T16:00:00+10:00",
+                "end": "2022-04-09T07:00:00+00:00",
+                "endLocal": "2022-04-09T17:00:00+10:00",
+                "hasTime": true,
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:937823",
@@ -49,7 +76,13 @@
                 "type": "race",
                 "index": null,
                 "start": "2022-04-10T05:00:00+00:00",
-                "end": "2022-04-10T07:00:00+00:00"
+                "startLocal": "2022-04-10T15:00:00+10:00",
+                "end": "2022-04-10T07:00:00+00:00",
+                "endLocal": "2022-04-10T17:00:00+10:00",
+                "hasTime": true,
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
+                "isNightEvent": false
             }
         ]
     },
@@ -60,6 +93,9 @@
         "title": "Imola Grand Prix 2022",
         "start": "2022-04-22T11:00:00+00:00",
         "end": "2022-04-24T15:00:00+00:00",
+        "timezone": "Europe/Rome",
+        "latitude": 44.3535145,
+        "longitude": 11.7141233,
         "trackName": "Autodromo Enzo e Dino Ferrari",
         "countryCode": "IT",
         "countryName": "Italy",
@@ -71,7 +107,13 @@
                 "type": "practice",
                 "index": 1,
                 "start": "2022-04-22T11:00:00+00:00",
-                "end": "2022-04-22T12:00:00+00:00"
+                "startLocal": "2022-04-22T13:00:00+02:00",
+                "end": "2022-04-22T12:00:00+00:00",
+                "endLocal": "2022-04-22T14:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:938033",
@@ -79,7 +121,13 @@
                 "type": "qualifying",
                 "index": 1,
                 "start": "2022-04-22T14:00:00+00:00",
-                "end": "2022-04-22T15:00:00+00:00"
+                "startLocal": "2022-04-22T16:00:00+02:00",
+                "end": "2022-04-22T15:00:00+00:00",
+                "endLocal": "2022-04-22T17:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:938029",
@@ -87,7 +135,13 @@
                 "type": "practice",
                 "index": 2,
                 "start": "2022-04-23T11:00:00+00:00",
-                "end": "2022-04-23T12:00:00+00:00"
+                "startLocal": "2022-04-23T13:00:00+02:00",
+                "end": "2022-04-23T12:00:00+00:00",
+                "endLocal": "2022-04-23T14:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:938041",
@@ -95,7 +149,13 @@
                 "type": "qualifying",
                 "index": 2,
                 "start": "2022-04-23T15:30:00+00:00",
-                "end": "2022-04-23T16:00:00+00:00"
+                "startLocal": "2022-04-23T17:30:00+02:00",
+                "end": "2022-04-23T16:00:00+00:00",
+                "endLocal": "2022-04-23T18:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:938103",
@@ -103,7 +163,13 @@
                 "type": "race",
                 "index": null,
                 "start": "2022-04-24T13:00:00+00:00",
-                "end": "2022-04-24T15:00:00+00:00"
+                "startLocal": "2022-04-24T15:00:00+02:00",
+                "end": "2022-04-24T15:00:00+00:00",
+                "endLocal": "2022-04-24T17:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             }
         ]
     },
@@ -114,6 +180,9 @@
         "title": "Miami Grand Prix 2022",
         "start": "2022-05-06T18:30:00+00:00",
         "end": "2022-05-08T21:30:00+00:00",
+        "timezone": "America/New_York",
+        "latitude": 25.7741728,
+        "longitude": -80.19362,
         "trackName": "Miami International Autodrome",
         "countryCode": "US",
         "countryName": "USA",
@@ -125,7 +194,13 @@
                 "type": "practice",
                 "index": 1,
                 "start": "2022-05-06T18:30:00+00:00",
-                "end": "2022-05-06T19:30:00+00:00"
+                "startLocal": "2022-05-06T14:30:00-04:00",
+                "end": "2022-05-06T19:30:00+00:00",
+                "endLocal": "2022-05-06T15:30:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:938309",
@@ -133,7 +208,13 @@
                 "type": "practice",
                 "index": 2,
                 "start": "2022-05-06T21:30:00+00:00",
-                "end": "2022-05-06T22:30:00+00:00"
+                "startLocal": "2022-05-06T17:30:00-04:00",
+                "end": "2022-05-06T22:30:00+00:00",
+                "endLocal": "2022-05-06T18:30:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:938311",
@@ -141,7 +222,13 @@
                 "type": "practice",
                 "index": 3,
                 "start": "2022-05-07T17:00:00+00:00",
-                "end": "2022-05-07T18:00:00+00:00"
+                "startLocal": "2022-05-07T13:00:00-04:00",
+                "end": "2022-05-07T18:00:00+00:00",
+                "endLocal": "2022-05-07T14:00:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:938313",
@@ -149,7 +236,13 @@
                 "type": "qualifying",
                 "index": null,
                 "start": "2022-05-07T20:00:00+00:00",
-                "end": "2022-05-07T21:00:00+00:00"
+                "startLocal": "2022-05-07T16:00:00-04:00",
+                "end": "2022-05-07T21:00:00+00:00",
+                "endLocal": "2022-05-07T17:00:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:938383",
@@ -157,7 +250,13 @@
                 "type": "race",
                 "index": null,
                 "start": "2022-05-08T19:30:00+00:00",
-                "end": "2022-05-08T21:30:00+00:00"
+                "startLocal": "2022-05-08T15:30:00-04:00",
+                "end": "2022-05-08T21:30:00+00:00",
+                "endLocal": "2022-05-08T17:30:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             }
         ]
     },
@@ -168,6 +267,9 @@
         "title": "Gran Premio de Espana 2022",
         "start": "2022-05-20T12:00:00+00:00",
         "end": "2022-05-22T15:00:00+00:00",
+        "timezone": "Europe/Madrid",
+        "latitude": 41.3828939,
+        "longitude": 2.1774322,
         "trackName": "Circuit de Catalunya",
         "countryCode": "ES",
         "countryName": "Spain",
@@ -179,7 +281,13 @@
                 "type": "practice",
                 "index": 1,
                 "start": "2022-05-20T12:00:00+00:00",
-                "end": "2022-05-20T13:00:00+00:00"
+                "startLocal": "2022-05-20T14:00:00+02:00",
+                "end": "2022-05-20T13:00:00+00:00",
+                "endLocal": "2022-05-20T15:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:938589",
@@ -187,7 +295,13 @@
                 "type": "practice",
                 "index": 2,
                 "start": "2022-05-20T15:00:00+00:00",
-                "end": "2022-05-20T16:00:00+00:00"
+                "startLocal": "2022-05-20T17:00:00+02:00",
+                "end": "2022-05-20T16:00:00+00:00",
+                "endLocal": "2022-05-20T18:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:938591",
@@ -195,7 +309,13 @@
                 "type": "practice",
                 "index": 3,
                 "start": "2022-05-21T11:00:00+00:00",
-                "end": "2022-05-21T12:00:00+00:00"
+                "startLocal": "2022-05-21T13:00:00+02:00",
+                "end": "2022-05-21T12:00:00+00:00",
+                "endLocal": "2022-05-21T14:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:938593",
@@ -203,7 +323,13 @@
                 "type": "qualifying",
                 "index": null,
                 "start": "2022-05-21T14:00:00+00:00",
-                "end": "2022-05-21T15:00:00+00:00"
+                "startLocal": "2022-05-21T16:00:00+02:00",
+                "end": "2022-05-21T15:00:00+00:00",
+                "endLocal": "2022-05-21T17:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:938663",
@@ -211,7 +337,13 @@
                 "type": "race",
                 "index": null,
                 "start": "2022-05-22T13:00:00+00:00",
-                "end": "2022-05-22T15:00:00+00:00"
+                "startLocal": "2022-05-22T15:00:00+02:00",
+                "end": "2022-05-22T15:00:00+00:00",
+                "endLocal": "2022-05-22T17:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             }
         ]
     },
@@ -222,6 +354,9 @@
         "title": "Grand Prix de Monaco 2022",
         "start": "2022-05-27T12:00:00+00:00",
         "end": "2022-05-29T15:00:00+00:00",
+        "timezone": "Europe/Monaco",
+        "latitude": 43.7402961,
+        "longitude": 7.426559,
         "trackName": "Circuit de Monaco",
         "countryCode": "MC",
         "countryName": "Monaco",
@@ -233,7 +368,13 @@
                 "type": "practice",
                 "index": 1,
                 "start": "2022-05-27T14:00:00+00:00",
-                "end": "2022-05-27T15:00:00+00:00"
+                "startLocal": "2022-05-27T16:00:00+02:00",
+                "end": "2022-05-27T15:00:00+00:00",
+                "endLocal": "2022-05-27T17:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:938869",
@@ -241,7 +382,13 @@
                 "type": "practice",
                 "index": 2,
                 "start": "2022-05-27T15:00:00+00:00",
-                "end": "2022-05-27T16:00:00+00:00"
+                "startLocal": "2022-05-27T17:00:00+02:00",
+                "end": "2022-05-27T16:00:00+00:00",
+                "endLocal": "2022-05-27T18:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:938871",
@@ -249,7 +396,13 @@
                 "type": "practice",
                 "index": 3,
                 "start": "2022-05-28T11:00:00+00:00",
-                "end": "2022-05-28T12:00:00+00:00"
+                "startLocal": "2022-05-28T13:00:00+02:00",
+                "end": "2022-05-28T12:00:00+00:00",
+                "endLocal": "2022-05-28T14:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:938873",
@@ -257,7 +410,13 @@
                 "type": "qualifying",
                 "index": null,
                 "start": "2022-05-28T14:00:00+00:00",
-                "end": "2022-05-28T15:00:00+00:00"
+                "startLocal": "2022-05-28T16:00:00+02:00",
+                "end": "2022-05-28T15:00:00+00:00",
+                "endLocal": "2022-05-28T17:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:938943",
@@ -265,7 +424,13 @@
                 "type": "race",
                 "index": null,
                 "start": "2022-05-29T13:00:00+00:00",
-                "end": "2022-05-29T15:00:00+00:00"
+                "startLocal": "2022-05-29T15:00:00+02:00",
+                "end": "2022-05-29T15:00:00+00:00",
+                "endLocal": "2022-05-29T17:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             }
         ]
     },
@@ -276,6 +441,9 @@
         "title": "Azerbaijan Grand Prix 2022",
         "start": "2022-06-10T11:00:00+00:00",
         "end": "2022-06-12T13:00:00+00:00",
+        "timezone": "Asia/Baku",
+        "latitude": 40.3754434,
+        "longitude": 49.8326748,
         "trackName": "Baku City Circuit",
         "countryCode": "AZ",
         "countryName": "Azerbaijan",
@@ -287,7 +455,13 @@
                 "type": "practice",
                 "index": 1,
                 "start": "2022-06-10T11:00:00+00:00",
-                "end": "2022-06-10T12:00:00+00:00"
+                "startLocal": "2022-06-10T15:00:00+04:00",
+                "end": "2022-06-10T12:00:00+00:00",
+                "endLocal": "2022-06-10T16:00:00+04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:939149",
@@ -295,7 +469,13 @@
                 "type": "practice",
                 "index": 2,
                 "start": "2022-06-10T14:00:00+00:00",
-                "end": "2022-06-10T15:00:00+00:00"
+                "startLocal": "2022-06-10T18:00:00+04:00",
+                "end": "2022-06-10T15:00:00+00:00",
+                "endLocal": "2022-06-10T19:00:00+04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:939151",
@@ -303,7 +483,13 @@
                 "type": "practice",
                 "index": 3,
                 "start": "2022-06-11T11:00:00+00:00",
-                "end": "2022-06-11T12:00:00+00:00"
+                "startLocal": "2022-06-11T15:00:00+04:00",
+                "end": "2022-06-11T12:00:00+00:00",
+                "endLocal": "2022-06-11T16:00:00+04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:939153",
@@ -311,7 +497,13 @@
                 "type": "qualifying",
                 "index": null,
                 "start": "2022-06-11T14:00:00+00:00",
-                "end": "2022-06-11T15:00:00+00:00"
+                "startLocal": "2022-06-11T18:00:00+04:00",
+                "end": "2022-06-11T15:00:00+00:00",
+                "endLocal": "2022-06-11T19:00:00+04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:939223",
@@ -319,7 +511,13 @@
                 "type": "race",
                 "index": null,
                 "start": "2022-06-12T11:00:00+00:00",
-                "end": "2022-06-12T13:00:00+00:00"
+                "startLocal": "2022-06-12T15:00:00+04:00",
+                "end": "2022-06-12T13:00:00+00:00",
+                "endLocal": "2022-06-12T17:00:00+04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             }
         ]
     },
@@ -330,6 +528,9 @@
         "title": "Grand Prix du Canada 2022",
         "start": "2022-06-17T18:00:00+00:00",
         "end": "2022-06-19T20:00:00+00:00",
+        "timezone": "America/Toronto",
+        "latitude": 45.5031824,
+        "longitude": -73.5698065,
         "trackName": "Circuit Gilles Villeneuve",
         "countryCode": "CA",
         "countryName": "Canada",
@@ -341,7 +542,13 @@
                 "type": "practice",
                 "index": 1,
                 "start": "2022-06-17T18:00:00+00:00",
-                "end": "2022-06-17T19:00:00+00:00"
+                "startLocal": "2022-06-17T14:00:00-04:00",
+                "end": "2022-06-17T19:00:00+00:00",
+                "endLocal": "2022-06-17T15:00:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:939429",
@@ -349,7 +556,13 @@
                 "type": "practice",
                 "index": 2,
                 "start": "2022-06-17T21:00:00+00:00",
-                "end": "2022-06-17T22:00:00+00:00"
+                "startLocal": "2022-06-17T17:00:00-04:00",
+                "end": "2022-06-17T22:00:00+00:00",
+                "endLocal": "2022-06-17T18:00:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:939431",
@@ -357,7 +570,13 @@
                 "type": "practice",
                 "index": 3,
                 "start": "2022-06-18T17:00:00+00:00",
-                "end": "2022-06-18T18:00:00+00:00"
+                "startLocal": "2022-06-18T13:00:00-04:00",
+                "end": "2022-06-18T18:00:00+00:00",
+                "endLocal": "2022-06-18T14:00:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:939433",
@@ -365,7 +584,13 @@
                 "type": "qualifying",
                 "index": null,
                 "start": "2022-06-18T20:00:00+00:00",
-                "end": "2022-06-18T21:00:00+00:00"
+                "startLocal": "2022-06-18T16:00:00-04:00",
+                "end": "2022-06-18T21:00:00+00:00",
+                "endLocal": "2022-06-18T17:00:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:939503",
@@ -373,7 +598,13 @@
                 "type": "race",
                 "index": null,
                 "start": "2022-06-19T18:00:00+00:00",
-                "end": "2022-06-19T20:00:00+00:00"
+                "startLocal": "2022-06-19T14:00:00-04:00",
+                "end": "2022-06-19T20:00:00+00:00",
+                "endLocal": "2022-06-19T16:00:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             }
         ]
     },
@@ -384,6 +615,9 @@
         "title": "British Grand Prix 2022",
         "start": "2022-07-01T12:00:00+00:00",
         "end": "2022-07-03T16:00:00+00:00",
+        "timezone": "Europe/London",
+        "latitude": 52.0877287,
+        "longitude": -1.0241177,
         "trackName": "Silverstone Circuit",
         "countryCode": "GB",
         "countryName": "England",
@@ -395,7 +629,13 @@
                 "type": "practice",
                 "index": 1,
                 "start": "2022-07-01T12:00:00+00:00",
-                "end": "2022-07-01T13:00:00+00:00"
+                "startLocal": "2022-07-01T13:00:00+01:00",
+                "end": "2022-07-01T13:00:00+00:00",
+                "endLocal": "2022-07-01T14:00:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:939709",
@@ -403,7 +643,13 @@
                 "type": "practice",
                 "index": 2,
                 "start": "2022-07-01T15:00:00+00:00",
-                "end": "2022-07-01T16:00:00+00:00"
+                "startLocal": "2022-07-01T16:00:00+01:00",
+                "end": "2022-07-01T16:00:00+00:00",
+                "endLocal": "2022-07-01T17:00:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:939711",
@@ -411,7 +657,13 @@
                 "type": "practice",
                 "index": 3,
                 "start": "2022-07-02T11:00:00+00:00",
-                "end": "2022-07-02T12:00:00+00:00"
+                "startLocal": "2022-07-02T12:00:00+01:00",
+                "end": "2022-07-02T12:00:00+00:00",
+                "endLocal": "2022-07-02T13:00:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:939713",
@@ -419,7 +671,13 @@
                 "type": "qualifying",
                 "index": null,
                 "start": "2022-07-02T14:00:00+00:00",
-                "end": "2022-07-02T15:00:00+00:00"
+                "startLocal": "2022-07-02T15:00:00+01:00",
+                "end": "2022-07-02T15:00:00+00:00",
+                "endLocal": "2022-07-02T16:00:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:939783",
@@ -427,7 +685,13 @@
                 "type": "race",
                 "index": null,
                 "start": "2022-07-03T14:00:00+00:00",
-                "end": "2022-07-03T16:00:00+00:00"
+                "startLocal": "2022-07-03T15:00:00+01:00",
+                "end": "2022-07-03T16:00:00+00:00",
+                "endLocal": "2022-07-03T17:00:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             }
         ]
     },
@@ -438,6 +702,9 @@
         "title": "Grosser Preis von Osterreich 2022",
         "start": "2022-07-08T12:00:00+00:00",
         "end": "2022-07-10T15:00:00+00:00",
+        "timezone": "Europe/Vienna",
+        "latitude": 47.2122736,
+        "longitude": 14.7857412,
         "trackName": "Red Bull Ring",
         "countryCode": "AT",
         "countryName": "Austria",
@@ -449,7 +716,13 @@
                 "type": "practice",
                 "index": 1,
                 "start": "2022-07-08T12:00:00+00:00",
-                "end": "2022-07-08T13:00:00+00:00"
+                "startLocal": "2022-07-08T14:00:00+02:00",
+                "end": "2022-07-08T13:00:00+00:00",
+                "endLocal": "2022-07-08T15:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:939993",
@@ -457,7 +730,13 @@
                 "type": "qualifying",
                 "index": 1,
                 "start": "2022-07-08T14:00:00+00:00",
-                "end": "2022-07-08T15:00:00+00:00"
+                "startLocal": "2022-07-08T16:00:00+02:00",
+                "end": "2022-07-08T15:00:00+00:00",
+                "endLocal": "2022-07-08T17:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:939989",
@@ -465,7 +744,13 @@
                 "type": "practice",
                 "index": 2,
                 "start": "2022-07-09T12:00:00+00:00",
-                "end": "2022-07-09T13:00:00+00:00"
+                "startLocal": "2022-07-09T14:00:00+02:00",
+                "end": "2022-07-09T13:00:00+00:00",
+                "endLocal": "2022-07-09T15:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:940001",
@@ -473,7 +758,13 @@
                 "type": "qualifying",
                 "index": 2,
                 "start": "2022-07-09T15:30:00+00:00",
-                "end": "2022-07-09T16:00:00+00:00"
+                "startLocal": "2022-07-09T17:30:00+02:00",
+                "end": "2022-07-09T16:00:00+00:00",
+                "endLocal": "2022-07-09T18:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:940063",
@@ -481,7 +772,13 @@
                 "type": "race",
                 "index": null,
                 "start": "2022-07-10T13:00:00+00:00",
-                "end": "2022-07-10T15:00:00+00:00"
+                "startLocal": "2022-07-10T15:00:00+02:00",
+                "end": "2022-07-10T15:00:00+00:00",
+                "endLocal": "2022-07-10T17:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             }
         ]
     },
@@ -492,6 +789,9 @@
         "title": "Grand Prix de France 2022",
         "start": "2022-07-22T12:00:00+00:00",
         "end": "2022-07-24T15:00:00+00:00",
+        "timezone": "Europe/Paris",
+        "latitude": 43.9383814,
+        "longitude": 5.9789367,
         "trackName": "Circuit Paul Ricard",
         "countryCode": "FR",
         "countryName": "France",
@@ -503,7 +803,13 @@
                 "type": "practice",
                 "index": 1,
                 "start": "2022-07-22T12:00:00+00:00",
-                "end": "2022-07-22T13:00:00+00:00"
+                "startLocal": "2022-07-22T14:00:00+02:00",
+                "end": "2022-07-22T13:00:00+00:00",
+                "endLocal": "2022-07-22T15:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:940269",
@@ -511,7 +817,13 @@
                 "type": "practice",
                 "index": 2,
                 "start": "2022-07-22T15:00:00+00:00",
-                "end": "2022-07-22T16:00:00+00:00"
+                "startLocal": "2022-07-22T17:00:00+02:00",
+                "end": "2022-07-22T16:00:00+00:00",
+                "endLocal": "2022-07-22T18:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:940271",
@@ -519,7 +831,13 @@
                 "type": "practice",
                 "index": 3,
                 "start": "2022-07-23T11:00:00+00:00",
-                "end": "2022-07-23T12:00:00+00:00"
+                "startLocal": "2022-07-23T13:00:00+02:00",
+                "end": "2022-07-23T12:00:00+00:00",
+                "endLocal": "2022-07-23T14:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:940273",
@@ -527,7 +845,13 @@
                 "type": "qualifying",
                 "index": null,
                 "start": "2022-07-23T14:00:00+00:00",
-                "end": "2022-07-23T15:00:00+00:00"
+                "startLocal": "2022-07-23T16:00:00+02:00",
+                "end": "2022-07-23T15:00:00+00:00",
+                "endLocal": "2022-07-23T17:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:940343",
@@ -535,7 +859,13 @@
                 "type": "race",
                 "index": null,
                 "start": "2022-07-24T13:00:00+00:00",
-                "end": "2022-07-24T15:00:00+00:00"
+                "startLocal": "2022-07-24T15:00:00+02:00",
+                "end": "2022-07-24T15:00:00+00:00",
+                "endLocal": "2022-07-24T17:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             }
         ]
     },
@@ -546,6 +876,9 @@
         "title": "Magyar Nagydij 2022",
         "start": "2022-07-29T12:00:00+00:00",
         "end": "2022-07-31T15:00:00+00:00",
+        "timezone": "Europe/Budapest",
+        "latitude": 47.4979937,
+        "longitude": 19.0403594,
         "trackName": "Hungaroring",
         "countryCode": "HU",
         "countryName": "Hungary",
@@ -557,7 +890,13 @@
                 "type": "practice",
                 "index": 1,
                 "start": "2022-07-29T12:00:00+00:00",
-                "end": "2022-07-29T13:00:00+00:00"
+                "startLocal": "2022-07-29T14:00:00+02:00",
+                "end": "2022-07-29T13:00:00+00:00",
+                "endLocal": "2022-07-29T15:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:940549",
@@ -565,7 +904,13 @@
                 "type": "practice",
                 "index": 2,
                 "start": "2022-07-29T15:00:00+00:00",
-                "end": "2022-07-29T16:00:00+00:00"
+                "startLocal": "2022-07-29T17:00:00+02:00",
+                "end": "2022-07-29T16:00:00+00:00",
+                "endLocal": "2022-07-29T18:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:940551",
@@ -573,7 +918,13 @@
                 "type": "practice",
                 "index": 3,
                 "start": "2022-07-30T11:00:00+00:00",
-                "end": "2022-07-30T12:00:00+00:00"
+                "startLocal": "2022-07-30T13:00:00+02:00",
+                "end": "2022-07-30T12:00:00+00:00",
+                "endLocal": "2022-07-30T14:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:940553",
@@ -581,7 +932,13 @@
                 "type": "qualifying",
                 "index": null,
                 "start": "2022-07-30T14:00:00+00:00",
-                "end": "2022-07-30T15:00:00+00:00"
+                "startLocal": "2022-07-30T16:00:00+02:00",
+                "end": "2022-07-30T15:00:00+00:00",
+                "endLocal": "2022-07-30T17:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:940623",
@@ -589,7 +946,13 @@
                 "type": "race",
                 "index": null,
                 "start": "2022-07-31T13:00:00+00:00",
-                "end": "2022-07-31T15:00:00+00:00"
+                "startLocal": "2022-07-31T15:00:00+02:00",
+                "end": "2022-07-31T15:00:00+00:00",
+                "endLocal": "2022-07-31T17:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             }
         ]
     },
@@ -600,6 +963,9 @@
         "title": "Belgian Grand Prix 2022",
         "start": "2022-08-26T12:00:00+00:00",
         "end": "2022-08-28T15:00:00+00:00",
+        "timezone": null,
+        "latitude": null,
+        "longitude": null,
         "trackName": "Circuit de Spa-Francorchamps",
         "countryCode": "BE",
         "countryName": "Belgium",
@@ -611,7 +977,13 @@
                 "type": "practice",
                 "index": 1,
                 "start": "2022-08-26T12:00:00+00:00",
-                "end": "2022-08-26T13:00:00+00:00"
+                "startLocal": null,
+                "end": "2022-08-26T13:00:00+00:00",
+                "endLocal": null,
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:940829",
@@ -619,7 +991,13 @@
                 "type": "practice",
                 "index": 2,
                 "start": "2022-08-26T15:00:00+00:00",
-                "end": "2022-08-26T16:00:00+00:00"
+                "startLocal": null,
+                "end": "2022-08-26T16:00:00+00:00",
+                "endLocal": null,
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:940831",
@@ -627,7 +1005,13 @@
                 "type": "practice",
                 "index": 3,
                 "start": "2022-08-27T11:00:00+00:00",
-                "end": "2022-08-27T12:00:00+00:00"
+                "startLocal": null,
+                "end": "2022-08-27T12:00:00+00:00",
+                "endLocal": null,
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:940833",
@@ -635,7 +1019,13 @@
                 "type": "qualifying",
                 "index": null,
                 "start": "2022-08-27T14:00:00+00:00",
-                "end": "2022-08-27T15:00:00+00:00"
+                "startLocal": null,
+                "end": "2022-08-27T15:00:00+00:00",
+                "endLocal": null,
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:940903",
@@ -643,7 +1033,13 @@
                 "type": "race",
                 "index": null,
                 "start": "2022-08-28T13:00:00+00:00",
-                "end": "2022-08-28T15:00:00+00:00"
+                "startLocal": null,
+                "end": "2022-08-28T15:00:00+00:00",
+                "endLocal": null,
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             }
         ]
     },
@@ -654,6 +1050,9 @@
         "title": "Dutch Grand Prix 2022",
         "start": "2022-09-02T12:00:00+00:00",
         "end": "2022-09-04T15:00:00+00:00",
+        "timezone": "Europe/Amsterdam",
+        "latitude": 52.3713394,
+        "longitude": 4.5307624,
         "trackName": "Circuit Zandvoort",
         "countryCode": "NL",
         "countryName": "Netherlands",
@@ -665,7 +1064,13 @@
                 "type": "practice",
                 "index": 1,
                 "start": "2022-09-02T12:00:00+00:00",
-                "end": "2022-09-02T13:00:00+00:00"
+                "startLocal": "2022-09-02T14:00:00+02:00",
+                "end": "2022-09-02T13:00:00+00:00",
+                "endLocal": "2022-09-02T15:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:941109",
@@ -673,7 +1078,13 @@
                 "type": "practice",
                 "index": 2,
                 "start": "2022-09-02T15:00:00+00:00",
-                "end": "2022-09-02T16:00:00+00:00"
+                "startLocal": "2022-09-02T17:00:00+02:00",
+                "end": "2022-09-02T16:00:00+00:00",
+                "endLocal": "2022-09-02T18:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:941111",
@@ -681,7 +1092,13 @@
                 "type": "practice",
                 "index": 3,
                 "start": "2022-09-03T11:00:00+00:00",
-                "end": "2022-09-03T12:00:00+00:00"
+                "startLocal": "2022-09-03T13:00:00+02:00",
+                "end": "2022-09-03T12:00:00+00:00",
+                "endLocal": "2022-09-03T14:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:941113",
@@ -689,7 +1106,13 @@
                 "type": "qualifying",
                 "index": null,
                 "start": "2022-09-03T14:00:00+00:00",
-                "end": "2022-09-03T15:00:00+00:00"
+                "startLocal": "2022-09-03T16:00:00+02:00",
+                "end": "2022-09-03T15:00:00+00:00",
+                "endLocal": "2022-09-03T17:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:941183",
@@ -697,7 +1120,13 @@
                 "type": "race",
                 "index": null,
                 "start": "2022-09-04T13:00:00+00:00",
-                "end": "2022-09-04T15:00:00+00:00"
+                "startLocal": "2022-09-04T15:00:00+02:00",
+                "end": "2022-09-04T15:00:00+00:00",
+                "endLocal": "2022-09-04T17:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             }
         ]
     },
@@ -708,6 +1137,9 @@
         "title": "Gran Premio D Italia 2022",
         "start": "2022-09-09T12:00:00+00:00",
         "end": "2022-09-11T15:00:00+00:00",
+        "timezone": "Europe/Rome",
+        "latitude": 45.5834418,
+        "longitude": 9.2735257,
         "trackName": "Autodromo Nazionale Monza",
         "countryCode": "IT",
         "countryName": "Italy",
@@ -719,7 +1151,13 @@
                 "type": "practice",
                 "index": 1,
                 "start": "2022-09-09T12:00:00+00:00",
-                "end": "2022-09-09T13:00:00+00:00"
+                "startLocal": "2022-09-09T14:00:00+02:00",
+                "end": "2022-09-09T13:00:00+00:00",
+                "endLocal": "2022-09-09T15:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:941389",
@@ -727,7 +1165,13 @@
                 "type": "practice",
                 "index": 2,
                 "start": "2022-09-09T15:00:00+00:00",
-                "end": "2022-09-09T16:00:00+00:00"
+                "startLocal": "2022-09-09T17:00:00+02:00",
+                "end": "2022-09-09T16:00:00+00:00",
+                "endLocal": "2022-09-09T18:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:941391",
@@ -735,7 +1179,13 @@
                 "type": "practice",
                 "index": 3,
                 "start": "2022-09-10T11:00:00+00:00",
-                "end": "2022-09-10T12:00:00+00:00"
+                "startLocal": "2022-09-10T13:00:00+02:00",
+                "end": "2022-09-10T12:00:00+00:00",
+                "endLocal": "2022-09-10T14:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:941393",
@@ -743,7 +1193,13 @@
                 "type": "qualifying",
                 "index": null,
                 "start": "2022-09-10T14:00:00+00:00",
-                "end": "2022-09-10T15:00:00+00:00"
+                "startLocal": "2022-09-10T16:00:00+02:00",
+                "end": "2022-09-10T15:00:00+00:00",
+                "endLocal": "2022-09-10T17:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:941463",
@@ -751,7 +1207,13 @@
                 "type": "race",
                 "index": null,
                 "start": "2022-09-11T13:00:00+00:00",
-                "end": "2022-09-11T15:00:00+00:00"
+                "startLocal": "2022-09-11T15:00:00+02:00",
+                "end": "2022-09-11T15:00:00+00:00",
+                "endLocal": "2022-09-11T17:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             }
         ]
     },
@@ -762,6 +1224,9 @@
         "title": "Singapore Grand Prix 2022",
         "start": "2022-09-30T10:00:00+00:00",
         "end": "2022-10-02T14:00:00+00:00",
+        "timezone": "Asia/Singapore",
+        "latitude": 1.2904753,
+        "longitude": 103.8520359,
         "trackName": "Singapore Street Circuit",
         "countryCode": "SG",
         "countryName": "Singapore",
@@ -773,7 +1238,13 @@
                 "type": "practice",
                 "index": 1,
                 "start": "2022-09-30T10:00:00+00:00",
-                "end": "2022-09-30T11:00:00+00:00"
+                "startLocal": "2022-09-30T18:00:00+08:00",
+                "end": "2022-09-30T11:00:00+00:00",
+                "endLocal": "2022-09-30T19:00:00+08:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
             },
             {
                 "id": "sr:stage:941949",
@@ -781,7 +1252,13 @@
                 "type": "practice",
                 "index": 2,
                 "start": "2022-09-30T13:00:00+00:00",
-                "end": "2022-09-30T14:00:00+00:00"
+                "startLocal": "2022-09-30T21:00:00+08:00",
+                "end": "2022-09-30T14:00:00+00:00",
+                "endLocal": "2022-09-30T22:00:00+08:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
             },
             {
                 "id": "sr:stage:941951",
@@ -789,7 +1266,13 @@
                 "type": "practice",
                 "index": 3,
                 "start": "2022-10-01T10:00:00+00:00",
-                "end": "2022-10-01T11:00:00+00:00"
+                "startLocal": "2022-10-01T18:00:00+08:00",
+                "end": "2022-10-01T11:00:00+00:00",
+                "endLocal": "2022-10-01T19:00:00+08:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
             },
             {
                 "id": "sr:stage:941953",
@@ -797,7 +1280,13 @@
                 "type": "qualifying",
                 "index": null,
                 "start": "2022-10-01T13:00:00+00:00",
-                "end": "2022-10-01T14:00:00+00:00"
+                "startLocal": "2022-10-01T21:00:00+08:00",
+                "end": "2022-10-01T14:00:00+00:00",
+                "endLocal": "2022-10-01T22:00:00+08:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
             },
             {
                 "id": "sr:stage:942023",
@@ -805,7 +1294,13 @@
                 "type": "race",
                 "index": null,
                 "start": "2022-10-02T12:00:00+00:00",
-                "end": "2022-10-02T14:00:00+00:00"
+                "startLocal": "2022-10-02T20:00:00+08:00",
+                "end": "2022-10-02T14:00:00+00:00",
+                "endLocal": "2022-10-02T22:00:00+08:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
             }
         ]
     },
@@ -816,6 +1311,9 @@
         "title": "Japanese Grand Prix 2022",
         "start": "2022-10-07T04:00:00+00:00",
         "end": "2022-10-09T07:00:00+00:00",
+        "timezone": "Asia/Tokyo",
+        "latitude": 34.8817102,
+        "longitude": 136.5836516,
         "trackName": "Suzuka International Racing Course",
         "countryCode": "JP",
         "countryName": "Japan",
@@ -827,7 +1325,13 @@
                 "type": "practice",
                 "index": 1,
                 "start": "2022-10-07T04:00:00+00:00",
-                "end": "2022-10-07T05:00:00+00:00"
+                "startLocal": "2022-10-07T13:00:00+09:00",
+                "end": "2022-10-07T05:00:00+00:00",
+                "endLocal": "2022-10-07T14:00:00+09:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:942229",
@@ -835,7 +1339,13 @@
                 "type": "practice",
                 "index": 2,
                 "start": "2022-10-07T07:00:00+00:00",
-                "end": "2022-10-07T08:00:00+00:00"
+                "startLocal": "2022-10-07T16:00:00+09:00",
+                "end": "2022-10-07T08:00:00+00:00",
+                "endLocal": "2022-10-07T17:00:00+09:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:942231",
@@ -843,7 +1353,13 @@
                 "type": "practice",
                 "index": 3,
                 "start": "2022-10-08T04:00:00+00:00",
-                "end": "2022-10-08T05:00:00+00:00"
+                "startLocal": "2022-10-08T13:00:00+09:00",
+                "end": "2022-10-08T05:00:00+00:00",
+                "endLocal": "2022-10-08T14:00:00+09:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:942233",
@@ -851,7 +1367,13 @@
                 "type": "qualifying",
                 "index": null,
                 "start": "2022-10-08T07:00:00+00:00",
-                "end": "2022-10-08T08:00:00+00:00"
+                "startLocal": "2022-10-08T16:00:00+09:00",
+                "end": "2022-10-08T08:00:00+00:00",
+                "endLocal": "2022-10-08T17:00:00+09:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:942303",
@@ -859,7 +1381,13 @@
                 "type": "race",
                 "index": null,
                 "start": "2022-10-09T05:00:00+00:00",
-                "end": "2022-10-09T07:00:00+00:00"
+                "startLocal": "2022-10-09T14:00:00+09:00",
+                "end": "2022-10-09T07:00:00+00:00",
+                "endLocal": "2022-10-09T16:00:00+09:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             }
         ]
     },
@@ -870,6 +1398,9 @@
         "title": "United States Grand Prix 2022",
         "start": "2022-10-21T19:00:00+00:00",
         "end": "2022-10-23T21:00:00+00:00",
+        "timezone": "America/Chicago",
+        "latitude": 30.2711286,
+        "longitude": -97.7436995,
         "trackName": "Circuit of The Americas",
         "countryCode": "US",
         "countryName": "USA",
@@ -881,7 +1412,13 @@
                 "type": "practice",
                 "index": 1,
                 "start": "2022-10-21T19:00:00+00:00",
-                "end": "2022-10-21T20:00:00+00:00"
+                "startLocal": "2022-10-21T14:00:00-05:00",
+                "end": "2022-10-21T20:00:00+00:00",
+                "endLocal": "2022-10-21T15:00:00-05:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:942509",
@@ -889,7 +1426,13 @@
                 "type": "practice",
                 "index": 2,
                 "start": "2022-10-21T22:00:00+00:00",
-                "end": "2022-10-21T23:00:00+00:00"
+                "startLocal": "2022-10-21T17:00:00-05:00",
+                "end": "2022-10-21T23:00:00+00:00",
+                "endLocal": "2022-10-21T18:00:00-05:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:942511",
@@ -897,7 +1440,13 @@
                 "type": "practice",
                 "index": 3,
                 "start": "2022-10-22T19:00:00+00:00",
-                "end": "2022-10-22T20:00:00+00:00"
+                "startLocal": "2022-10-22T14:00:00-05:00",
+                "end": "2022-10-22T20:00:00+00:00",
+                "endLocal": "2022-10-22T15:00:00-05:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:942513",
@@ -905,7 +1454,13 @@
                 "type": "qualifying",
                 "index": null,
                 "start": "2022-10-22T22:00:00+00:00",
-                "end": "2022-10-22T23:00:00+00:00"
+                "startLocal": "2022-10-22T17:00:00-05:00",
+                "end": "2022-10-22T23:00:00+00:00",
+                "endLocal": "2022-10-22T18:00:00-05:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:942583",
@@ -913,7 +1468,13 @@
                 "type": "race",
                 "index": null,
                 "start": "2022-10-23T19:00:00+00:00",
-                "end": "2022-10-23T21:00:00+00:00"
+                "startLocal": "2022-10-23T14:00:00-05:00",
+                "end": "2022-10-23T21:00:00+00:00",
+                "endLocal": "2022-10-23T16:00:00-05:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             }
         ]
     },
@@ -924,6 +1485,9 @@
         "title": "Gran Premio de Mexico 2022",
         "start": "2022-10-28T18:00:00+00:00",
         "end": "2022-10-30T21:00:00+00:00",
+        "timezone": "America/Mexico_City",
+        "latitude": 19.4326296,
+        "longitude": -99.1331785,
         "trackName": "Autodromo Hermanos Rodriguez",
         "countryCode": "MX",
         "countryName": "Mexico",
@@ -935,7 +1499,13 @@
                 "type": "practice",
                 "index": 1,
                 "start": "2022-10-28T18:00:00+00:00",
-                "end": "2022-10-28T19:00:00+00:00"
+                "startLocal": "2022-10-28T13:00:00-05:00",
+                "end": "2022-10-28T19:00:00+00:00",
+                "endLocal": "2022-10-28T14:00:00-05:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:942789",
@@ -943,7 +1513,13 @@
                 "type": "practice",
                 "index": 2,
                 "start": "2022-10-28T21:00:00+00:00",
-                "end": "2022-10-28T22:00:00+00:00"
+                "startLocal": "2022-10-28T16:00:00-05:00",
+                "end": "2022-10-28T22:00:00+00:00",
+                "endLocal": "2022-10-28T17:00:00-05:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:942791",
@@ -951,7 +1527,13 @@
                 "type": "practice",
                 "index": 3,
                 "start": "2022-10-29T17:00:00+00:00",
-                "end": "2022-10-29T18:00:00+00:00"
+                "startLocal": "2022-10-29T12:00:00-05:00",
+                "end": "2022-10-29T18:00:00+00:00",
+                "endLocal": "2022-10-29T13:00:00-05:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:942793",
@@ -959,7 +1541,13 @@
                 "type": "qualifying",
                 "index": null,
                 "start": "2022-10-29T20:00:00+00:00",
-                "end": "2022-10-29T21:00:00+00:00"
+                "startLocal": "2022-10-29T15:00:00-05:00",
+                "end": "2022-10-29T21:00:00+00:00",
+                "endLocal": "2022-10-29T16:00:00-05:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:942863",
@@ -967,7 +1555,13 @@
                 "type": "race",
                 "index": null,
                 "start": "2022-10-30T19:00:00+00:00",
-                "end": "2022-10-30T21:00:00+00:00"
+                "startLocal": "2022-10-30T13:00:00-06:00",
+                "end": "2022-10-30T21:00:00+00:00",
+                "endLocal": "2022-10-30T15:00:00-06:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             }
         ]
     },
@@ -978,6 +1572,9 @@
         "title": "Grande Premio do Brasil 2022",
         "start": "2022-11-11T16:00:00+00:00",
         "end": "2022-11-13T20:00:00+00:00",
+        "timezone": "America/Sao_Paulo",
+        "latitude": -23.5506507,
+        "longitude": -46.6333824,
         "trackName": "Autódromo José Carlos Pace",
         "countryCode": "BR",
         "countryName": "Brazil",
@@ -989,7 +1586,13 @@
                 "type": "practice",
                 "index": 1,
                 "start": "2022-11-11T16:00:00+00:00",
-                "end": "2022-11-11T17:00:00+00:00"
+                "startLocal": "2022-11-11T13:00:00-03:00",
+                "end": "2022-11-11T17:00:00+00:00",
+                "endLocal": "2022-11-11T14:00:00-03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:943073",
@@ -997,7 +1600,13 @@
                 "type": "qualifying",
                 "index": 1,
                 "start": "2022-11-11T19:00:00+00:00",
-                "end": "2022-11-11T20:00:00+00:00"
+                "startLocal": "2022-11-11T16:00:00-03:00",
+                "end": "2022-11-11T20:00:00+00:00",
+                "endLocal": "2022-11-11T17:00:00-03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:943069",
@@ -1005,7 +1614,13 @@
                 "type": "practice",
                 "index": 2,
                 "start": "2022-11-12T15:00:00+00:00",
-                "end": "2022-11-12T16:00:00+00:00"
+                "startLocal": "2022-11-12T12:00:00-03:00",
+                "end": "2022-11-12T16:00:00+00:00",
+                "endLocal": "2022-11-12T13:00:00-03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:943081",
@@ -1013,7 +1628,13 @@
                 "type": "qualifying",
                 "index": 2,
                 "start": "2022-11-12T19:30:00+00:00",
-                "end": "2022-11-12T20:00:00+00:00"
+                "startLocal": "2022-11-12T16:30:00-03:00",
+                "end": "2022-11-12T20:00:00+00:00",
+                "endLocal": "2022-11-12T17:00:00-03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:943143",
@@ -1021,7 +1642,13 @@
                 "type": "race",
                 "index": null,
                 "start": "2022-11-13T18:00:00+00:00",
-                "end": "2022-11-13T20:00:00+00:00"
+                "startLocal": "2022-11-13T15:00:00-03:00",
+                "end": "2022-11-13T20:00:00+00:00",
+                "endLocal": "2022-11-13T17:00:00-03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             }
         ]
     },
@@ -1032,6 +1659,9 @@
         "title": "Abu Dhabi Grand Prix 2022",
         "start": "2022-11-18T09:30:00+00:00",
         "end": "2022-11-20T15:00:00+00:00",
+        "timezone": "Asia/Dubai",
+        "latitude": 24.4538352,
+        "longitude": 54.3774014,
         "trackName": "Yas Marina Circuit",
         "countryCode": "AE",
         "countryName": "United Arab Emirates",
@@ -1043,7 +1673,13 @@
                 "type": "practice",
                 "index": 1,
                 "start": "2022-11-18T10:00:00+00:00",
-                "end": "2022-11-18T10:30:00+00:00"
+                "startLocal": "2022-11-18T14:00:00+04:00",
+                "end": "2022-11-18T10:30:00+00:00",
+                "endLocal": "2022-11-18T14:30:00+04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:943349",
@@ -1051,7 +1687,13 @@
                 "type": "practice",
                 "index": 2,
                 "start": "2022-11-18T13:00:00+00:00",
-                "end": "2022-11-18T14:00:00+00:00"
+                "startLocal": "2022-11-18T17:00:00+04:00",
+                "end": "2022-11-18T14:00:00+00:00",
+                "endLocal": "2022-11-18T18:00:00+04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
             },
             {
                 "id": "sr:stage:943351",
@@ -1059,7 +1701,13 @@
                 "type": "practice",
                 "index": 3,
                 "start": "2022-11-19T11:00:00+00:00",
-                "end": "2022-11-19T12:00:00+00:00"
+                "startLocal": "2022-11-19T15:00:00+04:00",
+                "end": "2022-11-19T12:00:00+00:00",
+                "endLocal": "2022-11-19T16:00:00+04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:943353",
@@ -1067,7 +1715,13 @@
                 "type": "qualifying",
                 "index": null,
                 "start": "2022-11-19T14:00:00+00:00",
-                "end": "2022-11-19T15:00:00+00:00"
+                "startLocal": "2022-11-19T18:00:00+04:00",
+                "end": "2022-11-19T15:00:00+00:00",
+                "endLocal": "2022-11-19T19:00:00+04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
             },
             {
                 "id": "sr:stage:943423",
@@ -1075,7 +1729,13 @@
                 "type": "race",
                 "index": null,
                 "start": "2022-11-20T13:00:00+00:00",
-                "end": "2022-11-20T15:00:00+00:00"
+                "startLocal": "2022-11-20T17:00:00+04:00",
+                "end": "2022-11-20T15:00:00+00:00",
+                "endLocal": "2022-11-20T19:00:00+04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": true
             }
         ]
     }

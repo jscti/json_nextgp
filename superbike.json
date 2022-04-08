@@ -6,6 +6,9 @@
         "title": "Aragon",
         "start": "2022-04-08T08:30:00+00:00",
         "end": "2022-04-10T13:00:00+00:00",
+        "timezone": "Europe/Madrid",
+        "latitude": 41.050254,
+        "longitude": -0.1329565,
         "trackName": "Motorland Aragon",
         "countryCode": "ES",
         "countryName": "Spain",
@@ -17,7 +20,13 @@
                 "type": "practice",
                 "index": 1,
                 "start": "2022-04-08T08:30:00+00:00",
-                "end": "2022-04-08T09:15:00+00:00"
+                "startLocal": "2022-04-08T10:30:00+02:00",
+                "end": "2022-04-08T09:15:00+00:00",
+                "endLocal": "2022-04-08T11:15:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:987373",
@@ -25,7 +34,13 @@
                 "type": "practice",
                 "index": 2,
                 "start": "2022-04-08T13:00:00+00:00",
-                "end": "2022-04-08T13:45:00+00:00"
+                "startLocal": "2022-04-08T15:00:00+02:00",
+                "end": "2022-04-08T13:45:00+00:00",
+                "endLocal": "2022-04-08T15:45:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:987375",
@@ -33,7 +48,13 @@
                 "type": "practice",
                 "index": 3,
                 "start": "2022-04-09T07:00:00+00:00",
-                "end": "2022-04-09T07:30:00+00:00"
+                "startLocal": "2022-04-09T09:00:00+02:00",
+                "end": "2022-04-09T07:30:00+00:00",
+                "endLocal": "2022-04-09T09:30:00+02:00",
+                "hasTime": true,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:987383",
@@ -41,7 +62,13 @@
                 "type": "qualifying",
                 "index": null,
                 "start": "2022-04-09T09:10:00+00:00",
-                "end": "2022-04-09T09:25:00+00:00"
+                "startLocal": "2022-04-09T11:10:00+02:00",
+                "end": "2022-04-09T09:25:00+00:00",
+                "endLocal": "2022-04-09T11:25:00+02:00",
+                "hasTime": true,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:987391",
@@ -49,7 +76,13 @@
                 "type": "race",
                 "index": 1,
                 "start": "2022-04-09T12:00:00+00:00",
-                "end": "2022-04-09T13:00:00+00:00"
+                "startLocal": "2022-04-09T14:00:00+02:00",
+                "end": "2022-04-09T13:00:00+00:00",
+                "endLocal": "2022-04-09T15:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:987795",
@@ -57,7 +90,13 @@
                 "type": "race",
                 "index": 2,
                 "start": "2022-04-10T09:00:00+00:00",
-                "end": "2022-04-10T09:30:00+00:00"
+                "startLocal": "2022-04-10T11:00:00+02:00",
+                "end": "2022-04-10T09:30:00+00:00",
+                "endLocal": "2022-04-10T11:30:00+02:00",
+                "hasTime": true,
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:987593",
@@ -65,7 +104,13 @@
                 "type": "race",
                 "index": 3,
                 "start": "2022-04-10T12:00:00+00:00",
-                "end": "2022-04-10T13:00:00+00:00"
+                "startLocal": "2022-04-10T14:00:00+02:00",
+                "end": "2022-04-10T13:00:00+00:00",
+                "endLocal": "2022-04-10T15:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
+                "isNightEvent": false
             }
         ]
     },
@@ -76,6 +121,9 @@
         "title": "Assen",
         "start": "2022-04-22T08:30:00+00:00",
         "end": "2022-04-24T13:00:00+00:00",
+        "timezone": "Europe/Amsterdam",
+        "latitude": 52.99037165,
+        "longitude": 6.553377770642328,
         "trackName": "TT Circuit Assen",
         "countryCode": "NL",
         "countryName": "Netherlands",
@@ -87,7 +135,13 @@
                 "type": "practice",
                 "index": 1,
                 "start": "2022-04-22T08:30:00+00:00",
-                "end": "2022-04-22T09:15:00+00:00"
+                "startLocal": "2022-04-22T10:30:00+02:00",
+                "end": "2022-04-22T09:15:00+00:00",
+                "endLocal": "2022-04-22T11:15:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:988027",
@@ -95,7 +149,13 @@
                 "type": "practice",
                 "index": 2,
                 "start": "2022-04-22T13:00:00+00:00",
-                "end": "2022-04-22T13:45:00+00:00"
+                "startLocal": "2022-04-22T15:00:00+02:00",
+                "end": "2022-04-22T13:45:00+00:00",
+                "endLocal": "2022-04-22T15:45:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:988029",
@@ -103,7 +163,13 @@
                 "type": "practice",
                 "index": 3,
                 "start": "2022-04-23T07:00:00+00:00",
-                "end": "2022-04-23T07:30:00+00:00"
+                "startLocal": "2022-04-23T09:00:00+02:00",
+                "end": "2022-04-23T07:30:00+00:00",
+                "endLocal": "2022-04-23T09:30:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:988037",
@@ -111,7 +177,13 @@
                 "type": "qualifying",
                 "index": null,
                 "start": "2022-04-23T09:10:00+00:00",
-                "end": "2022-04-23T09:25:00+00:00"
+                "startLocal": "2022-04-23T11:10:00+02:00",
+                "end": "2022-04-23T09:25:00+00:00",
+                "endLocal": "2022-04-23T11:25:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:988045",
@@ -119,7 +191,13 @@
                 "type": "race",
                 "index": 1,
                 "start": "2022-04-23T12:00:00+00:00",
-                "end": "2022-04-23T13:00:00+00:00"
+                "startLocal": "2022-04-23T14:00:00+02:00",
+                "end": "2022-04-23T13:00:00+00:00",
+                "endLocal": "2022-04-23T15:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:988449",
@@ -127,7 +205,13 @@
                 "type": "race",
                 "index": 2,
                 "start": "2022-04-24T09:00:00+00:00",
-                "end": "2022-04-24T09:30:00+00:00"
+                "startLocal": "2022-04-24T11:00:00+02:00",
+                "end": "2022-04-24T09:30:00+00:00",
+                "endLocal": "2022-04-24T11:30:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:988247",
@@ -135,7 +219,13 @@
                 "type": "race",
                 "index": 3,
                 "start": "2022-04-24T12:00:00+00:00",
-                "end": "2022-04-24T13:00:00+00:00"
+                "startLocal": "2022-04-24T14:00:00+02:00",
+                "end": "2022-04-24T13:00:00+00:00",
+                "endLocal": "2022-04-24T15:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             }
         ]
     },
@@ -146,6 +236,9 @@
         "title": "Estoril",
         "start": "2022-05-20T09:30:00+00:00",
         "end": "2022-05-22T14:00:00+00:00",
+        "timezone": "Europe/Lisbon",
+        "latitude": 38.7042261,
+        "longitude": -9.3983152,
         "trackName": "Circuito do Estoril",
         "countryCode": "PT",
         "countryName": "Portugal",
@@ -157,7 +250,13 @@
                 "type": "practice",
                 "index": 1,
                 "start": "2022-05-20T09:30:00+00:00",
-                "end": "2022-05-20T10:15:00+00:00"
+                "startLocal": "2022-05-20T10:30:00+01:00",
+                "end": "2022-05-20T10:15:00+00:00",
+                "endLocal": "2022-05-20T11:15:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:988679",
@@ -165,7 +264,13 @@
                 "type": "practice",
                 "index": 2,
                 "start": "2022-05-20T14:00:00+00:00",
-                "end": "2022-05-20T14:45:00+00:00"
+                "startLocal": "2022-05-20T15:00:00+01:00",
+                "end": "2022-05-20T14:45:00+00:00",
+                "endLocal": "2022-05-20T15:45:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:988681",
@@ -173,7 +278,13 @@
                 "type": "practice",
                 "index": 3,
                 "start": "2022-05-21T08:00:00+00:00",
-                "end": "2022-05-21T08:30:00+00:00"
+                "startLocal": "2022-05-21T09:00:00+01:00",
+                "end": "2022-05-21T08:30:00+00:00",
+                "endLocal": "2022-05-21T09:30:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:988689",
@@ -181,7 +292,13 @@
                 "type": "qualifying",
                 "index": null,
                 "start": "2022-05-21T10:10:00+00:00",
-                "end": "2022-05-21T10:25:00+00:00"
+                "startLocal": "2022-05-21T11:10:00+01:00",
+                "end": "2022-05-21T10:25:00+00:00",
+                "endLocal": "2022-05-21T11:25:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:988697",
@@ -189,7 +306,13 @@
                 "type": "race",
                 "index": 1,
                 "start": "2022-05-21T13:00:00+00:00",
-                "end": "2022-05-21T14:00:00+00:00"
+                "startLocal": "2022-05-21T14:00:00+01:00",
+                "end": "2022-05-21T14:00:00+00:00",
+                "endLocal": "2022-05-21T15:00:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:989101",
@@ -197,7 +320,13 @@
                 "type": "race",
                 "index": 2,
                 "start": "2022-05-22T10:00:00+00:00",
-                "end": "2022-05-22T10:30:00+00:00"
+                "startLocal": "2022-05-22T11:00:00+01:00",
+                "end": "2022-05-22T10:30:00+00:00",
+                "endLocal": "2022-05-22T11:30:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:988899",
@@ -205,7 +334,13 @@
                 "type": "race",
                 "index": 3,
                 "start": "2022-05-22T13:00:00+00:00",
-                "end": "2022-05-22T14:00:00+00:00"
+                "startLocal": "2022-05-22T14:00:00+01:00",
+                "end": "2022-05-22T14:00:00+00:00",
+                "endLocal": "2022-05-22T15:00:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             }
         ]
     },
@@ -216,6 +351,9 @@
         "title": "Misano",
         "start": "2022-06-10T08:30:00+00:00",
         "end": "2022-06-12T13:00:00+00:00",
+        "timezone": "Europe/Rome",
+        "latitude": 43.9774954,
+        "longitude": 12.6986947,
         "trackName": "Misano World Circuit",
         "countryCode": "IT",
         "countryName": "Italy",
@@ -227,7 +365,13 @@
                 "type": "practice",
                 "index": 1,
                 "start": "2022-06-10T08:30:00+00:00",
-                "end": "2022-06-10T09:15:00+00:00"
+                "startLocal": "2022-06-10T10:30:00+02:00",
+                "end": "2022-06-10T09:15:00+00:00",
+                "endLocal": "2022-06-10T11:15:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:989331",
@@ -235,7 +379,13 @@
                 "type": "practice",
                 "index": 2,
                 "start": "2022-06-10T13:00:00+00:00",
-                "end": "2022-06-10T13:45:00+00:00"
+                "startLocal": "2022-06-10T15:00:00+02:00",
+                "end": "2022-06-10T13:45:00+00:00",
+                "endLocal": "2022-06-10T15:45:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:989333",
@@ -243,7 +393,13 @@
                 "type": "practice",
                 "index": 3,
                 "start": "2022-06-11T07:00:00+00:00",
-                "end": "2022-06-11T07:30:00+00:00"
+                "startLocal": "2022-06-11T09:00:00+02:00",
+                "end": "2022-06-11T07:30:00+00:00",
+                "endLocal": "2022-06-11T09:30:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:989341",
@@ -251,7 +407,13 @@
                 "type": "qualifying",
                 "index": null,
                 "start": "2022-06-11T09:10:00+00:00",
-                "end": "2022-06-11T09:25:00+00:00"
+                "startLocal": "2022-06-11T11:10:00+02:00",
+                "end": "2022-06-11T09:25:00+00:00",
+                "endLocal": "2022-06-11T11:25:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:989349",
@@ -259,7 +421,13 @@
                 "type": "race",
                 "index": 1,
                 "start": "2022-06-11T12:00:00+00:00",
-                "end": "2022-06-11T13:00:00+00:00"
+                "startLocal": "2022-06-11T14:00:00+02:00",
+                "end": "2022-06-11T13:00:00+00:00",
+                "endLocal": "2022-06-11T15:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:989753",
@@ -267,7 +435,13 @@
                 "type": "race",
                 "index": 2,
                 "start": "2022-06-12T09:00:00+00:00",
-                "end": "2022-06-12T09:30:00+00:00"
+                "startLocal": "2022-06-12T11:00:00+02:00",
+                "end": "2022-06-12T09:30:00+00:00",
+                "endLocal": "2022-06-12T11:30:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:989551",
@@ -275,7 +449,13 @@
                 "type": "race",
                 "index": 3,
                 "start": "2022-06-12T12:00:00+00:00",
-                "end": "2022-06-12T13:00:00+00:00"
+                "startLocal": "2022-06-12T14:00:00+02:00",
+                "end": "2022-06-12T13:00:00+00:00",
+                "endLocal": "2022-06-12T15:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             }
         ]
     },
@@ -286,6 +466,9 @@
         "title": "Donington",
         "start": "2022-07-15T09:30:00+00:00",
         "end": "2022-07-17T14:00:00+00:00",
+        "timezone": "Europe/London",
+        "latitude": 52.9212617,
+        "longitude": -1.4761491,
         "trackName": "Donington Park Circuit",
         "countryCode": "GB",
         "countryName": "England",
@@ -297,7 +480,13 @@
                 "type": "practice",
                 "index": 1,
                 "start": "2022-07-15T09:30:00+00:00",
-                "end": "2022-07-15T10:15:00+00:00"
+                "startLocal": "2022-07-15T10:30:00+01:00",
+                "end": "2022-07-15T10:15:00+00:00",
+                "endLocal": "2022-07-15T11:15:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:989971",
@@ -305,7 +494,13 @@
                 "type": "practice",
                 "index": 2,
                 "start": "2022-07-15T14:00:00+00:00",
-                "end": "2022-07-15T14:45:00+00:00"
+                "startLocal": "2022-07-15T15:00:00+01:00",
+                "end": "2022-07-15T14:45:00+00:00",
+                "endLocal": "2022-07-15T15:45:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:989973",
@@ -313,7 +508,13 @@
                 "type": "practice",
                 "index": 3,
                 "start": "2022-07-16T08:00:00+00:00",
-                "end": "2022-07-16T08:30:00+00:00"
+                "startLocal": "2022-07-16T09:00:00+01:00",
+                "end": "2022-07-16T08:30:00+00:00",
+                "endLocal": "2022-07-16T09:30:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:989981",
@@ -321,7 +522,13 @@
                 "type": "qualifying",
                 "index": null,
                 "start": "2022-07-16T10:10:00+00:00",
-                "end": "2022-07-16T10:25:00+00:00"
+                "startLocal": "2022-07-16T11:10:00+01:00",
+                "end": "2022-07-16T10:25:00+00:00",
+                "endLocal": "2022-07-16T11:25:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:989989",
@@ -329,7 +536,13 @@
                 "type": "race",
                 "index": 1,
                 "start": "2022-07-16T13:00:00+00:00",
-                "end": "2022-07-16T14:00:00+00:00"
+                "startLocal": "2022-07-16T14:00:00+01:00",
+                "end": "2022-07-16T14:00:00+00:00",
+                "endLocal": "2022-07-16T15:00:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:990393",
@@ -337,7 +550,13 @@
                 "type": "race",
                 "index": 2,
                 "start": "2022-07-17T10:00:00+00:00",
-                "end": "2022-07-17T10:30:00+00:00"
+                "startLocal": "2022-07-17T11:00:00+01:00",
+                "end": "2022-07-17T10:30:00+00:00",
+                "endLocal": "2022-07-17T11:30:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:990191",
@@ -345,7 +564,13 @@
                 "type": "race",
                 "index": 3,
                 "start": "2022-07-17T13:00:00+00:00",
-                "end": "2022-07-17T14:00:00+00:00"
+                "startLocal": "2022-07-17T14:00:00+01:00",
+                "end": "2022-07-17T14:00:00+00:00",
+                "endLocal": "2022-07-17T15:00:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             }
         ]
     },
@@ -356,6 +581,9 @@
         "title": "Most",
         "start": "2022-07-29T08:30:00+00:00",
         "end": "2022-07-31T14:15:00+00:00",
+        "timezone": "Europe/Prague",
+        "latitude": 50.5032737,
+        "longitude": 13.636112,
         "trackName": "Autodrom Most",
         "countryCode": "CZ",
         "countryName": "Czech Republic",
@@ -367,7 +595,13 @@
                 "type": "practice",
                 "index": 1,
                 "start": "2022-07-29T08:30:00+00:00",
-                "end": "2022-07-29T09:15:00+00:00"
+                "startLocal": "2022-07-29T10:30:00+02:00",
+                "end": "2022-07-29T09:15:00+00:00",
+                "endLocal": "2022-07-29T11:15:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:990599",
@@ -375,7 +609,13 @@
                 "type": "practice",
                 "index": 2,
                 "start": "2022-07-29T13:00:00+00:00",
-                "end": "2022-07-29T13:45:00+00:00"
+                "startLocal": "2022-07-29T15:00:00+02:00",
+                "end": "2022-07-29T13:45:00+00:00",
+                "endLocal": "2022-07-29T15:45:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:990601",
@@ -383,7 +623,13 @@
                 "type": "practice",
                 "index": 3,
                 "start": "2022-07-30T07:00:00+00:00",
-                "end": "2022-07-30T07:30:00+00:00"
+                "startLocal": "2022-07-30T09:00:00+02:00",
+                "end": "2022-07-30T07:30:00+00:00",
+                "endLocal": "2022-07-30T09:30:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:990609",
@@ -391,7 +637,13 @@
                 "type": "qualifying",
                 "index": null,
                 "start": "2022-07-30T09:10:00+00:00",
-                "end": "2022-07-30T09:25:00+00:00"
+                "startLocal": "2022-07-30T11:10:00+02:00",
+                "end": "2022-07-30T09:25:00+00:00",
+                "endLocal": "2022-07-30T11:25:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:990617",
@@ -399,7 +651,13 @@
                 "type": "race",
                 "index": 1,
                 "start": "2022-07-30T12:00:00+00:00",
-                "end": "2022-07-30T13:00:00+00:00"
+                "startLocal": "2022-07-30T14:00:00+02:00",
+                "end": "2022-07-30T13:00:00+00:00",
+                "endLocal": "2022-07-30T15:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:991021",
@@ -407,7 +665,13 @@
                 "type": "race",
                 "index": 2,
                 "start": "2022-07-31T09:00:00+00:00",
-                "end": "2022-07-31T09:30:00+00:00"
+                "startLocal": "2022-07-31T11:00:00+02:00",
+                "end": "2022-07-31T09:30:00+00:00",
+                "endLocal": "2022-07-31T11:30:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:990819",
@@ -415,7 +679,13 @@
                 "type": "race",
                 "index": 3,
                 "start": "2022-07-31T13:15:00+00:00",
-                "end": "2022-07-31T14:15:00+00:00"
+                "startLocal": "2022-07-31T15:15:00+02:00",
+                "end": "2022-07-31T14:15:00+00:00",
+                "endLocal": "2022-07-31T16:15:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             }
         ]
     },
@@ -426,6 +696,9 @@
         "title": "Magny Cours",
         "start": "2022-09-09T08:30:00+00:00",
         "end": "2022-09-11T13:00:00+00:00",
+        "timezone": "Europe/Paris",
+        "latitude": 46.8838702,
+        "longitude": 3.1480813,
         "trackName": "Circuit de Nevers",
         "countryCode": "FR",
         "countryName": "France",
@@ -437,7 +710,13 @@
                 "type": "practice",
                 "index": 1,
                 "start": "2022-09-09T08:30:00+00:00",
-                "end": "2022-09-09T09:15:00+00:00"
+                "startLocal": "2022-09-09T10:30:00+02:00",
+                "end": "2022-09-09T09:15:00+00:00",
+                "endLocal": "2022-09-09T11:15:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:991239",
@@ -445,7 +724,13 @@
                 "type": "practice",
                 "index": 2,
                 "start": "2022-09-09T13:00:00+00:00",
-                "end": "2022-09-09T13:45:00+00:00"
+                "startLocal": "2022-09-09T15:00:00+02:00",
+                "end": "2022-09-09T13:45:00+00:00",
+                "endLocal": "2022-09-09T15:45:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:991241",
@@ -453,7 +738,13 @@
                 "type": "practice",
                 "index": 3,
                 "start": "2022-09-10T07:00:00+00:00",
-                "end": "2022-09-10T07:30:00+00:00"
+                "startLocal": "2022-09-10T09:00:00+02:00",
+                "end": "2022-09-10T07:30:00+00:00",
+                "endLocal": "2022-09-10T09:30:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:991249",
@@ -461,7 +752,13 @@
                 "type": "qualifying",
                 "index": null,
                 "start": "2022-09-10T09:10:00+00:00",
-                "end": "2022-09-10T09:25:00+00:00"
+                "startLocal": "2022-09-10T11:10:00+02:00",
+                "end": "2022-09-10T09:25:00+00:00",
+                "endLocal": "2022-09-10T11:25:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:991257",
@@ -469,7 +766,13 @@
                 "type": "race",
                 "index": 1,
                 "start": "2022-09-10T12:00:00+00:00",
-                "end": "2022-09-10T13:00:00+00:00"
+                "startLocal": "2022-09-10T14:00:00+02:00",
+                "end": "2022-09-10T13:00:00+00:00",
+                "endLocal": "2022-09-10T15:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:991661",
@@ -477,7 +780,13 @@
                 "type": "race",
                 "index": 2,
                 "start": "2022-09-11T09:00:00+00:00",
-                "end": "2022-09-11T09:30:00+00:00"
+                "startLocal": "2022-09-11T11:00:00+02:00",
+                "end": "2022-09-11T09:30:00+00:00",
+                "endLocal": "2022-09-11T11:30:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:991459",
@@ -485,7 +794,13 @@
                 "type": "race",
                 "index": 3,
                 "start": "2022-09-11T12:00:00+00:00",
-                "end": "2022-09-11T13:00:00+00:00"
+                "startLocal": "2022-09-11T14:00:00+02:00",
+                "end": "2022-09-11T13:00:00+00:00",
+                "endLocal": "2022-09-11T15:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             }
         ]
     },
@@ -496,6 +811,9 @@
         "title": "Catalunya",
         "start": "2022-09-23T08:30:00+00:00",
         "end": "2022-09-25T14:15:00+00:00",
+        "timezone": "Europe/Madrid",
+        "latitude": 41.3828939,
+        "longitude": 2.1774322,
         "trackName": "Circuit de Catalunya",
         "countryCode": "ES",
         "countryName": "Spain",
@@ -507,7 +825,13 @@
                 "type": "practice",
                 "index": 1,
                 "start": "2022-09-23T08:30:00+00:00",
-                "end": "2022-09-23T09:15:00+00:00"
+                "startLocal": "2022-09-23T10:30:00+02:00",
+                "end": "2022-09-23T09:15:00+00:00",
+                "endLocal": "2022-09-23T11:15:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:991891",
@@ -515,7 +839,13 @@
                 "type": "practice",
                 "index": 2,
                 "start": "2022-09-23T13:00:00+00:00",
-                "end": "2022-09-23T13:45:00+00:00"
+                "startLocal": "2022-09-23T15:00:00+02:00",
+                "end": "2022-09-23T13:45:00+00:00",
+                "endLocal": "2022-09-23T15:45:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:991893",
@@ -523,7 +853,13 @@
                 "type": "practice",
                 "index": 3,
                 "start": "2022-09-24T07:00:00+00:00",
-                "end": "2022-09-24T07:30:00+00:00"
+                "startLocal": "2022-09-24T09:00:00+02:00",
+                "end": "2022-09-24T07:30:00+00:00",
+                "endLocal": "2022-09-24T09:30:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:991901",
@@ -531,7 +867,13 @@
                 "type": "qualifying",
                 "index": null,
                 "start": "2022-09-24T09:10:00+00:00",
-                "end": "2022-09-24T09:25:00+00:00"
+                "startLocal": "2022-09-24T11:10:00+02:00",
+                "end": "2022-09-24T09:25:00+00:00",
+                "endLocal": "2022-09-24T11:25:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:991909",
@@ -539,7 +881,13 @@
                 "type": "race",
                 "index": 1,
                 "start": "2022-09-24T12:00:00+00:00",
-                "end": "2022-09-24T13:00:00+00:00"
+                "startLocal": "2022-09-24T14:00:00+02:00",
+                "end": "2022-09-24T13:00:00+00:00",
+                "endLocal": "2022-09-24T15:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:992313",
@@ -547,7 +895,13 @@
                 "type": "race",
                 "index": 2,
                 "start": "2022-09-25T09:00:00+00:00",
-                "end": "2022-09-25T09:30:00+00:00"
+                "startLocal": "2022-09-25T11:00:00+02:00",
+                "end": "2022-09-25T09:30:00+00:00",
+                "endLocal": "2022-09-25T11:30:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:992111",
@@ -555,7 +909,13 @@
                 "type": "race",
                 "index": 3,
                 "start": "2022-09-25T13:15:00+00:00",
-                "end": "2022-09-25T14:15:00+00:00"
+                "startLocal": "2022-09-25T15:15:00+02:00",
+                "end": "2022-09-25T14:15:00+00:00",
+                "endLocal": "2022-09-25T16:15:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             }
         ]
     },
@@ -566,6 +926,9 @@
         "title": "Algarve",
         "start": "2022-10-07T09:30:00+00:00",
         "end": "2022-10-09T14:00:00+00:00",
+        "timezone": "Europe/Lisbon",
+        "latitude": 37.19420955,
+        "longitude": -8.585577395168343,
         "trackName": "Autodromo International Algarve",
         "countryCode": "PT",
         "countryName": "Portugal",
@@ -577,7 +940,13 @@
                 "type": "practice",
                 "index": 1,
                 "start": "2022-10-07T09:30:00+00:00",
-                "end": "2022-10-07T10:20:00+00:00"
+                "startLocal": "2022-10-07T10:30:00+01:00",
+                "end": "2022-10-07T10:20:00+00:00",
+                "endLocal": "2022-10-07T11:20:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:992519",
@@ -585,7 +954,13 @@
                 "type": "practice",
                 "index": 2,
                 "start": "2022-10-07T14:00:00+00:00",
-                "end": "2022-10-07T14:50:00+00:00"
+                "startLocal": "2022-10-07T15:00:00+01:00",
+                "end": "2022-10-07T14:50:00+00:00",
+                "endLocal": "2022-10-07T15:50:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:992521",
@@ -593,7 +968,13 @@
                 "type": "practice",
                 "index": 3,
                 "start": "2022-10-08T08:00:00+00:00",
-                "end": "2022-10-08T08:20:00+00:00"
+                "startLocal": "2022-10-08T09:00:00+01:00",
+                "end": "2022-10-08T08:20:00+00:00",
+                "endLocal": "2022-10-08T09:20:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:992529",
@@ -601,7 +982,13 @@
                 "type": "qualifying",
                 "index": null,
                 "start": "2022-10-08T10:00:00+00:00",
-                "end": "2022-10-08T10:25:00+00:00"
+                "startLocal": "2022-10-08T11:00:00+01:00",
+                "end": "2022-10-08T10:25:00+00:00",
+                "endLocal": "2022-10-08T11:25:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:992537",
@@ -609,7 +996,13 @@
                 "type": "race",
                 "index": 1,
                 "start": "2022-10-08T13:00:00+00:00",
-                "end": "2022-10-08T14:00:00+00:00"
+                "startLocal": "2022-10-08T14:00:00+01:00",
+                "end": "2022-10-08T14:00:00+00:00",
+                "endLocal": "2022-10-08T15:00:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:992941",
@@ -617,7 +1010,13 @@
                 "type": "race",
                 "index": 2,
                 "start": "2022-10-09T10:00:00+00:00",
-                "end": "2022-10-09T10:30:00+00:00"
+                "startLocal": "2022-10-09T11:00:00+01:00",
+                "end": "2022-10-09T10:30:00+00:00",
+                "endLocal": "2022-10-09T11:30:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:992739",
@@ -625,7 +1024,13 @@
                 "type": "race",
                 "index": 3,
                 "start": "2022-10-09T13:00:00+00:00",
-                "end": "2022-10-09T14:00:00+00:00"
+                "startLocal": "2022-10-09T14:00:00+01:00",
+                "end": "2022-10-09T14:00:00+00:00",
+                "endLocal": "2022-10-09T15:00:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             }
         ]
     },
@@ -636,6 +1041,9 @@
         "title": "Villicum",
         "start": "2022-10-21T13:30:00+00:00",
         "end": "2022-10-23T20:00:00+00:00",
+        "timezone": "America/Argentina/Cordoba",
+        "latitude": -29.3871385,
+        "longitude": -63.082191,
         "trackName": "Circuit San Juan Villicum",
         "countryCode": "AR",
         "countryName": "Argentina",
@@ -647,7 +1055,13 @@
                 "type": "practice",
                 "index": 1,
                 "start": "2022-10-21T13:30:00+00:00",
-                "end": "2022-10-21T14:20:00+00:00"
+                "startLocal": "2022-10-21T10:30:00-03:00",
+                "end": "2022-10-21T14:20:00+00:00",
+                "endLocal": "2022-10-21T11:20:00-03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:993147",
@@ -655,7 +1069,13 @@
                 "type": "practice",
                 "index": 2,
                 "start": "2022-10-21T18:00:00+00:00",
-                "end": "2022-10-21T18:50:00+00:00"
+                "startLocal": "2022-10-21T15:00:00-03:00",
+                "end": "2022-10-21T18:50:00+00:00",
+                "endLocal": "2022-10-21T15:50:00-03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:993149",
@@ -663,7 +1083,13 @@
                 "type": "practice",
                 "index": 3,
                 "start": "2022-10-22T14:00:00+00:00",
-                "end": "2022-10-22T14:20:00+00:00"
+                "startLocal": "2022-10-22T11:00:00-03:00",
+                "end": "2022-10-22T14:20:00+00:00",
+                "endLocal": "2022-10-22T11:20:00-03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:993157",
@@ -671,7 +1097,13 @@
                 "type": "qualifying",
                 "index": null,
                 "start": "2022-10-22T16:00:00+00:00",
-                "end": "2022-10-22T16:25:00+00:00"
+                "startLocal": "2022-10-22T13:00:00-03:00",
+                "end": "2022-10-22T16:25:00+00:00",
+                "endLocal": "2022-10-22T13:25:00-03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:993165",
@@ -679,7 +1111,13 @@
                 "type": "race",
                 "index": 1,
                 "start": "2022-10-22T19:00:00+00:00",
-                "end": "2022-10-22T20:00:00+00:00"
+                "startLocal": "2022-10-22T16:00:00-03:00",
+                "end": "2022-10-22T20:00:00+00:00",
+                "endLocal": "2022-10-22T17:00:00-03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:993569",
@@ -687,7 +1125,13 @@
                 "type": "race",
                 "index": 2,
                 "start": "2022-10-23T16:00:00+00:00",
-                "end": "2022-10-23T17:00:00+00:00"
+                "startLocal": "2022-10-23T13:00:00-03:00",
+                "end": "2022-10-23T17:00:00+00:00",
+                "endLocal": "2022-10-23T14:00:00-03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:993367",
@@ -695,7 +1139,13 @@
                 "type": "race",
                 "index": 3,
                 "start": "2022-10-23T19:00:00+00:00",
-                "end": "2022-10-23T20:00:00+00:00"
+                "startLocal": "2022-10-23T16:00:00-03:00",
+                "end": "2022-10-23T20:00:00+00:00",
+                "endLocal": "2022-10-23T17:00:00-03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             }
         ]
     },
@@ -706,6 +1156,9 @@
         "title": "Mandalika",
         "start": "2022-11-11T04:00:00+00:00",
         "end": "2022-11-13T09:00:00+00:00",
+        "timezone": "Asia/Makassar",
+        "latitude": -8.58356375,
+        "longitude": 116.35808185429117,
         "trackName": "Mandalika International Circuit",
         "countryCode": "ID",
         "countryName": "Indonesia",
@@ -717,7 +1170,13 @@
                 "type": "practice",
                 "index": 1,
                 "start": "2022-11-11T04:00:00+00:00",
-                "end": "2022-11-11T04:45:00+00:00"
+                "startLocal": "2022-11-11T12:00:00+08:00",
+                "end": "2022-11-11T04:45:00+00:00",
+                "endLocal": "2022-11-11T12:45:00+08:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:993775",
@@ -725,7 +1184,13 @@
                 "type": "practice",
                 "index": 2,
                 "start": "2022-11-11T07:00:00+00:00",
-                "end": "2022-11-11T07:50:00+00:00"
+                "startLocal": "2022-11-11T15:00:00+08:00",
+                "end": "2022-11-11T07:50:00+00:00",
+                "endLocal": "2022-11-11T15:50:00+08:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:993777",
@@ -733,7 +1198,13 @@
                 "type": "practice",
                 "index": 3,
                 "start": "2022-11-12T01:00:00+00:00",
-                "end": "2022-11-12T01:30:00+00:00"
+                "startLocal": "2022-11-12T09:00:00+08:00",
+                "end": "2022-11-12T01:30:00+00:00",
+                "endLocal": "2022-11-12T09:30:00+08:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:993785",
@@ -741,7 +1212,13 @@
                 "type": "qualifying",
                 "index": null,
                 "start": "2022-11-12T03:10:00+00:00",
-                "end": "2022-11-12T03:25:00+00:00"
+                "startLocal": "2022-11-12T11:10:00+08:00",
+                "end": "2022-11-12T03:25:00+00:00",
+                "endLocal": "2022-11-12T11:25:00+08:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:993793",
@@ -749,7 +1226,13 @@
                 "type": "race",
                 "index": 1,
                 "start": "2022-11-13T03:00:00+00:00",
-                "end": "2022-11-13T04:00:00+00:00"
+                "startLocal": "2022-11-13T11:00:00+08:00",
+                "end": "2022-11-13T04:00:00+00:00",
+                "endLocal": "2022-11-13T12:00:00+08:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:994197",
@@ -757,7 +1240,13 @@
                 "type": "race",
                 "index": 2,
                 "start": "2022-11-13T03:00:00+00:00",
-                "end": "2022-11-13T03:30:00+00:00"
+                "startLocal": "2022-11-13T11:00:00+08:00",
+                "end": "2022-11-13T03:30:00+00:00",
+                "endLocal": "2022-11-13T11:30:00+08:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:993995",
@@ -765,7 +1254,13 @@
                 "type": "race",
                 "index": 3,
                 "start": "2022-11-13T07:00:00+00:00",
-                "end": "2022-11-13T08:00:00+00:00"
+                "startLocal": "2022-11-13T15:00:00+08:00",
+                "end": "2022-11-13T08:00:00+00:00",
+                "endLocal": "2022-11-13T16:00:00+08:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             }
         ]
     },
@@ -776,6 +1271,9 @@
         "title": "Phillip Island",
         "start": "2022-11-17T23:30:00+00:00",
         "end": "2022-11-20T23:00:00+00:00",
+        "timezone": "Australia/Melbourne",
+        "latitude": -38.5074036,
+        "longitude": 145.18848037908447,
         "trackName": "Phillip Island Circuit",
         "countryCode": "AU",
         "countryName": "Australia",
@@ -787,7 +1285,13 @@
                 "type": "practice",
                 "index": 1,
                 "start": "2022-11-17T23:30:00+00:00",
-                "end": "2022-11-17T00:15:00+00:00"
+                "startLocal": "2022-11-18T10:30:00+11:00",
+                "end": "2022-11-17T00:15:00+00:00",
+                "endLocal": "2022-11-17T11:15:00+11:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:994403",
@@ -795,7 +1299,13 @@
                 "type": "practice",
                 "index": 2,
                 "start": "2022-11-18T04:00:00+00:00",
-                "end": "2022-11-18T04:45:00+00:00"
+                "startLocal": "2022-11-18T15:00:00+11:00",
+                "end": "2022-11-18T04:45:00+00:00",
+                "endLocal": "2022-11-18T15:45:00+11:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:994405",
@@ -803,7 +1313,13 @@
                 "type": "practice",
                 "index": 3,
                 "start": "2022-11-18T22:00:00+00:00",
-                "end": "2022-11-18T22:30:00+00:00"
+                "startLocal": "2022-11-19T09:00:00+11:00",
+                "end": "2022-11-18T22:30:00+00:00",
+                "endLocal": "2022-11-19T09:30:00+11:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:994413",
@@ -811,7 +1327,13 @@
                 "type": "qualifying",
                 "index": null,
                 "start": "2022-11-19T00:10:00+00:00",
-                "end": "2022-11-19T00:25:00+00:00"
+                "startLocal": "2022-11-19T11:10:00+11:00",
+                "end": "2022-11-19T00:25:00+00:00",
+                "endLocal": "2022-11-19T11:25:00+11:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:994421",
@@ -819,7 +1341,13 @@
                 "type": "race",
                 "index": 1,
                 "start": "2022-11-19T03:00:00+00:00",
-                "end": "2022-11-19T04:00:00+00:00"
+                "startLocal": "2022-11-19T14:00:00+11:00",
+                "end": "2022-11-19T04:00:00+00:00",
+                "endLocal": "2022-11-19T15:00:00+11:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:994825",
@@ -827,7 +1355,13 @@
                 "type": "race",
                 "index": 2,
                 "start": "2022-11-20T00:00:00+00:00",
-                "end": "2022-11-20T00:30:00+00:00"
+                "startLocal": "2022-11-20T11:00:00+11:00",
+                "end": "2022-11-20T00:30:00+00:00",
+                "endLocal": "2022-11-20T11:30:00+11:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             },
             {
                 "id": "sr:stage:994623",
@@ -835,7 +1369,13 @@
                 "type": "race",
                 "index": 3,
                 "start": "2022-11-20T03:00:00+00:00",
-                "end": "2022-11-20T04:00:00+00:00"
+                "startLocal": "2022-11-20T14:00:00+11:00",
+                "end": "2022-11-20T04:00:00+00:00",
+                "endLocal": "2022-11-20T15:00:00+11:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "isNightEvent": false
             }
         ]
     }
