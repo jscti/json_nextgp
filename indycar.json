@@ -72,9 +72,9 @@
                 "end": "2022-05-14T21:30:00+00:00",
                 "endLocal": "2022-05-14T17:30:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.93,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": []
             }
@@ -121,8 +121,8 @@
                 "end": "2022-05-17T22:00:00+00:00",
                 "endLocal": "2022-05-17T18:00:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
@@ -159,9 +159,9 @@
                 "end": "2022-05-19T22:00:00+00:00",
                 "endLocal": "2022-05-19T18:00:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 803,
+                "weatherCondition": 804,
                 "weatherIcon": "04d",
-                "weatherRainProbability": 0.27,
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
             },
