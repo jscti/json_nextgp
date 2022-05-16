@@ -24,8 +24,8 @@
                 "end": "2022-05-20T13:00:00+00:00",
                 "endLocal": "2022-05-20T15:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
@@ -46,7 +46,7 @@
                 "end": "2022-05-20T16:00:00+00:00",
                 "endLocal": "2022-05-20T18:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 804,
+                "weatherCondition": 803,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
@@ -68,9 +68,9 @@
                 "end": "2022-05-21T12:00:00+00:00",
                 "endLocal": "2022-05-21T14:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -90,9 +90,9 @@
                 "end": "2022-05-21T15:00:00+00:00",
                 "endLocal": "2022-05-21T17:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -166,10 +166,10 @@
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
-                "start": "2022-05-27T14:00:00+00:00",
-                "startLocal": "2022-05-27T16:00:00+02:00",
-                "end": "2022-05-27T15:00:00+00:00",
-                "endLocal": "2022-05-27T17:00:00+02:00",
+                "start": "2022-05-27T12:00:00+00:00",
+                "startLocal": "2022-05-27T14:00:00+02:00",
+                "end": "2022-05-27T13:00:00+00:00",
+                "endLocal": "2022-05-27T15:00:00+02:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
@@ -219,7 +219,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "35"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:938873",
@@ -235,7 +241,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "35"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:938943",

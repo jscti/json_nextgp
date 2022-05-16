@@ -1,113 +1,5 @@
 [
     {
-        "id": "sr:stage:981891",
-        "type": "moto3",
-        "index": "7 / 21",
-        "title": "Grand Prix de France 2022",
-        "start": "2022-05-13T07:00:00+00:00",
-        "end": "2022-05-15T10:00:00+00:00",
-        "timezone": "Europe/Paris",
-        "latitude": 48.0073849,
-        "longitude": 0.1967849,
-        "trackName": "Le Mans Bugatti Circuit",
-        "countryCode": "FR",
-        "countryName": "France",
-        "cityName": "Le Mans",
-        "steps": [
-            {
-                "id": "sr:stage:981893",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2022-05-13T07:00:00+00:00",
-                "startLocal": "2022-05-13T09:00:00+02:00",
-                "end": "2022-05-13T07:40:00+00:00",
-                "endLocal": "2022-05-13T09:40:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:981895",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2022-05-13T11:15:00+00:00",
-                "startLocal": "2022-05-13T13:15:00+02:00",
-                "end": "2022-05-13T11:55:00+00:00",
-                "endLocal": "2022-05-13T13:55:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:981897",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2022-05-14T07:00:00+00:00",
-                "startLocal": "2022-05-14T09:00:00+02:00",
-                "end": "2022-05-14T07:40:00+00:00",
-                "endLocal": "2022-05-14T09:40:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:981899",
-                "title": "Qualifying",
-                "type": "qualifying",
-                "index": null,
-                "start": "2022-05-14T10:35:00+00:00",
-                "startLocal": "2022-05-14T12:35:00+02:00",
-                "end": "2022-05-14T11:15:00+00:00",
-                "endLocal": "2022-05-14T13:15:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:981905",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2022-05-15T09:00:00+00:00",
-                "startLocal": "2022-05-15T11:00:00+02:00",
-                "end": "2022-05-15T10:00:00+00:00",
-                "endLocal": "2022-05-15T12:00:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+",
-                        "channelCode": "34"
-                    },
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": "187"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "id": "sr:stage:982107",
         "type": "moto3",
         "index": "8 / 21",
@@ -180,7 +72,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Décalé",
+                        "channelCode": "30"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:982115",
@@ -196,7 +94,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Décalé",
+                        "channelCode": "30"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:982121",
