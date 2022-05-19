@@ -92,7 +92,13 @@
                 "weatherIcon": "10d",
                 "weatherRainProbability": 0.81,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Décalé",
+                        "channelCode": "30"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:962507",
