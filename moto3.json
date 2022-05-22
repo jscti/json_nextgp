@@ -26,7 +26,7 @@
                 "hasTime": true,
                 "weatherCondition": 804,
                 "weatherIcon": "04d",
-                "weatherRainProbability": 0.19,
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -46,9 +46,9 @@
                 "end": "2022-05-27T11:55:00+00:00",
                 "endLocal": "2022-05-27T13:55:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0.03,
                 "isNightEvent": false,
                 "channels": [
                     {
