@@ -141,7 +141,7 @@
                 "hasTime": true,
                 "weatherCondition": 804,
                 "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherRainProbability": 0.01,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -161,9 +161,9 @@
                 "end": "2022-06-03T13:50:00+00:00",
                 "endLocal": "2022-06-03T15:50:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.3,
                 "isNightEvent": false,
                 "channels": [
                     {
