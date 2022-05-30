@@ -1,118 +1,5 @@
 [
     {
-        "id": "sr:stage:938865",
-        "type": "f1",
-        "index": "7 / 22",
-        "title": "Grand Prix de Monaco 2022",
-        "start": "2022-05-27T12:00:00+00:00",
-        "end": "2022-05-29T15:00:00+00:00",
-        "timezone": "Europe/Monaco",
-        "latitude": 43.7402961,
-        "longitude": 7.426559,
-        "trackName": "Circuit de Monaco",
-        "countryCode": "MC",
-        "countryName": "Monaco",
-        "cityName": "Monte Carlo",
-        "steps": [
-            {
-                "id": "sr:stage:938867",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2022-05-27T12:00:00+00:00",
-                "startLocal": "2022-05-27T14:00:00+02:00",
-                "end": "2022-05-27T13:00:00+00:00",
-                "endLocal": "2022-05-27T15:00:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:938869",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2022-05-27T15:00:00+00:00",
-                "startLocal": "2022-05-27T17:00:00+02:00",
-                "end": "2022-05-27T16:00:00+00:00",
-                "endLocal": "2022-05-27T18:00:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:938871",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2022-05-28T11:00:00+00:00",
-                "startLocal": "2022-05-28T13:00:00+02:00",
-                "end": "2022-05-28T12:00:00+00:00",
-                "endLocal": "2022-05-28T14:00:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:938873",
-                "title": "Qualification",
-                "type": "qualifying",
-                "index": null,
-                "start": "2022-05-28T14:00:00+00:00",
-                "startLocal": "2022-05-28T16:00:00+02:00",
-                "end": "2022-05-28T15:00:00+00:00",
-                "endLocal": "2022-05-28T17:00:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:938943",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2022-05-29T13:00:00+00:00",
-                "startLocal": "2022-05-29T15:00:00+02:00",
-                "end": "2022-05-29T15:00:00+00:00",
-                "endLocal": "2022-05-29T17:00:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+",
-                        "channelCode": "34"
-                    },
-                    {
-                        "countryCode": "BE",
-                        "channelName": "La Une",
-                        "channelCode": "164"
-                    },
-                    {
-                        "countryCode": "CH",
-                        "channelName": "RTS 1",
-                        "channelCode": "202"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "id": "sr:stage:939145",
         "type": "f1",
         "index": "8 / 22",
@@ -185,7 +72,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "35"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:939153",
@@ -201,7 +94,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "35"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:939223",
