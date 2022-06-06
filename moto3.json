@@ -1,113 +1,5 @@
 [
     {
-        "id": "sr:stage:982539",
-        "type": "moto3",
-        "index": "9 / 20",
-        "title": "Gran Premi de Catalunya 2022",
-        "start": "2022-06-03T07:00:00+00:00",
-        "end": "2022-06-05T10:00:00+00:00",
-        "timezone": "Europe/Madrid",
-        "latitude": 41.3828939,
-        "longitude": 2.1774322,
-        "trackName": "Circuit de Catalunya",
-        "countryCode": "ES",
-        "countryName": "Spain",
-        "cityName": "Barcelona",
-        "steps": [
-            {
-                "id": "sr:stage:982541",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2022-06-03T07:00:00+00:00",
-                "startLocal": "2022-06-03T09:00:00+02:00",
-                "end": "2022-06-03T07:40:00+00:00",
-                "endLocal": "2022-06-03T09:40:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:982543",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2022-06-03T11:15:00+00:00",
-                "startLocal": "2022-06-03T13:15:00+02:00",
-                "end": "2022-06-03T11:55:00+00:00",
-                "endLocal": "2022-06-03T13:55:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:982545",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2022-06-04T07:00:00+00:00",
-                "startLocal": "2022-06-04T09:00:00+02:00",
-                "end": "2022-06-04T07:40:00+00:00",
-                "endLocal": "2022-06-04T09:40:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:982547",
-                "title": "Qualifying",
-                "type": "qualifying",
-                "index": null,
-                "start": "2022-06-04T10:35:00+00:00",
-                "startLocal": "2022-06-04T12:35:00+02:00",
-                "end": "2022-06-04T11:15:00+00:00",
-                "endLocal": "2022-06-04T13:15:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:982553",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2022-06-05T09:00:00+00:00",
-                "startLocal": "2022-06-05T11:00:00+02:00",
-                "end": "2022-06-05T10:00:00+00:00",
-                "endLocal": "2022-06-05T12:00:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "35"
-                    },
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": "187"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "id": "sr:stage:982755",
         "type": "moto3",
         "index": "10 / 20",
@@ -180,7 +72,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "35"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:982763",
@@ -196,7 +94,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "35"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:982769",

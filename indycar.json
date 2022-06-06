@@ -76,13 +76,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Décalé",
-                        "channelCode": "30"
-                    }
-                ]
+                "channels": []
             }
         ]
     },
@@ -91,7 +85,7 @@
         "type": "indycar",
         "index": "8 / 17",
         "title": "Road America Grand Prix",
-        "start": "2022-06-10T20:45:00+00:00",
+        "start": "2022-06-10T20:30:00+00:00",
         "end": "2022-06-12T19:00:00+00:00",
         "timezone": "America/Chicago",
         "latitude": 43.8333269,
@@ -106,14 +100,14 @@
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
-                "start": "2022-06-10T21:45:00+00:00",
-                "startLocal": "2022-06-10T16:45:00-05:00",
-                "end": "2022-06-10T22:45:00+00:00",
-                "endLocal": "2022-06-10T17:45:00-05:00",
+                "start": "2022-06-10T20:30:00+00:00",
+                "startLocal": "2022-06-10T15:30:00-05:00",
+                "end": "2022-06-10T21:30:00+00:00",
+                "endLocal": "2022-06-10T16:30:00-05:00",
                 "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.38,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -122,14 +116,14 @@
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
-                "start": "2022-06-11T15:55:00+00:00",
-                "startLocal": "2022-06-11T10:55:00-05:00",
-                "end": "2022-06-11T16:55:00+00:00",
-                "endLocal": "2022-06-11T11:55:00-05:00",
+                "start": "2022-06-11T14:45:00+00:00",
+                "startLocal": "2022-06-11T09:45:00-05:00",
+                "end": "2022-06-11T15:45:00+00:00",
+                "endLocal": "2022-06-11T10:45:00-05:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -138,14 +132,30 @@
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
-                "start": "2022-06-11T19:00:00+00:00",
-                "startLocal": "2022-06-11T14:00:00-05:00",
-                "end": "2022-06-11T20:15:00+00:00",
-                "endLocal": "2022-06-11T15:15:00-05:00",
+                "start": "2022-06-11T17:45:00+00:00",
+                "startLocal": "2022-06-11T12:45:00-05:00",
+                "end": "2022-06-11T19:00:00+00:00",
+                "endLocal": "2022-06-11T14:00:00-05:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
+                "isNightEvent": false,
+                "channels": []
+            },
+            {
+                "id": "sr:stage:963757",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2022-06-11T21:20:00+00:00",
+                "startLocal": "2022-06-11T16:20:00-05:00",
+                "end": "2022-06-11T21:50:00+00:00",
+                "endLocal": "2022-06-11T16:50:00-05:00",
+                "hasTime": true,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.28,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -154,16 +164,22 @@
                 "title": "Race",
                 "type": "race",
                 "index": null,
-                "start": "2022-06-12T19:30:00+00:00",
-                "startLocal": "2022-06-12T14:30:00-05:00",
-                "end": "2022-06-12T22:00:00+00:00",
-                "endLocal": "2022-06-12T17:00:00-05:00",
+                "start": "2022-06-12T16:35:00+00:00",
+                "startLocal": "2022-06-12T11:35:00-05:00",
+                "end": "2022-06-12T19:00:00+00:00",
+                "endLocal": "2022-06-12T14:00:00-05:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "35"
+                    }
+                ]
             }
         ]
     },
