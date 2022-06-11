@@ -56,9 +56,9 @@
                 "end": "2022-06-11T19:00:00+00:00",
                 "endLocal": "2022-06-11T14:00:00-05:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.77,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -74,7 +74,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.69,
+                "weatherRainProbability": 0.66,
                 "isNightEvent": false,
                 "channels": []
             },
