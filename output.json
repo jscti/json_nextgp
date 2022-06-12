@@ -60,13 +60,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "35"
-                    }
-                ]
+                "channels": []
             },
             {
                 "id": "sr:stage:939153",
@@ -82,23 +76,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "35"
-                    },
-                    {
-                        "countryCode": "CH",
-                        "channelName": "RTS 2",
-                        "channelCode": "183"
-                    },
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": "187"
-                    }
-                ]
+                "channels": []
             },
             {
                 "id": "sr:stage:939223",
@@ -159,7 +137,7 @@
                 "end": "2022-06-17T08:40:00+00:00",
                 "endLocal": "2022-06-17T10:40:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 804,
+                "weatherCondition": 803,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
@@ -181,8 +159,8 @@
                 "end": "2022-06-17T12:55:00+00:00",
                 "endLocal": "2022-06-17T14:55:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
@@ -318,9 +296,9 @@
                 "end": "2022-06-17T19:00:00+00:00",
                 "endLocal": "2022-06-17T15:00:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0.38,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 1,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -340,9 +318,9 @@
                 "end": "2022-06-17T22:00:00+00:00",
                 "endLocal": "2022-06-17T18:00:00-04:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.97,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -469,7 +447,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Décalé",
+                        "channelCode": "30"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:973511",
@@ -485,7 +469,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Décalé",
+                        "channelCode": "30"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:973513",
