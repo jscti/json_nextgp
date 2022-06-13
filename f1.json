@@ -1,118 +1,5 @@
 [
     {
-        "id": "sr:stage:939145",
-        "type": "f1",
-        "index": "8 / 22",
-        "title": "Azerbaijan Grand Prix 2022",
-        "start": "2022-06-10T11:00:00+00:00",
-        "end": "2022-06-12T13:00:00+00:00",
-        "timezone": "Asia/Baku",
-        "latitude": 40.3754434,
-        "longitude": 49.8326748,
-        "trackName": "Baku City Circuit",
-        "countryCode": "AZ",
-        "countryName": "Azerbaijan",
-        "cityName": "Baku",
-        "steps": [
-            {
-                "id": "sr:stage:939147",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2022-06-10T11:00:00+00:00",
-                "startLocal": "2022-06-10T15:00:00+04:00",
-                "end": "2022-06-10T12:00:00+00:00",
-                "endLocal": "2022-06-10T16:00:00+04:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:939149",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2022-06-10T14:00:00+00:00",
-                "startLocal": "2022-06-10T18:00:00+04:00",
-                "end": "2022-06-10T15:00:00+00:00",
-                "endLocal": "2022-06-10T19:00:00+04:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:939151",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2022-06-11T11:00:00+00:00",
-                "startLocal": "2022-06-11T15:00:00+04:00",
-                "end": "2022-06-11T12:00:00+00:00",
-                "endLocal": "2022-06-11T16:00:00+04:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:939153",
-                "title": "Qualification",
-                "type": "qualifying",
-                "index": null,
-                "start": "2022-06-11T14:15:00+00:00",
-                "startLocal": "2022-06-11T18:15:00+04:00",
-                "end": "2022-06-11T15:15:00+00:00",
-                "endLocal": "2022-06-11T19:15:00+04:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:939223",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2022-06-12T11:00:00+00:00",
-                "startLocal": "2022-06-12T15:00:00+04:00",
-                "end": "2022-06-12T13:00:00+00:00",
-                "endLocal": "2022-06-12T17:00:00+04:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+",
-                        "channelCode": "34"
-                    },
-                    {
-                        "countryCode": "CH",
-                        "channelName": "RTS 2",
-                        "channelCode": "183"
-                    },
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": "187"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "id": "sr:stage:939425",
         "type": "f1",
         "index": "9 / 22",
@@ -139,7 +26,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherRainProbability": 0.29,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -161,7 +48,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.97,
+                "weatherRainProbability": 0.92,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -181,9 +68,9 @@
                 "end": "2022-06-18T18:00:00+00:00",
                 "endLocal": "2022-06-18T14:00:00-04:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -203,9 +90,9 @@
                 "end": "2022-06-18T21:00:00+00:00",
                 "endLocal": "2022-06-18T17:00:00-04:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0.06,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -845,7 +732,7 @@
         "id": "sr:stage:941385",
         "type": "f1",
         "index": "16 / 22",
-        "title": "Gran Premio D Italia 2022",
+        "title": "Gran Premio D'Italia 2022",
         "start": "2022-09-09T12:00:00+00:00",
         "end": "2022-09-11T15:00:00+00:00",
         "timezone": "Europe/Rome",
