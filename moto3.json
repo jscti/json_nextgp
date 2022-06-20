@@ -1,113 +1,5 @@
 [
     {
-        "id": "sr:stage:982755",
-        "type": "moto3",
-        "index": "10 / 20",
-        "title": "Motorrad Grand Prix Deutschland 2022",
-        "start": "2022-06-17T07:00:00+00:00",
-        "end": "2022-06-19T10:00:00+00:00",
-        "timezone": "Europe/Berlin",
-        "latitude": 50.7894372,
-        "longitude": 12.7343596,
-        "trackName": "Sachsenring",
-        "countryCode": "DE",
-        "countryName": "Germany",
-        "cityName": "Oberlungwitz",
-        "steps": [
-            {
-                "id": "sr:stage:982757",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2022-06-17T07:00:00+00:00",
-                "startLocal": "2022-06-17T09:00:00+02:00",
-                "end": "2022-06-17T07:40:00+00:00",
-                "endLocal": "2022-06-17T09:40:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:982759",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2022-06-17T11:15:00+00:00",
-                "startLocal": "2022-06-17T13:15:00+02:00",
-                "end": "2022-06-17T11:55:00+00:00",
-                "endLocal": "2022-06-17T13:55:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:982761",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2022-06-18T07:00:00+00:00",
-                "startLocal": "2022-06-18T09:00:00+02:00",
-                "end": "2022-06-18T07:40:00+00:00",
-                "endLocal": "2022-06-18T09:40:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:982763",
-                "title": "Qualifying",
-                "type": "qualifying",
-                "index": null,
-                "start": "2022-06-18T10:35:00+00:00",
-                "startLocal": "2022-06-18T12:35:00+02:00",
-                "end": "2022-06-18T11:15:00+00:00",
-                "endLocal": "2022-06-18T13:15:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:982769",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2022-06-19T09:00:00+00:00",
-                "startLocal": "2022-06-19T11:00:00+02:00",
-                "end": "2022-06-19T10:00:00+00:00",
-                "endLocal": "2022-06-19T12:00:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Décalé",
-                        "channelCode": "30"
-                    },
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": "187"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "id": "sr:stage:982971",
         "type": "moto3",
         "index": "11 / 20",
@@ -134,7 +26,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.35,
+                "weatherRainProbability": 0.87,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -154,9 +46,9 @@
                 "end": "2022-06-24T11:55:00+00:00",
                 "endLocal": "2022-06-24T13:55:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.85,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -176,9 +68,9 @@
                 "end": "2022-06-25T07:40:00+00:00",
                 "endLocal": "2022-06-25T09:40:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -198,9 +90,9 @@
                 "end": "2022-06-25T11:15:00+00:00",
                 "endLocal": "2022-06-25T13:15:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.34,
                 "isNightEvent": false,
                 "channels": [
                     {

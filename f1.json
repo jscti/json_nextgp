@@ -1,118 +1,5 @@
 [
     {
-        "id": "sr:stage:939425",
-        "type": "f1",
-        "index": "9 / 22",
-        "title": "Grand Prix du Canada 2022",
-        "start": "2022-06-17T18:00:00+00:00",
-        "end": "2022-06-19T20:00:00+00:00",
-        "timezone": "America/Toronto",
-        "latitude": 45.5031824,
-        "longitude": -73.5698065,
-        "trackName": "Circuit Gilles Villeneuve",
-        "countryCode": "CA",
-        "countryName": "Canada",
-        "cityName": "Montreal",
-        "steps": [
-            {
-                "id": "sr:stage:939427",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2022-06-17T18:00:00+00:00",
-                "startLocal": "2022-06-17T14:00:00-04:00",
-                "end": "2022-06-17T19:00:00+00:00",
-                "endLocal": "2022-06-17T15:00:00-04:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:939429",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2022-06-17T21:00:00+00:00",
-                "startLocal": "2022-06-17T17:00:00-04:00",
-                "end": "2022-06-17T22:00:00+00:00",
-                "endLocal": "2022-06-17T18:00:00-04:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:939431",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2022-06-18T17:00:00+00:00",
-                "startLocal": "2022-06-18T13:00:00-04:00",
-                "end": "2022-06-18T18:00:00+00:00",
-                "endLocal": "2022-06-18T14:00:00-04:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:939433",
-                "title": "Qualification",
-                "type": "qualifying",
-                "index": null,
-                "start": "2022-06-18T20:00:00+00:00",
-                "startLocal": "2022-06-18T16:00:00-04:00",
-                "end": "2022-06-18T21:00:00+00:00",
-                "endLocal": "2022-06-18T17:00:00-04:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:939503",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2022-06-19T18:00:00+00:00",
-                "startLocal": "2022-06-19T14:00:00-04:00",
-                "end": "2022-06-19T20:00:00+00:00",
-                "endLocal": "2022-06-19T16:00:00-04:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+",
-                        "channelCode": "34"
-                    },
-                    {
-                        "countryCode": "CH",
-                        "channelName": "RTS 2",
-                        "channelCode": "183"
-                    },
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": "187"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "id": "sr:stage:939705",
         "type": "f1",
         "index": "10 / 22",
@@ -185,7 +72,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "35"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:939713",
@@ -201,7 +94,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "35"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:939783",
