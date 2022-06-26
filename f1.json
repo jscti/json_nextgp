@@ -24,9 +24,9 @@
                 "end": "2022-07-01T13:00:00+00:00",
                 "endLocal": "2022-07-01T14:00:00+01:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.27,
                 "isNightEvent": false,
                 "channels": [
                     {
