@@ -68,9 +68,9 @@
                 "end": "2022-07-02T12:00:00+00:00",
                 "endLocal": "2022-07-02T13:00:00+01:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.67,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -92,7 +92,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.84,
+                "weatherRainProbability": 0.89,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -124,7 +124,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.87,
+                "weatherRainProbability": 0.4,
                 "isNightEvent": false,
                 "channels": [
                     {
