@@ -1,125 +1,5 @@
 [
     {
-        "id": "sr:stage:965647",
-        "type": "indycar",
-        "index": "11 / 17",
-        "title": "Grand Prix of Iowa Race 1",
-        "start": "2022-07-22T20:30:00+00:00",
-        "end": "2022-07-23T22:00:00+00:00",
-        "timezone": "America/New_York",
-        "latitude": 42.3370414,
-        "longitude": -71.2092214,
-        "trackName": "Iowa Speedway",
-        "countryCode": "US",
-        "countryName": "USA",
-        "cityName": "Newton",
-        "steps": [
-            {
-                "id": "sr:stage:965649",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": null,
-                "start": "2022-07-22T20:30:00+00:00",
-                "startLocal": "2022-07-22T16:30:00-04:00",
-                "end": "2022-07-22T22:00:00+00:00",
-                "endLocal": "2022-07-22T18:00:00-04:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:965667",
-                "title": "Qualification",
-                "type": "qualifying",
-                "index": null,
-                "start": "2022-07-23T14:30:00+00:00",
-                "startLocal": "2022-07-23T10:30:00-04:00",
-                "end": "2022-07-23T15:45:00+00:00",
-                "endLocal": "2022-07-23T11:45:00-04:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:965677",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2022-07-23T20:00:00+00:00",
-                "startLocal": "2022-07-23T16:00:00-04:00",
-                "end": "2022-07-23T22:00:00+00:00",
-                "endLocal": "2022-07-23T18:00:00-04:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            }
-        ]
-    },
-    {
-        "id": "sr:stage:966279",
-        "type": "indycar",
-        "index": "12 / 17",
-        "title": "Grand Prix of Iowa Race 2",
-        "start": "2022-07-23T14:30:00+00:00",
-        "end": "2022-07-24T21:30:00+00:00",
-        "timezone": "America/New_York",
-        "latitude": 42.3370414,
-        "longitude": -71.2092214,
-        "trackName": "Iowa Speedway",
-        "countryCode": "US",
-        "countryName": "USA",
-        "cityName": "Newton",
-        "steps": [
-            {
-                "id": "sr:stage:966299",
-                "title": "Qualification",
-                "type": "qualifying",
-                "index": null,
-                "start": "2022-07-23T14:30:00+00:00",
-                "startLocal": "2022-07-23T10:30:00-04:00",
-                "end": "2022-07-23T15:45:00+00:00",
-                "endLocal": "2022-07-23T11:45:00-04:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:966309",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2022-07-24T19:25:00+00:00",
-                "startLocal": "2022-07-24T15:25:00-04:00",
-                "end": "2022-07-24T21:30:00+00:00",
-                "endLocal": "2022-07-24T17:30:00-04:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "35"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "id": "sr:stage:966911",
         "type": "indycar",
         "index": "13 / 17",
@@ -144,8 +24,8 @@
                 "end": "2022-07-29T15:00:00+00:00",
                 "endLocal": "2022-07-29T11:00:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
@@ -160,8 +40,8 @@
                 "end": "2022-07-29T18:15:00+00:00",
                 "endLocal": "2022-07-29T14:15:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
@@ -176,9 +56,9 @@
                 "end": "2022-07-30T18:30:00+00:00",
                 "endLocal": "2022-07-30T14:30:00-04:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
