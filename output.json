@@ -24,9 +24,9 @@
                 "end": "2022-07-29T13:00:00+00:00",
                 "endLocal": "2022-07-29T15:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.34,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -46,9 +46,9 @@
                 "end": "2022-07-29T16:00:00+00:00",
                 "endLocal": "2022-07-29T18:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0.3,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.74,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -68,9 +68,9 @@
                 "end": "2022-07-30T12:00:00+00:00",
                 "endLocal": "2022-07-30T14:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.33,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -90,9 +90,9 @@
                 "end": "2022-07-30T15:00:00+00:00",
                 "endLocal": "2022-07-30T17:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 804,
+                "weatherCondition": 803,
                 "weatherIcon": "04d",
-                "weatherRainProbability": 0.11,
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -122,9 +122,9 @@
                 "end": "2022-07-31T15:00:00+00:00",
                 "endLocal": "2022-07-31T17:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -285,7 +285,28 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Décalé",
+                        "channelCode": "30"
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+",
+                        "channelCode": "34"
+                    },
+                    {
+                        "countryCode": "CH",
+                        "channelName": "RTS 2",
+                        "channelCode": "183"
+                    },
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": "187"
+                    }
+                ]
             }
         ]
     },
@@ -2013,7 +2034,7 @@
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
-                "isNightEvent": true,
+                "isNightEvent": false,
                 "channels": []
             },
             {
@@ -2045,7 +2066,7 @@
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
-                "isNightEvent": true,
+                "isNightEvent": false,
                 "channels": []
             },
             {
@@ -2061,7 +2082,7 @@
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
-                "isNightEvent": true,
+                "isNightEvent": false,
                 "channels": []
             }
         ]
