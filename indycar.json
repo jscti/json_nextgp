@@ -1,76 +1,5 @@
 [
     {
-        "id": "sr:stage:966911",
-        "type": "indycar",
-        "index": "13 / 17",
-        "title": "Grand Prix of Indianapolis 2",
-        "start": "2022-07-29T13:30:00+00:00",
-        "end": "2022-07-30T18:30:00+00:00",
-        "timezone": "America/Indiana/Indianapolis",
-        "latitude": 39.7683331,
-        "longitude": -86.1583502,
-        "trackName": "Indianapolis Motor Speedway\tRoad Course",
-        "countryCode": "US",
-        "countryName": "USA",
-        "cityName": "Indianapolis",
-        "steps": [
-            {
-                "id": "sr:stage:966913",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": null,
-                "start": "2022-07-29T13:30:00+00:00",
-                "startLocal": "2022-07-29T09:30:00-04:00",
-                "end": "2022-07-29T15:00:00+00:00",
-                "endLocal": "2022-07-29T11:00:00-04:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:966931",
-                "title": "Qualification",
-                "type": "qualifying",
-                "index": null,
-                "start": "2022-07-29T17:00:00+00:00",
-                "startLocal": "2022-07-29T13:00:00-04:00",
-                "end": "2022-07-29T18:15:00+00:00",
-                "endLocal": "2022-07-29T14:15:00-04:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:966941",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2022-07-30T16:20:00+00:00",
-                "startLocal": "2022-07-30T12:20:00-04:00",
-                "end": "2022-07-30T18:30:00+00:00",
-                "endLocal": "2022-07-30T14:30:00-04:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "35"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "id": "sr:stage:967543",
         "type": "indycar",
         "index": "14 / 17",
@@ -95,9 +24,9 @@
                 "end": "2022-08-05T22:30:00+00:00",
                 "endLocal": "2022-08-05T17:30:00-05:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
+                "weatherRainProbability": 0.13,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -147,7 +76,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "35"
+                    }
+                ]
             }
         ]
     },
