@@ -60,13 +60,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Décalé",
-                        "channelCode": "30"
-                    }
-                ]
+                "channels": []
             },
             {
                 "id": "sr:stage:983411",
@@ -82,13 +76,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Décalé",
-                        "channelCode": "30"
-                    }
-                ]
+                "channels": []
             },
             {
                 "id": "sr:stage:983417",
@@ -143,7 +131,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Décalé",
+                        "channelCode": "30"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:983623",
@@ -159,7 +153,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Décalé",
+                        "channelCode": "30"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:983625",
