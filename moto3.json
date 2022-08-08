@@ -1,108 +1,5 @@
 [
     {
-        "id": "sr:stage:983403",
-        "type": "moto3",
-        "index": "12 / 20",
-        "title": "British Grand Prix 2022",
-        "start": "2022-08-05T08:00:00+00:00",
-        "end": "2022-08-07T11:20:00+00:00",
-        "timezone": "Europe/London",
-        "latitude": 52.0877287,
-        "longitude": -1.0241177,
-        "trackName": "Silverstone Circuit",
-        "countryCode": "GB",
-        "countryName": "England",
-        "cityName": "Silverstone",
-        "steps": [
-            {
-                "id": "sr:stage:983405",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2022-08-05T08:00:00+00:00",
-                "startLocal": "2022-08-05T09:00:00+01:00",
-                "end": "2022-08-05T08:40:00+00:00",
-                "endLocal": "2022-08-05T09:40:00+01:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:983407",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2022-08-05T12:15:00+00:00",
-                "startLocal": "2022-08-05T13:15:00+01:00",
-                "end": "2022-08-05T12:55:00+00:00",
-                "endLocal": "2022-08-05T13:55:00+01:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:983409",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2022-08-06T08:00:00+00:00",
-                "startLocal": "2022-08-06T09:00:00+01:00",
-                "end": "2022-08-06T08:40:00+00:00",
-                "endLocal": "2022-08-06T09:40:00+01:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:983411",
-                "title": "Qualifying",
-                "type": "qualifying",
-                "index": null,
-                "start": "2022-08-06T11:35:00+00:00",
-                "startLocal": "2022-08-06T12:35:00+01:00",
-                "end": "2022-08-06T12:15:00+00:00",
-                "endLocal": "2022-08-06T13:15:00+01:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:983417",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2022-08-07T10:20:00+00:00",
-                "startLocal": "2022-08-07T11:20:00+01:00",
-                "end": "2022-08-07T11:20:00+00:00",
-                "endLocal": "2022-08-07T12:20:00+01:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Décalé",
-                        "channelCode": "30"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "id": "sr:stage:983619",
         "type": "moto3",
         "index": "13 / 20",
@@ -175,7 +72,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Décalé",
+                        "channelCode": "30"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:983627",
@@ -191,7 +94,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Décalé",
+                        "channelCode": "30"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:983633",
