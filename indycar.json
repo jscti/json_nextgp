@@ -56,9 +56,25 @@
                 "end": "2022-08-19T23:30:00+00:00",
                 "endLocal": "2022-08-19T18:30:00-05:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
+            },
+            {
+                "id": "sr:stage:968181",
+                "title": "Final Practice",
+                "type": "practice",
+                "index": 3,
+                "start": "2022-08-19T23:45:00+00:00",
+                "startLocal": "2022-08-19T18:45:00-05:00",
+                "end": "2022-08-20T00:45:00+00:00",
+                "endLocal": "2022-08-19T19:45:00-05:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -74,7 +90,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.55,
+                "weatherRainProbability": 0.68,
                 "isNightEvent": false,
                 "channels": [
                     {
