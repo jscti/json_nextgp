@@ -1,129 +1,5 @@
 [
     {
-        "id": "sr:stage:974161",
-        "type": "motogp",
-        "index": "13 / 20",
-        "title": "Grand Prix von Österreich 2022",
-        "start": "2022-08-19T07:55:00+00:00",
-        "end": "2022-08-21T13:00:00+00:00",
-        "timezone": "Europe/Vienna",
-        "latitude": 47.2122736,
-        "longitude": 14.7857412,
-        "trackName": "Red Bull Ring",
-        "countryCode": "AT",
-        "countryName": "Austria",
-        "cityName": "Spielberg",
-        "steps": [
-            {
-                "id": "sr:stage:974163",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2022-08-19T07:55:00+00:00",
-                "startLocal": "2022-08-19T09:55:00+02:00",
-                "end": "2022-08-19T08:40:00+00:00",
-                "endLocal": "2022-08-19T10:40:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:974165",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2022-08-19T12:10:00+00:00",
-                "startLocal": "2022-08-19T14:10:00+02:00",
-                "end": "2022-08-19T12:55:00+00:00",
-                "endLocal": "2022-08-19T14:55:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:974167",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2022-08-20T07:55:00+00:00",
-                "startLocal": "2022-08-20T09:55:00+02:00",
-                "end": "2022-08-20T08:40:00+00:00",
-                "endLocal": "2022-08-20T10:40:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:974169",
-                "title": "Practice 4",
-                "type": "practice",
-                "index": 4,
-                "start": "2022-08-20T11:30:00+00:00",
-                "startLocal": "2022-08-20T13:30:00+02:00",
-                "end": "2022-08-20T12:00:00+00:00",
-                "endLocal": "2022-08-20T14:00:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:974171",
-                "title": "Qualifying",
-                "type": "qualifying",
-                "index": null,
-                "start": "2022-08-20T12:10:00+00:00",
-                "startLocal": "2022-08-20T14:10:00+02:00",
-                "end": "2022-08-20T12:50:00+00:00",
-                "endLocal": "2022-08-20T14:50:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:974177",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2022-08-21T12:00:00+00:00",
-                "startLocal": "2022-08-21T14:00:00+02:00",
-                "end": "2022-08-21T13:00:00+00:00",
-                "endLocal": "2022-08-21T15:00:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+",
-                        "channelCode": "34"
-                    },
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": "187"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "id": "sr:stage:940825",
         "type": "f1",
         "index": "14 / 22",
@@ -388,7 +264,7 @@
         "type": "f1",
         "index": "15 / 22",
         "title": "Dutch Grand Prix 2022",
-        "start": "2022-09-02T12:00:00+00:00",
+        "start": "2022-09-02T10:30:00+00:00",
         "end": "2022-09-04T15:00:00+00:00",
         "timezone": "Europe/Amsterdam",
         "latitude": 52.3713394,
@@ -403,26 +279,32 @@
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
-                "start": "2022-09-02T12:00:00+00:00",
-                "startLocal": "2022-09-02T14:00:00+02:00",
-                "end": "2022-09-02T13:00:00+00:00",
-                "endLocal": "2022-09-02T15:00:00+02:00",
+                "start": "2022-09-02T10:30:00+00:00",
+                "startLocal": "2022-09-02T12:30:00+02:00",
+                "end": "2022-09-02T11:30:00+00:00",
+                "endLocal": "2022-09-02T13:30:00+02:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "35"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:941109",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
-                "start": "2022-09-02T15:00:00+00:00",
-                "startLocal": "2022-09-02T17:00:00+02:00",
-                "end": "2022-09-02T16:00:00+00:00",
-                "endLocal": "2022-09-02T18:00:00+02:00",
+                "start": "2022-09-02T14:00:00+00:00",
+                "startLocal": "2022-09-02T16:00:00+02:00",
+                "end": "2022-09-02T15:00:00+00:00",
+                "endLocal": "2022-09-02T17:00:00+02:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
@@ -441,32 +323,44 @@
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 3,
-                "start": "2022-09-03T11:00:00+00:00",
-                "startLocal": "2022-09-03T13:00:00+02:00",
-                "end": "2022-09-03T12:00:00+00:00",
-                "endLocal": "2022-09-03T14:00:00+02:00",
+                "start": "2022-09-03T10:00:00+00:00",
+                "startLocal": "2022-09-03T12:00:00+02:00",
+                "end": "2022-09-03T11:00:00+00:00",
+                "endLocal": "2022-09-03T13:00:00+02:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "35"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:941113",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
-                "start": "2022-09-03T14:00:00+00:00",
-                "startLocal": "2022-09-03T16:00:00+02:00",
-                "end": "2022-09-03T15:00:00+00:00",
-                "endLocal": "2022-09-03T17:00:00+02:00",
+                "start": "2022-09-03T13:00:00+00:00",
+                "startLocal": "2022-09-03T15:00:00+02:00",
+                "end": "2022-09-03T14:00:00+00:00",
+                "endLocal": "2022-09-03T16:00:00+02:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "35"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:941183",
@@ -950,7 +844,7 @@
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
-                "isNightEvent": false,
+                "isNightEvent": true,
                 "channels": []
             },
             {
@@ -966,7 +860,7 @@
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
-                "isNightEvent": false,
+                "isNightEvent": true,
                 "channels": []
             },
             {
@@ -982,7 +876,7 @@
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
-                "isNightEvent": false,
+                "isNightEvent": true,
                 "channels": []
             },
             {
@@ -998,7 +892,7 @@
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
-                "isNightEvent": false,
+                "isNightEvent": true,
                 "channels": []
             },
             {
@@ -1014,7 +908,7 @@
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
-                "isNightEvent": false,
+                "isNightEvent": true,
                 "channels": []
             }
         ]
@@ -1790,7 +1684,7 @@
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
-                "isNightEvent": false,
+                "isNightEvent": true,
                 "channels": []
             },
             {
@@ -1822,7 +1716,7 @@
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
-                "isNightEvent": false,
+                "isNightEvent": true,
                 "channels": []
             },
             {
@@ -1838,7 +1732,7 @@
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
-                "isNightEvent": false,
+                "isNightEvent": true,
                 "channels": []
             }
         ]
