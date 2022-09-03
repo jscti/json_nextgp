@@ -106,7 +106,7 @@
                 "hasTime": true,
                 "weatherCondition": 801,
                 "weatherIcon": "02d",
-                "weatherRainProbability": 0.06,
+                "weatherRainProbability": 0.03,
                 "isNightEvent": false,
                 "channels": []
             }
@@ -141,13 +141,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "35"
-                    }
-                ]
+                "channels": []
             },
             {
                 "id": "sr:stage:941109",
@@ -163,13 +157,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "35"
-                    }
-                ]
+                "channels": []
             },
             {
                 "id": "sr:stage:941111",
