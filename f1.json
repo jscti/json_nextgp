@@ -26,9 +26,15 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.81,
+                "weatherRainProbability": 0.55,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "35"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:941389",
@@ -40,11 +46,17 @@
                 "end": "2022-09-09T16:00:00+00:00",
                 "endLocal": "2022-09-09T18:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.32,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0.35,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "35"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:941391",
@@ -58,9 +70,15 @@
                 "hasTime": true,
                 "weatherCondition": 800,
                 "weatherIcon": "01d",
-                "weatherRainProbability": 0,
+                "weatherRainProbability": 0.12,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "35"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:941393",
@@ -74,9 +92,20 @@
                 "hasTime": true,
                 "weatherCondition": 800,
                 "weatherIcon": "01d",
-                "weatherRainProbability": 0.06,
+                "weatherRainProbability": 0.05,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "CH",
+                        "channelName": "RTS 2",
+                        "channelCode": "183"
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "35"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:941463",
@@ -88,11 +117,22 @@
                 "end": "2022-09-11T15:00:00+00:00",
                 "endLocal": "2022-09-11T17:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "CH",
+                        "channelName": "RTS 2",
+                        "channelCode": "183"
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+",
+                        "channelCode": "34"
+                    }
+                ]
             }
         ]
     },
