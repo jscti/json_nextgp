@@ -63,22 +63,6 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:969445",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2022-09-11T16:00:00+00:00",
-                "startLocal": "2022-09-11T09:00:00-07:00",
-                "end": "2022-09-11T16:30:00+00:00",
-                "endLocal": "2022-09-11T09:30:00-07:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
                 "id": "sr:stage:969469",
                 "title": "Race",
                 "type": "race",
@@ -88,9 +72,9 @@
                 "end": "2022-09-11T21:30:00+00:00",
                 "endLocal": "2022-09-11T14:30:00-07:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0.02,
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
