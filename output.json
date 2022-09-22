@@ -92,7 +92,18 @@
                 "weatherIcon": "10d",
                 "weatherRainProbability": 0.2,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "CH",
+                        "channelName": "RTS 2",
+                        "channelCode": "183"
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+",
+                        "channelCode": "34"
+                    }
+                ]
             }
         ]
     },
