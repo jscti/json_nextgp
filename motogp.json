@@ -72,9 +72,9 @@
                 "end": "2022-09-25T07:00:00+00:00",
                 "endLocal": "2022-09-25T16:00:00+09:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0.07,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -118,7 +118,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.4,
+                "weatherRainProbability": 0.59,
                 "isNightEvent": false,
                 "channels": []
             },
