@@ -233,6 +233,11 @@
                 "isNightEvent": false,
                 "channels": [
                     {
+                        "countryCode": "CH",
+                        "channelName": "RTS 2",
+                        "channelCode": "183"
+                    },
+                    {
                         "countryCode": "FR",
                         "channelName": "Canal+ Sport",
                         "channelCode": "35"
@@ -253,7 +258,18 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "CH",
+                        "channelName": "RTS 2",
+                        "channelCode": "183"
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+",
+                        "channelCode": "34"
+                    }
+                ]
             }
         ]
     },
