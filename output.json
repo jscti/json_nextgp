@@ -229,9 +229,9 @@
                 "end": "2022-10-02T14:00:00+00:00",
                 "endLocal": "2022-10-02T22:00:00+08:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10n",
-                "weatherRainProbability": 1,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": true,
                 "channels": [
                     {
@@ -390,8 +390,8 @@
         "type": "motogp",
         "index": "18 / 20",
         "title": "Australian Grand Prix 2022",
-        "start": "2022-10-14T00:00:00+00:00",
-        "end": "2022-10-16T05:00:00+00:00",
+        "start": "2022-10-13T22:55:00+00:00",
+        "end": "2022-10-16T04:00:00+00:00",
         "timezone": "Australia/Melbourne",
         "latitude": -38.5074036,
         "longitude": 145.18848037908447,
