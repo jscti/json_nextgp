@@ -1,113 +1,5 @@
 [
     {
-        "id": "sr:stage:941945",
-        "type": "f1",
-        "index": "17 / 22",
-        "title": "Singapore Grand Prix 2022",
-        "start": "2022-09-30T10:00:00+00:00",
-        "end": "2022-10-02T14:00:00+00:00",
-        "timezone": "Asia/Singapore",
-        "latitude": 1.2899175,
-        "longitude": 103.8519072,
-        "trackName": "Singapore Street Circuit",
-        "countryCode": "SG",
-        "countryName": "Singapore",
-        "cityName": "Singapore City",
-        "steps": [
-            {
-                "id": "sr:stage:941947",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2022-09-30T10:00:00+00:00",
-                "startLocal": "2022-09-30T18:00:00+08:00",
-                "end": "2022-09-30T11:00:00+00:00",
-                "endLocal": "2022-09-30T19:00:00+08:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": true,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:941949",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2022-09-30T13:00:00+00:00",
-                "startLocal": "2022-09-30T21:00:00+08:00",
-                "end": "2022-09-30T14:00:00+00:00",
-                "endLocal": "2022-09-30T22:00:00+08:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": true,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:941951",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2022-10-01T10:00:00+00:00",
-                "startLocal": "2022-10-01T18:00:00+08:00",
-                "end": "2022-10-01T11:00:00+00:00",
-                "endLocal": "2022-10-01T19:00:00+08:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": true,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:941953",
-                "title": "Qualification",
-                "type": "qualifying",
-                "index": null,
-                "start": "2022-10-01T13:00:00+00:00",
-                "startLocal": "2022-10-01T21:00:00+08:00",
-                "end": "2022-10-01T14:00:00+00:00",
-                "endLocal": "2022-10-01T22:00:00+08:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": true,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:942023",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2022-10-02T12:00:00+00:00",
-                "startLocal": "2022-10-02T20:00:00+08:00",
-                "end": "2022-10-02T14:00:00+00:00",
-                "endLocal": "2022-10-02T22:00:00+08:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": true,
-                "channels": [
-                    {
-                        "countryCode": "CH",
-                        "channelName": "RTS 2",
-                        "channelCode": "183"
-                    },
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+",
-                        "channelCode": "34"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "id": "sr:stage:942225",
         "type": "f1",
         "index": "18 / 22",
@@ -132,9 +24,9 @@
                 "end": "2022-10-07T04:00:00+00:00",
                 "endLocal": "2022-10-07T13:00:00+09:00",
                 "hasTime": true,
-                "weatherCondition": 500,
+                "weatherCondition": 501,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.99,
+                "weatherRainProbability": 1,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -176,9 +68,9 @@
                 "end": "2022-10-08T04:00:00+00:00",
                 "endLocal": "2022-10-08T13:00:00+09:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.34,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -198,9 +90,9 @@
                 "end": "2022-10-08T07:00:00+00:00",
                 "endLocal": "2022-10-08T16:00:00+09:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.27,
                 "isNightEvent": false,
                 "channels": [
                     {
