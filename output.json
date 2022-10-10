@@ -1,113 +1,5 @@
 [
     {
-        "id": "sr:stage:942225",
-        "type": "f1",
-        "index": "18 / 22",
-        "title": "Japanese Grand Prix 2022",
-        "start": "2022-10-07T03:00:00+00:00",
-        "end": "2022-10-09T07:00:00+00:00",
-        "timezone": "Asia/Tokyo",
-        "latitude": 34.8817102,
-        "longitude": 136.5836516,
-        "trackName": "Suzuka International Racing Course",
-        "countryCode": "JP",
-        "countryName": "Japan",
-        "cityName": "Suzuka",
-        "steps": [
-            {
-                "id": "sr:stage:942227",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2022-10-07T03:00:00+00:00",
-                "startLocal": "2022-10-07T12:00:00+09:00",
-                "end": "2022-10-07T04:00:00+00:00",
-                "endLocal": "2022-10-07T13:00:00+09:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:942229",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2022-10-07T06:00:00+00:00",
-                "startLocal": "2022-10-07T15:00:00+09:00",
-                "end": "2022-10-07T07:30:00+00:00",
-                "endLocal": "2022-10-07T16:30:00+09:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:942231",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2022-10-08T03:00:00+00:00",
-                "startLocal": "2022-10-08T12:00:00+09:00",
-                "end": "2022-10-08T04:00:00+00:00",
-                "endLocal": "2022-10-08T13:00:00+09:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:942233",
-                "title": "Qualification",
-                "type": "qualifying",
-                "index": null,
-                "start": "2022-10-08T06:00:00+00:00",
-                "startLocal": "2022-10-08T15:00:00+09:00",
-                "end": "2022-10-08T07:00:00+00:00",
-                "endLocal": "2022-10-08T16:00:00+09:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:942303",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2022-10-09T05:00:00+00:00",
-                "startLocal": "2022-10-09T14:00:00+09:00",
-                "end": "2022-10-09T07:00:00+00:00",
-                "endLocal": "2022-10-09T16:00:00+09:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "CH",
-                        "channelName": "RTS 2",
-                        "channelCode": "183"
-                    },
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+",
-                        "channelCode": "34"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "id": "sr:stage:975033",
         "type": "motogp",
         "index": "18 / 20",
@@ -132,9 +24,9 @@
                 "end": "2022-10-13T23:40:00+00:00",
                 "endLocal": "2022-10-14T10:40:00+11:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.2,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -150,7 +42,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.21,
+                "weatherRainProbability": 0.55,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -164,9 +56,9 @@
                 "end": "2022-10-14T23:40:00+00:00",
                 "endLocal": "2022-10-15T10:40:00+11:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
+                "weatherRainProbability": 0.28,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -180,9 +72,9 @@
                 "end": "2022-10-15T03:00:00+00:00",
                 "endLocal": "2022-10-15T14:00:00+11:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.57,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -196,9 +88,9 @@
                 "end": "2022-10-15T03:50:00+00:00",
                 "endLocal": "2022-10-15T14:50:00+11:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.57,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -326,11 +218,11 @@
                 "title": "Race",
                 "type": "race",
                 "index": null,
-                "start": "2022-10-23T00:00:00+00:00",
-                "startLocal": "2022-10-23T08:00:00+08:00",
-                "end": "2022-10-23T23:55:00+00:00",
-                "endLocal": "2022-10-24T07:55:00+08:00",
-                "hasTime": false,
+                "start": "2022-10-23T07:00:00+00:00",
+                "startLocal": "2022-10-23T15:00:00+08:00",
+                "end": "2022-10-23T08:00:00+00:00",
+                "endLocal": "2022-10-23T16:00:00+08:00",
+                "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
@@ -377,8 +269,8 @@
                 "index": 2,
                 "start": "2022-10-21T22:00:00+00:00",
                 "startLocal": "2022-10-21T17:00:00-05:00",
-                "end": "2022-10-21T23:00:00+00:00",
-                "endLocal": "2022-10-21T18:00:00-05:00",
+                "end": "2022-10-21T23:30:00+00:00",
+                "endLocal": "2022-10-21T18:30:00-05:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
@@ -400,7 +292,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "35"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:942513",
@@ -416,7 +314,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "35"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:942583",
