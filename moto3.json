@@ -88,9 +88,9 @@
                 "end": "2022-10-16T01:00:00+00:00",
                 "endLocal": "2022-10-16T12:00:00+11:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.33,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": []
             }
@@ -121,9 +121,9 @@
                 "end": "2022-10-21T01:40:00+00:00",
                 "endLocal": "2022-10-21T09:40:00+08:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.97,
                 "isNightEvent": false,
                 "channels": []
             },
