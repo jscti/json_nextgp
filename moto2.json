@@ -72,9 +72,9 @@
                 "end": "2022-10-22T06:10:00+00:00",
                 "endLocal": "2022-10-22T14:10:00+08:00",
                 "hasTime": true,
-                "weatherCondition": 501,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.99,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -90,7 +90,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.78,
+                "weatherRainProbability": 0.66,
                 "isNightEvent": false,
                 "channels": []
             }
