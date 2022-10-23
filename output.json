@@ -184,13 +184,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "35"
-                    }
-                ]
+                "channels": []
             },
             {
                 "id": "sr:stage:942513",
@@ -206,18 +200,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "CH",
-                        "channelName": "RTS 2",
-                        "channelCode": "183"
-                    },
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "35"
-                    }
-                ]
+                "channels": []
             },
             {
                 "id": "sr:stage:942583",
@@ -273,8 +256,8 @@
                 "end": "2022-10-28T19:00:00+00:00",
                 "endLocal": "2022-10-28T14:00:00-05:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
                 "weatherRainProbability": 0.04,
                 "isNightEvent": false,
                 "channels": []
@@ -289,9 +272,9 @@
                 "end": "2022-10-28T22:30:00+00:00",
                 "endLocal": "2022-10-28T17:30:00-05:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.56,
                 "isNightEvent": false,
                 "channels": []
             },
