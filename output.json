@@ -28,7 +28,13 @@
                 "weatherIcon": "01d",
                 "weatherRainProbability": 0.04,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:942789",
@@ -44,7 +50,13 @@
                 "weatherIcon": "10d",
                 "weatherRainProbability": 0.48,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:942791",
@@ -64,7 +76,7 @@
                     {
                         "countryCode": "FR",
                         "channelName": "Canal+ Sport",
-                        "channelCode": "35"
+                        "channelCode": "C35.api.telerama.fr"
                     }
                 ]
             },
@@ -86,7 +98,7 @@
                     {
                         "countryCode": "FR",
                         "channelName": "Canal+ Sport",
-                        "channelCode": "35"
+                        "channelCode": "C35.api.telerama.fr"
                     }
                 ]
             },
@@ -108,7 +120,12 @@
                     {
                         "countryCode": "CH",
                         "channelName": "RTS 2",
-                        "channelCode": "183"
+                        "channelCode": "C183.api.telerama.fr"
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
                     }
                 ]
             }
@@ -227,7 +244,7 @@
                     {
                         "countryCode": "FR",
                         "channelName": "Canal+",
-                        "channelCode": "34"
+                        "channelCode": "C34.api.telerama.fr"
                     }
                 ]
             }
