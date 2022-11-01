@@ -4,7 +4,7 @@
         "type": "f1",
         "index": "21 / 22",
         "title": "Grande Premio do Brasil 2022",
-        "start": "2022-11-11T16:00:00+00:00",
+        "start": "2022-11-11T15:30:00+00:00",
         "end": "2022-11-13T20:00:00+00:00",
         "timezone": "America/Sao_Paulo",
         "latitude": -23.5506507,
@@ -116,7 +116,23 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "CH",
+                        "channelName": "RTS 2",
+                        "channelCode": "C183.api.telerama.fr"
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "TF1",
+                        "channelCode": "C192.api.telerama.fr"
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+",
+                        "channelCode": "C34.api.telerama.fr"
+                    }
+                ]
             }
         ]
     },
