@@ -24,9 +24,9 @@
                 "end": "2022-11-11T16:30:00+00:00",
                 "endLocal": "2022-11-11T13:30:00-03:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.45,
                 "isNightEvent": false,
                 "channels": [
                     {
