@@ -3,7 +3,7 @@
         "id": "sr:stage:943065",
         "type": "f1",
         "index": "21 / 22",
-        "title": "Grande Premio do Brasil 2022",
+        "title": "Grande Premio do Brasil",
         "start": "2022-11-11T15:30:00+00:00",
         "end": "2022-11-13T20:00:00+00:00",
         "timezone": "America/Sao_Paulo",
@@ -26,7 +26,7 @@
                 "hasTime": true,
                 "weatherCondition": 804,
                 "weatherIcon": "04d",
-                "weatherRainProbability": 0.1,
+                "weatherRainProbability": 0.26,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -48,7 +48,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherRainProbability": 0.7,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -70,7 +70,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.39,
+                "weatherRainProbability": 0.4,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -92,7 +92,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.61,
+                "weatherRainProbability": 0.44,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -112,9 +112,9 @@
                 "end": "2022-11-13T20:00:00+00:00",
                 "endLocal": "2022-11-13T17:00:00-03:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.34,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -140,7 +140,7 @@
         "id": "sr:stage:943345",
         "type": "f1",
         "index": "22 / 22",
-        "title": "Abu Dhabi Grand Prix 2022",
+        "title": "Abu Dhabi Grand Prix",
         "start": "2022-11-18T10:00:00+00:00",
         "end": "2022-11-20T15:00:00+00:00",
         "timezone": "Asia/Dubai",
@@ -253,7 +253,18 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": true,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "CH",
+                        "channelName": "RTS 1",
+                        "channelCode": "C202.api.telerama.fr"
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+",
+                        "channelCode": "C34.api.telerama.fr"
+                    }
+                ]
             }
         ]
     }
