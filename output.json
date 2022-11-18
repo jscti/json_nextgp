@@ -46,9 +46,9 @@
                 "end": "2022-11-18T14:00:00+00:00",
                 "endLocal": "2022-11-18T18:00:00+04:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01n",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": true,
                 "channels": [
                     {
@@ -90,8 +90,8 @@
                 "end": "2022-11-19T15:00:00+00:00",
                 "endLocal": "2022-11-19T19:00:00+04:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01n",
+                "weatherCondition": 801,
+                "weatherIcon": "02n",
                 "weatherRainProbability": 0,
                 "isNightEvent": true,
                 "channels": [
@@ -126,6 +126,11 @@
                         "countryCode": "FR",
                         "channelName": "Canal+",
                         "channelCode": "C34.api.telerama.fr"
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "C8",
+                        "channelCode": "C445.api.telerama.fr"
                     }
                 ]
             }
