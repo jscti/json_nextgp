@@ -1,1 +1,115 @@
-[]
+[
+    {
+        "id": "sr:stage:943345",
+        "type": "f1",
+        "index": "22 / 22",
+        "title": "Abu Dhabi Grand Prix",
+        "start": "2022-11-18T10:00:00+00:00",
+        "end": "2022-11-20T15:00:00+00:00",
+        "timezone": "Asia/Dubai",
+        "latitude": 24.4538352,
+        "longitude": 54.3774014,
+        "trackName": "Yas Marina Circuit",
+        "countryCode": "AE",
+        "countryName": "United Arab Emirates",
+        "cityName": "Abu Dhabi",
+        "steps": [
+            {
+                "id": "sr:stage:943347",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2022-11-18T10:00:00+00:00",
+                "startLocal": "2022-11-18T14:00:00+04:00",
+                "end": "2022-11-18T11:00:00+00:00",
+                "endLocal": "2022-11-18T15:00:00+04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
+            },
+            {
+                "id": "sr:stage:943349",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2022-11-18T13:00:00+00:00",
+                "startLocal": "2022-11-18T17:00:00+04:00",
+                "end": "2022-11-18T14:00:00+00:00",
+                "endLocal": "2022-11-18T18:00:00+04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": true,
+                "channels": []
+            },
+            {
+                "id": "sr:stage:943351",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2022-11-19T10:30:00+00:00",
+                "startLocal": "2022-11-19T14:30:00+04:00",
+                "end": "2022-11-19T11:30:00+00:00",
+                "endLocal": "2022-11-19T15:30:00+04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
+            },
+            {
+                "id": "sr:stage:943353",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2022-11-19T14:00:00+00:00",
+                "startLocal": "2022-11-19T18:00:00+04:00",
+                "end": "2022-11-19T15:00:00+00:00",
+                "endLocal": "2022-11-19T19:00:00+04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": true,
+                "channels": []
+            },
+            {
+                "id": "sr:stage:943423",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2022-11-20T13:00:00+00:00",
+                "startLocal": "2022-11-20T17:00:00+04:00",
+                "end": "2022-11-20T15:00:00+00:00",
+                "endLocal": "2022-11-20T19:00:00+04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": true,
+                "channels": [
+                    {
+                        "countryCode": "CH",
+                        "channelName": "RTS 1",
+                        "channelCode": "C202.api.telerama.fr"
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+",
+                        "channelCode": "C34.api.telerama.fr"
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "C8",
+                        "channelCode": "C445.api.telerama.fr"
+                    }
+                ]
+            }
+        ]
+    }
+]
