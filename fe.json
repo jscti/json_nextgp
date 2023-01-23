@@ -42,7 +42,7 @@
                 "hasTime": true,
                 "weatherCondition": 800,
                 "weatherIcon": "01d",
-                "weatherRainProbability": 0,
+                "weatherRainProbability": 0.04,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -56,8 +56,8 @@
                 "end": "2023-01-27T13:55:00+00:00",
                 "endLocal": "2023-01-27T16:55:00+03:00",
                 "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
@@ -72,9 +72,9 @@
                 "end": "2023-01-27T18:00:00+00:00",
                 "endLocal": "2023-01-27T21:00:00+03:00",
                 "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02n",
-                "weatherRainProbability": 0.24,
+                "weatherCondition": 800,
+                "weatherIcon": "01n",
+                "weatherRainProbability": 0.01,
                 "isNightEvent": true,
                 "channels": []
             }
@@ -105,9 +105,9 @@
                 "end": "2023-01-28T11:00:00+00:00",
                 "endLocal": "2023-01-28T14:00:00+03:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -121,9 +121,9 @@
                 "end": "2023-01-28T13:55:00+00:00",
                 "endLocal": "2023-01-28T16:55:00+03:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -137,9 +137,9 @@
                 "end": "2023-01-28T18:00:00+00:00",
                 "endLocal": "2023-01-28T21:00:00+03:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 802,
+                "weatherIcon": "03n",
+                "weatherRainProbability": 0.03,
                 "isNightEvent": true,
                 "channels": []
             }
