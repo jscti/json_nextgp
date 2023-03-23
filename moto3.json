@@ -112,11 +112,17 @@
                 "end": "2023-03-26T11:00:00+00:00",
                 "endLocal": "2023-03-26T12:00:00+01:00",
                 "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             }
         ]
     },
