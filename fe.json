@@ -56,9 +56,9 @@
                 "end": "2023-03-25T13:55:00+00:00",
                 "endLocal": "2023-03-25T10:55:00-03:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "weatherRainProbability": 0.04,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -74,7 +74,7 @@
                 "hasTime": true,
                 "weatherCondition": 802,
                 "weatherIcon": "03d",
-                "weatherRainProbability": 0.27,
+                "weatherRainProbability": 0.25,
                 "isNightEvent": false,
                 "channels": []
             }
