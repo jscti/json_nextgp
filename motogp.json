@@ -1,135 +1,5 @@
 [
     {
-        "id": "sr:stage:1030981",
-        "type": "motogp",
-        "index": "1 / 21",
-        "title": "Grande Premio de Portugal",
-        "start": "2023-03-24T10:45:00+00:00",
-        "end": "2023-03-26T14:00:00+00:00",
-        "timezone": "Europe/Lisbon",
-        "latitude": "37.2313331",
-        "longitude": "-8.6305163",
-        "trackName": "Autodromo International Algarve",
-        "countryCode": "PT",
-        "countryName": "Portugal",
-        "cityName": "Portimao",
-        "steps": [
-            {
-                "id": "sr:stage:1030983",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2023-03-24T10:45:00+00:00",
-                "startLocal": "2023-03-24T10:45:00Z",
-                "end": "2023-03-24T11:30:00+00:00",
-                "endLocal": "2023-03-24T11:30:00Z",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1030985",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2023-03-24T15:00:00+00:00",
-                "startLocal": "2023-03-24T15:00:00Z",
-                "end": "2023-03-24T16:00:00+00:00",
-                "endLocal": "2023-03-24T16:00:00Z",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1030987",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2023-03-25T10:10:00+00:00",
-                "startLocal": "2023-03-25T10:10:00Z",
-                "end": "2023-03-25T10:40:00+00:00",
-                "endLocal": "2023-03-25T10:40:00Z",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1030991",
-                "title": "Qualifying",
-                "type": "qualifying",
-                "index": null,
-                "start": "2023-03-25T10:50:00+00:00",
-                "startLocal": "2023-03-25T10:50:00Z",
-                "end": "2023-03-25T11:30:00+00:00",
-                "endLocal": "2023-03-25T11:30:00Z",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1030997",
-                "title": "Sprint",
-                "type": "race",
-                "index": 1,
-                "start": "2023-03-25T15:00:00+00:00",
-                "startLocal": "2023-03-25T15:00:00Z",
-                "end": "2023-03-25T16:00:00+00:00",
-                "endLocal": "2023-03-25T16:00:00Z",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "CH",
-                        "channelName": "RTS 2",
-                        "channelCode": "C183.api.telerama.fr"
-                    }
-                ]
-            },
-            {
-                "id": "sr:stage:1030999",
-                "title": "Race",
-                "type": "race",
-                "index": 2,
-                "start": "2023-03-26T13:00:00+00:00",
-                "startLocal": "2023-03-26T14:00:00+01:00",
-                "end": "2023-03-26T14:00:00+00:00",
-                "endLocal": "2023-03-26T15:00:00+01:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "CH",
-                        "channelName": "RTS 2",
-                        "channelCode": "C183.api.telerama.fr"
-                    },
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+",
-                        "channelCode": "C34.api.telerama.fr"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "id": "sr:stage:1032043",
         "type": "motogp",
         "index": "2 / 21",
@@ -154,9 +24,9 @@
                 "end": "2023-03-31T14:30:00+00:00",
                 "endLocal": "2023-03-31T11:30:00-03:00",
                 "hasTime": true,
-                "weatherCondition": 501,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.93,
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -170,9 +40,9 @@
                 "end": "2023-03-31T19:00:00+00:00",
                 "endLocal": "2023-03-31T16:00:00-03:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.96,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0.43,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -186,9 +56,9 @@
                 "end": "2023-04-01T13:40:00+00:00",
                 "endLocal": "2023-04-01T10:40:00-03:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.91,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -202,9 +72,9 @@
                 "end": "2023-04-01T14:30:00+00:00",
                 "endLocal": "2023-04-01T11:30:00-03:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.23,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -218,9 +88,9 @@
                 "end": "2023-04-01T19:00:00+00:00",
                 "endLocal": "2023-04-01T16:00:00-03:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.39,
                 "isNightEvent": false,
                 "channels": [
                     {
