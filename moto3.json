@@ -1,108 +1,5 @@
 [
     {
-        "id": "sr:stage:1042663",
-        "type": "moto3",
-        "index": "2 / 21",
-        "title": "Gran Premio de la Republica Argentina",
-        "start": "2023-03-31T12:00:00+00:00",
-        "end": "2023-04-02T15:00:00+00:00",
-        "timezone": "America/Argentina/Cordoba",
-        "latitude": "-27.505194",
-        "longitude": "-64.913744",
-        "trackName": "Autodromo Termas de Rio Hondo",
-        "countryCode": "AR",
-        "countryName": "Argentina",
-        "cityName": "Santiago del Estero",
-        "steps": [
-            {
-                "id": "sr:stage:1042665",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2023-03-31T12:00:00+00:00",
-                "startLocal": "2023-03-31T09:00:00-03:00",
-                "end": "2023-03-31T12:35:00+00:00",
-                "endLocal": "2023-03-31T09:35:00-03:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1042667",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2023-03-31T16:15:00+00:00",
-                "startLocal": "2023-03-31T13:15:00-03:00",
-                "end": "2023-03-31T16:50:00+00:00",
-                "endLocal": "2023-03-31T13:50:00-03:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1042669",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2023-04-01T11:40:00+00:00",
-                "startLocal": "2023-04-01T08:40:00-03:00",
-                "end": "2023-04-01T12:10:00+00:00",
-                "endLocal": "2023-04-01T09:10:00-03:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1042671",
-                "title": "Qualifying",
-                "type": "qualifying",
-                "index": null,
-                "start": "2023-04-01T15:50:00+00:00",
-                "startLocal": "2023-04-01T12:50:00-03:00",
-                "end": "2023-04-01T16:30:00+00:00",
-                "endLocal": "2023-04-01T13:30:00-03:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1042677",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2023-04-02T14:00:00+00:00",
-                "startLocal": "2023-04-02T11:00:00-03:00",
-                "end": "2023-04-02T15:00:00+00:00",
-                "endLocal": "2023-04-02T12:00:00-03:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+",
-                        "channelCode": "C34.api.telerama.fr"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "id": "sr:stage:1042879",
         "type": "moto3",
         "index": "3 / 21",
@@ -179,7 +76,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1042893",

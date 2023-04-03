@@ -1,129 +1,5 @@
 [
     {
-        "id": "sr:stage:1032043",
-        "type": "motogp",
-        "index": "2 / 21",
-        "title": "Gran Premio de la Republica Argentina",
-        "start": "2023-03-31T13:45:00+00:00",
-        "end": "2023-04-02T18:00:00+00:00",
-        "timezone": "America/Argentina/Cordoba",
-        "latitude": "-27.505194",
-        "longitude": "-64.913744",
-        "trackName": "Autodromo Termas de Rio Hondo",
-        "countryCode": "AR",
-        "countryName": "Argentina",
-        "cityName": "Santiago del Estero",
-        "steps": [
-            {
-                "id": "sr:stage:1032045",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2023-03-31T13:45:00+00:00",
-                "startLocal": "2023-03-31T10:45:00-03:00",
-                "end": "2023-03-31T14:30:00+00:00",
-                "endLocal": "2023-03-31T11:30:00-03:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1032047",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2023-03-31T18:00:00+00:00",
-                "startLocal": "2023-03-31T15:00:00-03:00",
-                "end": "2023-03-31T19:00:00+00:00",
-                "endLocal": "2023-03-31T16:00:00-03:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1032049",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2023-04-01T13:10:00+00:00",
-                "startLocal": "2023-04-01T10:10:00-03:00",
-                "end": "2023-04-01T13:40:00+00:00",
-                "endLocal": "2023-04-01T10:40:00-03:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1032053",
-                "title": "Qualifying",
-                "type": "qualifying",
-                "index": null,
-                "start": "2023-04-01T13:50:00+00:00",
-                "startLocal": "2023-04-01T10:50:00-03:00",
-                "end": "2023-04-01T14:30:00+00:00",
-                "endLocal": "2023-04-01T11:30:00-03:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1032059",
-                "title": "Sprint",
-                "type": "race",
-                "index": 1,
-                "start": "2023-04-01T18:00:00+00:00",
-                "startLocal": "2023-04-01T15:00:00-03:00",
-                "end": "2023-04-01T18:30:00+00:00",
-                "endLocal": "2023-04-01T15:30:00-03:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1032061",
-                "title": "Race",
-                "type": "race",
-                "index": 2,
-                "start": "2023-04-02T17:00:00+00:00",
-                "startLocal": "2023-04-02T14:00:00-03:00",
-                "end": "2023-04-02T18:00:00+00:00",
-                "endLocal": "2023-04-02T15:00:00-03:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "CH",
-                        "channelName": "RTS 2",
-                        "channelCode": "C183.api.telerama.fr"
-                    },
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+",
-                        "channelCode": "C34.api.telerama.fr"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "id": "sr:stage:1032263",
         "type": "motogp",
         "index": "3 / 21",
@@ -209,14 +85,20 @@
                 "index": 1,
                 "start": "2023-04-15T20:00:00+00:00",
                 "startLocal": "2023-04-15T15:00:00-05:00",
-                "end": "2023-04-15T21:00:00+00:00",
-                "endLocal": "2023-04-15T16:00:00-05:00",
+                "end": "2023-04-15T20:30:00+00:00",
+                "endLocal": "2023-04-15T15:30:00-05:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1032281",
