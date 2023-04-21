@@ -24,8 +24,8 @@
                 "end": "2023-04-21T15:45:00+00:00",
                 "endLocal": "2023-04-21T17:45:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
@@ -72,8 +72,8 @@
                 "end": "2023-04-22T14:30:00+00:00",
                 "endLocal": "2023-04-22T16:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
@@ -105,9 +105,9 @@
                 "end": "2023-04-23T06:55:00+00:00",
                 "endLocal": "2023-04-23T08:55:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.48,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -123,7 +123,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.79,
+                "weatherRainProbability": 0.84,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -137,9 +137,9 @@
                 "end": "2023-04-23T14:30:00+00:00",
                 "endLocal": "2023-04-23T16:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0.56,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.8,
                 "isNightEvent": false,
                 "channels": []
             }
