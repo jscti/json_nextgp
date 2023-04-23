@@ -121,9 +121,9 @@
                 "end": "2023-04-23T09:55:00+00:00",
                 "endLocal": "2023-04-23T11:55:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.8,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -137,9 +137,9 @@
                 "end": "2023-04-23T14:30:00+00:00",
                 "endLocal": "2023-04-23T16:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0.73,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 1,
                 "isNightEvent": false,
                 "channels": []
             }
