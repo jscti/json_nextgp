@@ -68,9 +68,9 @@
                 "end": "2023-05-13T07:55:00+00:00",
                 "endLocal": "2023-05-13T09:55:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -92,7 +92,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.21,
+                "weatherRainProbability": 0.27,
                 "isNightEvent": false,
                 "channels": [
                     {
