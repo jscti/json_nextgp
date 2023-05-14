@@ -60,13 +60,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": "canal-plus-sport360.fr"
-                    }
-                ]
+                "channels": []
             },
             {
                 "id": "sr:stage:1032737",
@@ -82,13 +76,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": "canal-plus-sport360.fr"
-                    }
-                ]
+                "channels": []
             },
             {
                 "id": "sr:stage:1032743",
@@ -104,13 +92,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": "canal-plus-sport360.fr"
-                    }
-                ]
+                "channels": []
             },
             {
                 "id": "sr:stage:1032745",
@@ -122,9 +104,9 @@
                 "end": "2023-05-14T13:00:00+00:00",
                 "endLocal": "2023-05-14T15:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -166,9 +148,9 @@
                 "end": "2023-05-19T12:30:00+00:00",
                 "endLocal": "2023-05-19T14:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.2,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -297,7 +279,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1037645",
@@ -313,7 +301,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1037647",
