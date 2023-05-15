@@ -1,129 +1,5 @@
 [
     {
-        "id": "sr:stage:1032727",
-        "type": "motogp",
-        "index": "5 / 20",
-        "title": "Grand Prix de France",
-        "start": "2023-05-12T08:45:00+00:00",
-        "end": "2023-05-14T13:00:00+00:00",
-        "timezone": "Europe/Paris",
-        "latitude": "47.954772",
-        "longitude": "0.21097",
-        "trackName": "Le Mans Bugatti Circuit",
-        "countryCode": "FR",
-        "countryName": "France",
-        "cityName": "Le Mans",
-        "steps": [
-            {
-                "id": "sr:stage:1032729",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2023-05-12T08:45:00+00:00",
-                "startLocal": "2023-05-12T10:45:00+02:00",
-                "end": "2023-05-12T09:30:00+00:00",
-                "endLocal": "2023-05-12T11:30:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1032731",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2023-05-12T13:00:00+00:00",
-                "startLocal": "2023-05-12T15:00:00+02:00",
-                "end": "2023-05-12T14:00:00+00:00",
-                "endLocal": "2023-05-12T16:00:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1032733",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2023-05-13T08:10:00+00:00",
-                "startLocal": "2023-05-13T10:10:00+02:00",
-                "end": "2023-05-13T08:40:00+00:00",
-                "endLocal": "2023-05-13T10:40:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1032737",
-                "title": "Qualifying",
-                "type": "qualifying",
-                "index": null,
-                "start": "2023-05-13T08:50:00+00:00",
-                "startLocal": "2023-05-13T10:50:00+02:00",
-                "end": "2023-05-13T09:30:00+00:00",
-                "endLocal": "2023-05-13T11:30:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1032743",
-                "title": "Sprint",
-                "type": "race",
-                "index": 1,
-                "start": "2023-05-13T13:00:00+00:00",
-                "startLocal": "2023-05-13T15:00:00+02:00",
-                "end": "2023-05-13T13:30:00+00:00",
-                "endLocal": "2023-05-13T15:30:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1032745",
-                "title": "Race",
-                "type": "race",
-                "index": 2,
-                "start": "2023-05-14T12:00:00+00:00",
-                "startLocal": "2023-05-14T14:00:00+02:00",
-                "end": "2023-05-14T13:00:00+00:00",
-                "endLocal": "2023-05-14T15:00:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+",
-                        "channelCode": "C34.api.telerama.fr"
-                    },
-                    {
-                        "countryCode": "FR",
-                        "channelName": "C8",
-                        "channelCode": "C445.api.telerama.fr"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "id": "sr:stage:1037355",
         "type": "f1",
         "index": "6 / 23",
@@ -150,7 +26,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.2,
+                "weatherRainProbability": 0.38,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -172,7 +48,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.2,
+                "weatherRainProbability": 0.49,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -192,9 +68,9 @@
                 "end": "2023-05-20T11:30:00+00:00",
                 "endLocal": "2023-05-20T13:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 501,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 1,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -214,9 +90,9 @@
                 "end": "2023-05-20T15:00:00+00:00",
                 "endLocal": "2023-05-20T17:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 501,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.95,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -323,7 +199,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1037649",
@@ -339,7 +221,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+",
+                        "channelCode": "C34.api.telerama.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1037719",
@@ -908,6 +796,20 @@
         "cityName": "Spielberg",
         "steps": [
             {
+                "id": "sr:stage:1100233",
+                "title": "Sprint Shootout",
+                "type": "qualifying",
+                "index": 1,
+                "startLocal": "2023-05-16T00:15:53+02:00",
+                "endLocal": "2023-05-16T00:15:53+02:00",
+                "hasTime": false,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
+            },
+            {
                 "id": "sr:stage:1038501",
                 "title": "Practice 1",
                 "type": "practice",
@@ -927,7 +829,7 @@
                 "id": "sr:stage:1038507",
                 "title": "Qualification",
                 "type": "qualifying",
-                "index": null,
+                "index": 2,
                 "start": "2023-06-30T15:00:00+00:00",
                 "startLocal": "2023-06-30T17:00:00+02:00",
                 "end": "2023-06-30T16:00:00+00:00",
@@ -1199,6 +1101,20 @@
         "cityName": "Spa-Francorchamps",
         "steps": [
             {
+                "id": "sr:stage:1100241",
+                "title": "Sprint Shootout",
+                "type": "qualifying",
+                "index": 1,
+                "startLocal": "2023-05-16T00:15:58+02:00",
+                "endLocal": "2023-05-16T00:15:58+02:00",
+                "hasTime": false,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
+            },
+            {
                 "id": "sr:stage:1039341",
                 "title": "Practice 1",
                 "type": "practice",
@@ -1218,7 +1134,7 @@
                 "id": "sr:stage:1039347",
                 "title": "Qualification",
                 "type": "qualifying",
-                "index": null,
+                "index": 2,
                 "start": "2023-07-28T15:00:00+00:00",
                 "startLocal": "2023-07-28T17:00:00+02:00",
                 "end": "2023-07-28T16:00:00+00:00",
@@ -2362,6 +2278,20 @@
         "cityName": "Doha",
         "steps": [
             {
+                "id": "sr:stage:1100249",
+                "title": "Sprint Shootout",
+                "type": "qualifying",
+                "index": 1,
+                "startLocal": "2023-05-16T01:16:07+03:00",
+                "endLocal": "2023-05-16T01:16:07+03:00",
+                "hasTime": false,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
+            },
+            {
                 "id": "sr:stage:1040741",
                 "title": "Practice 1",
                 "type": "practice",
@@ -2381,7 +2311,7 @@
                 "id": "sr:stage:1040747",
                 "title": "Qualification",
                 "type": "qualifying",
-                "index": null,
+                "index": 2,
                 "start": "2023-10-06T17:00:00+00:00",
                 "startLocal": "2023-10-06T20:00:00+03:00",
                 "end": "2023-10-06T18:00:00+00:00",
@@ -2685,6 +2615,20 @@
         "cityName": "Austin",
         "steps": [
             {
+                "id": "sr:stage:1100257",
+                "title": "Sprint Shootout",
+                "type": "qualifying",
+                "index": 1,
+                "startLocal": "2023-05-15T17:16:08-05:00",
+                "endLocal": "2023-05-15T17:16:08-05:00",
+                "hasTime": false,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
+            },
+            {
                 "id": "sr:stage:1041021",
                 "title": "Practice 1",
                 "type": "practice",
@@ -2704,7 +2648,7 @@
                 "id": "sr:stage:1041027",
                 "title": "Qualification",
                 "type": "qualifying",
-                "index": null,
+                "index": 2,
                 "start": "2023-10-20T21:00:00+00:00",
                 "startLocal": "2023-10-20T16:00:00-05:00",
                 "end": "2023-10-20T22:00:00+00:00",
@@ -2992,6 +2936,20 @@
         "cityName": "Sao Paulo",
         "steps": [
             {
+                "id": "sr:stage:1100265",
+                "title": "Sprint Shootout",
+                "type": "qualifying",
+                "index": 1,
+                "startLocal": "2023-05-15T19:16:12-03:00",
+                "endLocal": "2023-05-15T19:16:12-03:00",
+                "hasTime": false,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
+            },
+            {
                 "id": "sr:stage:1041581",
                 "title": "Practice 1",
                 "type": "practice",
@@ -3011,7 +2969,7 @@
                 "id": "sr:stage:1041587",
                 "title": "Qualification",
                 "type": "qualifying",
-                "index": null,
+                "index": 2,
                 "start": "2023-11-03T18:00:00+00:00",
                 "startLocal": "2023-11-03T15:00:00-03:00",
                 "end": "2023-11-03T19:00:00+00:00",
