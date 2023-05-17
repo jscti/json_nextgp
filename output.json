@@ -1,135 +1,8 @@
 [
     {
-        "id": "sr:stage:1037355",
-        "type": "f1",
-        "index": "6 / 23",
-        "title": "Emilia Romagna Grand Prix",
-        "start": "2023-05-19T11:30:00+00:00",
-        "end": "2023-05-21T15:00:00+00:00",
-        "timezone": "Europe/Rome",
-        "latitude": "44.3440738",
-        "longitude": "11.7143509",
-        "trackName": "Autodromo Enzo e Dino Ferrari",
-        "countryCode": "IT",
-        "countryName": "Italy",
-        "cityName": "Imola",
-        "steps": [
-            {
-                "id": "sr:stage:1037357",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2023-05-19T11:30:00+00:00",
-                "startLocal": "2023-05-19T13:30:00+02:00",
-                "end": "2023-05-19T12:30:00+00:00",
-                "endLocal": "2023-05-19T14:30:00+02:00",
-                "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.24,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "C35.api.telerama.fr"
-                    }
-                ]
-            },
-            {
-                "id": "sr:stage:1037359",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2023-05-19T15:00:00+00:00",
-                "startLocal": "2023-05-19T17:00:00+02:00",
-                "end": "2023-05-19T16:00:00+00:00",
-                "endLocal": "2023-05-19T18:00:00+02:00",
-                "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.23,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "C35.api.telerama.fr"
-                    }
-                ]
-            },
-            {
-                "id": "sr:stage:1037361",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2023-05-20T10:30:00+00:00",
-                "startLocal": "2023-05-20T12:30:00+02:00",
-                "end": "2023-05-20T11:30:00+00:00",
-                "endLocal": "2023-05-20T13:30:00+02:00",
-                "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.47,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "C35.api.telerama.fr"
-                    }
-                ]
-            },
-            {
-                "id": "sr:stage:1037363",
-                "title": "Qualification",
-                "type": "qualifying",
-                "index": null,
-                "start": "2023-05-20T14:00:00+00:00",
-                "startLocal": "2023-05-20T16:00:00+02:00",
-                "end": "2023-05-20T15:00:00+00:00",
-                "endLocal": "2023-05-20T17:00:00+02:00",
-                "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.91,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "C35.api.telerama.fr"
-                    }
-                ]
-            },
-            {
-                "id": "sr:stage:1037433",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2023-05-21T13:00:00+00:00",
-                "startLocal": "2023-05-21T15:00:00+02:00",
-                "end": "2023-05-21T15:00:00+00:00",
-                "endLocal": "2023-05-21T17:00:00+02:00",
-                "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.33,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+",
-                        "channelCode": "C34.api.telerama.fr"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "id": "sr:stage:1037641",
         "type": "f1",
-        "index": "7 / 23",
+        "index": "6 / 22",
         "title": "Monaco Grand Prix",
         "start": "2023-05-26T11:30:00+00:00",
         "end": "2023-05-28T15:00:00+00:00",
@@ -243,14 +116,25 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "CH",
+                        "channelName": "RTS 1",
+                        "channelCode": "C202.api.telerama.fr"
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+",
+                        "channelCode": "C34.api.telerama.fr"
+                    }
+                ]
             }
         ]
     },
     {
         "id": "sr:stage:1037939",
         "type": "f1",
-        "index": "8 / 23",
+        "index": "7 / 22",
         "title": "Spanish Grand Prix",
         "start": "2023-06-02T12:00:00+00:00",
         "end": "2023-06-04T15:00:00+00:00",
@@ -573,7 +457,7 @@
     {
         "id": "sr:stage:1038219",
         "type": "f1",
-        "index": "9 / 23",
+        "index": "8 / 22",
         "title": "Canadian Grand Prix",
         "start": "2023-06-16T18:00:00+00:00",
         "end": "2023-06-18T20:00:00+00:00",
@@ -783,7 +667,7 @@
     {
         "id": "sr:stage:1038499",
         "type": "f1",
-        "index": "10 / 23",
+        "index": "9 / 22",
         "title": "Austrian Grand Prix",
         "start": "2023-06-30T11:30:00+00:00",
         "end": "2023-07-02T15:00:00+00:00",
@@ -800,8 +684,8 @@
                 "title": "Sprint Shootout",
                 "type": "qualifying",
                 "index": 1,
-                "startLocal": "2023-05-17T00:15:52+02:00",
-                "endLocal": "2023-05-17T00:15:52+02:00",
+                "startLocal": "2023-05-17T14:08:27+02:00",
+                "endLocal": "2023-05-17T14:08:27+02:00",
                 "hasTime": false,
                 "weatherCondition": null,
                 "weatherIcon": null,
@@ -894,7 +778,7 @@
     {
         "id": "sr:stage:1038779",
         "type": "f1",
-        "index": "11 / 23",
+        "index": "10 / 22",
         "title": "British Grand Prix",
         "start": "2023-07-07T12:00:00+00:00",
         "end": "2023-07-09T16:00:00+00:00",
@@ -991,7 +875,7 @@
     {
         "id": "sr:stage:1039059",
         "type": "f1",
-        "index": "12 / 23",
+        "index": "11 / 22",
         "title": "Hungarian Grand Prix",
         "start": "2023-07-21T12:00:00+00:00",
         "end": "2023-07-23T15:00:00+00:00",
@@ -1088,7 +972,7 @@
     {
         "id": "sr:stage:1039339",
         "type": "f1",
-        "index": "13 / 23",
+        "index": "12 / 22",
         "title": "Belgian Grand Prix",
         "start": "2023-07-28T12:00:00+00:00",
         "end": "2023-07-30T15:00:00+00:00",
@@ -1105,8 +989,8 @@
                 "title": "Sprint Shootout",
                 "type": "qualifying",
                 "index": 1,
-                "startLocal": "2023-05-17T00:15:53+02:00",
-                "endLocal": "2023-05-17T00:15:53+02:00",
+                "startLocal": "2023-05-17T14:08:29+02:00",
+                "endLocal": "2023-05-17T14:08:29+02:00",
                 "hasTime": false,
                 "weatherCondition": null,
                 "weatherIcon": null,
@@ -1425,7 +1309,7 @@
     {
         "id": "sr:stage:1039619",
         "type": "f1",
-        "index": "14 / 23",
+        "index": "13 / 22",
         "title": "Dutch Grand Prix",
         "start": "2023-08-25T10:30:00+00:00",
         "end": "2023-08-27T15:00:00+00:00",
@@ -1635,7 +1519,7 @@
     {
         "id": "sr:stage:1039899",
         "type": "f1",
-        "index": "15 / 23",
+        "index": "14 / 22",
         "title": "Italian Grand Prix",
         "start": "2023-09-01T12:00:00+00:00",
         "end": "2023-09-03T15:00:00+00:00",
@@ -1845,7 +1729,7 @@
     {
         "id": "sr:stage:1040179",
         "type": "f1",
-        "index": "16 / 23",
+        "index": "15 / 22",
         "title": "Singapore Grand Prix",
         "start": "2023-09-15T10:00:00+00:00",
         "end": "2023-09-17T14:00:00+00:00",
@@ -1942,7 +1826,7 @@
     {
         "id": "sr:stage:1040459",
         "type": "f1",
-        "index": "17 / 23",
+        "index": "16 / 22",
         "title": "Japanese Grand Prix",
         "start": "2023-09-22T03:00:00+00:00",
         "end": "2023-09-24T07:00:00+00:00",
@@ -2265,7 +2149,7 @@
     {
         "id": "sr:stage:1040739",
         "type": "f1",
-        "index": "18 / 23",
+        "index": "17 / 22",
         "title": "Qatar Grand Prix",
         "start": "2023-10-06T10:30:00+00:00",
         "end": "2023-10-08T16:00:00+00:00",
@@ -2282,8 +2166,8 @@
                 "title": "Sprint Shootout",
                 "type": "qualifying",
                 "index": 1,
-                "startLocal": "2023-05-17T01:15:54+03:00",
-                "endLocal": "2023-05-17T01:15:54+03:00",
+                "startLocal": "2023-05-17T15:08:31+03:00",
+                "endLocal": "2023-05-17T15:08:31+03:00",
                 "hasTime": false,
                 "weatherCondition": null,
                 "weatherIcon": null,
@@ -2602,7 +2486,7 @@
     {
         "id": "sr:stage:1041019",
         "type": "f1",
-        "index": "19 / 23",
+        "index": "18 / 22",
         "title": "United States Grand Prix",
         "start": "2023-10-20T19:00:00+00:00",
         "end": "2023-10-22T23:00:00+00:00",
@@ -2619,8 +2503,8 @@
                 "title": "Sprint Shootout",
                 "type": "qualifying",
                 "index": 1,
-                "startLocal": "2023-05-16T17:15:54-05:00",
-                "endLocal": "2023-05-16T17:15:54-05:00",
+                "startLocal": "2023-05-17T07:08:31-05:00",
+                "endLocal": "2023-05-17T07:08:31-05:00",
                 "hasTime": false,
                 "weatherCondition": null,
                 "weatherIcon": null,
@@ -2826,7 +2710,7 @@
     {
         "id": "sr:stage:1041299",
         "type": "f1",
-        "index": "20 / 23",
+        "index": "19 / 22",
         "title": "Mexico City Grand Prix",
         "start": "2023-10-27T18:00:00+00:00",
         "end": "2023-10-29T21:00:00+00:00",
@@ -2923,7 +2807,7 @@
     {
         "id": "sr:stage:1041579",
         "type": "f1",
-        "index": "21 / 23",
+        "index": "20 / 22",
         "title": "Sao Paulo Grand Prix",
         "start": "2023-11-03T16:00:00+00:00",
         "end": "2023-11-05T20:00:00+00:00",
@@ -2940,8 +2824,8 @@
                 "title": "Sprint Shootout",
                 "type": "qualifying",
                 "index": 1,
-                "startLocal": "2023-05-16T19:15:55-03:00",
-                "endLocal": "2023-05-16T19:15:55-03:00",
+                "startLocal": "2023-05-17T09:08:32-03:00",
+                "endLocal": "2023-05-17T09:08:32-03:00",
                 "hasTime": false,
                 "weatherCondition": null,
                 "weatherIcon": null,
@@ -3147,7 +3031,7 @@
     {
         "id": "sr:stage:1041859",
         "type": "f1",
-        "index": "22 / 23",
+        "index": "21 / 22",
         "title": "Las Vegas Grand Prix",
         "start": "2023-11-17T04:30:00+00:00",
         "end": "2023-11-19T08:00:00+00:00",
@@ -3357,7 +3241,7 @@
     {
         "id": "sr:stage:1042139",
         "type": "f1",
-        "index": "23 / 23",
+        "index": "22 / 22",
         "title": "Abu Dhabi Grand Prix",
         "start": "2023-11-24T09:30:00+00:00",
         "end": "2023-11-26T15:00:00+00:00",
