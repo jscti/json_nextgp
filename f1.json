@@ -24,9 +24,9 @@
                 "end": "2023-06-02T12:30:00+00:00",
                 "endLocal": "2023-06-02T14:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.39,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -48,7 +48,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.32,
+                "weatherRainProbability": 0.4,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -70,7 +70,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.39,
+                "weatherRainProbability": 0.35,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -92,13 +92,18 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.41,
+                "weatherRainProbability": 0.49,
                 "isNightEvent": false,
                 "channels": [
                     {
                         "countryCode": "CH",
                         "channelName": "RTS 2",
                         "channelCode": "C183.api.telerama.fr"
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+",
+                        "channelCode": "C34.api.telerama.fr"
                     },
                     {
                         "countryCode": "FR",
@@ -119,7 +124,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.26,
+                "weatherRainProbability": 0.33,
                 "isNightEvent": false,
                 "channels": [
                     {
