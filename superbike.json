@@ -72,9 +72,9 @@
                 "end": "2023-06-03T09:25:00+00:00",
                 "endLocal": "2023-06-03T11:25:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "weatherRainProbability": 0.15,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -88,8 +88,8 @@
                 "end": "2023-06-03T13:00:00+00:00",
                 "endLocal": "2023-06-03T15:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0.23,
                 "isNightEvent": false,
                 "channels": []
