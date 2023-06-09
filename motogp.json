@@ -46,9 +46,9 @@
                 "end": "2023-06-09T14:00:00+00:00",
                 "endLocal": "2023-06-09T16:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
-                "weatherRainProbability": 0.16,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -70,7 +70,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.72,
+                "weatherRainProbability": 0.84,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -92,7 +92,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.72,
+                "weatherRainProbability": 0.84,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -113,7 +113,7 @@
                 "end": "2023-06-10T13:30:00+00:00",
                 "endLocal": "2023-06-10T15:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 500,
+                "weatherCondition": 501,
                 "weatherIcon": "10d",
                 "weatherRainProbability": 1,
                 "isNightEvent": false,
@@ -135,9 +135,9 @@
                 "end": "2023-06-11T13:00:00+00:00",
                 "endLocal": "2023-06-11T15:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
-                "weatherRainProbability": 0.04,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
