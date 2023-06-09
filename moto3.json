@@ -24,9 +24,9 @@
                 "end": "2023-06-09T07:35:00+00:00",
                 "endLocal": "2023-06-09T09:35:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -48,7 +48,7 @@
                 "hasTime": true,
                 "weatherCondition": 803,
                 "weatherIcon": "04d",
-                "weatherRainProbability": 0.08,
+                "weatherRainProbability": 0.16,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -70,7 +70,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.54,
+                "weatherRainProbability": 0.44,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -85,16 +85,22 @@
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
-                "start": "2023-06-10T11:45:00+00:00",
-                "startLocal": "2023-06-10T13:45:00+02:00",
-                "end": "2023-06-10T12:25:00+00:00",
-                "endLocal": "2023-06-10T14:25:00+02:00",
+                "start": "2023-06-10T10:50:00+00:00",
+                "startLocal": "2023-06-10T12:50:00+02:00",
+                "end": "2023-06-10T11:30:00+00:00",
+                "endLocal": "2023-06-10T13:30:00+02:00",
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
                 "weatherRainProbability": 1,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1043541",
@@ -106,9 +112,9 @@
                 "end": "2023-06-11T10:00:00+00:00",
                 "endLocal": "2023-06-11T12:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.34,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
