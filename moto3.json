@@ -100,9 +100,9 @@
                 "end": "2023-06-11T10:00:00+00:00",
                 "endLocal": "2023-06-11T12:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -141,7 +141,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.37,
+                "weatherRainProbability": 0.52,
                 "isNightEvent": false,
                 "channels": []
             },
