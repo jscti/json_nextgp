@@ -24,9 +24,9 @@
                 "end": "2023-06-16T08:30:00+00:00",
                 "endLocal": "2023-06-16T10:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0.38,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.31,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -48,7 +48,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.95,
+                "weatherRainProbability": 0.65,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -68,7 +68,7 @@
                 "end": "2023-06-17T07:55:00+00:00",
                 "endLocal": "2023-06-17T09:55:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 804,
+                "weatherCondition": 803,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0.08,
                 "isNightEvent": false,
@@ -90,7 +90,7 @@
                 "end": "2023-06-17T12:25:00+00:00",
                 "endLocal": "2023-06-17T14:25:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 804,
+                "weatherCondition": 803,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
@@ -114,9 +114,15 @@
                 "hasTime": true,
                 "weatherCondition": 800,
                 "weatherIcon": "01d",
-                "weatherRainProbability": 0.03,
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             }
         ]
     },
