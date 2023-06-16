@@ -24,9 +24,9 @@
                 "end": "2023-06-16T18:30:00+00:00",
                 "endLocal": "2023-06-16T14:30:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.58,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -70,7 +70,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.76,
+                "weatherRainProbability": 1,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -92,7 +92,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.58,
+                "weatherRainProbability": 0.71,
                 "isNightEvent": false,
                 "channels": [
                     {
