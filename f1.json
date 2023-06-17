@@ -75,14 +75,19 @@
                 "index": null,
                 "start": "2023-06-17T20:00:00+00:00",
                 "startLocal": "2023-06-17T16:00:00-04:00",
-                "end": "2023-06-17T21:00:00+00:00",
-                "endLocal": "2023-06-17T17:00:00-04:00",
+                "end": "2023-06-17T21:14:00+00:00",
+                "endLocal": "2023-06-17T17:14:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.62,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [
+                    {
+                        "countryCode": "CH",
+                        "channelName": "RTS 2",
+                        "channelCode": "C183.api.telerama.fr"
+                    },
                     {
                         "countryCode": "FR",
                         "channelName": "Canal+ Sport",
