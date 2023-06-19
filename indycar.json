@@ -1,92 +1,5 @@
 [
     {
-        "id": "sr:stage:1071067",
-        "type": "indycar",
-        "index": "8 / 17",
-        "title": "Road America Grand Prix",
-        "start": "2023-06-16T20:00:00+00:00",
-        "end": "2023-06-18T19:45:00+00:00",
-        "timezone": "America/Indiana/Indianapolis",
-        "latitude": "43.797591",
-        "longitude": "-87.993238",
-        "trackName": "Road America",
-        "countryCode": "US",
-        "countryName": "USA",
-        "cityName": "Elkhart Lake",
-        "steps": [
-            {
-                "id": "sr:stage:1071069",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2023-06-16T20:00:00+00:00",
-                "startLocal": "2023-06-16T16:00:00-04:00",
-                "end": "2023-06-16T21:15:00+00:00",
-                "endLocal": "2023-06-16T17:15:00-04:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1071071",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2023-06-17T14:55:00+00:00",
-                "startLocal": "2023-06-17T10:55:00-04:00",
-                "end": "2023-06-17T15:55:00+00:00",
-                "endLocal": "2023-06-17T11:55:00-04:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1071087",
-                "title": "Qualification",
-                "type": "qualifying",
-                "index": null,
-                "start": "2023-06-17T17:55:00+00:00",
-                "startLocal": "2023-06-17T13:55:00-04:00",
-                "end": "2023-06-17T19:25:00+00:00",
-                "endLocal": "2023-06-17T15:25:00-04:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1071097",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2023-06-18T17:15:00+00:00",
-                "startLocal": "2023-06-18T13:15:00-04:00",
-                "end": "2023-06-18T19:45:00+00:00",
-                "endLocal": "2023-06-18T15:45:00-04:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "C35.api.telerama.fr"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "id": "sr:stage:1071699",
         "type": "indycar",
         "index": "9 / 17",
@@ -147,7 +60,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1071729",
