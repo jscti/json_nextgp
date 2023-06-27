@@ -13,7 +13,72 @@
         "countryCode": "AT",
         "countryName": "Austria",
         "cityName": "Red Bull Ring",
-        "steps": []
+        "steps": [
+            {
+                "id": "0eafbe54-b2ce-45dd-b881-f9a97617b76c",
+                "title": "Free Practice",
+                "type": "practice",
+                "index": null,
+                "start": "2023-06-30T07:55:00Z",
+                "startLocal": null,
+                "end": "2023-06-30T08:40:00Z",
+                "endLocal": null,
+                "hasTime": false,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
+            },
+            {
+                "id": "6fd7cd99-9cb0-4922-b1c7-9919ccfad87b",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "index": null,
+                "start": "2023-06-30T13:00:00Z",
+                "startLocal": null,
+                "end": "2023-06-30T13:30:00Z",
+                "endLocal": null,
+                "hasTime": false,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
+            },
+            {
+                "id": "1a6b48e9-de06-4414-9a33-6e688cee956b",
+                "title": "Race",
+                "type": "race",
+                "index": 1,
+                "start": "2023-07-01T08:00:00Z",
+                "startLocal": null,
+                "end": "2023-07-01T08:45:00Z",
+                "endLocal": null,
+                "hasTime": false,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
+            },
+            {
+                "id": "b20d9f5d-d7dd-44f8-807e-df24e1785739",
+                "title": "Race",
+                "type": "race",
+                "index": 2,
+                "start": "2023-07-02T06:25:00Z",
+                "startLocal": null,
+                "end": "2023-07-02T07:15:00Z",
+                "endLocal": null,
+                "hasTime": false,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
+            }
+        ]
     },
     {
         "id": "0821400f-ba29-4e9d-8a12-2afa8cc52133",
