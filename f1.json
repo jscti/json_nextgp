@@ -150,7 +150,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1038783",
@@ -166,7 +172,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1038785",
@@ -182,7 +194,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1038787",
@@ -198,7 +216,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1038857",
@@ -214,7 +238,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+",
+                        "channelCode": "C34.api.telerama.fr"
+                    }
+                ]
             }
         ]
     },
