@@ -70,7 +70,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherRainProbability": 0.37,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -92,7 +92,7 @@
                 "hasTime": true,
                 "weatherCondition": 802,
                 "weatherIcon": "03d",
-                "weatherRainProbability": 0.06,
+                "weatherRainProbability": 0.01,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -117,9 +117,9 @@
                 "end": "2023-07-09T16:00:00+00:00",
                 "endLocal": "2023-07-09T17:00:00+01:00",
                 "hasTime": true,
-                "weatherCondition": 500,
+                "weatherCondition": 501,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.88,
+                "weatherRainProbability": 0.93,
                 "isNightEvent": false,
                 "channels": [
                     {
