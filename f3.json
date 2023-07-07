@@ -40,9 +40,9 @@
                 "end": "2023-07-07T13:40:00Z",
                 "endLocal": "2023-07-07T14:40:00+01:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -58,7 +58,7 @@
                 "hasTime": true,
                 "weatherCondition": 804,
                 "weatherIcon": "04d",
-                "weatherRainProbability": 0.06,
+                "weatherRainProbability": 0.23,
                 "isNightEvent": false,
                 "channels": []
             },
