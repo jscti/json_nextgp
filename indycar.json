@@ -24,9 +24,9 @@
                 "end": "2023-07-14T20:15:00+00:00",
                 "endLocal": "2023-07-14T16:15:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0.05,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.61,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -40,9 +40,9 @@
                 "end": "2023-07-15T15:35:00+00:00",
                 "endLocal": "2023-07-15T11:35:00-04:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.63,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -56,9 +56,9 @@
                 "end": "2023-07-15T20:20:00+00:00",
                 "endLocal": "2023-07-15T16:20:00-04:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.96,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -73,10 +73,10 @@
                 "title": "Race",
                 "type": "race",
                 "index": null,
-                "start": "2023-07-16T17:30:00+00:00",
-                "startLocal": "2023-07-16T13:30:00-04:00",
-                "end": "2023-07-16T20:00:00+00:00",
-                "endLocal": "2023-07-16T16:00:00-04:00",
+                "start": "2023-07-16T17:45:00+00:00",
+                "startLocal": "2023-07-16T13:45:00-04:00",
+                "end": "2023-07-16T19:45:00+00:00",
+                "endLocal": "2023-07-16T15:45:00-04:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
@@ -153,7 +153,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    }
+                ]
             }
         ]
     },
