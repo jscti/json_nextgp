@@ -13,7 +13,72 @@
         "countryCode": "HU",
         "countryName": "Hungary",
         "cityName": "Hungaroring",
-        "steps": []
+        "steps": [
+            {
+                "id": "7e382774-7916-4a16-bd52-090705ce58bc",
+                "title": "Free Practice",
+                "type": "practice",
+                "index": null,
+                "start": "2023-07-21T07:55:00Z",
+                "startLocal": null,
+                "end": "2023-07-21T08:40:00Z",
+                "endLocal": null,
+                "hasTime": false,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
+            },
+            {
+                "id": "ebf8e726-46f6-43ad-a206-3c07fc69b3ad",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "index": null,
+                "start": "2023-07-21T13:05:00Z",
+                "startLocal": null,
+                "end": "2023-07-21T13:35:00Z",
+                "endLocal": null,
+                "hasTime": false,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
+            },
+            {
+                "id": "1ab4775d-20ba-4bab-a2fc-92e85b28d249",
+                "title": "Race",
+                "type": "race",
+                "index": 1,
+                "start": "2023-07-22T07:50:00Z",
+                "startLocal": null,
+                "end": "2023-07-22T08:35:00Z",
+                "endLocal": null,
+                "hasTime": false,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
+            },
+            {
+                "id": "a43c6ef3-d088-42b0-bdf5-8135267cc4a5",
+                "title": "Race",
+                "type": "race",
+                "index": 2,
+                "start": "2023-07-23T06:25:00Z",
+                "startLocal": null,
+                "end": "2023-07-23T07:15:00Z",
+                "endLocal": null,
+                "hasTime": false,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
+            }
+        ]
     },
     {
         "id": "e1450d1f-25b3-4961-8fd8-91cdbb2f408f",
