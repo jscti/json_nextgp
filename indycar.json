@@ -56,9 +56,9 @@
                 "end": "2023-07-22T21:00:00+00:00",
                 "endLocal": "2023-07-22T16:00:00-05:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -111,8 +111,8 @@
                 "end": "2023-07-23T20:30:00+00:00",
                 "endLocal": "2023-07-23T15:30:00-05:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
