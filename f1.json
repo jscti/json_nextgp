@@ -1,113 +1,5 @@
 [
     {
-        "id": "sr:stage:1039059",
-        "type": "f1",
-        "index": "11 / 22",
-        "title": "Hungarian Grand Prix",
-        "start": "2023-07-21T11:30:00+00:00",
-        "end": "2023-07-23T15:00:00+00:00",
-        "timezone": "Europe/Budapest",
-        "latitude": "47.579768",
-        "longitude": "19.247789",
-        "trackName": "Hungaroring",
-        "countryCode": "HU",
-        "countryName": "Hungary",
-        "cityName": "Budapest",
-        "steps": [
-            {
-                "id": "sr:stage:1039061",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2023-07-21T11:30:00+00:00",
-                "startLocal": "2023-07-21T13:30:00+02:00",
-                "end": "2023-07-21T12:30:00+00:00",
-                "endLocal": "2023-07-21T14:30:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1039063",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2023-07-21T15:00:00+00:00",
-                "startLocal": "2023-07-21T17:00:00+02:00",
-                "end": "2023-07-21T16:00:00+00:00",
-                "endLocal": "2023-07-21T18:00:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1039065",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2023-07-22T10:30:00+00:00",
-                "startLocal": "2023-07-22T12:30:00+02:00",
-                "end": "2023-07-22T11:30:00+00:00",
-                "endLocal": "2023-07-22T13:30:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1039067",
-                "title": "Qualification",
-                "type": "qualifying",
-                "index": null,
-                "start": "2023-07-22T14:00:00+00:00",
-                "startLocal": "2023-07-22T16:00:00+02:00",
-                "end": "2023-07-22T15:00:00+00:00",
-                "endLocal": "2023-07-22T17:00:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1039137",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2023-07-23T13:00:00+00:00",
-                "startLocal": "2023-07-23T15:00:00+02:00",
-                "end": "2023-07-23T15:00:00+00:00",
-                "endLocal": "2023-07-23T17:00:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "CH",
-                        "channelName": "RTS 1",
-                        "channelCode": "C202.api.telerama.fr"
-                    },
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+",
-                        "channelCode": "C34.api.telerama.fr"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "id": "sr:stage:1039339",
         "type": "f1",
         "index": "12 / 22",
@@ -132,9 +24,9 @@
                 "end": "2023-07-28T12:30:00+00:00",
                 "endLocal": "2023-07-28T14:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.2,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -154,9 +46,9 @@
                 "end": "2023-07-28T16:00:00+00:00",
                 "endLocal": "2023-07-28T18:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0.07,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.81,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -182,9 +74,9 @@
                 "end": "2023-07-29T10:44:00+00:00",
                 "endLocal": "2023-07-29T12:44:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -205,9 +97,9 @@
                 "end": "2023-07-29T15:30:00+00:00",
                 "endLocal": "2023-07-29T17:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
