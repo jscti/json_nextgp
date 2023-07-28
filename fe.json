@@ -40,9 +40,9 @@
                 "end": "2023-07-29T10:15:00+00:00",
                 "endLocal": "2023-07-29T11:15:00+01:00",
                 "hasTime": true,
-                "weatherCondition": 804,
+                "weatherCondition": 803,
                 "weatherIcon": "04d",
-                "weatherRainProbability": 0.01,
+                "weatherRainProbability": 0.08,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -58,7 +58,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.62,
+                "weatherRainProbability": 0.2,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -72,9 +72,9 @@
                 "end": "2023-07-29T17:30:00+00:00",
                 "endLocal": "2023-07-29T18:30:00+01:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.35,
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
             }
@@ -105,8 +105,8 @@
                 "end": "2023-07-30T10:15:00+00:00",
                 "endLocal": "2023-07-30T11:15:00+01:00",
                 "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
@@ -123,7 +123,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.42,
+                "weatherRainProbability": 0.76,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -139,7 +139,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.53,
+                "weatherRainProbability": 0.84,
                 "isNightEvent": false,
                 "channels": []
             }
