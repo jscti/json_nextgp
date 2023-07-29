@@ -88,9 +88,9 @@
                 "end": "2023-07-29T13:00:00+00:00",
                 "endLocal": "2023-07-29T15:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.43,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -106,7 +106,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.65,
+                "weatherRainProbability": 0.71,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -120,9 +120,9 @@
                 "end": "2023-07-30T13:00:00+00:00",
                 "endLocal": "2023-07-30T15:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0.44,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.74,
                 "isNightEvent": false,
                 "channels": []
             }
