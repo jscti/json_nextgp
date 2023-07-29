@@ -75,21 +75,16 @@
                 "subtitle": "Sprint",
                 "type": "race",
                 "index": 1,
-                "start": "2023-07-29T15:05:00+00:00",
-                "startLocal": "2023-07-29T17:05:00+02:00",
-                "end": "2023-07-29T16:05:00+00:00",
-                "endLocal": "2023-07-29T18:05:00+02:00",
+                "start": "2023-07-29T15:35:00+00:00",
+                "startLocal": "2023-07-29T17:35:00+02:00",
+                "end": "2023-07-29T16:35:00+00:00",
+                "endLocal": "2023-07-29T18:35:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [
-                    {
-                        "countryCode": "CH",
-                        "channelName": "RTS 2",
-                        "channelCode": "C183.api.telerama.fr"
-                    },
                     {
                         "countryCode": "FR",
                         "channelName": "Canal+",
