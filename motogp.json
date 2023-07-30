@@ -40,9 +40,9 @@
                 "end": "2023-08-04T15:00:00+00:00",
                 "endLocal": "2023-08-04T16:00:00+01:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.75,
                 "isNightEvent": false,
                 "channels": []
             },
