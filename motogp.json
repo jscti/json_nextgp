@@ -24,11 +24,17 @@
                 "end": "2023-08-04T10:30:00+00:00",
                 "endLocal": "2023-08-04T11:30:00+01:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.25,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1033867",
@@ -40,11 +46,17 @@
                 "end": "2023-08-04T15:00:00+00:00",
                 "endLocal": "2023-08-04T16:00:00+01:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.33,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1033869",
@@ -56,9 +68,9 @@
                 "end": "2023-08-05T09:40:00+00:00",
                 "endLocal": "2023-08-05T10:40:00+01:00",
                 "hasTime": true,
-                "weatherCondition": 501,
+                "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.94,
+                "weatherRainProbability": 0.5,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -72,9 +84,9 @@
                 "end": "2023-08-05T10:30:00+00:00",
                 "endLocal": "2023-08-05T11:30:00+01:00",
                 "hasTime": true,
-                "weatherCondition": 501,
+                "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.94,
+                "weatherRainProbability": 0.5,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -89,9 +101,9 @@
                 "end": "2023-08-05T14:30:00+00:00",
                 "endLocal": "2023-08-05T15:30:00+01:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0.25,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.75,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -105,11 +117,17 @@
                 "end": "2023-08-06T13:00:00+00:00",
                 "endLocal": "2023-08-06T14:00:00+01:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+",
+                        "channelCode": "C34.api.telerama.fr"
+                    }
+                ]
             }
         ]
     },
