@@ -46,9 +46,9 @@
                 "end": "2023-08-04T13:45:00+00:00",
                 "endLocal": "2023-08-04T14:45:00+01:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0.24,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -114,7 +114,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.22,
+                "weatherRainProbability": 0.52,
                 "isNightEvent": false,
                 "channels": [
                     {
