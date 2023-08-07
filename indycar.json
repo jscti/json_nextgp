@@ -1,92 +1,5 @@
 [
     {
-        "id": "sr:stage:1074227",
-        "type": "indycar",
-        "index": "13 / 17",
-        "title": "Grand Prix of Nashville",
-        "start": "2023-08-04T20:00:00+00:00",
-        "end": "2023-08-06T17:00:00+00:00",
-        "timezone": "America/Chicago",
-        "latitude": "36.16469",
-        "longitude": "-86.771343",
-        "trackName": "Streets of Nashville",
-        "countryCode": "US",
-        "countryName": "USA",
-        "cityName": "Nashville",
-        "steps": [
-            {
-                "id": "sr:stage:1074229",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2023-08-04T20:00:00+00:00",
-                "startLocal": "2023-08-04T15:00:00-05:00",
-                "end": "2023-08-04T21:15:00+00:00",
-                "endLocal": "2023-08-04T16:15:00-05:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1074231",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2023-08-05T15:40:00+00:00",
-                "startLocal": "2023-08-05T10:40:00-05:00",
-                "end": "2023-08-05T16:40:00+00:00",
-                "endLocal": "2023-08-05T11:40:00-05:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1074247",
-                "title": "Qualification",
-                "type": "qualifying",
-                "index": null,
-                "start": "2023-08-05T22:15:00+00:00",
-                "startLocal": "2023-08-05T17:15:00-05:00",
-                "end": "2023-08-05T23:45:00+00:00",
-                "endLocal": "2023-08-05T18:45:00-05:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1074257",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2023-08-06T16:00:00+00:00",
-                "startLocal": "2023-08-06T11:00:00-05:00",
-                "end": "2023-08-06T19:00:00+00:00",
-                "endLocal": "2023-08-06T14:00:00-05:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "C35.api.telerama.fr"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "id": "sr:stage:1074859",
         "type": "indycar",
         "index": "14 / 17",
@@ -111,8 +24,8 @@
                 "end": "2023-08-11T14:30:00+00:00",
                 "endLocal": "2023-08-11T10:30:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
@@ -129,7 +42,7 @@
                 "hasTime": true,
                 "weatherCondition": 802,
                 "weatherIcon": "03d",
-                "weatherRainProbability": 0.08,
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -151,7 +64,7 @@
                 "hasTime": true,
                 "weatherCondition": 803,
                 "weatherIcon": "04d",
-                "weatherRainProbability": 0.02,
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -165,9 +78,9 @@
                 "end": "2023-08-12T21:00:00+00:00",
                 "endLocal": "2023-08-12T17:00:00-04:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
+                "weatherRainProbability": 0.26,
                 "isNightEvent": false,
                 "channels": [
                     {
