@@ -13,7 +13,72 @@
         "countryCode": "NL",
         "countryName": "Netherlands",
         "cityName": "Zandvoort",
-        "steps": []
+        "steps": [
+            {
+                "id": "fbd5401d-ca45-425b-abdf-4750ed0cb569",
+                "title": "Free Practice",
+                "type": "practice",
+                "index": null,
+                "start": "2023-08-25T08:05:00Z",
+                "startLocal": "2023-08-25T10:05:00+02:00",
+                "end": "2023-08-25T08:50:00Z",
+                "endLocal": "2023-08-25T10:50:00+02:00",
+                "hasTime": true,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.38,
+                "isNightEvent": false,
+                "channels": []
+            },
+            {
+                "id": "de88af3e-43bd-4777-91a2-0a2f967e1b08",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "index": null,
+                "start": "2023-08-25T12:00:00Z",
+                "startLocal": "2023-08-25T14:00:00+02:00",
+                "end": "2023-08-25T12:30:00Z",
+                "endLocal": "2023-08-25T14:30:00+02:00",
+                "hasTime": true,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.77,
+                "isNightEvent": false,
+                "channels": []
+            },
+            {
+                "id": "57b42d52-bbd9-45b1-b929-c13a87d45eb6",
+                "title": "Race",
+                "type": "race",
+                "index": 1,
+                "start": "2023-08-26T11:15:00Z",
+                "startLocal": "2023-08-26T13:15:00+02:00",
+                "end": "2023-08-26T12:05:00Z",
+                "endLocal": "2023-08-26T14:05:00+02:00",
+                "hasTime": true,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.89,
+                "isNightEvent": false,
+                "channels": []
+            },
+            {
+                "id": "8c74b509-c795-434c-8bd9-f7d2772dea08",
+                "title": "Race",
+                "type": "race",
+                "index": 2,
+                "start": "2023-08-27T08:00:00Z",
+                "startLocal": "2023-08-27T10:00:00+02:00",
+                "end": "2023-08-27T09:05:00Z",
+                "endLocal": "2023-08-27T11:05:00+02:00",
+                "hasTime": true,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0.08,
+                "isNightEvent": false,
+                "channels": []
+            }
+        ]
     },
     {
         "id": "33910193-9638-473e-8d9a-f410c6264108",
