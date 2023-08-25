@@ -28,7 +28,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1039623",
@@ -37,30 +43,42 @@
                 "index": 2,
                 "start": "2023-08-25T14:00:00+00:00",
                 "startLocal": "2023-08-25T16:00:00+02:00",
-                "end": "2023-08-25T15:00:00+00:00",
-                "endLocal": "2023-08-25T17:00:00+02:00",
+                "end": "2023-08-25T15:05:00+00:00",
+                "endLocal": "2023-08-25T17:05:00+02:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1039625",
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 3,
-                "start": "2023-08-26T10:00:00+00:00",
-                "startLocal": "2023-08-26T12:00:00+02:00",
-                "end": "2023-08-26T11:00:00+00:00",
-                "endLocal": "2023-08-26T13:00:00+02:00",
+                "start": "2023-08-26T09:30:00+00:00",
+                "startLocal": "2023-08-26T11:30:00+02:00",
+                "end": "2023-08-26T10:30:00+00:00",
+                "endLocal": "2023-08-26T12:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.61,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1039627",
@@ -72,11 +90,22 @@
                 "end": "2023-08-26T14:00:00+00:00",
                 "endLocal": "2023-08-26T16:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.68,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "CH",
+                        "channelName": "RTS 2",
+                        "channelCode": "C183.api.telerama.fr"
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1039697",
@@ -88,11 +117,22 @@
                 "end": "2023-08-27T15:00:00+00:00",
                 "endLocal": "2023-08-27T17:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.91,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "CH",
+                        "channelName": "RTS 2",
+                        "channelCode": "C183.api.telerama.fr"
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+",
+                        "channelCode": "C34.api.telerama.fr"
+                    }
+                ]
             }
         ]
     },
@@ -125,7 +165,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1039903",
@@ -141,7 +187,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1039905",
@@ -157,7 +209,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1039907",
@@ -173,7 +231,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1039977",
@@ -189,7 +253,18 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "CH",
+                        "channelName": "RTS 1",
+                        "channelCode": "C202.api.telerama.fr"
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+",
+                        "channelCode": "C34.api.telerama.fr"
+                    }
+                ]
             }
         ]
     },
