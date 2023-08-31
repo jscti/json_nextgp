@@ -13,6 +13,71 @@
         "countryCode": "IT",
         "countryName": "Italy",
         "cityName": "Monza",
-        "steps": []
+        "steps": [
+            {
+                "id": "a4e3e55b-309a-4f11-a326-a2d5f77a489b",
+                "title": "Free Practice",
+                "type": "practice",
+                "index": null,
+                "start": "2023-09-01T07:40:00Z",
+                "startLocal": "2023-09-01T09:40:00+02:00",
+                "end": "2023-09-01T08:25:00Z",
+                "endLocal": "2023-09-01T10:25:00+02:00",
+                "hasTime": true,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0,
+                "isNightEvent": false,
+                "channels": []
+            },
+            {
+                "id": "dd8bebac-050c-4d1e-9d08-104ed956efa6",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "index": null,
+                "start": "2023-09-01T13:05:00Z",
+                "startLocal": "2023-09-01T15:05:00+02:00",
+                "end": "2023-09-01T13:35:00Z",
+                "endLocal": "2023-09-01T15:35:00+02:00",
+                "hasTime": true,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0.04,
+                "isNightEvent": false,
+                "channels": []
+            },
+            {
+                "id": "93f4b1d2-c839-4a34-91d5-7f2b67176a38",
+                "title": "Race",
+                "type": "race",
+                "index": 1,
+                "start": "2023-09-02T07:40:00Z",
+                "startLocal": "2023-09-02T09:40:00+02:00",
+                "end": "2023-09-02T08:25:00Z",
+                "endLocal": "2023-09-02T10:25:00+02:00",
+                "hasTime": true,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
+                "isNightEvent": false,
+                "channels": []
+            },
+            {
+                "id": "8134e7e4-709b-4551-970e-8258a3472466",
+                "title": "Race",
+                "type": "race",
+                "index": 2,
+                "start": "2023-09-03T06:15:00Z",
+                "startLocal": "2023-09-03T08:15:00+02:00",
+                "end": "2023-09-03T07:05:00Z",
+                "endLocal": "2023-09-03T09:05:00+02:00",
+                "hasTime": true,
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
+                "weatherRainProbability": 0,
+                "isNightEvent": false,
+                "channels": []
+            }
+        ]
     }
 ]
