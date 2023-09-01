@@ -24,9 +24,9 @@
                 "end": "2023-09-01T07:35:00+00:00",
                 "endLocal": "2023-09-01T09:35:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -46,7 +46,7 @@
                 "end": "2023-09-01T11:50:00+00:00",
                 "endLocal": "2023-09-01T13:50:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 804,
+                "weatherCondition": 803,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
@@ -92,7 +92,7 @@
                 "hasTime": true,
                 "weatherCondition": 804,
                 "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherRainProbability": 0.01,
                 "isNightEvent": false,
                 "channels": [
                     {
