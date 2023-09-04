@@ -1,114 +1,5 @@
 [
     {
-        "id": "sr:stage:1076123",
-        "type": "indycar",
-        "index": "16 / 17",
-        "title": "Grand Prix of Portland",
-        "start": "2023-09-01T21:00:00+00:00",
-        "end": "2023-09-03T21:45:00+00:00",
-        "timezone": "America/Los_Angeles",
-        "latitude": "45.596876",
-        "longitude": "-122.696251",
-        "trackName": "Portland International Raceway",
-        "countryCode": "US",
-        "countryName": "USA",
-        "cityName": "Portland",
-        "steps": [
-            {
-                "id": "sr:stage:1076125",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2023-09-01T22:00:00+00:00",
-                "startLocal": "2023-09-01T15:00:00-07:00",
-                "end": "2023-09-01T23:15:00+00:00",
-                "endLocal": "2023-09-01T16:15:00-07:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1076127",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2023-09-02T16:00:00+00:00",
-                "startLocal": "2023-09-02T09:00:00-07:00",
-                "end": "2023-09-02T17:00:00+00:00",
-                "endLocal": "2023-09-02T10:00:00-07:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1076129",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2023-09-03T00:15:00+00:00",
-                "startLocal": "2023-09-02T17:15:00-07:00",
-                "end": "2023-09-03T00:45:00+00:00",
-                "endLocal": "2023-09-02T17:45:00-07:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1076153",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2023-09-03T19:15:00+00:00",
-                "startLocal": "2023-09-03T12:15:00-07:00",
-                "end": "2023-09-03T21:45:00+00:00",
-                "endLocal": "2023-09-03T14:45:00-07:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "C35.api.telerama.fr"
-                    }
-                ]
-            },
-            {
-                "id": "sr:stage:1076143",
-                "title": "Qualification",
-                "type": "qualifying",
-                "index": null,
-                "start": "2023-09-03T19:30:00+00:00",
-                "startLocal": "2023-09-03T12:30:00-07:00",
-                "end": "2023-09-03T21:00:00+00:00",
-                "endLocal": "2023-09-03T14:00:00-07:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "C35.api.telerama.fr"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "id": "sr:stage:1076755",
         "type": "indycar",
         "index": "17 / 17",
@@ -149,9 +40,9 @@
                 "end": "2023-09-09T18:00:00+00:00",
                 "endLocal": "2023-09-09T11:00:00-07:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -165,9 +56,9 @@
                 "end": "2023-09-09T22:30:00+00:00",
                 "endLocal": "2023-09-09T15:30:00-07:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
