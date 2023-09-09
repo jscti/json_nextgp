@@ -44,13 +44,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "C35.api.telerama.fr"
-                    }
-                ]
+                "channels": []
             },
             {
                 "id": "sr:stage:1087309",
@@ -103,8 +97,8 @@
         "type": "wrc",
         "index": "11 / 13",
         "title": "Rally Chile",
-        "start": "2023-09-28T17:00:00+00:00",
-        "end": "2023-10-01T11:25:00+00:00",
+        "start": "2023-09-28T11:00:00+00:00",
+        "end": "2023-10-01T17:45:00+00:00",
         "timezone": null,
         "latitude": null,
         "longitude": null,
