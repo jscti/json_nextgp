@@ -26,7 +26,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.35,
+                "weatherRainProbability": 0.51,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -48,7 +48,7 @@
                 "hasTime": true,
                 "weatherCondition": 803,
                 "weatherIcon": "04n",
-                "weatherRainProbability": 0.24,
+                "weatherRainProbability": 0.35,
                 "isNightEvent": true,
                 "channels": [
                     {
@@ -68,9 +68,9 @@
                 "end": "2023-09-16T10:30:00+00:00",
                 "endLocal": "2023-09-16T18:30:00+08:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.25,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -90,9 +90,9 @@
                 "end": "2023-09-16T14:00:00+00:00",
                 "endLocal": "2023-09-16T22:00:00+08:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 803,
+                "weatherIcon": "04n",
+                "weatherRainProbability": 0.04,
                 "isNightEvent": true,
                 "channels": [
                     {
@@ -226,7 +226,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1040537",
