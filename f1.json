@@ -1,118 +1,5 @@
 [
     {
-        "id": "sr:stage:1040459",
-        "type": "f1",
-        "index": "16 / 22",
-        "title": "Japanese Grand Prix",
-        "start": "2023-09-22T02:30:00+00:00",
-        "end": "2023-09-24T07:00:00+00:00",
-        "timezone": "Asia/Tokyo",
-        "latitude": "34.844522",
-        "longitude": "136.538515",
-        "trackName": "Suzuka International Racing Course",
-        "countryCode": "JP",
-        "countryName": "Japan",
-        "cityName": "Suzuka",
-        "steps": [
-            {
-                "id": "sr:stage:1040461",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2023-09-22T02:30:00+00:00",
-                "startLocal": "2023-09-22T11:30:00+09:00",
-                "end": "2023-09-22T03:30:00+00:00",
-                "endLocal": "2023-09-22T12:30:00+09:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1040463",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2023-09-22T06:00:00+00:00",
-                "startLocal": "2023-09-22T15:00:00+09:00",
-                "end": "2023-09-22T07:00:00+00:00",
-                "endLocal": "2023-09-22T16:00:00+09:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1040465",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2023-09-23T02:30:00+00:00",
-                "startLocal": "2023-09-23T11:30:00+09:00",
-                "end": "2023-09-23T03:30:00+00:00",
-                "endLocal": "2023-09-23T12:30:00+09:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1040467",
-                "title": "Qualification",
-                "type": "qualifying",
-                "index": null,
-                "start": "2023-09-23T06:00:00+00:00",
-                "startLocal": "2023-09-23T15:00:00+09:00",
-                "end": "2023-09-23T07:14:00+00:00",
-                "endLocal": "2023-09-23T16:14:00+09:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1040537",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2023-09-24T05:00:00+00:00",
-                "startLocal": "2023-09-24T14:00:00+09:00",
-                "end": "2023-09-24T07:00:00+00:00",
-                "endLocal": "2023-09-24T16:00:00+09:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "CH",
-                        "channelName": "RTS 2",
-                        "channelCode": "C183.api.telerama.fr"
-                    },
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+",
-                        "channelCode": "C34.api.telerama.fr"
-                    },
-                    {
-                        "countryCode": "FR",
-                        "channelName": "C8",
-                        "channelCode": "C445.api.telerama.fr"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "id": "sr:stage:1040739",
         "type": "f1",
         "index": "17 / 22",
@@ -186,7 +73,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1040755",
@@ -203,7 +96,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": true,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+",
+                        "channelCode": "C34.api.telerama.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1040817",
