@@ -24,8 +24,8 @@
                 "end": "2023-09-29T02:30:00+00:00",
                 "endLocal": "2023-09-29T11:30:00+09:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
@@ -46,9 +46,9 @@
                 "end": "2023-09-29T07:00:00+00:00",
                 "endLocal": "2023-09-29T16:00:00+09:00",
                 "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0.04,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -70,9 +70,15 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.91,
+                "weatherRainProbability": 0.37,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1034753",
@@ -86,9 +92,15 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.79,
+                "weatherRainProbability": 0.71,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1034759",
@@ -103,13 +115,18 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.91,
+                "weatherRainProbability": 0.62,
                 "isNightEvent": false,
                 "channels": [
                     {
                         "countryCode": "CH",
                         "channelName": "RTS 2",
                         "channelCode": "C183.api.telerama.fr"
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
                     }
                 ]
             },
@@ -123,9 +140,9 @@
                 "end": "2023-10-01T07:00:00+00:00",
                 "endLocal": "2023-10-01T16:00:00+09:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.46,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0.06,
                 "isNightEvent": false,
                 "channels": [
                     {
