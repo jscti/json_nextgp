@@ -24,11 +24,17 @@
                 "end": "2023-10-13T02:30:00+00:00",
                 "endLocal": "2023-10-13T10:30:00+08:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1050227",
@@ -40,11 +46,17 @@
                 "end": "2023-10-13T06:45:00+00:00",
                 "endLocal": "2023-10-13T14:45:00+08:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1050229",
@@ -72,7 +84,7 @@
                 "end": "2023-10-14T06:25:00+00:00",
                 "endLocal": "2023-10-14T14:25:00+08:00",
                 "hasTime": true,
-                "weatherCondition": 803,
+                "weatherCondition": 804,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
@@ -88,9 +100,9 @@
                 "end": "2023-10-15T06:15:00+00:00",
                 "endLocal": "2023-10-15T14:15:00+08:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
             }
