@@ -1,130 +1,5 @@
 [
     {
-        "id": "sr:stage:1035183",
-        "type": "motogp",
-        "index": "15 / 20",
-        "title": "Grand Prix of Indonesia",
-        "start": "2023-10-13T02:45:00+00:00",
-        "end": "2023-10-15T07:00:00+00:00",
-        "timezone": "Asia/Makassar",
-        "latitude": "-8.895611",
-        "longitude": "116.305823",
-        "trackName": "Mandalika International Circuit",
-        "countryCode": "ID",
-        "countryName": "Indonesia",
-        "cityName": "Lombok",
-        "steps": [
-            {
-                "id": "sr:stage:1035185",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2023-10-13T02:45:00+00:00",
-                "startLocal": "2023-10-13T10:45:00+08:00",
-                "end": "2023-10-13T03:30:00+00:00",
-                "endLocal": "2023-10-13T11:30:00+08:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1035187",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2023-10-13T07:00:00+00:00",
-                "startLocal": "2023-10-13T15:00:00+08:00",
-                "end": "2023-10-13T08:00:00+00:00",
-                "endLocal": "2023-10-13T16:00:00+08:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1035189",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2023-10-14T02:10:00+00:00",
-                "startLocal": "2023-10-14T10:10:00+08:00",
-                "end": "2023-10-14T02:40:00+00:00",
-                "endLocal": "2023-10-14T10:40:00+08:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1035193",
-                "title": "Qualifying",
-                "type": "qualifying",
-                "index": null,
-                "start": "2023-10-14T02:50:00+00:00",
-                "startLocal": "2023-10-14T10:50:00+08:00",
-                "end": "2023-10-14T03:30:00+00:00",
-                "endLocal": "2023-10-14T11:30:00+08:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1035199",
-                "title": "Sprint",
-                "subtitle": "Sprint",
-                "type": "race",
-                "index": 1,
-                "start": "2023-10-14T07:00:00+00:00",
-                "startLocal": "2023-10-14T15:00:00+08:00",
-                "end": "2023-10-14T07:45:00+00:00",
-                "endLocal": "2023-10-14T15:45:00+08:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1035201",
-                "title": "Race",
-                "type": "race",
-                "index": 2,
-                "start": "2023-10-15T07:00:00+00:00",
-                "startLocal": "2023-10-15T15:00:00+08:00",
-                "end": "2023-10-15T08:00:00+00:00",
-                "endLocal": "2023-10-15T16:00:00+08:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "CH",
-                        "channelName": "RTS 2",
-                        "channelCode": "C183.api.telerama.fr"
-                    },
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+",
-                        "channelCode": "C34.api.telerama.fr"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "id": "sr:stage:1035403",
         "type": "motogp",
         "index": "16 / 20",
@@ -149,11 +24,17 @@
                 "end": "2023-10-20T00:30:00+00:00",
                 "endLocal": "2023-10-20T11:30:00+11:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1035407",
@@ -165,7 +46,7 @@
                 "end": "2023-10-20T05:00:00+00:00",
                 "endLocal": "2023-10-20T16:00:00+11:00",
                 "hasTime": true,
-                "weatherCondition": 804,
+                "weatherCondition": 803,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
@@ -181,9 +62,9 @@
                 "end": "2023-10-20T23:40:00+00:00",
                 "endLocal": "2023-10-21T10:40:00+11:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -197,9 +78,9 @@
                 "end": "2023-10-21T00:30:00+00:00",
                 "endLocal": "2023-10-21T11:30:00+11:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -214,9 +95,9 @@
                 "end": "2023-10-21T05:00:00+00:00",
                 "endLocal": "2023-10-21T16:00:00+11:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
             },
