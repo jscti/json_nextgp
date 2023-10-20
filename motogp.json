@@ -5,7 +5,7 @@
         "index": "16 / 20",
         "title": "Australian Motorcycle Grand Prix",
         "start": "2023-10-19T23:45:00+00:00",
-        "end": "2023-10-22T04:00:00+00:00",
+        "end": "2023-10-22T04:15:00+00:00",
         "timezone": "Australia/Victoria",
         "latitude": "-38.501418",
         "longitude": "145.232269",
@@ -28,13 +28,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": "canal-plus-sport360.fr"
-                    }
-                ]
+                "channels": []
             },
             {
                 "id": "sr:stage:1035407",
@@ -43,8 +37,8 @@
                 "index": 2,
                 "start": "2023-10-20T04:00:00+00:00",
                 "startLocal": "2023-10-20T15:00:00+11:00",
-                "end": "2023-10-20T05:00:00+00:00",
-                "endLocal": "2023-10-20T16:00:00+11:00",
+                "end": "2023-10-20T05:30:00+00:00",
+                "endLocal": "2023-10-20T16:30:00+11:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
@@ -109,8 +103,8 @@
                 "index": 1,
                 "start": "2023-10-21T04:10:00+00:00",
                 "startLocal": "2023-10-21T15:10:00+11:00",
-                "end": "2023-10-21T05:10:00+00:00",
-                "endLocal": "2023-10-21T16:10:00+11:00",
+                "end": "2023-10-21T05:00:00+00:00",
+                "endLocal": "2023-10-21T16:00:00+11:00",
                 "hasTime": true,
                 "weatherCondition": 804,
                 "weatherIcon": "04d",
