@@ -1,114 +1,5 @@
 [
     {
-        "id": "sr:stage:1050439",
-        "type": "moto2",
-        "index": "16 / 20",
-        "title": "Australian Motorcycle Grand Prix",
-        "start": "2023-10-19T22:50:00+00:00",
-        "end": "2023-10-22T02:15:00+00:00",
-        "timezone": "Australia/Victoria",
-        "latitude": "-38.501418",
-        "longitude": "145.232269",
-        "trackName": "Phillip Island Circuit",
-        "countryCode": "AU",
-        "countryName": "Australia",
-        "cityName": "Phillip Island",
-        "steps": [
-            {
-                "id": "sr:stage:1050441",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2023-10-19T22:50:00+00:00",
-                "startLocal": "2023-10-20T09:50:00+11:00",
-                "end": "2023-10-19T23:30:00+00:00",
-                "endLocal": "2023-10-20T10:30:00+11:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1050443",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2023-10-20T03:05:00+00:00",
-                "startLocal": "2023-10-20T14:05:00+11:00",
-                "end": "2023-10-20T03:45:00+00:00",
-                "endLocal": "2023-10-20T14:45:00+11:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1050445",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2023-10-20T22:25:00+00:00",
-                "startLocal": "2023-10-21T09:25:00+11:00",
-                "end": "2023-10-20T22:55:00+00:00",
-                "endLocal": "2023-10-21T09:55:00+11:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1050447",
-                "title": "Qualifying",
-                "type": "qualifying",
-                "index": null,
-                "start": "2023-10-21T02:45:00+00:00",
-                "startLocal": "2023-10-21T13:45:00+11:00",
-                "end": "2023-10-21T03:25:00+00:00",
-                "endLocal": "2023-10-21T14:25:00+11:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": "canal-plus-sport360.fr"
-                    }
-                ]
-            },
-            {
-                "id": "sr:stage:1050453",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2023-10-22T00:15:00+00:00",
-                "startLocal": "2023-10-22T11:15:00+11:00",
-                "end": "2023-10-22T02:15:00+00:00",
-                "endLocal": "2023-10-22T13:15:00+11:00",
-                "hasTime": true,
-                "weatherCondition": 501,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 1,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": "canal-plus-sport360.fr"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "id": "sr:stage:1050655",
         "type": "moto2",
         "index": "17 / 20",
@@ -133,11 +24,17 @@
                 "end": "2023-10-27T03:30:00+00:00",
                 "endLocal": "2023-10-27T10:30:00+07:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.23,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1050659",
@@ -149,11 +46,17 @@
                 "end": "2023-10-27T07:45:00+00:00",
                 "endLocal": "2023-10-27T14:45:00+07:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 501,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.72,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1050661",
@@ -165,9 +68,9 @@
                 "end": "2023-10-28T02:55:00+00:00",
                 "endLocal": "2023-10-28T09:55:00+07:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.44,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -181,9 +84,9 @@
                 "end": "2023-10-28T07:25:00+00:00",
                 "endLocal": "2023-10-28T14:25:00+07:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.7,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -197,9 +100,9 @@
                 "end": "2023-10-29T07:15:00+00:00",
                 "endLocal": "2023-10-29T14:15:00+07:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.91,
                 "isNightEvent": false,
                 "channels": []
             }
