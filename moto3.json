@@ -26,7 +26,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.23,
+                "weatherRainProbability": 1,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -46,9 +46,9 @@
                 "end": "2023-10-27T06:50:00+00:00",
                 "endLocal": "2023-10-27T13:50:00+07:00",
                 "hasTime": true,
-                "weatherCondition": 501,
+                "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.72,
+                "weatherRainProbability": 1,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -70,9 +70,15 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.44,
+                "weatherRainProbability": 0.6,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1046127",
@@ -86,9 +92,15 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.7,
+                "weatherRainProbability": 0.88,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1046133",
@@ -100,9 +112,9 @@
                 "end": "2023-10-29T06:00:00+00:00",
                 "endLocal": "2023-10-29T13:00:00+07:00",
                 "hasTime": true,
-                "weatherCondition": 500,
+                "weatherCondition": 501,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.91,
+                "weatherRainProbability": 1,
                 "isNightEvent": false,
                 "channels": []
             }
@@ -997,22 +1009,6 @@
         "cityName": "Barcelona",
         "steps": [
             {
-                "id": "sr:stage:1153840",
-                "title": "Qualifying",
-                "type": "qualifying",
-                "index": null,
-                "start": "2023-10-08T10:50:00+00:00",
-                "startLocal": "2023-10-08T12:50:00+02:00",
-                "end": "2023-10-08T11:30:00+00:00",
-                "endLocal": "2023-10-08T13:30:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
                 "id": "sr:stage:1153834",
                 "title": "Practice 1",
                 "type": "practice",
@@ -1053,6 +1049,22 @@
                 "startLocal": "2024-05-25T08:40:00+02:00",
                 "end": "2024-05-25T07:10:00+00:00",
                 "endLocal": "2024-05-25T09:10:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
+            },
+            {
+                "id": "sr:stage:1153840",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-05-25T10:50:00+00:00",
+                "startLocal": "2024-05-25T12:50:00+02:00",
+                "end": "2024-05-25T11:30:00+00:00",
+                "endLocal": "2024-05-25T13:30:00+02:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
