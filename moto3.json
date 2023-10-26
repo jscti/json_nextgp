@@ -116,7 +116,13 @@
                 "weatherIcon": "10d",
                 "weatherRainProbability": 1,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             }
         ]
     },
@@ -431,10 +437,10 @@
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 1,
-                "start": "2023-10-08T15:15:00+00:00",
-                "startLocal": "2023-10-08T18:15:00+03:00",
-                "end": "2023-10-08T15:50:00+00:00",
-                "endLocal": "2023-10-08T18:50:00+03:00",
+                "start": "2024-03-08T15:15:00+00:00",
+                "startLocal": "2024-03-08T18:15:00+03:00",
+                "end": "2024-03-08T15:50:00+00:00",
+                "endLocal": "2024-03-08T18:50:00+03:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
