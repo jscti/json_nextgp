@@ -24,9 +24,9 @@
                 "end": "2023-11-10T02:30:00+00:00",
                 "endLocal": "2023-11-10T10:30:00+08:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.44,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -46,9 +46,9 @@
                 "end": "2023-11-10T06:45:00+00:00",
                 "endLocal": "2023-11-10T14:45:00+08:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.6,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -68,9 +68,9 @@
                 "end": "2023-11-11T01:55:00+00:00",
                 "endLocal": "2023-11-11T09:55:00+08:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0.48,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 1,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -90,9 +90,9 @@
                 "end": "2023-11-11T06:25:00+00:00",
                 "endLocal": "2023-11-11T14:25:00+08:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.4,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0.8,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -114,9 +114,15 @@
                 "hasTime": true,
                 "weatherCondition": 501,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.92,
+                "weatherRainProbability": 0.36,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             }
         ]
     },
