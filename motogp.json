@@ -26,7 +26,7 @@
                 "hasTime": true,
                 "weatherCondition": 804,
                 "weatherIcon": "04d",
-                "weatherRainProbability": 0.16,
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -46,9 +46,9 @@
                 "end": "2023-11-10T08:00:00+00:00",
                 "endLocal": "2023-11-10T16:00:00+08:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0.08,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.36,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -68,11 +68,17 @@
                 "end": "2023-11-11T02:40:00+00:00",
                 "endLocal": "2023-11-11T10:40:00+08:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.72,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1035853",
@@ -84,11 +90,17 @@
                 "end": "2023-11-11T03:30:00+00:00",
                 "endLocal": "2023-11-11T11:30:00+08:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.72,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1035859",
@@ -101,15 +113,20 @@
                 "end": "2023-11-11T07:45:00+00:00",
                 "endLocal": "2023-11-11T15:45:00+08:00",
                 "hasTime": true,
-                "weatherCondition": 501,
+                "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.95,
+                "weatherRainProbability": 0.4,
                 "isNightEvent": false,
                 "channels": [
                     {
                         "countryCode": "CH",
                         "channelName": "RTS 2",
                         "channelCode": "C183.api.telerama.fr"
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
                     }
                 ]
             },
@@ -125,7 +142,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherRainProbability": 0.55,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -148,7 +165,7 @@
         "index": "19 / 20",
         "title": "Grand Prix of Qatar",
         "start": "2023-11-17T12:45:00+00:00",
-        "end": "2023-11-19T18:00:00+00:00",
+        "end": "2023-11-19T17:50:00+00:00",
         "timezone": "Asia/Qatar",
         "latitude": "25.490029",
         "longitude": "51.453791",
@@ -229,8 +246,8 @@
                 "index": 1,
                 "start": "2023-11-18T17:00:00+00:00",
                 "startLocal": "2023-11-18T20:00:00+03:00",
-                "end": "2023-11-18T17:30:00+00:00",
-                "endLocal": "2023-11-18T20:30:00+03:00",
+                "end": "2023-11-18T17:45:00+00:00",
+                "endLocal": "2023-11-18T20:45:00+03:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
@@ -251,8 +268,8 @@
                 "index": 2,
                 "start": "2023-11-19T17:00:00+00:00",
                 "startLocal": "2023-11-19T20:00:00+03:00",
-                "end": "2023-11-19T18:00:00+00:00",
-                "endLocal": "2023-11-19T21:00:00+03:00",
+                "end": "2023-11-19T17:50:00+00:00",
+                "endLocal": "2023-11-19T20:50:00+03:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
