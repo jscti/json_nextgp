@@ -68,9 +68,9 @@
                 "end": "2023-11-18T05:30:00+00:00",
                 "endLocal": "2023-11-17T21:30:00-08:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 802,
+                "weatherIcon": "03n",
+                "weatherRainProbability": 0,
                 "isNightEvent": true,
                 "channels": [
                     {
@@ -90,9 +90,9 @@
                 "end": "2023-11-18T09:00:00+00:00",
                 "endLocal": "2023-11-18T01:00:00-08:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 800,
+                "weatherIcon": "01n",
+                "weatherRainProbability": 0,
                 "isNightEvent": true,
                 "channels": [
                     {
@@ -209,7 +209,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1042147",
@@ -225,7 +231,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": true,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1042217",
