@@ -24,11 +24,17 @@
                 "end": "2023-11-17T11:35:00+00:00",
                 "endLocal": "2023-11-17T14:35:00+03:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.2,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1046555",
@@ -40,11 +46,17 @@
                 "end": "2023-11-17T15:50:00+00:00",
                 "endLocal": "2023-11-17T18:50:00+03:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10n",
-                "weatherRainProbability": 0.28,
+                "weatherCondition": 800,
+                "weatherIcon": "01n",
+                "weatherRainProbability": 0,
                 "isNightEvent": true,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1046557",
@@ -88,9 +100,9 @@
                 "end": "2023-11-19T15:00:00+00:00",
                 "endLocal": "2023-11-19T18:00:00+03:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 800,
+                "weatherIcon": "01n",
+                "weatherRainProbability": 0,
                 "isNightEvent": true,
                 "channels": []
             }

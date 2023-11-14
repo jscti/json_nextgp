@@ -68,8 +68,8 @@
                 "end": "2023-11-18T05:30:00+00:00",
                 "endLocal": "2023-11-17T21:30:00-08:00",
                 "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03n",
+                "weatherCondition": 800,
+                "weatherIcon": "01n",
                 "weatherRainProbability": 0,
                 "isNightEvent": true,
                 "channels": [
@@ -117,9 +117,9 @@
                 "end": "2023-11-19T08:00:00+00:00",
                 "endLocal": "2023-11-19T00:00:00-08:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 801,
+                "weatherIcon": "02n",
+                "weatherRainProbability": 0,
                 "isNightEvent": true,
                 "channels": [
                     {
@@ -253,7 +253,18 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": true,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "CH",
+                        "channelName": "RTS 1",
+                        "channelCode": "C202.api.telerama.fr"
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+",
+                        "channelCode": "C34.api.telerama.fr"
+                    }
+                ]
             }
         ]
     }
