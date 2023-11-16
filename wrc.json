@@ -41,9 +41,9 @@
                 "title": "Day 2",
                 "type": "race",
                 "index": 2,
-                "start": "2023-11-16T20:00:00+00:00",
+                "start": "2023-11-16T22:00:00+00:00",
                 "startLocal": null,
-                "end": "2023-11-17T08:00:00+00:00",
+                "end": "2023-11-17T11:25:00+00:00",
                 "endLocal": null,
                 "hasTime": true,
                 "weatherCondition": null,
@@ -51,6 +51,11 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    },
                     {
                         "countryCode": "FR",
                         "channelName": "Canal+ Sport 360",
@@ -63,9 +68,9 @@
                 "title": "Day 3",
                 "type": "race",
                 "index": 3,
-                "start": "2023-11-17T22:10:00+00:00",
+                "start": "2023-11-17T23:00:00+00:00",
                 "startLocal": null,
-                "end": "2023-11-18T08:30:00+00:00",
+                "end": "2023-11-18T11:25:00+00:00",
                 "endLocal": null,
                 "hasTime": true,
                 "weatherCondition": null,
@@ -77,6 +82,11 @@
                         "countryCode": "FR",
                         "channelName": "Canal+ Sport",
                         "channelCode": "C35.api.telerama.fr"
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
                     }
                 ]
             },
@@ -85,9 +95,9 @@
                 "title": "Day 4",
                 "type": "race",
                 "index": 4,
-                "start": "2023-11-18T23:00:00+00:00",
+                "start": "2023-11-18T22:05:00+00:00",
                 "startLocal": null,
-                "end": "2023-11-19T07:00:00+00:00",
+                "end": "2023-11-19T06:30:00+00:00",
                 "endLocal": null,
                 "hasTime": true,
                 "weatherCondition": null,
