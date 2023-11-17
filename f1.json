@@ -24,9 +24,9 @@
                 "end": "2023-11-17T05:30:00+00:00",
                 "endLocal": "2023-11-16T21:30:00-08:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01n",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": true,
                 "channels": [
                     {
@@ -92,7 +92,7 @@
                 "hasTime": true,
                 "weatherCondition": 800,
                 "weatherIcon": "01n",
-                "weatherRainProbability": 0.01,
+                "weatherRainProbability": 0,
                 "isNightEvent": true,
                 "channels": [
                     {
