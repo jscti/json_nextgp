@@ -13,6 +13,77 @@
         "countryCode": "AE",
         "countryName": "United Arab Emirates",
         "cityName": "Yas Marina",
-        "steps": []
+        "steps": [
+            {
+                "id": "1cfcd403-c89a-43f8-9a04-4597566add02",
+                "title": "Free Practice",
+                "type": "practice",
+                "index": null,
+                "start": "2023-11-24T07:05:00+00:00",
+                "startLocal": null,
+                "end": "2023-11-24T07:50:00+00:00",
+                "endLocal": null,
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
+            },
+            {
+                "id": "edf78282-4688-4a11-a194-2612010c1864",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "index": null,
+                "start": "2023-11-24T11:00:00+00:00",
+                "startLocal": null,
+                "end": "2023-11-24T11:30:00+00:00",
+                "endLocal": null,
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
+            },
+            {
+                "id": "abea9e36-03c9-48bb-ad68-679d0da1dabd",
+                "title": "Race",
+                "type": "race",
+                "index": 1,
+                "start": "2023-11-25T12:20:00+00:00",
+                "startLocal": null,
+                "end": "2023-11-25T13:10:00+00:00",
+                "endLocal": null,
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": []
+            },
+            {
+                "id": "24afb5d2-c1f5-44bc-a536-8ed6d373bfd8",
+                "title": "Race",
+                "type": "race",
+                "index": 2,
+                "start": "2023-11-26T09:15:00+00:00",
+                "startLocal": null,
+                "end": "2023-11-26T10:20:00+00:00",
+                "endLocal": null,
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    }
+                ]
+            }
+        ]
     }
 ]
