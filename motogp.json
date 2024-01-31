@@ -2,7 +2,7 @@
     {
         "id": "sr:stage:1140440",
         "type": "motogp",
-        "index": "1 / 22",
+        "index": "1 / 21",
         "title": "Grand Prix of Qatar",
         "start": "2024-03-08T12:45:00+00:00",
         "end": "2024-03-10T18:00:00+00:00",
@@ -116,7 +116,7 @@
     {
         "id": "sr:stage:1140760",
         "type": "motogp",
-        "index": "2 / 22",
+        "index": "2 / 21",
         "title": "Grande Premio de Portugal",
         "start": "2024-03-22T10:45:00+00:00",
         "end": "2024-03-24T14:00:00+00:00",
@@ -228,123 +228,9 @@
         ]
     },
     {
-        "id": "sr:stage:1141080",
-        "type": "motogp",
-        "index": "3 / 22",
-        "title": "Gran Premio de la Republica Argentina",
-        "start": "2024-04-05T13:45:00+00:00",
-        "end": "2024-04-07T18:00:00+00:00",
-        "timezone": "America/Argentina/Cordoba",
-        "latitude": "-27.505194",
-        "longitude": "-64.913744",
-        "trackName": "Autodromo Termas de Rio Hondo",
-        "countryCode": "AR",
-        "countryName": "Argentina",
-        "cityName": "Santiago del Estero",
-        "steps": [
-            {
-                "id": "sr:stage:1141082",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2024-04-05T13:45:00+00:00",
-                "startLocal": "2024-04-05T10:45:00-03:00",
-                "end": "2024-04-05T14:30:00+00:00",
-                "endLocal": "2024-04-05T11:30:00-03:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1141084",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2024-04-05T18:00:00+00:00",
-                "startLocal": "2024-04-05T15:00:00-03:00",
-                "end": "2024-04-05T19:00:00+00:00",
-                "endLocal": "2024-04-05T16:00:00-03:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1141086",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2024-04-06T13:10:00+00:00",
-                "startLocal": "2024-04-06T10:10:00-03:00",
-                "end": "2024-04-06T13:40:00+00:00",
-                "endLocal": "2024-04-06T10:40:00-03:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1141090",
-                "title": "Qualifying",
-                "type": "qualifying",
-                "index": null,
-                "start": "2024-04-06T13:50:00+00:00",
-                "startLocal": "2024-04-06T10:50:00-03:00",
-                "end": "2024-04-06T14:30:00+00:00",
-                "endLocal": "2024-04-06T11:30:00-03:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1141096",
-                "title": "Sprint",
-                "subtitle": "Sprint",
-                "type": "race",
-                "index": 1,
-                "start": "2024-04-06T18:00:00+00:00",
-                "startLocal": "2024-04-06T15:00:00-03:00",
-                "end": "2024-04-06T18:30:00+00:00",
-                "endLocal": "2024-04-06T15:30:00-03:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1141198",
-                "title": "Race",
-                "type": "race",
-                "index": 2,
-                "start": "2024-04-07T17:00:00+00:00",
-                "startLocal": "2024-04-07T14:00:00-03:00",
-                "end": "2024-04-07T18:00:00+00:00",
-                "endLocal": "2024-04-07T15:00:00-03:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            }
-        ]
-    },
-    {
         "id": "sr:stage:1141400",
         "type": "motogp",
-        "index": "4 / 22",
+        "index": "3 / 21",
         "title": "Grand Prix of The Americas",
         "start": "2024-04-12T15:45:00+00:00",
         "end": "2024-04-14T20:00:00+00:00",
@@ -458,7 +344,7 @@
     {
         "id": "sr:stage:1141720",
         "type": "motogp",
-        "index": "5 / 22",
+        "index": "4 / 21",
         "title": "Gran Premio de Espana",
         "start": "2024-04-26T08:45:00+00:00",
         "end": "2024-04-28T14:00:00+00:00",
@@ -572,7 +458,7 @@
     {
         "id": "sr:stage:1142040",
         "type": "motogp",
-        "index": "6 / 22",
+        "index": "5 / 21",
         "title": "Grand Prix de France",
         "start": "2024-05-10T08:45:00+00:00",
         "end": "2024-05-12T13:00:00+00:00",
@@ -686,7 +572,7 @@
     {
         "id": "sr:stage:1142360",
         "type": "motogp",
-        "index": "7 / 22",
+        "index": "6 / 21",
         "title": "Gran Premi de Catalunya",
         "start": "2024-05-24T08:45:00+00:00",
         "end": "2024-05-26T13:00:00+00:00",
@@ -800,7 +686,7 @@
     {
         "id": "sr:stage:1142686",
         "type": "motogp",
-        "index": "8 / 22",
+        "index": "7 / 21",
         "title": "Gran Premio d'Italia",
         "start": "2024-05-31T08:45:00+00:00",
         "end": "2024-06-02T13:00:00+00:00",
@@ -914,7 +800,7 @@
     {
         "id": "sr:stage:1143006",
         "type": "motogp",
-        "index": "9 / 22",
+        "index": "8 / 21",
         "title": "Kazakhstan motorcycle Grand Prix",
         "start": "2024-06-14T05:15:00+00:00",
         "end": "2024-06-16T10:00:00+00:00",
@@ -1028,7 +914,7 @@
     {
         "id": "sr:stage:1143326",
         "type": "motogp",
-        "index": "10 / 22",
+        "index": "9 / 21",
         "title": "TT Assen",
         "start": "2024-06-28T08:45:00+00:00",
         "end": "2024-06-30T13:00:00+00:00",
@@ -1142,7 +1028,7 @@
     {
         "id": "sr:stage:1143646",
         "type": "motogp",
-        "index": "11 / 22",
+        "index": "10 / 21",
         "title": "Motorrad Grand Prix Deutschland",
         "start": "2024-07-05T08:45:00+00:00",
         "end": "2024-07-07T13:00:00+00:00",
@@ -1256,7 +1142,7 @@
     {
         "id": "sr:stage:1143966",
         "type": "motogp",
-        "index": "12 / 22",
+        "index": "11 / 21",
         "title": "British Grand Prix",
         "start": "2024-08-02T09:45:00+00:00",
         "end": "2024-08-04T13:00:00+00:00",
@@ -1265,7 +1151,7 @@
         "longitude": "-1.023273",
         "trackName": "Silverstone Circuit",
         "countryCode": "GB",
-        "countryName": "England",
+        "countryName": "Great Britain",
         "cityName": "Silverstone",
         "steps": [
             {
@@ -1370,7 +1256,7 @@
     {
         "id": "sr:stage:1144286",
         "type": "motogp",
-        "index": "13 / 22",
+        "index": "12 / 21",
         "title": "Motorrad Grand Prix von Osterreich",
         "start": "2024-08-16T08:45:00+00:00",
         "end": "2024-08-18T13:00:00+00:00",
@@ -1484,7 +1370,7 @@
     {
         "id": "sr:stage:1144606",
         "type": "motogp",
-        "index": "14 / 22",
+        "index": "13 / 21",
         "title": "Gran Premio de Aragon",
         "start": "2024-08-30T07:55:00+00:00",
         "end": "2024-09-01T13:00:00+00:00",
@@ -1598,7 +1484,7 @@
     {
         "id": "sr:stage:1145220",
         "type": "motogp",
-        "index": "15 / 22",
+        "index": "14 / 21",
         "title": "Gran Premio di San Marino",
         "start": "2024-09-06T08:45:00+00:00",
         "end": "2024-09-08T13:00:00+00:00",
@@ -1712,7 +1598,7 @@
     {
         "id": "sr:stage:1145540",
         "type": "motogp",
-        "index": "16 / 22",
+        "index": "15 / 21",
         "title": "Grand Prix of Bharat",
         "start": "2024-09-20T06:15:00+00:00",
         "end": "2024-09-22T11:00:00+00:00",
@@ -1826,7 +1712,7 @@
     {
         "id": "sr:stage:1145860",
         "type": "motogp",
-        "index": "17 / 22",
+        "index": "16 / 21",
         "title": "Grand Prix of Indonesia",
         "start": "2024-09-27T02:45:00+00:00",
         "end": "2024-09-29T07:00:00+00:00",
@@ -1940,7 +1826,7 @@
     {
         "id": "sr:stage:1146180",
         "type": "motogp",
-        "index": "18 / 22",
+        "index": "17 / 21",
         "title": "Grand Prix of Japan",
         "start": "2024-10-04T01:45:00+00:00",
         "end": "2024-10-06T07:00:00+00:00",
@@ -2054,7 +1940,7 @@
     {
         "id": "sr:stage:1146500",
         "type": "motogp",
-        "index": "19 / 22",
+        "index": "18 / 21",
         "title": "Australian Motorcycle Grand Prix",
         "start": "2024-10-17T23:45:00+00:00",
         "end": "2024-10-20T04:00:00+00:00",
@@ -2168,7 +2054,7 @@
     {
         "id": "sr:stage:1146820",
         "type": "motogp",
-        "index": "20 / 22",
+        "index": "19 / 21",
         "title": "Thailand Grand Prix",
         "start": "2024-10-25T03:45:00+00:00",
         "end": "2024-10-27T08:00:00+00:00",
@@ -2282,7 +2168,7 @@
     {
         "id": "sr:stage:1147140",
         "type": "motogp",
-        "index": "21 / 22",
+        "index": "20 / 21",
         "title": "Grand Prix of Malaysia",
         "start": "2024-11-01T02:45:00+00:00",
         "end": "2024-11-03T07:00:00+00:00",
@@ -2396,7 +2282,7 @@
     {
         "id": "sr:stage:1147460",
         "type": "motogp",
-        "index": "22 / 22",
+        "index": "21 / 21",
         "title": "Gran Premio de la Comunitat Valenciana",
         "start": "2024-11-15T09:45:00+00:00",
         "end": "2024-11-17T15:00:00+00:00",
