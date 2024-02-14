@@ -48,7 +48,7 @@
                 "hasTime": true,
                 "weatherCondition": 600,
                 "weatherIcon": "13n",
-                "weatherRainProbability": 0.54,
+                "weatherRainProbability": 0.82,
                 "isNightEvent": true,
                 "channels": [
                     {
@@ -70,9 +70,15 @@
                 "hasTime": true,
                 "weatherCondition": 804,
                 "weatherIcon": "04n",
-                "weatherRainProbability": 0,
+                "weatherRainProbability": 0.02,
                 "isNightEvent": true,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1176412",
@@ -84,8 +90,8 @@
                 "end": "2024-02-18T12:45:00+00:00",
                 "endLocal": "2024-02-18T13:45:00+01:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
