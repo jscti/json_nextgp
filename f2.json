@@ -24,9 +24,9 @@
                 "end": "2024-02-29T09:50:00+00:00",
                 "endLocal": "2024-02-29T12:50:00+03:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -84,8 +84,8 @@
                 "end": "2024-03-02T11:35:00+00:00",
                 "endLocal": "2024-03-02T14:35:00+03:00",
                 "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
