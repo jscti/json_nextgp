@@ -93,7 +93,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": true,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "CH",
+                        "channelName": "RTS 2",
+                        "channelCode": "C183.api.telerama.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1140558",
@@ -110,6 +116,11 @@
                 "weatherRainProbability": null,
                 "isNightEvent": true,
                 "channels": [
+                    {
+                        "countryCode": "CH",
+                        "channelName": "RTS 2",
+                        "channelCode": "C183.api.telerama.fr"
+                    },
                     {
                         "countryCode": "FR",
                         "channelName": "Canal+",
