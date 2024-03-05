@@ -24,11 +24,17 @@
                 "end": "2024-03-08T12:30:00+00:00",
                 "endLocal": "2024-03-08T15:30:00+03:00",
                 "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1147786",
@@ -44,7 +50,13 @@
                 "weatherIcon": "03n",
                 "weatherRainProbability": 0,
                 "isNightEvent": true,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1147788",
@@ -56,9 +68,9 @@
                 "end": "2024-03-09T10:45:00+00:00",
                 "endLocal": "2024-03-09T13:45:00+03:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0.03,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -72,9 +84,9 @@
                 "end": "2024-03-09T15:25:00+00:00",
                 "endLocal": "2024-03-09T18:25:00+03:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 800,
+                "weatherIcon": "01n",
+                "weatherRainProbability": 0,
                 "isNightEvent": true,
                 "channels": []
             },

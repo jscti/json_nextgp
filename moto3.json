@@ -24,11 +24,17 @@
                 "end": "2024-03-08T11:35:00+00:00",
                 "endLocal": "2024-03-08T14:35:00+03:00",
                 "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1152540",
@@ -44,7 +50,13 @@
                 "weatherIcon": "03n",
                 "weatherRainProbability": 0,
                 "isNightEvent": true,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "sr:stage:1152542",
@@ -56,9 +68,9 @@
                 "end": "2024-03-09T10:00:00+00:00",
                 "endLocal": "2024-03-09T13:00:00+03:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0.03,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -69,13 +81,13 @@
                 "index": null,
                 "start": "2024-03-09T13:50:00+00:00",
                 "startLocal": "2024-03-09T16:50:00+03:00",
-                "end": "2024-03-09T14:50:00+00:00",
-                "endLocal": "2024-03-09T17:50:00+03:00",
+                "end": "2024-03-09T14:30:00+00:00",
+                "endLocal": "2024-03-09T17:30:00+03:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": true,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0,
+                "isNightEvent": false,
                 "channels": []
             },
             {
