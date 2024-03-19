@@ -13,7 +13,90 @@
         "countryCode": "AU",
         "countryName": "Australia",
         "cityName": "Albert Park",
-        "steps": []
+        "steps": [
+            {
+                "id": "be9dd770-7dc2-41b4-99ad-4973b77ec191",
+                "title": "Free Practice",
+                "type": "practice",
+                "index": null,
+                "start": "2024-03-21T23:00:00+00:00",
+                "startLocal": "2024-03-22T10:00:00+11:00",
+                "end": "2024-03-21T23:45:00+00:00",
+                "endLocal": "2024-03-22T10:45:00+11:00",
+                "hasTime": true,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0,
+                "isNightEvent": false,
+                "channels": []
+            },
+            {
+                "id": "a5d89773-5650-4d63-bd04-517597e9003b",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-03-22T06:30:00+00:00",
+                "startLocal": "2024-03-22T17:30:00+11:00",
+                "end": "2024-03-22T07:00:00+00:00",
+                "endLocal": "2024-03-22T18:00:00+11:00",
+                "hasTime": true,
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
+                "weatherRainProbability": 0,
+                "isNightEvent": false,
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    }
+                ]
+            },
+            {
+                "id": "51225fbd-fc66-418c-9865-bbb7fcc5721d",
+                "title": "Race",
+                "type": "race",
+                "index": 1,
+                "start": "2024-03-23T03:15:00+00:00",
+                "startLocal": "2024-03-23T14:15:00+11:00",
+                "end": "2024-03-23T04:05:00+00:00",
+                "endLocal": "2024-03-23T15:05:00+11:00",
+                "hasTime": true,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0,
+                "isNightEvent": false,
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    }
+                ]
+            },
+            {
+                "id": "d5802f92-d09d-454b-9b3a-ffe56aaf1a64",
+                "title": "Race",
+                "type": "race",
+                "index": 2,
+                "start": "2024-03-24T00:35:00+00:00",
+                "startLocal": "2024-03-24T11:35:00+11:00",
+                "end": "2024-03-24T01:40:00+00:00",
+                "endLocal": "2024-03-24T12:40:00+11:00",
+                "hasTime": true,
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
+                "weatherRainProbability": 0,
+                "isNightEvent": false,
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    }
+                ]
+            }
+        ]
     },
     {
         "id": "bb5b09d5-fc30-4cc8-8f0e-5d25f65bb587",
