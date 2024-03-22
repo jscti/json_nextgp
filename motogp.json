@@ -24,9 +24,9 @@
                 "end": "2024-03-22T11:30:00+00:00",
                 "endLocal": "2024-03-22T11:30:00Z",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -46,9 +46,9 @@
                 "end": "2024-03-22T16:00:00+00:00",
                 "endLocal": "2024-03-22T16:00:00Z",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -68,7 +68,7 @@
                 "end": "2024-03-23T10:40:00+00:00",
                 "endLocal": "2024-03-23T10:40:00Z",
                 "hasTime": true,
-                "weatherCondition": 803,
+                "weatherCondition": 804,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
@@ -90,7 +90,7 @@
                 "end": "2024-03-23T11:30:00+00:00",
                 "endLocal": "2024-03-23T11:30:00Z",
                 "hasTime": true,
-                "weatherCondition": 803,
+                "weatherCondition": 804,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
@@ -137,7 +137,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.49,
+                "weatherRainProbability": 0.53,
                 "isNightEvent": false,
                 "channels": [
                     {
