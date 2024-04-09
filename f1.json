@@ -1,126 +1,5 @@
 [
     {
-        "id": "sr:stage:1108413",
-        "type": "f1",
-        "index": "4 / 24",
-        "title": "Japanese Grand Prix",
-        "start": "2024-04-05T02:30:00+00:00",
-        "end": "2024-04-07T07:00:00+00:00",
-        "timezone": "Asia/Tokyo",
-        "latitude": "34.844522",
-        "longitude": "136.538515",
-        "trackName": "Suzuka International Racing Course",
-        "countryCode": "JP",
-        "countryName": "Japan",
-        "cityName": "Suzuka",
-        "steps": [
-            {
-                "id": "sr:stage:1108415",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2024-04-05T02:30:00+00:00",
-                "startLocal": "2024-04-05T11:30:00+09:00",
-                "end": "2024-04-05T03:30:00+00:00",
-                "endLocal": "2024-04-05T12:30:00+09:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "C35.api.telerama.fr"
-                    }
-                ]
-            },
-            {
-                "id": "sr:stage:1108417",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2024-04-05T06:00:00+00:00",
-                "startLocal": "2024-04-05T15:00:00+09:00",
-                "end": "2024-04-05T07:00:00+00:00",
-                "endLocal": "2024-04-05T16:00:00+09:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "C35.api.telerama.fr"
-                    }
-                ]
-            },
-            {
-                "id": "sr:stage:1108419",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2024-04-06T02:30:00+00:00",
-                "startLocal": "2024-04-06T11:30:00+09:00",
-                "end": "2024-04-06T03:30:00+00:00",
-                "endLocal": "2024-04-06T12:30:00+09:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "C35.api.telerama.fr"
-                    }
-                ]
-            },
-            {
-                "id": "sr:stage:1108421",
-                "title": "Qualification",
-                "type": "qualifying",
-                "index": null,
-                "start": "2024-04-06T06:00:00+00:00",
-                "startLocal": "2024-04-06T15:00:00+09:00",
-                "end": "2024-04-06T07:00:00+00:00",
-                "endLocal": "2024-04-06T16:00:00+09:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "C35.api.telerama.fr"
-                    }
-                ]
-            },
-            {
-                "id": "sr:stage:1108499",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2024-04-07T05:00:00+00:00",
-                "startLocal": "2024-04-07T14:00:00+09:00",
-                "end": "2024-04-07T07:03:00+00:00",
-                "endLocal": "2024-04-07T16:03:00+09:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            }
-        ]
-    },
-    {
         "id": "sr:stage:1108701",
         "type": "f1",
         "index": "5 / 24",
@@ -151,6 +30,11 @@
                 "isNightEvent": false,
                 "channels": [
                     {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    },
+                    {
                         "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": "tipik.be"
@@ -173,6 +57,11 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    },
                     {
                         "countryCode": "BE",
                         "channelName": "Tipik",
@@ -197,6 +86,11 @@
                 "isNightEvent": false,
                 "channels": [
                     {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    },
+                    {
                         "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": "tipik.be"
@@ -219,6 +113,11 @@
                 "isNightEvent": false,
                 "channels": [
                     {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    },
+                    {
                         "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": "tipik.be"
@@ -240,6 +139,11 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+",
+                        "channelCode": "C34.api.telerama.fr"
+                    },
                     {
                         "countryCode": "BE",
                         "channelName": "Tipik",
