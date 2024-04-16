@@ -1,119 +1,5 @@
 [
     {
-        "id": "sr:stage:1141400",
-        "type": "motogp",
-        "index": "3 / 21",
-        "title": "Grand Prix of The Americas",
-        "start": "2024-04-12T15:45:00+00:00",
-        "end": "2024-04-14T20:00:00+00:00",
-        "timezone": "America/Chicago",
-        "latitude": "30.132778",
-        "longitude": "-97.641111",
-        "trackName": "Circuit of The Americas",
-        "countryCode": "US",
-        "countryName": "USA",
-        "cityName": "Austin",
-        "steps": [
-            {
-                "id": "sr:stage:1141402",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2024-04-12T15:45:00+00:00",
-                "startLocal": "2024-04-12T10:45:00-05:00",
-                "end": "2024-04-12T16:30:00+00:00",
-                "endLocal": "2024-04-12T11:30:00-05:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1141404",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2024-04-12T20:00:00+00:00",
-                "startLocal": "2024-04-12T15:00:00-05:00",
-                "end": "2024-04-12T21:00:00+00:00",
-                "endLocal": "2024-04-12T16:00:00-05:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1141406",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2024-04-13T15:10:00+00:00",
-                "startLocal": "2024-04-13T10:10:00-05:00",
-                "end": "2024-04-13T15:40:00+00:00",
-                "endLocal": "2024-04-13T10:40:00-05:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1141410",
-                "title": "Qualifying",
-                "type": "qualifying",
-                "index": null,
-                "start": "2024-04-13T15:50:00+00:00",
-                "startLocal": "2024-04-13T10:50:00-05:00",
-                "end": "2024-04-13T16:30:00+00:00",
-                "endLocal": "2024-04-13T11:30:00-05:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1141416",
-                "title": "Sprint",
-                "subtitle": "Sprint",
-                "type": "race",
-                "index": 1,
-                "start": "2024-04-13T20:00:00+00:00",
-                "startLocal": "2024-04-13T15:00:00-05:00",
-                "end": "2024-04-13T20:30:00+00:00",
-                "endLocal": "2024-04-13T15:30:00-05:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "sr:stage:1141518",
-                "title": "Race",
-                "type": "race",
-                "index": 2,
-                "start": "2024-04-14T19:00:00+00:00",
-                "startLocal": "2024-04-14T14:00:00-05:00",
-                "end": "2024-04-14T20:00:00+00:00",
-                "endLocal": "2024-04-14T15:00:00-05:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            }
-        ]
-    },
-    {
         "id": "sr:stage:1141720",
         "type": "motogp",
         "index": "4 / 21",
@@ -223,7 +109,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+",
+                        "channelCode": "C34.api.telerama.fr"
+                    }
+                ]
             }
         ]
     },
