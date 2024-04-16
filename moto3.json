@@ -1,21 +1,20 @@
 [
     {
-        "id": "sr:stage:1153400",
+        "id": "mte1mzqwma",
         "type": "moto3",
         "index": "4 / 21",
         "title": "Gran Premio de Espana",
         "start": "2024-04-26T07:00:00+00:00",
-        "end": "2024-04-28T11:00:00+00:00",
+        "end": "2024-04-28T10:00:00+00:00",
         "timezone": "Europe/Madrid",
         "latitude": "36.708333",
         "longitude": "-6.034167",
         "trackName": "Circuito de Jerez",
         "countryCode": "ES",
-        "countryName": "Spain",
         "cityName": "Jerez",
         "steps": [
             {
-                "id": "sr:stage:1153402",
+                "id": "mte1mzqwmg",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -31,12 +30,12 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1153404",
+                "id": "mte1mzqwna",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
-                "start": "2024-04-26T15:28:00+00:00",
-                "startLocal": "2024-04-26T17:28:00+02:00",
+                "start": "2024-04-26T11:15:00+00:00",
+                "startLocal": "2024-04-26T13:15:00+02:00",
                 "end": "2024-04-26T11:50:00+00:00",
                 "endLocal": "2024-04-26T13:50:00+02:00",
                 "hasTime": true,
@@ -47,7 +46,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1153406",
+                "id": "mte1mzqwng",
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 3,
@@ -63,7 +62,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1153408",
+                "id": "mte1mzqwoa",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
@@ -79,14 +78,14 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1153414",
+                "id": "mte1mzqxna",
                 "title": "Race",
                 "type": "race",
                 "index": null,
-                "start": "2024-04-28T10:00:00+00:00",
-                "startLocal": "2024-04-28T12:00:00+02:00",
-                "end": "2024-04-28T11:00:00+00:00",
-                "endLocal": "2024-04-28T13:00:00+02:00",
+                "start": "2024-04-28T09:00:00+00:00",
+                "startLocal": "2024-04-28T11:00:00+02:00",
+                "end": "2024-04-28T10:00:00+00:00",
+                "endLocal": "2024-04-28T12:00:00+02:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
@@ -97,7 +96,7 @@
         ]
     },
     {
-        "id": "sr:stage:1153616",
+        "id": "mte1mzyxng",
         "type": "moto3",
         "index": "5 / 21",
         "title": "Grand Prix de France",
@@ -108,11 +107,10 @@
         "longitude": "0.21097",
         "trackName": "Le Mans Bugatti Circuit",
         "countryCode": "FR",
-        "countryName": "France",
         "cityName": "Le Mans",
         "steps": [
             {
-                "id": "sr:stage:1153618",
+                "id": "mte1mzyxoa",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -128,7 +126,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1153620",
+                "id": "mte1mzyyma",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -144,7 +142,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1153622",
+                "id": "mte1mzyymg",
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 3,
@@ -160,7 +158,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1153624",
+                "id": "mte1mzyyna",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
@@ -176,7 +174,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1153630",
+                "id": "mte1mzyzma",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -194,7 +192,7 @@
         ]
     },
     {
-        "id": "sr:stage:1153832",
+        "id": "mte1mzgzmg",
         "type": "moto3",
         "index": "6 / 21",
         "title": "Gran Premi de Catalunya",
@@ -205,11 +203,10 @@
         "longitude": "2.261111",
         "trackName": "Circuit de Catalunya",
         "countryCode": "ES",
-        "countryName": "Spain",
         "cityName": "Barcelona",
         "steps": [
             {
-                "id": "sr:stage:1153834",
+                "id": "mte1mzgzna",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -225,7 +222,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1153836",
+                "id": "mte1mzgzng",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -241,7 +238,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1153838",
+                "id": "mte1mzgzoa",
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 3,
@@ -257,7 +254,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1153840",
+                "id": "mte1mzg0ma",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
@@ -273,7 +270,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1153846",
+                "id": "mte1mzg0ng",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -291,7 +288,7 @@
         ]
     },
     {
-        "id": "sr:stage:1154048",
+        "id": "mte1nda0oa",
         "type": "moto3",
         "index": "7 / 21",
         "title": "Gran Premio d'Italia",
@@ -302,11 +299,10 @@
         "longitude": "11.372031",
         "trackName": "Autodromo Internazionale del Mugello",
         "countryCode": "IT",
-        "countryName": "Italy",
         "cityName": "Scarperia e San Piero",
         "steps": [
             {
-                "id": "sr:stage:1154050",
+                "id": "mte1nda1ma",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -322,7 +318,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1154052",
+                "id": "mte1nda1mg",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -338,7 +334,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1154054",
+                "id": "mte1nda1na",
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 3,
@@ -354,7 +350,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1154056",
+                "id": "mte1nda1ng",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
@@ -370,7 +366,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1154062",
+                "id": "mte1nda2mg",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -388,7 +384,7 @@
         ]
     },
     {
-        "id": "sr:stage:1154264",
+        "id": "mte1ndi2na",
         "type": "moto3",
         "index": "8 / 21",
         "title": "Kazakhstan motorcycle Grand Prix",
@@ -399,11 +395,10 @@
         "longitude": "76.570556",
         "trackName": "Sokol International Racetrack",
         "countryCode": "KZ",
-        "countryName": "Kazakhstan",
         "cityName": "Almaty",
         "steps": [
             {
-                "id": "sr:stage:1154266",
+                "id": "mte1ndi2ng",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -419,7 +414,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1154268",
+                "id": "mte1ndi2oa",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -435,7 +430,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1154270",
+                "id": "mte1ndi3ma",
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 3,
@@ -451,7 +446,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1154272",
+                "id": "mte1ndi3mg",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
@@ -467,7 +462,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1154278",
+                "id": "mte1ndi3oa",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -485,7 +480,7 @@
         ]
     },
     {
-        "id": "sr:stage:1154480",
+        "id": "mte1ndq4ma",
         "type": "moto3",
         "index": "9 / 21",
         "title": "TT Assen",
@@ -496,11 +491,10 @@
         "longitude": "6.523558",
         "trackName": "TT Circuit Assen",
         "countryCode": "NL",
-        "countryName": "Netherlands",
         "cityName": "Assen",
         "steps": [
             {
-                "id": "sr:stage:1154482",
+                "id": "mte1ndq4mg",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -516,7 +510,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1154484",
+                "id": "mte1ndq4na",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -532,7 +526,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1154486",
+                "id": "mte1ndq4ng",
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 3,
@@ -548,7 +542,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1154488",
+                "id": "mte1ndq4oa",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
@@ -564,7 +558,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1154494",
+                "id": "mte1ndq5na",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -582,7 +576,7 @@
         ]
     },
     {
-        "id": "sr:stage:1154696",
+        "id": "mte1ndy5ng",
         "type": "moto3",
         "index": "10 / 21",
         "title": "Motorrad Grand Prix Deutschland",
@@ -593,11 +587,10 @@
         "longitude": "12.68861",
         "trackName": "Sachsenring",
         "countryCode": "DE",
-        "countryName": "Germany",
         "cityName": "Oberlungwitz",
         "steps": [
             {
-                "id": "sr:stage:1154698",
+                "id": "mte1ndy5oa",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -613,7 +606,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1154700",
+                "id": "mte1ndcwma",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -629,7 +622,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1154702",
+                "id": "mte1ndcwmg",
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 3,
@@ -645,7 +638,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1154704",
+                "id": "mte1ndcwna",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
@@ -661,7 +654,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1154710",
+                "id": "mte1ndcxma",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -679,7 +672,7 @@
         ]
     },
     {
-        "id": "sr:stage:1154912",
+        "id": "mte1ndkxmg",
         "type": "moto3",
         "index": "11 / 21",
         "title": "British Grand Prix",
@@ -690,11 +683,10 @@
         "longitude": "-1.023273",
         "trackName": "Silverstone Circuit",
         "countryCode": "GB",
-        "countryName": "Great Britain",
         "cityName": "Silverstone",
         "steps": [
             {
-                "id": "sr:stage:1154914",
+                "id": "mte1ndkxna",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -710,7 +702,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1154916",
+                "id": "mte1ndkxng",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -726,7 +718,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1154918",
+                "id": "mte1ndkxoa",
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 3,
@@ -742,7 +734,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1154920",
+                "id": "mte1ndkyma",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
@@ -758,7 +750,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1154926",
+                "id": "mte1ndkyng",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -776,7 +768,7 @@
         ]
     },
     {
-        "id": "sr:stage:1155170",
+        "id": "mte1nte3ma",
         "type": "moto3",
         "index": "12 / 21",
         "title": "Motorrad Grand Prix von Osterreich",
@@ -787,11 +779,10 @@
         "longitude": "14.764888",
         "trackName": "Red Bull Ring",
         "countryCode": "AT",
-        "countryName": "Austria",
         "cityName": "Spielberg",
         "steps": [
             {
-                "id": "sr:stage:1155174",
+                "id": "mte1nte3na",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -807,7 +798,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1155178",
+                "id": "mte1nte3oa",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -823,7 +814,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1155182",
+                "id": "mte1nte4mg",
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 3,
@@ -839,7 +830,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1155186",
+                "id": "mte1nte4ng",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
@@ -855,7 +846,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1155196",
+                "id": "mte1nte5ng",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -873,7 +864,7 @@
         ]
     },
     {
-        "id": "sr:stage:1155398",
+        "id": "mte1ntm5oa",
         "type": "moto3",
         "index": "13 / 21",
         "title": "Gran Premio de Aragon",
@@ -884,11 +875,10 @@
         "longitude": "-0.205019",
         "trackName": "Motorland Aragon",
         "countryCode": "ES",
-        "countryName": "Spain",
         "cityName": "Alcaniz",
         "steps": [
             {
-                "id": "sr:stage:1155400",
+                "id": "mte1ntqwma",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -904,7 +894,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1155402",
+                "id": "mte1ntqwmg",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -920,7 +910,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1155404",
+                "id": "mte1ntqwna",
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 3,
@@ -936,7 +926,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1155406",
+                "id": "mte1ntqwng",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
@@ -952,7 +942,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1155412",
+                "id": "mte1ntqxmg",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -970,7 +960,7 @@
         ]
     },
     {
-        "id": "sr:stage:1155614",
+        "id": "mte1ntyxna",
         "type": "moto3",
         "index": "14 / 21",
         "title": "Gran Premio di San Marino",
@@ -981,11 +971,10 @@
         "longitude": "12.683075",
         "trackName": "Misano World Circuit",
         "countryCode": "IT",
-        "countryName": "Italy",
         "cityName": "Misano Adriatico",
         "steps": [
             {
-                "id": "sr:stage:1155616",
+                "id": "mte1ntyxng",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -1001,7 +990,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1155618",
+                "id": "mte1ntyxoa",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -1017,7 +1006,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1155620",
+                "id": "mte1ntyyma",
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 3,
@@ -1033,7 +1022,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1155622",
+                "id": "mte1ntyymg",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
@@ -1049,7 +1038,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1155628",
+                "id": "mte1ntyyoa",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -1067,7 +1056,7 @@
         ]
     },
     {
-        "id": "sr:stage:1155830",
+        "id": "mte1ntgzma",
         "type": "moto3",
         "index": "15 / 21",
         "title": "Grand Prix of Bharat",
@@ -1078,11 +1067,10 @@
         "longitude": "77.535",
         "trackName": "Buddh International Circuit",
         "countryCode": "IN",
-        "countryName": "India",
         "cityName": "Greater Noida",
         "steps": [
             {
-                "id": "sr:stage:1155832",
+                "id": "mte1ntgzmg",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -1098,7 +1086,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1155834",
+                "id": "mte1ntgzna",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -1114,7 +1102,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1155836",
+                "id": "mte1ntgzng",
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 3,
@@ -1130,7 +1118,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1155838",
+                "id": "mte1ntgzoa",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
@@ -1146,7 +1134,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1155844",
+                "id": "mte1ntg0na",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -1164,7 +1152,7 @@
         ]
     },
     {
-        "id": "sr:stage:1156046",
+        "id": "mte1nja0ng",
         "type": "moto3",
         "index": "16 / 21",
         "title": "Grand Prix of Indonesia",
@@ -1175,11 +1163,10 @@
         "longitude": "116.305823",
         "trackName": "Mandalika International Circuit",
         "countryCode": "ID",
-        "countryName": "Indonesia",
         "cityName": "Lombok",
         "steps": [
             {
-                "id": "sr:stage:1156048",
+                "id": "mte1nja0oa",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -1195,7 +1182,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1156050",
+                "id": "mte1nja1ma",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -1211,7 +1198,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1156052",
+                "id": "mte1nja1mg",
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 3,
@@ -1227,7 +1214,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1156054",
+                "id": "mte1nja1na",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
@@ -1243,7 +1230,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1156060",
+                "id": "mte1nja2ma",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -1261,7 +1248,7 @@
         ]
     },
     {
-        "id": "sr:stage:1156262",
+        "id": "mte1nji2mg",
         "type": "moto3",
         "index": "17 / 21",
         "title": "Grand Prix of Japan",
@@ -1272,11 +1259,10 @@
         "longitude": "140.228569",
         "trackName": "Twin Ring Motegi",
         "countryCode": "JP",
-        "countryName": "Japan",
         "cityName": "Motegi",
         "steps": [
             {
-                "id": "sr:stage:1156264",
+                "id": "mte1nji2na",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -1292,7 +1278,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1156266",
+                "id": "mte1nji2ng",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -1308,7 +1294,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1156270",
+                "id": "mte1nji3ma",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
@@ -1324,7 +1310,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1156268",
+                "id": "mte1nji2oa",
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 3,
@@ -1340,7 +1326,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1156276",
+                "id": "mte1nji3ng",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -1358,7 +1344,7 @@
         ]
     },
     {
-        "id": "sr:stage:1156478",
+        "id": "mte1njq3oa",
         "type": "moto3",
         "index": "18 / 21",
         "title": "Australian Motorcycle Grand Prix",
@@ -1369,11 +1355,10 @@
         "longitude": "145.232269",
         "trackName": "Phillip Island Circuit",
         "countryCode": "AU",
-        "countryName": "Australia",
         "cityName": "Phillip Island",
         "steps": [
             {
-                "id": "sr:stage:1156482",
+                "id": "mte1njq4mg",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 1,
@@ -1389,7 +1374,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1156480",
+                "id": "mte1njq4ma",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 2,
@@ -1405,7 +1390,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1156486",
+                "id": "mte1njq4ng",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
@@ -1421,7 +1406,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1156484",
+                "id": "mte1njq4na",
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 3,
@@ -1437,7 +1422,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1156492",
+                "id": "mte1njq5mg",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -1455,7 +1440,7 @@
         ]
     },
     {
-        "id": "sr:stage:1156694",
+        "id": "mte1njy5na",
         "type": "moto3",
         "index": "19 / 21",
         "title": "Thailand Grand Prix",
@@ -1466,11 +1451,10 @@
         "longitude": "103.085309",
         "trackName": "Chang International Circuit",
         "countryCode": "TH",
-        "countryName": "Thailand",
         "cityName": "Buriram",
         "steps": [
             {
-                "id": "sr:stage:1156696",
+                "id": "mte1njy5ng",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -1486,7 +1470,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1156698",
+                "id": "mte1njy5oa",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -1502,7 +1486,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1156700",
+                "id": "mte1njcwma",
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 3,
@@ -1518,7 +1502,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1156702",
+                "id": "mte1njcwmg",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
@@ -1534,7 +1518,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1156708",
+                "id": "mte1njcwoa",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -1552,7 +1536,7 @@
         ]
     },
     {
-        "id": "sr:stage:1156910",
+        "id": "mte1njkxma",
         "type": "moto3",
         "index": "20 / 21",
         "title": "Grand Prix of Malaysia",
@@ -1563,11 +1547,10 @@
         "longitude": "101.73696",
         "trackName": "Sepang International Circuit",
         "countryCode": "MY",
-        "countryName": "Malaysia",
         "cityName": "Sepang",
         "steps": [
             {
-                "id": "sr:stage:1156912",
+                "id": "mte1njkxmg",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -1583,7 +1566,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1156914",
+                "id": "mte1njkxna",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -1599,7 +1582,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1156916",
+                "id": "mte1njkxng",
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 3,
@@ -1615,7 +1598,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1156918",
+                "id": "mte1njkxoa",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
@@ -1631,7 +1614,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1156924",
+                "id": "mte1njkyna",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -1649,7 +1632,7 @@
         ]
     },
     {
-        "id": "sr:stage:1157126",
+        "id": "mte1nzeyng",
         "type": "moto3",
         "index": "21 / 21",
         "title": "Gran Premio de la Comunitat Valenciana",
@@ -1660,11 +1643,10 @@
         "longitude": "-0.628078",
         "trackName": "Circuit de la Comunitat Valenciana Ricardo Tormo",
         "countryCode": "ES",
-        "countryName": "Spain",
         "cityName": "Valencia",
         "steps": [
             {
-                "id": "sr:stage:1157128",
+                "id": "mte1nzeyoa",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -1680,7 +1662,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1157130",
+                "id": "mte1nzezma",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -1696,7 +1678,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1157132",
+                "id": "mte1nzezmg",
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 3,
@@ -1712,7 +1694,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1157134",
+                "id": "mte1nzezna",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
@@ -1728,7 +1710,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1157140",
+                "id": "mte1nze0ma",
                 "title": "Race",
                 "type": "race",
                 "index": null,

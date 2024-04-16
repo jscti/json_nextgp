@@ -1,6 +1,6 @@
 [
     {
-        "id": "sr:stage:1169928",
+        "id": "mte2otkyoa",
         "type": "superbike",
         "index": "3 / 12",
         "title": "Assen",
@@ -11,11 +11,10 @@
         "longitude": "6.523558",
         "trackName": "TT Circuit Assen",
         "countryCode": "NL",
-        "countryName": "Netherlands",
         "cityName": "Assen",
         "steps": [
             {
-                "id": "sr:stage:1169930",
+                "id": "mte2otkzma",
                 "title": "Free practice 1",
                 "type": "practice",
                 "index": 1,
@@ -31,7 +30,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1169932",
+                "id": "mte2otkzmg",
                 "title": "Free practice 2",
                 "type": "practice",
                 "index": 2,
@@ -47,7 +46,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1169934",
+                "id": "mte2otkzna",
                 "title": "Free practice 3",
                 "type": "practice",
                 "index": 3,
@@ -56,14 +55,14 @@
                 "end": "2024-04-20T07:20:00+00:00",
                 "endLocal": "2024-04-20T09:20:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.27,
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
             },
             {
-                "id": "sr:stage:1169942",
+                "id": "mte2otk0mg",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
@@ -72,14 +71,14 @@
                 "end": "2024-04-20T09:15:00+00:00",
                 "endLocal": "2024-04-20T11:15:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.45,
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
             },
             {
-                "id": "sr:stage:1169950",
+                "id": "mte2otk1ma",
                 "title": "Race 1",
                 "type": "race",
                 "index": 1,
@@ -90,12 +89,12 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.48,
+                "weatherRainProbability": 0.2,
                 "isNightEvent": false,
                 "channels": []
             },
             {
-                "id": "sr:stage:1170354",
+                "id": "mte3mdm1na",
                 "title": "Race 3",
                 "type": "race",
                 "index": 2,
@@ -104,14 +103,14 @@
                 "end": "2024-04-21T09:30:00+00:00",
                 "endLocal": "2024-04-21T11:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
             },
             {
-                "id": "sr:stage:1170152",
+                "id": "mte3mde1mg",
                 "title": "Race 2",
                 "type": "race",
                 "index": 3,
@@ -120,16 +119,16 @@
                 "end": "2024-04-21T13:00:00+00:00",
                 "endLocal": "2024-04-21T15:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.2,
                 "isNightEvent": false,
                 "channels": []
             }
         ]
     },
     {
-        "id": "sr:stage:1170556",
+        "id": "mte3mdu1ng",
         "type": "superbike",
         "index": "4 / 12",
         "title": "Misano",
@@ -140,11 +139,10 @@
         "longitude": "12.683075",
         "trackName": "Misano World Circuit",
         "countryCode": "IT",
-        "countryName": "Italy",
         "cityName": "Misano Adriatico",
         "steps": [
             {
-                "id": "sr:stage:1170558",
+                "id": "mte3mdu1oa",
                 "title": "Free practice 1",
                 "type": "practice",
                 "index": 1,
@@ -160,7 +158,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1170560",
+                "id": "mte3mdu2ma",
                 "title": "Free practice 2",
                 "type": "practice",
                 "index": 2,
@@ -176,7 +174,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1170562",
+                "id": "mte3mdu2mg",
                 "title": "Free practice 3",
                 "type": "practice",
                 "index": 3,
@@ -192,7 +190,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1170570",
+                "id": "mte3mdu3ma",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
@@ -208,7 +206,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1170578",
+                "id": "mte3mdu3oa",
                 "title": "Race 1",
                 "type": "race",
                 "index": 1,
@@ -224,7 +222,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1170982",
+                "id": "mte3mdk4mg",
                 "title": "Race 3",
                 "type": "race",
                 "index": 2,
@@ -240,7 +238,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1170780",
+                "id": "mte3mdc4ma",
                 "title": "Race 2",
                 "type": "race",
                 "index": 3,
@@ -258,7 +256,7 @@
         ]
     },
     {
-        "id": "sr:stage:1171184",
+        "id": "mte3mte4na",
         "type": "superbike",
         "index": "5 / 12",
         "title": "Donington",
@@ -269,11 +267,10 @@
         "longitude": "-1.378214",
         "trackName": "Donington Park Circuit",
         "countryCode": "GB",
-        "countryName": "England",
         "cityName": "Derby",
         "steps": [
             {
-                "id": "sr:stage:1171186",
+                "id": "mte3mte4ng",
                 "title": "Free practice 1",
                 "type": "practice",
                 "index": 1,
@@ -289,7 +286,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1171188",
+                "id": "mte3mte4oa",
                 "title": "Free practice 2",
                 "type": "practice",
                 "index": 2,
@@ -305,7 +302,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1171190",
+                "id": "mte3mte5ma",
                 "title": "Free practice 3",
                 "type": "practice",
                 "index": 3,
@@ -321,7 +318,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1171198",
+                "id": "mte3mte5oa",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
@@ -337,7 +334,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1171206",
+                "id": "mte3mtiwng",
                 "title": "Race 1",
                 "type": "race",
                 "index": 1,
@@ -353,7 +350,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1171610",
+                "id": "mte3mtyxma",
                 "title": "Race 3",
                 "type": "race",
                 "index": 2,
@@ -369,7 +366,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1171408",
+                "id": "mte3mtqwoa",
                 "title": "Race 2",
                 "type": "race",
                 "index": 3,
@@ -387,7 +384,7 @@
         ]
     },
     {
-        "id": "sr:stage:1171812",
+        "id": "mte3mtgxmg",
         "type": "superbike",
         "index": "6 / 12",
         "title": "Most",
@@ -398,11 +395,10 @@
         "longitude": "13.60106",
         "trackName": "Autodrom Most",
         "countryCode": "CZ",
-        "countryName": "Czech Republic",
         "cityName": "Most",
         "steps": [
             {
-                "id": "sr:stage:1171814",
+                "id": "mte3mtgxna",
                 "title": "Free practice 1",
                 "type": "practice",
                 "index": 1,
@@ -418,7 +414,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1171816",
+                "id": "mte3mtgxng",
                 "title": "Free practice 2",
                 "type": "practice",
                 "index": 2,
@@ -434,7 +430,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1171818",
+                "id": "mte3mtgxoa",
                 "title": "Free practice 3",
                 "type": "practice",
                 "index": 3,
@@ -450,7 +446,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1171826",
+                "id": "mte3mtgyng",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
@@ -466,7 +462,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1171834",
+                "id": "mte3mtgzna",
                 "title": "Race 1",
                 "type": "race",
                 "index": 1,
@@ -482,7 +478,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1172238",
+                "id": "mte3mjizoa",
                 "title": "Race 3",
                 "type": "race",
                 "index": 2,
@@ -498,7 +494,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1172036",
+                "id": "mte3mjazng",
                 "title": "Race 2",
                 "type": "race",
                 "index": 3,
@@ -516,7 +512,7 @@
         ]
     },
     {
-        "id": "sr:stage:1172440",
+        "id": "mte3mjq0ma",
         "type": "superbike",
         "index": "7 / 12",
         "title": "Algarve",
@@ -527,11 +523,10 @@
         "longitude": "-8.6305163",
         "trackName": "Autodromo International Algarve",
         "countryCode": "PT",
-        "countryName": "Portugal",
         "cityName": "Portimao",
         "steps": [
             {
-                "id": "sr:stage:1172442",
+                "id": "mte3mjq0mg",
                 "title": "Free practice 1",
                 "type": "practice",
                 "index": 1,
@@ -547,7 +542,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1172444",
+                "id": "mte3mjq0na",
                 "title": "Free practice 2",
                 "type": "practice",
                 "index": 2,
@@ -563,7 +558,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1172446",
+                "id": "mte3mjq0ng",
                 "title": "Free practice 3",
                 "type": "practice",
                 "index": 3,
@@ -579,7 +574,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1172454",
+                "id": "mte3mjq1na",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
@@ -595,7 +590,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1172462",
+                "id": "mte3mjq2mg",
                 "title": "Race 1",
                 "type": "race",
                 "index": 1,
@@ -611,7 +606,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1172866",
+                "id": "mte3mjg2ng",
                 "title": "Race 3",
                 "type": "race",
                 "index": 2,
@@ -627,7 +622,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1172664",
+                "id": "mte3mjy2na",
                 "title": "Race 2",
                 "type": "race",
                 "index": 3,
@@ -645,7 +640,7 @@
         ]
     },
     {
-        "id": "sr:stage:1173068",
+        "id": "mte3mza2oa",
         "type": "superbike",
         "index": "8 / 12",
         "title": "Balaton",
@@ -656,11 +651,10 @@
         "longitude": 18.2122159,
         "trackName": "Balaton Park Circuit",
         "countryCode": "HU",
-        "countryName": "Hungary",
         "cityName": "Balatonfokajar",
         "steps": [
             {
-                "id": "sr:stage:1173070",
+                "id": "mte3mza3ma",
                 "title": "Free practice 1",
                 "type": "practice",
                 "index": 1,
@@ -676,7 +670,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1173072",
+                "id": "mte3mza3mg",
                 "title": "Free practice 2",
                 "type": "practice",
                 "index": 2,
@@ -692,7 +686,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1173074",
+                "id": "mte3mza3na",
                 "title": "Free practice 3",
                 "type": "practice",
                 "index": 3,
@@ -708,7 +702,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1173082",
+                "id": "mte3mza4mg",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
@@ -724,7 +718,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1173090",
+                "id": "mte3mza5ma",
                 "title": "Race 1",
                 "type": "race",
                 "index": 1,
@@ -740,7 +734,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1173494",
+                "id": "mte3mzq5na",
                 "title": "Race 3",
                 "type": "race",
                 "index": 2,
@@ -756,7 +750,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1173292",
+                "id": "mte3mzi5mg",
                 "title": "Race 2",
                 "type": "race",
                 "index": 3,
@@ -774,7 +768,7 @@
         ]
     },
     {
-        "id": "sr:stage:1173696",
+        "id": "mte3mzy5ng",
         "type": "superbike",
         "index": "9 / 12",
         "title": "Magny Cours",
@@ -785,11 +779,10 @@
         "longitude": "3.162741",
         "trackName": "Circuit de Nevers",
         "countryCode": "FR",
-        "countryName": "France",
         "cityName": "Magny-Cours",
         "steps": [
             {
-                "id": "sr:stage:1173698",
+                "id": "mte3mzy5oa",
                 "title": "Free practice 1",
                 "type": "practice",
                 "index": 1,
@@ -805,7 +798,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1173700",
+                "id": "mte3mzcwma",
                 "title": "Free practice 2",
                 "type": "practice",
                 "index": 2,
@@ -821,7 +814,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1173702",
+                "id": "mte3mzcwmg",
                 "title": "Free practice 3",
                 "type": "practice",
                 "index": 3,
@@ -837,7 +830,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1173710",
+                "id": "mte3mzcxma",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
@@ -853,7 +846,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1173718",
+                "id": "mte3mzcxoa",
                 "title": "Race 1",
                 "type": "race",
                 "index": 1,
@@ -869,7 +862,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1174122",
+                "id": "mte3ndeymg",
                 "title": "Race 3",
                 "type": "race",
                 "index": 2,
@@ -885,7 +878,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1173920",
+                "id": "mte3mzkyma",
                 "title": "Race 2",
                 "type": "race",
                 "index": 3,
@@ -903,7 +896,7 @@
         ]
     },
     {
-        "id": "sr:stage:1174324",
+        "id": "mte3ndmyna",
         "type": "superbike",
         "index": "10 / 12",
         "title": "Cremona",
@@ -914,11 +907,10 @@
         "longitude": 10.0248716,
         "trackName": "Cremona Circuit",
         "countryCode": "IT",
-        "countryName": "Italy",
         "cityName": "Cremona",
         "steps": [
             {
-                "id": "sr:stage:1174326",
+                "id": "mte3ndmyng",
                 "title": "Free practice 1",
                 "type": "practice",
                 "index": 1,
@@ -934,7 +926,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1174328",
+                "id": "mte3ndmyoa",
                 "title": "Free practice 2",
                 "type": "practice",
                 "index": 2,
@@ -950,7 +942,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1174330",
+                "id": "mte3ndmzma",
                 "title": "Free practice 3",
                 "type": "practice",
                 "index": 3,
@@ -966,7 +958,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1174338",
+                "id": "mte3ndmzoa",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
@@ -982,7 +974,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1174346",
+                "id": "mte3ndm0ng",
                 "title": "Race 1",
                 "type": "race",
                 "index": 1,
@@ -998,7 +990,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1174750",
+                "id": "mte3ndc1ma",
                 "title": "Race 3",
                 "type": "race",
                 "index": 2,
@@ -1014,7 +1006,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1174548",
+                "id": "mte3ndu0oa",
                 "title": "Race 2",
                 "type": "race",
                 "index": 3,
@@ -1032,7 +1024,7 @@
         ]
     },
     {
-        "id": "sr:stage:1174952",
+        "id": "mte3ndk1mg",
         "type": "superbike",
         "index": "11 / 12",
         "title": "Aragon",
@@ -1043,11 +1035,10 @@
         "longitude": "-0.205019",
         "trackName": "Motorland Aragon",
         "countryCode": "ES",
-        "countryName": "Spain",
         "cityName": "Alcaniz",
         "steps": [
             {
-                "id": "sr:stage:1174954",
+                "id": "mte3ndk1na",
                 "title": "Free practice 1",
                 "type": "practice",
                 "index": 1,
@@ -1063,7 +1054,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1174956",
+                "id": "mte3ndk1ng",
                 "title": "Free practice 2",
                 "type": "practice",
                 "index": 2,
@@ -1079,7 +1070,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1174958",
+                "id": "mte3ndk1oa",
                 "title": "Free practice 3",
                 "type": "practice",
                 "index": 3,
@@ -1095,7 +1086,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1174966",
+                "id": "mte3ndk2ng",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
@@ -1111,7 +1102,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1174974",
+                "id": "mte3ndk3na",
                 "title": "Race 1",
                 "type": "race",
                 "index": 1,
@@ -1127,7 +1118,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1175378",
+                "id": "mte3ntm3oa",
                 "title": "Race 3",
                 "type": "race",
                 "index": 2,
@@ -1143,7 +1134,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1175176",
+                "id": "mte3nte3ng",
                 "title": "Race 2",
                 "type": "race",
                 "index": 3,
@@ -1161,7 +1152,7 @@
         ]
     },
     {
-        "id": "sr:stage:1175580",
+        "id": "mte3ntu4ma",
         "type": "superbike",
         "index": "12 / 12",
         "title": "Jerez",
@@ -1172,11 +1163,10 @@
         "longitude": "-6.034167",
         "trackName": "Circuito de Jerez",
         "countryCode": "ES",
-        "countryName": "Spain",
         "cityName": "Jerez",
         "steps": [
             {
-                "id": "sr:stage:1175582",
+                "id": "mte3ntu4mg",
                 "title": "Free practice 1",
                 "type": "practice",
                 "index": 1,
@@ -1192,7 +1182,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1175584",
+                "id": "mte3ntu4na",
                 "title": "Free practice 2",
                 "type": "practice",
                 "index": 2,
@@ -1208,7 +1198,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1175586",
+                "id": "mte3ntu4ng",
                 "title": "Free practice 3",
                 "type": "practice",
                 "index": 3,
@@ -1224,7 +1214,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1175594",
+                "id": "mte3ntu5na",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
@@ -1240,7 +1230,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1175602",
+                "id": "mte3ntywmg",
                 "title": "Race 1",
                 "type": "race",
                 "index": 1,
@@ -1256,7 +1246,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1175804",
+                "id": "mte3ntgwna",
                 "title": "Race 2",
                 "type": "race",
                 "index": 2,
@@ -1272,7 +1262,7 @@
                 "channels": []
             },
             {
-                "id": "sr:stage:1176006",
+                "id": "mte3njawng",
                 "title": "Race 3",
                 "type": "race",
                 "index": 3,
