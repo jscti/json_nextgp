@@ -39,9 +39,9 @@
                 "end": "2024-04-19T13:45:00+00:00",
                 "endLocal": "2024-04-19T15:45:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -55,9 +55,9 @@
                 "end": "2024-04-20T07:20:00+00:00",
                 "endLocal": "2024-04-20T09:20:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.38,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -95,7 +95,7 @@
             },
             {
                 "id": "mte3mdm1na",
-                "title": "Race 3",
+                "title": "Superpole Race",
                 "type": "race",
                 "index": 2,
                 "start": "2024-04-21T09:00:00+00:00",
@@ -103,8 +103,8 @@
                 "end": "2024-04-21T09:30:00+00:00",
                 "endLocal": "2024-04-21T11:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
@@ -223,7 +223,7 @@
             },
             {
                 "id": "mte3mdk4mg",
-                "title": "Race 3",
+                "title": "Superpole Race",
                 "type": "race",
                 "index": 2,
                 "start": "2024-06-16T09:00:00+00:00",
@@ -351,7 +351,7 @@
             },
             {
                 "id": "mte3mtyxma",
-                "title": "Race 3",
+                "title": "Superpole Race",
                 "type": "race",
                 "index": 2,
                 "start": "2024-07-14T12:00:00+00:00",
@@ -479,7 +479,7 @@
             },
             {
                 "id": "mte3mjizoa",
-                "title": "Race 3",
+                "title": "Superpole Race",
                 "type": "race",
                 "index": 2,
                 "start": "2024-07-21T09:00:00+00:00",
@@ -607,7 +607,7 @@
             },
             {
                 "id": "mte3mjg2ng",
-                "title": "Race 3",
+                "title": "Superpole Race",
                 "type": "race",
                 "index": 2,
                 "start": "2024-08-11T10:00:00+00:00",
@@ -735,7 +735,7 @@
             },
             {
                 "id": "mte3mzq5na",
-                "title": "Race 3",
+                "title": "Superpole Race",
                 "type": "race",
                 "index": 2,
                 "start": "2024-08-25T10:00:00+00:00",
@@ -863,7 +863,7 @@
             },
             {
                 "id": "mte3ndeymg",
-                "title": "Race 3",
+                "title": "Superpole Race",
                 "type": "race",
                 "index": 2,
                 "start": "2024-09-08T09:00:00+00:00",
@@ -991,7 +991,7 @@
             },
             {
                 "id": "mte3ndc1ma",
-                "title": "Race 3",
+                "title": "Superpole Race",
                 "type": "race",
                 "index": 2,
                 "start": "2024-09-22T09:00:00+00:00",
@@ -1119,7 +1119,7 @@
             },
             {
                 "id": "mte3ntm3oa",
-                "title": "Race 3",
+                "title": "Superpole Race",
                 "type": "race",
                 "index": 2,
                 "start": "2024-09-29T09:00:00+00:00",
