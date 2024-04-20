@@ -55,9 +55,9 @@
                 "end": "2024-04-20T10:10:00+00:00",
                 "endLocal": "2024-04-20T12:10:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -156,7 +156,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherRainProbability": 0.3,
                 "isNightEvent": false,
                 "channels": []
             }
