@@ -27,7 +27,13 @@
                 "weatherIcon": "01d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "mte1mzqwna",
@@ -39,11 +45,17 @@
                 "end": "2024-04-26T11:50:00+00:00",
                 "endLocal": "2024-04-26T13:50:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "mte1mzqwng",
@@ -73,7 +85,7 @@
                 "hasTime": true,
                 "weatherCondition": 803,
                 "weatherIcon": "04d",
-                "weatherRainProbability": 0.1,
+                "weatherRainProbability": 0.24,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -87,9 +99,9 @@
                 "end": "2024-04-28T10:00:00+00:00",
                 "endLocal": "2024-04-28T12:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
             }
@@ -1349,7 +1361,7 @@
         "index": "18 / 21",
         "title": "Australian Motorcycle Grand Prix",
         "start": "2024-10-18T22:00:00+00:00",
-        "end": "2024-10-21T01:00:00+00:00",
+        "end": "2024-10-20T01:00:00+00:00",
         "timezone": "Australia/Victoria",
         "latitude": "-38.501418",
         "longitude": "145.232269",
