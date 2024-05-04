@@ -27,13 +27,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "C35.api.telerama.fr"
-                    }
-                ]
+                "channels": []
             },
             {
                 "id": "mtewotawnq",
@@ -50,18 +44,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "CH",
-                        "channelName": "RTS 2",
-                        "channelCode": "C183.api.telerama.fr"
-                    },
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "C35.api.telerama.fr"
-                    }
-                ]
+                "channels": []
             },
             {
                 "id": "mtewotaxmw",
@@ -76,7 +59,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherRainProbability": 0.96,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -128,8 +111,8 @@
                 "end": "2024-05-05T22:00:00+00:00",
                 "endLocal": "2024-05-05T18:00:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
