@@ -61,13 +61,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "C35.api.telerama.fr"
-                    }
-                ]
+                "channels": []
             },
             {
                 "id": "mtewodk5nw",
@@ -83,23 +77,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "CH",
-                        "channelName": "RTS 2",
-                        "channelCode": "C183.api.telerama.fr"
-                    },
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+",
-                        "channelCode": "C34.api.telerama.fr"
-                    },
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": "tipik.be"
-                    }
-                ]
+                "channels": []
             },
             {
                 "id": "mtewota3nq",
@@ -111,8 +89,8 @@
                 "end": "2024-05-05T22:00:00+00:00",
                 "endLocal": "2024-05-05T18:00:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
@@ -165,6 +143,11 @@
                 "isNightEvent": false,
                 "channels": [
                     {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    },
+                    {
                         "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": "tipik.be"
@@ -186,6 +169,11 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    },
                     {
                         "countryCode": "BE",
                         "channelName": "Tipik",
