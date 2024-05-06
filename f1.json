@@ -89,27 +89,11 @@
                 "end": "2024-05-05T22:00:00+00:00",
                 "endLocal": "2024-05-05T18:00:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "CH",
-                        "channelName": "RTS 2",
-                        "channelCode": "C183.api.telerama.fr"
-                    },
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+",
-                        "channelCode": "C34.api.telerama.fr"
-                    },
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": "tipik.be"
-                    }
-                ]
+                "channels": []
             }
         ]
     },
@@ -197,6 +181,11 @@
                 "isNightEvent": false,
                 "channels": [
                     {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    },
+                    {
                         "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": "tipik.be"
@@ -218,6 +207,11 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    },
                     {
                         "countryCode": "BE",
                         "channelName": "Tipik",
