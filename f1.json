@@ -27,13 +27,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "C35.api.telerama.fr"
-                    }
-                ]
+                "channels": []
             },
             {
                 "id": "mtewoti4mq",
@@ -49,13 +43,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "C35.api.telerama.fr"
-                    }
-                ]
+                "channels": []
             },
             {
                 "id": "mtewoti4mw",
@@ -89,9 +77,9 @@
                 "end": "2024-05-18T15:00:00+00:00",
                 "endLocal": "2024-05-18T17:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.31,
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
