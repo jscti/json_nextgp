@@ -27,7 +27,13 @@
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "mte0ota4mg",
@@ -39,11 +45,17 @@
                 "end": "2024-05-24T12:45:00+00:00",
                 "endLocal": "2024-05-24T14:45:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 803,
+                "weatherCondition": 804,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "mte0ota4na",
@@ -57,7 +69,7 @@
                 "hasTime": true,
                 "weatherCondition": 801,
                 "weatherIcon": "02d",
-                "weatherRainProbability": 0.25,
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -71,8 +83,8 @@
                 "end": "2024-05-25T12:25:00+00:00",
                 "endLocal": "2024-05-25T14:25:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
@@ -87,9 +99,9 @@
                 "end": "2024-05-26T11:15:00+00:00",
                 "endLocal": "2024-05-26T13:15:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
             }
