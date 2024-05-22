@@ -12,7 +12,112 @@
         "trackName": "Circuit de Monaco",
         "countryCode": "MC",
         "cityName": "Monaco",
-        "steps": []
+        "steps": [
+            {
+                "id": "mtg2n2ezogm",
+                "title": "Free Practice",
+                "type": "practice",
+                "index": null,
+                "start": "2024-05-23T11:10:00+00:00",
+                "startLocal": "2024-05-23T13:10:00+02:00",
+                "end": "2024-05-23T11:55:00+00:00",
+                "endLocal": "2024-05-23T13:55:00+02:00",
+                "hasTime": true,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.66,
+                "isNightEvent": false,
+                "channels": []
+            },
+            {
+                "id": "ytqymdg4zwq",
+                "title": "1st Qualifying",
+                "type": "qualifying",
+                "index": 1,
+                "start": "2024-05-24T09:05:00+00:00",
+                "startLocal": "2024-05-24T11:05:00+02:00",
+                "end": "2024-05-24T09:21:00+00:00",
+                "endLocal": "2024-05-24T11:21:00+02:00",
+                "hasTime": true,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0,
+                "isNightEvent": false,
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    }
+                ]
+            },
+            {
+                "id": "ndnhnjrmyta",
+                "title": "2nd Qualifying",
+                "type": "qualifying",
+                "index": 2,
+                "start": "2024-05-24T09:29:00+00:00",
+                "startLocal": "2024-05-24T11:29:00+02:00",
+                "end": "2024-05-24T09:45:00+00:00",
+                "endLocal": "2024-05-24T11:45:00+02:00",
+                "hasTime": true,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0,
+                "isNightEvent": false,
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    }
+                ]
+            },
+            {
+                "id": "mjgxyweyyjq",
+                "title": "Race",
+                "type": "race",
+                "index": 1,
+                "start": "2024-05-25T08:45:00+00:00",
+                "startLocal": "2024-05-25T10:45:00+02:00",
+                "end": "2024-05-25T09:30:00+00:00",
+                "endLocal": "2024-05-25T11:30:00+02:00",
+                "hasTime": true,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.35,
+                "isNightEvent": false,
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    }
+                ]
+            },
+            {
+                "id": "ngfhzwi5zwy",
+                "title": "Race",
+                "type": "race",
+                "index": 2,
+                "start": "2024-05-26T06:00:00+00:00",
+                "startLocal": "2024-05-26T08:00:00+02:00",
+                "end": "2024-05-26T06:50:00+00:00",
+                "endLocal": "2024-05-26T08:50:00+02:00",
+                "hasTime": true,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0,
+                "isNightEvent": false,
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+",
+                        "channelCode": "C34.api.telerama.fr"
+                    }
+                ]
+            }
+        ]
     },
     {
         "id": "n2eyyjvmowq",
