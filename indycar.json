@@ -167,9 +167,9 @@
                 "end": "2024-05-24T17:00:00+00:00",
                 "endLocal": "2024-05-24T13:00:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -185,7 +185,7 @@
                 "hasTime": true,
                 "weatherCondition": 804,
                 "weatherIcon": "04d",
-                "weatherRainProbability": 0.01,
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
