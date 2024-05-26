@@ -87,9 +87,9 @@
                 "end": "2024-05-26T11:15:00+00:00",
                 "endLocal": "2024-05-26T13:15:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -125,9 +125,9 @@
                 "end": "2024-05-31T08:30:00+00:00",
                 "endLocal": "2024-05-31T10:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 1,
                 "isNightEvent": false,
                 "channels": []
             },
