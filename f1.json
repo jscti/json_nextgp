@@ -1,101 +1,5 @@
 [
     {
-        "id": "mtewotu2nq",
-        "type": "f1",
-        "index": "8 / 24",
-        "title": "Monaco Grand Prix",
-        "start": "2024-05-24T11:30:00+00:00",
-        "end": "2024-05-26T15:00:00+00:00",
-        "timezone": "Europe/Monaco",
-        "latitude": "43.734722",
-        "longitude": "7.420556",
-        "trackName": "Circuit de Monaco",
-        "countryCode": "MC",
-        "cityName": "Monte Carlo",
-        "steps": [
-            {
-                "id": "mtewotu2nw",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2024-05-24T11:30:00+00:00",
-                "startLocal": "2024-05-24T13:30:00+02:00",
-                "end": "2024-05-24T12:30:00+00:00",
-                "endLocal": "2024-05-24T14:30:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "mtewotu2oq",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2024-05-24T15:00:00+00:00",
-                "startLocal": "2024-05-24T17:00:00+02:00",
-                "end": "2024-05-24T16:00:00+00:00",
-                "endLocal": "2024-05-24T18:00:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "mtewotu3mq",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2024-05-25T10:30:00+00:00",
-                "startLocal": "2024-05-25T12:30:00+02:00",
-                "end": "2024-05-25T11:30:00+00:00",
-                "endLocal": "2024-05-25T13:30:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "mtewotu3mw",
-                "title": "Qualification",
-                "type": "qualifying",
-                "index": null,
-                "start": "2024-05-25T14:00:00+00:00",
-                "startLocal": "2024-05-25T16:00:00+02:00",
-                "end": "2024-05-25T15:00:00+00:00",
-                "endLocal": "2024-05-25T17:00:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "mtewoty1mq",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2024-05-26T13:00:00+00:00",
-                "startLocal": "2024-05-26T15:00:00+02:00",
-                "end": "2024-05-26T15:29:00+00:00",
-                "endLocal": "2024-05-26T17:29:00+02:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            }
-        ]
-    },
-    {
         "id": "mtewotg1mw",
         "type": "f1",
         "index": "9 / 24",
@@ -232,6 +136,11 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+",
+                        "channelCode": "C34.api.telerama.fr"
+                    },
                     {
                         "countryCode": "BE",
                         "channelName": "Tipik",
