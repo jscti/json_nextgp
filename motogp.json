@@ -2,7 +2,7 @@
     {
         "id": "mte0mjy4ng",
         "type": "motogp",
-        "index": "7 / 21",
+        "index": "7 / 20",
         "title": "Gran Premio d'Italia",
         "start": "2024-05-31T08:45:00+00:00",
         "end": "2024-06-02T13:00:00+00:00",
@@ -25,7 +25,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.79,
+                "weatherRainProbability": 0.39,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -45,9 +45,9 @@
                 "end": "2024-05-31T14:00:00+00:00",
                 "endLocal": "2024-05-31T16:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
-                "weatherRainProbability": 0.4,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -71,7 +71,13 @@
                 "weatherIcon": "01d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "mte0mjy5ng",
@@ -87,7 +93,13 @@
                 "weatherIcon": "01d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "mte0mjcwmg",
@@ -100,11 +112,17 @@
                 "end": "2024-06-01T13:30:00+00:00",
                 "endLocal": "2024-06-01T15:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.3,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0.01,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "mte0mjgwna",
@@ -116,9 +134,9 @@
                 "end": "2024-06-02T13:00:00+00:00",
                 "endLocal": "2024-06-02T15:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.3,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0.16,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -131,122 +149,9 @@
         ]
     },
     {
-        "id": "mte0mzawng",
-        "type": "motogp",
-        "index": "8 / 21",
-        "title": "Kazakhstan motorcycle Grand Prix",
-        "start": "2024-06-14T05:15:00+00:00",
-        "end": "2024-06-16T10:00:00+00:00",
-        "timezone": "Asia/Almaty",
-        "latitude": "43.584722",
-        "longitude": "76.570556",
-        "trackName": "Sokol International Racetrack",
-        "countryCode": "KZ",
-        "cityName": "Almaty",
-        "steps": [
-            {
-                "id": "mte0mzawoa",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2024-06-14T05:15:00+00:00",
-                "startLocal": "2024-06-14T11:15:00+06:00",
-                "end": "2024-06-14T06:25:00+00:00",
-                "endLocal": "2024-06-14T12:25:00+06:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "mte0mzaxma",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2024-06-14T09:30:00+00:00",
-                "startLocal": "2024-06-14T15:30:00+06:00",
-                "end": "2024-06-14T10:40:00+00:00",
-                "endLocal": "2024-06-14T16:40:00+06:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "mte0mzaxmg",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2024-06-15T05:10:00+00:00",
-                "startLocal": "2024-06-15T11:10:00+06:00",
-                "end": "2024-06-15T05:40:00+00:00",
-                "endLocal": "2024-06-15T11:40:00+06:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "mte0mzaxng",
-                "title": "Qualifying",
-                "type": "qualifying",
-                "index": null,
-                "start": "2024-06-15T05:50:00+00:00",
-                "startLocal": "2024-06-15T11:50:00+06:00",
-                "end": "2024-06-15T06:30:00+00:00",
-                "endLocal": "2024-06-15T12:30:00+06:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "mte0mzaymg",
-                "title": "Sprint",
-                "subtitle": "Sprint",
-                "type": "race",
-                "index": 1,
-                "start": "2024-06-15T10:00:00+00:00",
-                "startLocal": "2024-06-15T16:00:00+06:00",
-                "end": "2024-06-15T11:00:00+00:00",
-                "endLocal": "2024-06-15T17:00:00+06:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "mte0mzeyna",
-                "title": "Race",
-                "type": "race",
-                "index": 2,
-                "start": "2024-06-16T09:00:00+00:00",
-                "startLocal": "2024-06-16T15:00:00+06:00",
-                "end": "2024-06-16T10:00:00+00:00",
-                "endLocal": "2024-06-16T16:00:00+06:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": []
-            }
-        ]
-    },
-    {
         "id": "mte0mzmyng",
         "type": "motogp",
-        "index": "9 / 21",
+        "index": "8 / 20",
         "title": "TT Assen",
         "start": "2024-06-28T08:45:00+00:00",
         "end": "2024-06-30T13:00:00+00:00",
@@ -359,7 +264,7 @@
     {
         "id": "mte0mzy0ng",
         "type": "motogp",
-        "index": "10 / 21",
+        "index": "9 / 20",
         "title": "Motorrad Grand Prix Deutschland",
         "start": "2024-07-05T08:45:00+00:00",
         "end": "2024-07-07T13:00:00+00:00",
@@ -472,7 +377,7 @@
     {
         "id": "mte0mzk2ng",
         "type": "motogp",
-        "index": "11 / 21",
+        "index": "10 / 20",
         "title": "British Grand Prix",
         "start": "2024-08-02T09:45:00+00:00",
         "end": "2024-08-04T13:00:00+00:00",
@@ -585,7 +490,7 @@
     {
         "id": "mte0ndi4ng",
         "type": "motogp",
-        "index": "12 / 21",
+        "index": "11 / 20",
         "title": "Motorrad Grand Prix von Osterreich",
         "start": "2024-08-16T08:45:00+00:00",
         "end": "2024-08-18T13:00:00+00:00",
@@ -698,7 +603,7 @@
     {
         "id": "mte0ndywng",
         "type": "motogp",
-        "index": "13 / 21",
+        "index": "12 / 20",
         "title": "Gran Premio de Aragon",
         "start": "2024-08-30T07:55:00+00:00",
         "end": "2024-09-01T13:00:00+00:00",
@@ -811,7 +716,7 @@
     {
         "id": "mte0ntiyma",
         "type": "motogp",
-        "index": "14 / 21",
+        "index": "13 / 20",
         "title": "Gran Premio di San Marino",
         "start": "2024-09-06T08:45:00+00:00",
         "end": "2024-09-08T13:00:00+00:00",
@@ -922,28 +827,28 @@
         ]
     },
     {
-        "id": "mte0ntu0ma",
+        "id": "mte0mzawng",
         "type": "motogp",
-        "index": "15 / 21",
-        "title": "Grand Prix of Bharat",
+        "index": "14 / 20",
+        "title": "Kazakhstan motorcycle Grand Prix",
         "start": "2024-09-20T06:15:00+00:00",
         "end": "2024-09-22T11:00:00+00:00",
-        "timezone": "Asia/Kolkata",
-        "latitude": "28.350556",
-        "longitude": "77.535",
-        "trackName": "Buddh International Circuit",
-        "countryCode": "IN",
-        "cityName": "Greater Noida",
+        "timezone": "Asia/Almaty",
+        "latitude": "43.584722",
+        "longitude": "76.570556",
+        "trackName": "Sokol International Racetrack",
+        "countryCode": "KZ",
+        "cityName": "Almaty",
         "steps": [
             {
-                "id": "mte0ntu0mg",
+                "id": "mte0mzawoa",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
                 "start": "2024-09-20T06:15:00+00:00",
-                "startLocal": "2024-09-20T11:45:00+05:30",
-                "end": "2024-09-20T07:00:00+00:00",
-                "endLocal": "2024-09-20T12:30:00+05:30",
+                "startLocal": "2024-09-20T12:15:00+06:00",
+                "end": "2024-09-20T07:25:00+00:00",
+                "endLocal": "2024-09-20T13:25:00+06:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
@@ -952,14 +857,14 @@
                 "channels": []
             },
             {
-                "id": "mte0ntu0na",
+                "id": "mte0mzaxma",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
                 "start": "2024-09-20T10:30:00+00:00",
-                "startLocal": "2024-09-20T16:00:00+05:30",
-                "end": "2024-09-20T12:00:00+00:00",
-                "endLocal": "2024-09-20T17:30:00+05:30",
+                "startLocal": "2024-09-20T16:30:00+06:00",
+                "end": "2024-09-20T11:30:00+00:00",
+                "endLocal": "2024-09-20T17:30:00+06:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
@@ -968,14 +873,14 @@
                 "channels": []
             },
             {
-                "id": "mte0ntu0ng",
+                "id": "mte0mzaxmg",
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 3,
                 "start": "2024-09-21T05:10:00+00:00",
-                "startLocal": "2024-09-21T10:40:00+05:30",
+                "startLocal": "2024-09-21T11:10:00+06:00",
                 "end": "2024-09-21T05:40:00+00:00",
-                "endLocal": "2024-09-21T11:10:00+05:30",
+                "endLocal": "2024-09-21T11:40:00+06:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
@@ -984,14 +889,14 @@
                 "channels": []
             },
             {
-                "id": "mte0ntu1ma",
+                "id": "mte0mzaxng",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
-                "start": "2024-09-21T05:50:00+00:00",
-                "startLocal": "2024-09-21T11:20:00+05:30",
+                "start": "2024-09-21T05:45:00+00:00",
+                "startLocal": "2024-09-21T11:45:00+06:00",
                 "end": "2024-09-21T06:30:00+00:00",
-                "endLocal": "2024-09-21T12:00:00+05:30",
+                "endLocal": "2024-09-21T12:30:00+06:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
@@ -1000,15 +905,15 @@
                 "channels": []
             },
             {
-                "id": "mte0ntu1ng",
+                "id": "mte0mzaymg",
                 "title": "Sprint",
                 "subtitle": "Sprint",
                 "type": "race",
                 "index": 1,
-                "start": "2024-09-21T11:40:00+00:00",
-                "startLocal": "2024-09-21T17:10:00+05:30",
-                "end": "2024-09-21T12:10:00+00:00",
-                "endLocal": "2024-09-21T17:40:00+05:30",
+                "start": "2024-09-21T10:00:00+00:00",
+                "startLocal": "2024-09-21T16:00:00+06:00",
+                "end": "2024-09-21T11:00:00+00:00",
+                "endLocal": "2024-09-21T17:00:00+06:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
@@ -1017,14 +922,14 @@
                 "channels": []
             },
             {
-                "id": "mte0nty1oa",
+                "id": "mte0mzeyna",
                 "title": "Race",
                 "type": "race",
                 "index": 2,
                 "start": "2024-09-22T10:00:00+00:00",
-                "startLocal": "2024-09-22T15:30:00+05:30",
+                "startLocal": "2024-09-22T16:00:00+06:00",
                 "end": "2024-09-22T11:00:00+00:00",
-                "endLocal": "2024-09-22T16:30:00+05:30",
+                "endLocal": "2024-09-22T17:00:00+06:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
@@ -1037,7 +942,7 @@
     {
         "id": "mte0ntg2ma",
         "type": "motogp",
-        "index": "16 / 21",
+        "index": "15 / 20",
         "title": "Grand Prix of Indonesia",
         "start": "2024-09-27T02:45:00+00:00",
         "end": "2024-09-29T07:00:00+00:00",
@@ -1150,7 +1055,7 @@
     {
         "id": "mte0nje4ma",
         "type": "motogp",
-        "index": "17 / 21",
+        "index": "16 / 20",
         "title": "Grand Prix of Japan",
         "start": "2024-10-04T01:45:00+00:00",
         "end": "2024-10-06T07:00:00+00:00",
@@ -1263,7 +1168,7 @@
     {
         "id": "mte0njuwma",
         "type": "motogp",
-        "index": "18 / 21",
+        "index": "17 / 20",
         "title": "Australian Motorcycle Grand Prix",
         "start": "2024-10-17T23:45:00+00:00",
         "end": "2024-10-20T04:00:00+00:00",
@@ -1376,7 +1281,7 @@
     {
         "id": "mte0njgyma",
         "type": "motogp",
-        "index": "19 / 21",
+        "index": "18 / 20",
         "title": "Thailand Grand Prix",
         "start": "2024-10-25T03:45:00+00:00",
         "end": "2024-10-27T08:00:00+00:00",
@@ -1489,7 +1394,7 @@
     {
         "id": "mte0nze0ma",
         "type": "motogp",
-        "index": "20 / 21",
+        "index": "19 / 20",
         "title": "Grand Prix of Malaysia",
         "start": "2024-11-01T02:45:00+00:00",
         "end": "2024-11-03T07:00:00+00:00",
@@ -1602,7 +1507,7 @@
     {
         "id": "mte0nzq2ma",
         "type": "motogp",
-        "index": "21 / 21",
+        "index": "20 / 20",
         "title": "Gran Premio de la Comunitat Valenciana",
         "start": "2024-11-15T09:45:00+00:00",
         "end": "2024-11-17T15:00:00+00:00",
