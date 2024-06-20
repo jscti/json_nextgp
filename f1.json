@@ -23,9 +23,9 @@
                 "end": "2024-06-21T12:30:00+00:00",
                 "endLocal": "2024-06-21T14:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.24,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -47,7 +47,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.94,
+                "weatherRainProbability": 0.38,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -67,8 +67,8 @@
                 "end": "2024-06-22T11:30:00+00:00",
                 "endLocal": "2024-06-22T13:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
@@ -91,7 +91,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.38,
+                "weatherRainProbability": 0.39,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -123,7 +123,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.98,
+                "weatherRainProbability": 0.9,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -203,6 +203,11 @@
                 "isNightEvent": false,
                 "channels": [
                     {
+                        "countryCode": "CH",
+                        "channelName": "RTS 2",
+                        "channelCode": "C183.api.telerama.fr"
+                    },
+                    {
                         "countryCode": "FR",
                         "channelName": "Canal+ Sport",
                         "channelCode": "C35.api.telerama.fr"
@@ -231,6 +236,11 @@
                 "isNightEvent": false,
                 "channels": [
                     {
+                        "countryCode": "CH",
+                        "channelName": "RTS 2",
+                        "channelCode": "C183.api.telerama.fr"
+                    },
+                    {
                         "countryCode": "FR",
                         "channelName": "Canal+ Sport",
                         "channelCode": "C35.api.telerama.fr"
@@ -258,6 +268,11 @@
                 "isNightEvent": false,
                 "channels": [
                     {
+                        "countryCode": "CH",
+                        "channelName": "RTS 2",
+                        "channelCode": "C183.api.telerama.fr"
+                    },
+                    {
                         "countryCode": "FR",
                         "channelName": "Canal+ Sport",
                         "channelCode": "C35.api.telerama.fr"
@@ -284,6 +299,11 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [
+                    {
+                        "countryCode": "CH",
+                        "channelName": "RTS 2",
+                        "channelCode": "C183.api.telerama.fr"
+                    },
                     {
                         "countryCode": "FR",
                         "channelName": "Canal+",
