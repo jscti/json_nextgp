@@ -1,0 +1,703 @@
+[
+    {
+        "sport": "f1",
+        "year": 2024,
+        "type": "driver",
+        "entries": [
+            {
+                "id": "mdflmtc4odq",
+                "parentName": "Oracle Red Bull Racing",
+                "name": "Max Verstappen",
+                "countryCode": "NL",
+                "position": 1,
+                "races": 10,
+                "points": 219,
+                "poles": 7,
+                "wins": 7,
+                "podiums": 8,
+                "fastestLaps": 2,
+                "hatTricks": 2
+            },
+            {
+                "id": "n2fkogfimgi",
+                "parentName": "McLaren Formula 1 Team",
+                "name": "Lando Norris",
+                "countryCode": "GB",
+                "position": 2,
+                "races": 10,
+                "points": 150,
+                "poles": 1,
+                "wins": 1,
+                "podiums": 6,
+                "fastestLaps": 1
+            },
+            {
+                "id": "ogq1ndg2zdk",
+                "parentName": "Scuderia Ferrari",
+                "name": "Charles Leclerc",
+                "countryCode": "MC",
+                "position": 3,
+                "races": 10,
+                "points": 148,
+                "poles": 1,
+                "wins": 1,
+                "podiums": 5,
+                "fastestLaps": 2
+            },
+            {
+                "id": "ndu4ymy2otc",
+                "parentName": "Scuderia Ferrari",
+                "name": "Carlos Sainz",
+                "countryCode": "ES",
+                "position": 4,
+                "races": 9,
+                "points": 116,
+                "wins": 1,
+                "podiums": 4
+            },
+            {
+                "id": "mza2ztblztc",
+                "parentName": "Oracle Red Bull Racing",
+                "name": "Sergio Pérez",
+                "countryCode": "MX",
+                "position": 5,
+                "races": 10,
+                "points": 111,
+                "podiums": 4
+            },
+            {
+                "id": "nmqyzdq2ztg",
+                "parentName": "McLaren Formula 1 Team",
+                "name": "Oscar Piastri",
+                "countryCode": "AU",
+                "position": 6,
+                "races": 10,
+                "points": 87,
+                "podiums": 1,
+                "fastestLaps": 1
+            },
+            {
+                "id": "ogywmzkzntg",
+                "parentName": "Mercedes-AMG Petronas Formula One Team",
+                "name": "George Russell",
+                "countryCode": "GB",
+                "position": 7,
+                "races": 10,
+                "points": 81,
+                "poles": 1,
+                "podiums": 1,
+                "fastestLaps": 1
+            },
+            {
+                "id": "ytm5njiwztc",
+                "parentName": "Mercedes-AMG Petronas Formula One Team",
+                "name": "Lewis Hamilton",
+                "countryCode": "GB",
+                "position": 8,
+                "races": 10,
+                "points": 70,
+                "podiums": 1,
+                "fastestLaps": 2
+            },
+            {
+                "id": "otg1zddlzwm",
+                "parentName": "Aston Martin Aramco Formula One Team",
+                "name": "Fernando Alonso",
+                "countryCode": "ES",
+                "position": 9,
+                "races": 10,
+                "points": 41,
+                "fastestLaps": 1
+            },
+            {
+                "id": "ntu5mmjjmtk",
+                "parentName": "Visa Cash App RB F1 Team",
+                "name": "Yuki Tsunoda",
+                "countryCode": "JP",
+                "position": 10,
+                "races": 10,
+                "points": 19
+            },
+            {
+                "id": "mzmwntiym2m",
+                "parentName": "Aston Martin Aramco Formula One Team",
+                "name": "Lance Stroll",
+                "countryCode": "CA",
+                "position": 11,
+                "races": 10,
+                "points": 17
+            },
+            {
+                "id": "y2zhytllnzy",
+                "parentName": "Visa Cash App RB F1 Team",
+                "name": "Daniel Ricciardo",
+                "countryCode": "AU",
+                "position": 12,
+                "races": 10,
+                "points": 9
+            },
+            {
+                "id": "yjk0njy5njk",
+                "parentName": "MoneyGram Haas F1 Team",
+                "name": "Ollie Bearman",
+                "countryCode": "GB",
+                "position": 13,
+                "races": 1,
+                "points": 6
+            },
+            {
+                "id": "nmezowe5mta",
+                "parentName": "MoneyGram Haas F1 Team",
+                "name": "Nico Hülkenberg",
+                "countryCode": "DE",
+                "position": 14,
+                "races": 10,
+                "points": 6
+            },
+            {
+                "id": "n2mxm2exyje",
+                "parentName": "BWT Alpine F1 Team",
+                "name": "Pierre Gasly",
+                "countryCode": "FR",
+                "position": 15,
+                "races": 10,
+                "points": 5
+            },
+            {
+                "id": "yzjkmzexmzi",
+                "parentName": "BWT Alpine F1 Team",
+                "name": "Esteban Ocon",
+                "countryCode": "FR",
+                "position": 16,
+                "races": 10,
+                "points": 3
+            },
+            {
+                "id": "mme2yzqxoty",
+                "parentName": "Williams Racing",
+                "name": "Alexander Albon",
+                "countryCode": "TH",
+                "position": 17,
+                "races": 10,
+                "points": 2
+            },
+            {
+                "id": "otqwmtuxy2e",
+                "parentName": "MoneyGram Haas F1 Team",
+                "name": "Kevin Magnussen",
+                "countryCode": "DK",
+                "position": 18,
+                "races": 10,
+                "points": 1
+            },
+            {
+                "id": "ogfjmdy5mzu",
+                "parentName": "Kick Sauber F1 Team",
+                "name": "Zhou Guanyu",
+                "countryCode": "CN",
+                "position": 19,
+                "races": 10
+            },
+            {
+                "id": "zdzjywjmnzq",
+                "parentName": "Kick Sauber F1 Team",
+                "name": "Valtteri Bottas",
+                "countryCode": "FI",
+                "position": 20,
+                "races": 10
+            },
+            {
+                "id": "mzc3mdfln2e",
+                "parentName": "Williams Racing",
+                "name": "Logan Sargeant",
+                "countryCode": "US",
+                "position": 21,
+                "races": 9
+            }
+        ]
+    },
+    {
+        "sport": "f1",
+        "year": 2024,
+        "type": "team",
+        "entries": [
+            {
+                "id": "ndjmzjqxm2y",
+                "name": "Oracle Red Bull Racing",
+                "countryCode": "AT",
+                "position": 1,
+                "points": 330,
+                "wins": 7
+            },
+            {
+                "id": "mtqynjyzyzq",
+                "name": "Scuderia Ferrari",
+                "countryCode": "IT",
+                "position": 2,
+                "points": 270,
+                "wins": 2
+            },
+            {
+                "id": "ymjkymi3mzg",
+                "name": "McLaren Formula 1 Team",
+                "countryCode": "GB",
+                "position": 3,
+                "points": 237,
+                "wins": 1
+            },
+            {
+                "id": "zjaxmtbhzju",
+                "name": "Mercedes-AMG Petronas Formula One Team",
+                "countryCode": "DE",
+                "position": 4,
+                "points": 151
+            },
+            {
+                "id": "n2uxzgywzdu",
+                "name": "Aston Martin Aramco Formula One Team",
+                "countryCode": "GB",
+                "position": 5,
+                "points": 58
+            },
+            {
+                "id": "yzm1otzlnjq",
+                "name": "Visa Cash App RB F1 Team",
+                "position": 6,
+                "points": 28
+            },
+            {
+                "id": "ywzlotg3mge",
+                "name": "BWT Alpine F1 Team",
+                "countryCode": "FR",
+                "position": 7,
+                "points": 8
+            },
+            {
+                "id": "ymixzjyzyzu",
+                "name": "MoneyGram Haas F1 Team",
+                "countryCode": "US",
+                "position": 8,
+                "points": 7
+            },
+            {
+                "id": "ngq1ytnhngq",
+                "name": "Williams Racing",
+                "countryCode": "GB",
+                "position": 9,
+                "points": 2
+            },
+            {
+                "id": "ntmwytqzntc",
+                "name": "Kick Sauber F1 Team",
+                "countryCode": "CH",
+                "position": 10
+            }
+        ]
+    },
+    {
+        "sport": "fe",
+        "year": 2024,
+        "type": "driver",
+        "entries": [
+            {
+                "id": "ntzhzdbimzk",
+                "parentName": "Jaguar TCS Racing",
+                "name": "Nick Cassidy",
+                "countryCode": "NZ",
+                "position": 1,
+                "races": 12,
+                "points": 167,
+                "wins": 2,
+                "podiums": 8,
+                "fastestLaps": 1
+            },
+            {
+                "id": "mdq1yjrkzjk",
+                "parentName": "TAG Heuer Porsche Formula E Team",
+                "name": "Pascal Wehrlein",
+                "countryCode": "DE",
+                "position": 2,
+                "races": 12,
+                "points": 142,
+                "poles": 3,
+                "wins": 2,
+                "podiums": 3
+            },
+            {
+                "id": "zmu3mmnjody",
+                "parentName": "Jaguar TCS Racing",
+                "name": "Mitch Evans",
+                "countryCode": "NZ",
+                "position": 3,
+                "races": 12,
+                "points": 132,
+                "poles": 1,
+                "wins": 2,
+                "podiums": 3
+            },
+            {
+                "id": "yzziowyymwq",
+                "parentName": "Nissan Formula E Team",
+                "name": "Oliver Rowland",
+                "countryCode": "GB",
+                "position": 4,
+                "races": 12,
+                "points": 131,
+                "poles": 2,
+                "wins": 1,
+                "podiums": 6,
+                "fastestLaps": 1
+            },
+            {
+                "id": "njywytdhzgu",
+                "parentName": "Andretti Formula E",
+                "name": "Jake Dennis",
+                "countryCode": "GB",
+                "position": 5,
+                "races": 12,
+                "points": 113,
+                "poles": 1,
+                "wins": 1,
+                "podiums": 4,
+                "fastestLaps": 3
+            },
+            {
+                "id": "mzhlnme5zwi",
+                "parentName": "DS Penske",
+                "name": "Jean-Eric Vergne",
+                "countryCode": "FR",
+                "position": 6,
+                "races": 12,
+                "points": 101,
+                "poles": 2,
+                "podiums": 2
+            },
+            {
+                "id": "zgvhmtvhmdm",
+                "parentName": "TAG Heuer Porsche Formula E Team",
+                "name": "António Félix da Costa",
+                "countryCode": "PT",
+                "position": 7,
+                "races": 12,
+                "points": 84,
+                "wins": 2,
+                "podiums": 2,
+                "fastestLaps": 1
+            },
+            {
+                "id": "mde5mzcxmdc",
+                "parentName": "Maserati MSG Racing",
+                "name": "Maximilian Günther",
+                "countryCode": "DE",
+                "position": 8,
+                "races": 12,
+                "points": 69,
+                "wins": 1,
+                "podiums": 2
+            },
+            {
+                "id": "ntmxmti4mzy",
+                "parentName": "DS Penske",
+                "name": "Stoffel Vandoorne",
+                "countryCode": "BE",
+                "position": 9,
+                "races": 12,
+                "points": 53,
+                "podiums": 1
+            },
+            {
+                "id": "zwrjodflzwe",
+                "parentName": "NEOM McLaren Formula E Team",
+                "name": "Jake Hughes",
+                "countryCode": "GB",
+                "position": 10,
+                "races": 12,
+                "points": 46,
+                "poles": 2,
+                "podiums": 1
+            },
+            {
+                "id": "zwzkmjliodm",
+                "parentName": "Andretti Formula E",
+                "name": "Norman Nato",
+                "countryCode": "FR",
+                "position": 11,
+                "races": 12,
+                "points": 40,
+                "podiums": 1,
+                "fastestLaps": 3
+            },
+            {
+                "id": "yjg0zguymti",
+                "parentName": "NEOM McLaren Formula E Team",
+                "name": "Sam Bird",
+                "countryCode": "GB",
+                "position": 12,
+                "races": 9,
+                "points": 38,
+                "wins": 1,
+                "podiums": 1,
+                "fastestLaps": 1
+            },
+            {
+                "id": "mdjhogy0nte",
+                "parentName": "Nissan Formula E Team",
+                "name": "Sacha Fenestraz",
+                "countryCode": "FR",
+                "position": 13,
+                "races": 12,
+                "points": 26
+            },
+            {
+                "id": "zjk2mwm3mzq",
+                "parentName": "Envision Racing",
+                "name": "Sébastien Buemi",
+                "countryCode": "CH",
+                "position": 14,
+                "races": 9,
+                "points": 24,
+                "podiums": 1
+            },
+            {
+                "id": "yme0zdnjzte",
+                "parentName": "Envision Racing",
+                "name": "Robin Frijns",
+                "countryCode": "NL",
+                "position": 15,
+                "races": 10,
+                "points": 23,
+                "podiums": 1
+            },
+            {
+                "id": "nzhlyzfjndq",
+                "parentName": "ABT CUPRA Formula E Team",
+                "name": "Nico Müller",
+                "countryCode": "CH",
+                "position": 16,
+                "races": 10,
+                "points": 18
+            },
+            {
+                "id": "otqxzdbhmmu",
+                "parentName": "ERT Formula E Team",
+                "name": "Daniel Ticktum",
+                "countryCode": "GB",
+                "position": 17,
+                "races": 12,
+                "points": 12
+            },
+            {
+                "id": "yty0ztmwytk",
+                "parentName": "ERT Formula E Team",
+                "name": "Sérgio Sette Câmara",
+                "countryCode": "BR",
+                "position": 18,
+                "races": 11,
+                "points": 11
+            },
+            {
+                "id": "njfjzgnknjy",
+                "parentName": "Maserati MSG Racing",
+                "name": "Jehan Daruvala",
+                "countryCode": "IN",
+                "position": 19,
+                "races": 12,
+                "points": 8,
+                "fastestLaps": 1
+            },
+            {
+                "id": "zgi5mgnhmme",
+                "parentName": "Mahindra Racing",
+                "name": "Edoardo Mortara",
+                "countryCode": "IT",
+                "position": 20,
+                "races": 12,
+                "points": 7,
+                "poles": 1
+            },
+            {
+                "id": "y2uwzmflnzu",
+                "parentName": "Mahindra Racing",
+                "name": "Nyck de Vries",
+                "countryCode": "NL",
+                "position": 21,
+                "races": 10,
+                "points": 6,
+                "fastestLaps": 1
+            },
+            {
+                "id": "ywm0oti2ztg",
+                "parentName": "NEOM McLaren Formula E Team",
+                "name": "Taylor Barnard",
+                "countryCode": "GB",
+                "position": 22,
+                "races": 3,
+                "points": 5
+            },
+            {
+                "id": "mmu4m2i4yji",
+                "parentName": "Envision Racing",
+                "name": "Joel Eriksson",
+                "countryCode": "SE",
+                "position": 23,
+                "races": 2,
+                "points": 2
+            },
+            {
+                "id": "mgiyownhowu",
+                "parentName": "ABT CUPRA Formula E Team",
+                "name": "Lucas di Grassi",
+                "countryCode": "BR",
+                "position": 24,
+                "races": 12,
+                "points": 2
+            },
+            {
+                "id": "oddhztnknmq",
+                "parentName": "ABT CUPRA Formula E Team",
+                "name": "Kelvin van der Linde",
+                "countryCode": "ZA",
+                "position": 25,
+                "races": 2
+            },
+            {
+                "id": "mzg2nzi2owe",
+                "parentName": "Mahindra Racing",
+                "name": "Jordan King",
+                "countryCode": "GB",
+                "position": 26,
+                "races": 2
+            },
+            {
+                "id": "n2njmtm4oti",
+                "parentName": "Envision Racing",
+                "name": "Paul Aron",
+                "countryCode": "EE",
+                "position": 27,
+                "races": 2
+            }
+        ]
+    },
+    {
+        "sport": "fe",
+        "year": 2024,
+        "type": "team",
+        "entries": [
+            {
+                "id": "yjy5mja5yzm",
+                "name": "Jaguar TCS Racing",
+                "countryCode": "GB",
+                "position": 1,
+                "races": 12,
+                "points": 299,
+                "poles": 1,
+                "wins": 4,
+                "podiums": 11,
+                "fastestLaps": 1
+            },
+            {
+                "id": "yjbmztq1nze",
+                "name": "TAG Heuer Porsche Formula E Team",
+                "position": 2,
+                "races": 12,
+                "points": 226,
+                "poles": 3,
+                "wins": 4,
+                "podiums": 5,
+                "fastestLaps": 1
+            },
+            {
+                "id": "mgrjyjvly2u",
+                "name": "Nissan Formula E Team",
+                "countryCode": "FR",
+                "position": 3,
+                "races": 12,
+                "points": 157,
+                "poles": 2,
+                "wins": 1,
+                "podiums": 6,
+                "fastestLaps": 1
+            },
+            {
+                "id": "otqwndziyte",
+                "name": "DS Penske",
+                "countryCode": "CN",
+                "position": 4,
+                "races": 12,
+                "points": 154,
+                "poles": 2,
+                "podiums": 3
+            },
+            {
+                "id": "ytzlmtuzotq",
+                "name": "Andretti Formula E",
+                "countryCode": "US",
+                "position": 5,
+                "races": 12,
+                "points": 153,
+                "poles": 1,
+                "wins": 1,
+                "podiums": 5,
+                "fastestLaps": 6
+            },
+            {
+                "id": "ymjkymi3mzg",
+                "name": "NEOM McLaren Formula E Team",
+                "countryCode": "GB",
+                "position": 6,
+                "races": 12,
+                "points": 89,
+                "poles": 2,
+                "wins": 1,
+                "podiums": 2,
+                "fastestLaps": 1
+            },
+            {
+                "id": "zjkxmji0mjc",
+                "name": "Maserati MSG Racing",
+                "countryCode": "IT",
+                "position": 7,
+                "races": 12,
+                "points": 77,
+                "wins": 1,
+                "podiums": 2,
+                "fastestLaps": 1
+            },
+            {
+                "id": "mjaxmju1zte",
+                "name": "Envision Racing",
+                "countryCode": "GB",
+                "position": 8,
+                "races": 12,
+                "points": 49,
+                "podiums": 2
+            },
+            {
+                "id": "nju2mjq5zdy",
+                "name": "ERT Formula E Team",
+                "countryCode": "CN",
+                "position": 9,
+                "races": 12,
+                "points": 23
+            },
+            {
+                "id": "ztm5mjeyzmy",
+                "name": "ABT CUPRA Formula E Team",
+                "countryCode": "DE",
+                "position": 10,
+                "races": 12,
+                "points": 20
+            },
+            {
+                "id": "nzc0nze3ztu",
+                "name": "Mahindra Racing",
+                "countryCode": "IN",
+                "position": 11,
+                "races": 12,
+                "points": 13,
+                "poles": 1,
+                "fastestLaps": 1
+            }
+        ]
+    }
+]
