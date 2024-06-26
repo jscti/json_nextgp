@@ -23,8 +23,8 @@
                 "end": "2024-06-28T09:30:00+00:00",
                 "endLocal": "2024-06-28T11:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
@@ -45,8 +45,8 @@
                 "end": "2024-06-28T14:00:00+00:00",
                 "endLocal": "2024-06-28T16:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
@@ -67,11 +67,17 @@
                 "end": "2024-06-29T08:40:00+00:00",
                 "endLocal": "2024-06-29T10:40:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 804,
+                "weatherCondition": 803,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "mte0mzmzng",
@@ -83,11 +89,17 @@
                 "end": "2024-06-29T09:30:00+00:00",
                 "endLocal": "2024-06-29T11:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 804,
+                "weatherCondition": 803,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "mte0mzm0mg",
@@ -100,7 +112,7 @@
                 "end": "2024-06-29T13:30:00+00:00",
                 "endLocal": "2024-06-29T15:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 804,
+                "weatherCondition": 803,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
@@ -109,6 +121,11 @@
                         "countryCode": "CH",
                         "channelName": "RTS 2",
                         "channelCode": "C183.api.telerama.fr"
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
                     }
                 ]
             },
@@ -124,7 +141,7 @@
                 "hasTime": true,
                 "weatherCondition": 804,
                 "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherRainProbability": 0.13,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -147,7 +164,7 @@
         "index": "9 / 20",
         "title": "Motorrad Grand Prix Deutschland",
         "start": "2024-07-05T08:45:00+00:00",
-        "end": "2024-07-07T13:00:00+00:00",
+        "end": "2024-07-07T14:00:00+00:00",
         "timezone": "Europe/Berlin",
         "latitude": "50.791599",
         "longitude": "12.68861",
@@ -241,10 +258,10 @@
                 "title": "Race",
                 "type": "race",
                 "index": 2,
-                "start": "2024-07-07T12:00:00+00:00",
-                "startLocal": "2024-07-07T14:00:00+02:00",
-                "end": "2024-07-07T13:00:00+00:00",
-                "endLocal": "2024-07-07T15:00:00+02:00",
+                "start": "2024-07-07T13:00:00+00:00",
+                "startLocal": "2024-07-07T15:00:00+02:00",
+                "end": "2024-07-07T14:00:00+00:00",
+                "endLocal": "2024-07-07T16:00:00+02:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
