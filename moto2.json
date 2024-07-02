@@ -1,131 +1,5 @@
 [
     {
-        "id": "mte0otcyng",
-        "type": "moto2",
-        "index": "8 / 20",
-        "title": "TT Assen",
-        "start": "2024-06-28T07:50:00+00:00",
-        "end": "2024-06-30T11:15:00+00:00",
-        "timezone": "Europe/Amsterdam",
-        "latitude": "52.962074",
-        "longitude": "6.523558",
-        "trackName": "TT Circuit Assen",
-        "countryCode": "NL",
-        "cityName": "Assen",
-        "steps": [
-            {
-                "id": "mte0otcyoa",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2024-06-28T07:50:00+00:00",
-                "startLocal": "2024-06-28T09:50:00+02:00",
-                "end": "2024-06-28T08:30:00+00:00",
-                "endLocal": "2024-06-28T10:30:00+02:00",
-                "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
-                "weatherRainProbability": 0,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": "canal-plus-sport360.fr"
-                    }
-                ]
-            },
-            {
-                "id": "mte0otczma",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2024-06-28T12:05:00+00:00",
-                "startLocal": "2024-06-28T14:05:00+02:00",
-                "end": "2024-06-28T12:45:00+00:00",
-                "endLocal": "2024-06-28T14:45:00+02:00",
-                "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
-                "weatherRainProbability": 0,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": "canal-plus-sport360.fr"
-                    }
-                ]
-            },
-            {
-                "id": "mte0otczmg",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2024-06-29T07:25:00+00:00",
-                "startLocal": "2024-06-29T09:25:00+02:00",
-                "end": "2024-06-29T07:55:00+00:00",
-                "endLocal": "2024-06-29T09:55:00+02:00",
-                "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "weatherRainProbability": 0,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": "canal-plus-sport360.fr"
-                    }
-                ]
-            },
-            {
-                "id": "mte0otczna",
-                "title": "Qualifying",
-                "type": "qualifying",
-                "index": null,
-                "start": "2024-06-29T11:45:00+00:00",
-                "startLocal": "2024-06-29T13:45:00+02:00",
-                "end": "2024-06-29T12:25:00+00:00",
-                "endLocal": "2024-06-29T14:25:00+02:00",
-                "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
-                "weatherRainProbability": 0,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": "canal-plus-sport360.fr"
-                    }
-                ]
-            },
-            {
-                "id": "mte0otc0ma",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2024-06-30T10:15:00+00:00",
-                "startLocal": "2024-06-30T12:15:00+02:00",
-                "end": "2024-06-30T11:15:00+00:00",
-                "endLocal": "2024-06-30T13:15:00+02:00",
-                "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": "canal-plus-sport360.fr"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "id": "mte0otk0mg",
         "type": "moto2",
         "index": "9 / 20",
@@ -165,9 +39,9 @@
                 "end": "2024-07-05T12:45:00+00:00",
                 "endLocal": "2024-07-05T14:45:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.2,
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -181,9 +55,9 @@
                 "end": "2024-07-06T07:55:00+00:00",
                 "endLocal": "2024-07-06T09:55:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -197,9 +71,9 @@
                 "end": "2024-07-06T12:25:00+00:00",
                 "endLocal": "2024-07-06T14:25:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
             },
