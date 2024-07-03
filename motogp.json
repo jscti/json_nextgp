@@ -25,7 +25,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.2,
+                "weatherRainProbability": 0.32,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -71,7 +71,13 @@
                 "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "mte0mzy1ng",
@@ -87,7 +93,13 @@
                 "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "mte0mzy2mg",
@@ -104,7 +116,13 @@
                 "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "mte0mzc2na",
@@ -116,7 +134,7 @@
                 "end": "2024-07-07T14:00:00+00:00",
                 "endLocal": "2024-07-07T16:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 501,
+                "weatherCondition": 500,
                 "weatherIcon": "10d",
                 "weatherRainProbability": 1,
                 "isNightEvent": false,

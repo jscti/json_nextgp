@@ -25,7 +25,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.2,
+                "weatherRainProbability": 0.32,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -67,11 +67,17 @@
                 "end": "2024-07-06T07:55:00+00:00",
                 "endLocal": "2024-07-06T09:55:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "mte0otk1ma",
@@ -87,7 +93,13 @@
                 "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "mte0otk1ng",
@@ -99,9 +111,9 @@
                 "end": "2024-07-07T11:15:00+00:00",
                 "endLocal": "2024-07-07T13:15:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.82,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0.09,
                 "isNightEvent": false,
                 "channels": []
             }
