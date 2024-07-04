@@ -1,2018 +1,20 @@
 [
     {
-        "sport": "f1",
-        "year": 2024,
-        "type": "driver",
-        "entries": [
-            {
-                "id": "mdflmtc4odq",
-                "parentName": "Oracle Red Bull Racing",
-                "name": "Max Verstappen",
-                "countryCode": "NL",
-                "position": 1,
-                "races": 10,
-                "points": 219,
-                "poles": 7,
-                "wins": 7,
-                "podiums": 8,
-                "fastestLaps": 2,
-                "hatTricks": 2
-            },
-            {
-                "id": "n2fkogfimgi",
-                "parentName": "McLaren Formula 1 Team",
-                "name": "Lando Norris",
-                "countryCode": "GB",
-                "position": 2,
-                "races": 10,
-                "points": 150,
-                "poles": 1,
-                "wins": 1,
-                "podiums": 6,
-                "fastestLaps": 1
-            },
-            {
-                "id": "ogq1ndg2zdk",
-                "parentName": "Scuderia Ferrari",
-                "name": "Charles Leclerc",
-                "countryCode": "MC",
-                "position": 3,
-                "races": 10,
-                "points": 148,
-                "poles": 1,
-                "wins": 1,
-                "podiums": 5,
-                "fastestLaps": 2
-            },
-            {
-                "id": "ndu4ymy2otc",
-                "parentName": "Scuderia Ferrari",
-                "name": "Carlos Sainz",
-                "countryCode": "ES",
-                "position": 4,
-                "races": 9,
-                "points": 116,
-                "wins": 1,
-                "podiums": 4
-            },
-            {
-                "id": "mza2ztblztc",
-                "parentName": "Oracle Red Bull Racing",
-                "name": "Sergio Pérez",
-                "countryCode": "MX",
-                "position": 5,
-                "races": 10,
-                "points": 111,
-                "podiums": 4
-            },
-            {
-                "id": "nmqyzdq2ztg",
-                "parentName": "McLaren Formula 1 Team",
-                "name": "Oscar Piastri",
-                "countryCode": "AU",
-                "position": 6,
-                "races": 10,
-                "points": 87,
-                "podiums": 1,
-                "fastestLaps": 1
-            },
-            {
-                "id": "ogywmzkzntg",
-                "parentName": "Mercedes-AMG Petronas Formula One Team",
-                "name": "George Russell",
-                "countryCode": "GB",
-                "position": 7,
-                "races": 10,
-                "points": 81,
-                "poles": 1,
-                "podiums": 1,
-                "fastestLaps": 1
-            },
-            {
-                "id": "ytm5njiwztc",
-                "parentName": "Mercedes-AMG Petronas Formula One Team",
-                "name": "Lewis Hamilton",
-                "countryCode": "GB",
-                "position": 8,
-                "races": 10,
-                "points": 70,
-                "podiums": 1,
-                "fastestLaps": 2
-            },
-            {
-                "id": "otg1zddlzwm",
-                "parentName": "Aston Martin Aramco Formula One Team",
-                "name": "Fernando Alonso",
-                "countryCode": "ES",
-                "position": 9,
-                "races": 10,
-                "points": 41,
-                "fastestLaps": 1
-            },
-            {
-                "id": "ntu5mmjjmtk",
-                "parentName": "Visa Cash App RB F1 Team",
-                "name": "Yuki Tsunoda",
-                "countryCode": "JP",
-                "position": 10,
-                "races": 10,
-                "points": 19
-            },
-            {
-                "id": "mzmwntiym2m",
-                "parentName": "Aston Martin Aramco Formula One Team",
-                "name": "Lance Stroll",
-                "countryCode": "CA",
-                "position": 11,
-                "races": 10,
-                "points": 17
-            },
-            {
-                "id": "y2zhytllnzy",
-                "parentName": "Visa Cash App RB F1 Team",
-                "name": "Daniel Ricciardo",
-                "countryCode": "AU",
-                "position": 12,
-                "races": 10,
-                "points": 9
-            },
-            {
-                "id": "yjk0njy5njk",
-                "parentName": "MoneyGram Haas F1 Team",
-                "name": "Ollie Bearman",
-                "countryCode": "GB",
-                "position": 13,
-                "races": 1,
-                "points": 6
-            },
-            {
-                "id": "nmezowe5mta",
-                "parentName": "MoneyGram Haas F1 Team",
-                "name": "Nico Hülkenberg",
-                "countryCode": "DE",
-                "position": 14,
-                "races": 10,
-                "points": 6
-            },
-            {
-                "id": "n2mxm2exyje",
-                "parentName": "BWT Alpine F1 Team",
-                "name": "Pierre Gasly",
-                "countryCode": "FR",
-                "position": 15,
-                "races": 10,
-                "points": 5
-            },
-            {
-                "id": "yzjkmzexmzi",
-                "parentName": "BWT Alpine F1 Team",
-                "name": "Esteban Ocon",
-                "countryCode": "FR",
-                "position": 16,
-                "races": 10,
-                "points": 3
-            },
-            {
-                "id": "mme2yzqxoty",
-                "parentName": "Williams Racing",
-                "name": "Alexander Albon",
-                "countryCode": "TH",
-                "position": 17,
-                "races": 10,
-                "points": 2
-            },
-            {
-                "id": "otqwmtuxy2e",
-                "parentName": "MoneyGram Haas F1 Team",
-                "name": "Kevin Magnussen",
-                "countryCode": "DK",
-                "position": 18,
-                "races": 10,
-                "points": 1
-            },
-            {
-                "id": "ogfjmdy5mzu",
-                "parentName": "Kick Sauber F1 Team",
-                "name": "Zhou Guanyu",
-                "countryCode": "CN",
-                "position": 19,
-                "races": 10
-            },
-            {
-                "id": "zdzjywjmnzq",
-                "parentName": "Kick Sauber F1 Team",
-                "name": "Valtteri Bottas",
-                "countryCode": "FI",
-                "position": 20,
-                "races": 10
-            },
-            {
-                "id": "mzc3mdfln2e",
-                "parentName": "Williams Racing",
-                "name": "Logan Sargeant",
-                "countryCode": "US",
-                "position": 21,
-                "races": 9
-            }
-        ]
-    },
-    {
-        "sport": "f1",
-        "year": 2024,
-        "type": "team",
-        "entries": [
-            {
-                "id": "ndjmzjqxm2y",
-                "name": "Oracle Red Bull Racing",
-                "countryCode": "AT",
-                "position": 1,
-                "points": 330,
-                "wins": 7
-            },
-            {
-                "id": "mtqynjyzyzq",
-                "name": "Scuderia Ferrari",
-                "countryCode": "IT",
-                "position": 2,
-                "points": 270,
-                "wins": 2
-            },
-            {
-                "id": "ymjkymi3mzg",
-                "name": "McLaren Formula 1 Team",
-                "countryCode": "GB",
-                "position": 3,
-                "points": 237,
-                "wins": 1
-            },
-            {
-                "id": "zjaxmtbhzju",
-                "name": "Mercedes-AMG Petronas Formula One Team",
-                "countryCode": "DE",
-                "position": 4,
-                "points": 151
-            },
-            {
-                "id": "n2uxzgywzdu",
-                "name": "Aston Martin Aramco Formula One Team",
-                "countryCode": "GB",
-                "position": 5,
-                "points": 58
-            },
-            {
-                "id": "yzm1otzlnjq",
-                "name": "Visa Cash App RB F1 Team",
-                "position": 6,
-                "points": 28
-            },
-            {
-                "id": "ywzlotg3mge",
-                "name": "BWT Alpine F1 Team",
-                "countryCode": "FR",
-                "position": 7,
-                "points": 8
-            },
-            {
-                "id": "ymixzjyzyzu",
-                "name": "MoneyGram Haas F1 Team",
-                "countryCode": "US",
-                "position": 8,
-                "points": 7
-            },
-            {
-                "id": "ngq1ytnhngq",
-                "name": "Williams Racing",
-                "countryCode": "GB",
-                "position": 9,
-                "points": 2
-            },
-            {
-                "id": "ntmwytqzntc",
-                "name": "Kick Sauber F1 Team",
-                "countryCode": "CH",
-                "position": 10
-            }
-        ]
-    },
-    {
-        "sport": "fe",
-        "year": 2024,
-        "type": "driver",
-        "entries": [
-            {
-                "id": "ntzhzdbimzk",
-                "parentName": "Jaguar TCS Racing",
-                "name": "Nick Cassidy",
-                "countryCode": "NZ",
-                "position": 1,
-                "races": 12,
-                "points": 167,
-                "wins": 2,
-                "podiums": 8,
-                "fastestLaps": 1
-            },
-            {
-                "id": "mdq1yjrkzjk",
-                "parentName": "TAG Heuer Porsche Formula E Team",
-                "name": "Pascal Wehrlein",
-                "countryCode": "DE",
-                "position": 2,
-                "races": 12,
-                "points": 142,
-                "poles": 3,
-                "wins": 2,
-                "podiums": 3
-            },
-            {
-                "id": "zmu3mmnjody",
-                "parentName": "Jaguar TCS Racing",
-                "name": "Mitch Evans",
-                "countryCode": "NZ",
-                "position": 3,
-                "races": 12,
-                "points": 132,
-                "poles": 1,
-                "wins": 2,
-                "podiums": 3
-            },
-            {
-                "id": "yzziowyymwq",
-                "parentName": "Nissan Formula E Team",
-                "name": "Oliver Rowland",
-                "countryCode": "GB",
-                "position": 4,
-                "races": 12,
-                "points": 131,
-                "poles": 2,
-                "wins": 1,
-                "podiums": 6,
-                "fastestLaps": 1
-            },
-            {
-                "id": "njywytdhzgu",
-                "parentName": "Andretti Formula E",
-                "name": "Jake Dennis",
-                "countryCode": "GB",
-                "position": 5,
-                "races": 12,
-                "points": 113,
-                "poles": 1,
-                "wins": 1,
-                "podiums": 4,
-                "fastestLaps": 3
-            },
-            {
-                "id": "mzhlnme5zwi",
-                "parentName": "DS Penske",
-                "name": "Jean-Eric Vergne",
-                "countryCode": "FR",
-                "position": 6,
-                "races": 12,
-                "points": 101,
-                "poles": 2,
-                "podiums": 2
-            },
-            {
-                "id": "zgvhmtvhmdm",
-                "parentName": "TAG Heuer Porsche Formula E Team",
-                "name": "António Félix da Costa",
-                "countryCode": "PT",
-                "position": 7,
-                "races": 12,
-                "points": 84,
-                "wins": 2,
-                "podiums": 2,
-                "fastestLaps": 1
-            },
-            {
-                "id": "mde5mzcxmdc",
-                "parentName": "Maserati MSG Racing",
-                "name": "Maximilian Günther",
-                "countryCode": "DE",
-                "position": 8,
-                "races": 12,
-                "points": 69,
-                "wins": 1,
-                "podiums": 2
-            },
-            {
-                "id": "ntmxmti4mzy",
-                "parentName": "DS Penske",
-                "name": "Stoffel Vandoorne",
-                "countryCode": "BE",
-                "position": 9,
-                "races": 12,
-                "points": 53,
-                "podiums": 1
-            },
-            {
-                "id": "zwrjodflzwe",
-                "parentName": "NEOM McLaren Formula E Team",
-                "name": "Jake Hughes",
-                "countryCode": "GB",
-                "position": 10,
-                "races": 12,
-                "points": 46,
-                "poles": 2,
-                "podiums": 1
-            },
-            {
-                "id": "zwzkmjliodm",
-                "parentName": "Andretti Formula E",
-                "name": "Norman Nato",
-                "countryCode": "FR",
-                "position": 11,
-                "races": 12,
-                "points": 40,
-                "podiums": 1,
-                "fastestLaps": 3
-            },
-            {
-                "id": "yjg0zguymti",
-                "parentName": "NEOM McLaren Formula E Team",
-                "name": "Sam Bird",
-                "countryCode": "GB",
-                "position": 12,
-                "races": 9,
-                "points": 38,
-                "wins": 1,
-                "podiums": 1,
-                "fastestLaps": 1
-            },
-            {
-                "id": "mdjhogy0nte",
-                "parentName": "Nissan Formula E Team",
-                "name": "Sacha Fenestraz",
-                "countryCode": "FR",
-                "position": 13,
-                "races": 12,
-                "points": 26
-            },
-            {
-                "id": "zjk2mwm3mzq",
-                "parentName": "Envision Racing",
-                "name": "Sébastien Buemi",
-                "countryCode": "CH",
-                "position": 14,
-                "races": 9,
-                "points": 24,
-                "podiums": 1
-            },
-            {
-                "id": "yme0zdnjzte",
-                "parentName": "Envision Racing",
-                "name": "Robin Frijns",
-                "countryCode": "NL",
-                "position": 15,
-                "races": 10,
-                "points": 23,
-                "podiums": 1
-            },
-            {
-                "id": "nzhlyzfjndq",
-                "parentName": "ABT CUPRA Formula E Team",
-                "name": "Nico Müller",
-                "countryCode": "CH",
-                "position": 16,
-                "races": 10,
-                "points": 18
-            },
-            {
-                "id": "otqxzdbhmmu",
-                "parentName": "ERT Formula E Team",
-                "name": "Daniel Ticktum",
-                "countryCode": "GB",
-                "position": 17,
-                "races": 12,
-                "points": 12
-            },
-            {
-                "id": "yty0ztmwytk",
-                "parentName": "ERT Formula E Team",
-                "name": "Sérgio Sette Câmara",
-                "countryCode": "BR",
-                "position": 18,
-                "races": 11,
-                "points": 11
-            },
-            {
-                "id": "njfjzgnknjy",
-                "parentName": "Maserati MSG Racing",
-                "name": "Jehan Daruvala",
-                "countryCode": "IN",
-                "position": 19,
-                "races": 12,
-                "points": 8,
-                "fastestLaps": 1
-            },
-            {
-                "id": "zgi5mgnhmme",
-                "parentName": "Mahindra Racing",
-                "name": "Edoardo Mortara",
-                "countryCode": "IT",
-                "position": 20,
-                "races": 12,
-                "points": 7,
-                "poles": 1
-            },
-            {
-                "id": "y2uwzmflnzu",
-                "parentName": "Mahindra Racing",
-                "name": "Nyck de Vries",
-                "countryCode": "NL",
-                "position": 21,
-                "races": 10,
-                "points": 6,
-                "fastestLaps": 1
-            },
-            {
-                "id": "ywm0oti2ztg",
-                "parentName": "NEOM McLaren Formula E Team",
-                "name": "Taylor Barnard",
-                "countryCode": "GB",
-                "position": 22,
-                "races": 3,
-                "points": 5
-            },
-            {
-                "id": "mmu4m2i4yji",
-                "parentName": "Envision Racing",
-                "name": "Joel Eriksson",
-                "countryCode": "SE",
-                "position": 23,
-                "races": 2,
-                "points": 2
-            },
-            {
-                "id": "mgiyownhowu",
-                "parentName": "ABT CUPRA Formula E Team",
-                "name": "Lucas di Grassi",
-                "countryCode": "BR",
-                "position": 24,
-                "races": 12,
-                "points": 2
-            },
-            {
-                "id": "oddhztnknmq",
-                "parentName": "ABT CUPRA Formula E Team",
-                "name": "Kelvin van der Linde",
-                "countryCode": "ZA",
-                "position": 25,
-                "races": 2
-            },
-            {
-                "id": "mzg2nzi2owe",
-                "parentName": "Mahindra Racing",
-                "name": "Jordan King",
-                "countryCode": "GB",
-                "position": 26,
-                "races": 2
-            },
-            {
-                "id": "n2njmtm4oti",
-                "parentName": "Envision Racing",
-                "name": "Paul Aron",
-                "countryCode": "EE",
-                "position": 27,
-                "races": 2
-            }
-        ]
-    },
-    {
-        "sport": "fe",
-        "year": 2024,
-        "type": "team",
-        "entries": [
-            {
-                "id": "yjy5mja5yzm",
-                "name": "Jaguar TCS Racing",
-                "countryCode": "GB",
-                "position": 1,
-                "races": 12,
-                "points": 299,
-                "poles": 1,
-                "wins": 4,
-                "podiums": 11,
-                "fastestLaps": 1
-            },
-            {
-                "id": "yjbmztq1nze",
-                "name": "TAG Heuer Porsche Formula E Team",
-                "position": 2,
-                "races": 12,
-                "points": 226,
-                "poles": 3,
-                "wins": 4,
-                "podiums": 5,
-                "fastestLaps": 1
-            },
-            {
-                "id": "mgrjyjvly2u",
-                "name": "Nissan Formula E Team",
-                "countryCode": "FR",
-                "position": 3,
-                "races": 12,
-                "points": 157,
-                "poles": 2,
-                "wins": 1,
-                "podiums": 6,
-                "fastestLaps": 1
-            },
-            {
-                "id": "otqwndziyte",
-                "name": "DS Penske",
-                "countryCode": "CN",
-                "position": 4,
-                "races": 12,
-                "points": 154,
-                "poles": 2,
-                "podiums": 3
-            },
-            {
-                "id": "ytzlmtuzotq",
-                "name": "Andretti Formula E",
-                "countryCode": "US",
-                "position": 5,
-                "races": 12,
-                "points": 153,
-                "poles": 1,
-                "wins": 1,
-                "podiums": 5,
-                "fastestLaps": 6
-            },
-            {
-                "id": "ymjkymi3mzg",
-                "name": "NEOM McLaren Formula E Team",
-                "countryCode": "GB",
-                "position": 6,
-                "races": 12,
-                "points": 89,
-                "poles": 2,
-                "wins": 1,
-                "podiums": 2,
-                "fastestLaps": 1
-            },
-            {
-                "id": "zjkxmji0mjc",
-                "name": "Maserati MSG Racing",
-                "countryCode": "IT",
-                "position": 7,
-                "races": 12,
-                "points": 77,
-                "wins": 1,
-                "podiums": 2,
-                "fastestLaps": 1
-            },
-            {
-                "id": "mjaxmju1zte",
-                "name": "Envision Racing",
-                "countryCode": "GB",
-                "position": 8,
-                "races": 12,
-                "points": 49,
-                "podiums": 2
-            },
-            {
-                "id": "nju2mjq5zdy",
-                "name": "ERT Formula E Team",
-                "countryCode": "CN",
-                "position": 9,
-                "races": 12,
-                "points": 23
-            },
-            {
-                "id": "ztm5mjeyzmy",
-                "name": "ABT CUPRA Formula E Team",
-                "countryCode": "DE",
-                "position": 10,
-                "races": 12,
-                "points": 20
-            },
-            {
-                "id": "nzc0nze3ztu",
-                "name": "Mahindra Racing",
-                "countryCode": "IN",
-                "position": 11,
-                "races": 12,
-                "points": 13,
-                "poles": 1,
-                "fastestLaps": 1
-            }
-        ]
-    },
-    {
-        "sport": "indycar",
-        "year": 2024,
-        "type": "driver",
-        "entries": [
-            {
-                "id": "mwezymywmwq",
-                "parentName": "Chip Ganassi Racing",
-                "name": "Alex Palou",
-                "countryCode": "ES",
-                "position": 1,
-                "races": 8,
-                "points": 285,
-                "poles": 2,
-                "wins": 2,
-                "podiums": 3,
-                "fastestLaps": 1,
-                "hatTricks": 1
-            },
-            {
-                "id": "njzhogqxnzu",
-                "parentName": "Team Penske",
-                "name": "Will Power",
-                "countryCode": "AU",
-                "position": 2,
-                "races": 8,
-                "points": 262,
-                "wins": 1,
-                "podiums": 4
-            },
-            {
-                "id": "ztg3zji5mjg",
-                "parentName": "Chip Ganassi Racing",
-                "name": "Scott Dixon",
-                "countryCode": "NZ",
-                "position": 3,
-                "races": 8,
-                "points": 253,
-                "wins": 2,
-                "podiums": 3,
-                "fastestLaps": 1
-            },
-            {
-                "id": "zjyyoweyytq",
-                "parentName": "Andretti Global with Curb-Agajanian",
-                "name": "Colton Herta",
-                "countryCode": "US",
-                "position": 4,
-                "races": 8,
-                "points": 217,
-                "poles": 1,
-                "podiums": 3,
-                "fastestLaps": 1
-            },
-            {
-                "id": "otgyzge4nzg",
-                "parentName": "Andretti Global",
-                "name": "Kyle Kirkwood",
-                "countryCode": "US",
-                "position": 5,
-                "races": 8,
-                "points": 210
-            },
-            {
-                "id": "mdrjzdlimdi",
-                "parentName": "Arrow McLaren",
-                "name": "Patricio Pato O'Ward",
-                "countryCode": "MX",
-                "position": 6,
-                "races": 8,
-                "points": 208,
-                "wins": 1,
-                "podiums": 2
-            },
-            {
-                "id": "yjbmnme5nzy",
-                "parentName": "Arrow McLaren",
-                "name": "Alexander Rossi",
-                "countryCode": "US",
-                "position": 7,
-                "races": 8,
-                "points": 198,
-                "podiums": 1
-            },
-            {
-                "id": "odg3njm1zdu",
-                "parentName": "Team Penske",
-                "name": "Scott McLaughlin",
-                "countryCode": "NZ",
-                "position": 8,
-                "races": 8,
-                "points": 188,
-                "poles": 2,
-                "wins": 1,
-                "podiums": 2,
-                "fastestLaps": 1,
-                "hatTricks": 1
-            },
-            {
-                "id": "yzhin2zhyzu",
-                "parentName": "Team Penske",
-                "name": "Josef Newgarden",
-                "countryCode": "US",
-                "position": 9,
-                "races": 8,
-                "points": 181,
-                "poles": 1,
-                "wins": 1,
-                "podiums": 2,
-                "fastestLaps": 1
-            },
-            {
-                "id": "odgxmwjhnge",
-                "parentName": "Meyer Shank Racing",
-                "name": "Felix Rosenqvist",
-                "countryCode": "SE",
-                "position": 10,
-                "races": 8,
-                "points": 177,
-                "poles": 1
-            },
-            {
-                "id": "yzjjndfkmmi",
-                "parentName": "Rahal Letterman Lanigan Racing",
-                "name": "Christian Lundgaard",
-                "countryCode": "DK",
-                "position": 11,
-                "races": 8,
-                "points": 156,
-                "podiums": 1,
-                "fastestLaps": 1
-            },
-            {
-                "id": "njk5mgy4ogm",
-                "parentName": "A.J. Foyt Enterprises",
-                "name": "Santino Ferrucci",
-                "countryCode": "US",
-                "position": 12,
-                "races": 8,
-                "points": 154
-            },
-            {
-                "id": "nje4ogmxotu",
-                "parentName": "Andretti Global",
-                "name": "Marcus Ericsson",
-                "countryCode": "SE",
-                "position": 13,
-                "races": 8,
-                "points": 150,
-                "podiums": 1,
-                "fastestLaps": 2
-            },
-            {
-                "id": "mze2ngnmowy",
-                "parentName": "Juncos Hollinger Racing",
-                "name": "Romain Grosjean",
-                "countryCode": "FR",
-                "position": 14,
-                "races": 8,
-                "points": 144
-            },
-            {
-                "id": "nzvlmgq3mza",
-                "parentName": "Chip Ganassi Racing",
-                "name": "Marcus Armstrong",
-                "countryCode": "NZ",
-                "position": 15,
-                "races": 8,
-                "points": 129,
-                "podiums": 1
-            },
-            {
-                "id": "nzlkmgzlywm",
-                "parentName": "Rahal Letterman Lanigan Racing",
-                "name": "Graham Rahal",
-                "countryCode": "US",
-                "position": 16,
-                "races": 8,
-                "points": 128
-            },
-            {
-                "id": "zgrjmtm0njy",
-                "parentName": "Ed Carpenter Racing",
-                "name": "Rinus Veekay Van Kalmthout",
-                "countryCode": "NL",
-                "position": 17,
-                "races": 8,
-                "points": 114
-            },
-            {
-                "id": "yzqwmtfjyzg",
-                "parentName": "Chip Ganassi Racing",
-                "name": "Linus Lundqvist",
-                "countryCode": "SE",
-                "position": 18,
-                "races": 8,
-                "points": 113,
-                "poles": 1,
-                "podiums": 1
-            },
-            {
-                "id": "njdjmgm0owe",
-                "parentName": "Rahal Letterman Lanigan Racing",
-                "name": "Pietro Fittipaldi",
-                "countryCode": "BR",
-                "position": 19,
-                "races": 8,
-                "points": 97
-            },
-            {
-                "id": "nzi0mdkxmtc",
-                "parentName": "Chip Ganassi Racing",
-                "name": "Kyffin Simpson",
-                "countryCode": "BB",
-                "position": 20,
-                "races": 8,
-                "points": 88
-            },
-            {
-                "id": "ndgznmq0yzy",
-                "parentName": "Juncos Hollinger Racing",
-                "name": "Agustín Canapino",
-                "countryCode": "AR",
-                "position": 21,
-                "races": 7,
-                "points": 86
-            },
-            {
-                "id": "ngexzte4ytm",
-                "parentName": "Ed Carpenter Racing",
-                "name": "Christian Rasmussen",
-                "countryCode": "DK",
-                "position": 22,
-                "races": 8,
-                "points": 83
-            },
-            {
-                "id": "mzfkmmizzti",
-                "parentName": "Arrow McLaren",
-                "name": "Théo Pourchaire",
-                "countryCode": "FR",
-                "position": 23,
-                "races": 5,
-                "points": 75
-            },
-            {
-                "id": "nmjmy2m4ytk",
-                "parentName": "Dale Coyne Racing",
-                "name": "Jack Harvey",
-                "countryCode": "GB",
-                "position": 24,
-                "races": 7,
-                "points": 70
-            },
-            {
-                "id": "mdg3mddhztc",
-                "parentName": "A.J. Foyt Enterprises",
-                "name": "Sting Ray Robb",
-                "countryCode": "US",
-                "position": 25,
-                "races": 8,
-                "points": 69
-            },
-            {
-                "id": "otcyytiwzdi",
-                "parentName": "Meyer Shank Racing",
-                "name": "Tom Blomqvist",
-                "countryCode": "GB",
-                "position": 26,
-                "races": 5,
-                "points": 46
-            },
-            {
-                "id": "mdu4zdyymmu",
-                "parentName": "Arrow McLaren",
-                "name": "Callum Ilott",
-                "countryCode": "GB",
-                "position": 27,
-                "races": 2,
-                "points": 39
-            },
-            {
-                "id": "mdfmmtgyymu",
-                "parentName": "Arrow McLaren",
-                "name": "Nolan Siegel",
-                "countryCode": "US",
-                "position": 28,
-                "races": 3,
-                "points": 35
-            },
-            {
-                "id": "zdgymwqxzgu",
-                "parentName": "Dale Coyne Racing",
-                "name": "Luca Ghiotto",
-                "countryCode": "IT",
-                "position": 29,
-                "races": 4,
-                "points": 27
-            },
-            {
-                "id": "njk0njg1mjk",
-                "parentName": "Meyer Shank Racing",
-                "name": "Hélio Castroneves",
-                "countryCode": "BR",
-                "position": 30,
-                "races": 3,
-                "points": 26
-            },
-            {
-                "id": "ndezogi2otc",
-                "parentName": "Dreyer & Reinbold Racing/Cusick Motorsports",
-                "name": "Conor Daly",
-                "countryCode": "US",
-                "position": 31,
-                "races": 1,
-                "points": 21
-            },
-            {
-                "id": "mtnjmmqzota",
-                "parentName": "Arrow McLaren/Rick Hendrick",
-                "name": "Kyle Larson",
-                "countryCode": "US",
-                "position": 32,
-                "races": 1,
-                "points": 21
-            },
-            {
-                "id": "mdu5ywjlnta",
-                "parentName": "Rahal Letterman Lanigan Racing",
-                "name": "Takuma Sato",
-                "countryCode": "JP",
-                "position": 33,
-                "races": 1,
-                "points": 19
-            },
-            {
-                "id": "mdu4mjrkndg",
-                "parentName": "Meyer Shank Racing",
-                "name": "David Malukas",
-                "countryCode": "US",
-                "position": 34,
-                "races": 1,
-                "points": 14
-            },
-            {
-                "id": "zdnizjniyta",
-                "parentName": "Ed Carpenter Racing",
-                "name": "Ed Carpenter",
-                "countryCode": "US",
-                "position": 35,
-                "races": 1,
-                "points": 14
-            },
-            {
-                "id": "n2yyytfkm2q",
-                "parentName": "Dale Coyne Racing",
-                "name": "Tristan Vautier",
-                "countryCode": "FR",
-                "position": 36,
-                "races": 1,
-                "points": 12
-            },
-            {
-                "id": "mdizmwvkm2q",
-                "parentName": "Dale Coyne Racing",
-                "name": "Colin Braun",
-                "countryCode": "US",
-                "position": 37,
-                "races": 1,
-                "points": 10
-            },
-            {
-                "id": "mjg2ngixnmy",
-                "parentName": "Dreyer & Reinbold Racing/Cusick Motorsports",
-                "name": "Ryan Hunter-Reay",
-                "countryCode": "US",
-                "position": 38,
-                "races": 1,
-                "points": 6
-            },
-            {
-                "id": "zwi0ytdinjk",
-                "parentName": "Andretti Herta Autosport with Marco & Curb-Agajanian",
-                "name": "Marco Andretti",
-                "countryCode": "US",
-                "position": 39,
-                "races": 1,
-                "points": 5
-            },
-            {
-                "id": "mmixzta0mjq",
-                "parentName": "Dale Coyne Racing",
-                "name": "Katherine Legge",
-                "countryCode": "GB",
-                "position": 40,
-                "races": 1,
-                "points": 5
-            }
-        ]
-    },
-    {
-        "sport": "indycar",
-        "year": 2024,
-        "type": "team",
-        "entries": []
-    },
-    {
-        "sport": "superbike",
-        "year": 2024,
-        "type": "driver",
-        "entries": [
-            {
-                "id": "mtezztnlztm",
-                "parentName": "ROKiT BMW Motorrad WorldSBK Team",
-                "name": "Toprak Razgatlioglu",
-                "countryCode": "TR",
-                "position": 1,
-                "races": 12,
-                "points": 179,
-                "poles": 6,
-                "wins": 6,
-                "podiums": 9,
-                "fastestLaps": 3,
-                "hatTricks": 2
-            },
-            {
-                "id": "ndq1mzfhoda",
-                "parentName": "Aruba.it Racing - Ducati",
-                "name": "Nicolò Bulega",
-                "countryCode": "IT",
-                "position": 2,
-                "races": 12,
-                "points": 158,
-                "poles": 2,
-                "wins": 1,
-                "podiums": 7,
-                "fastestLaps": 6,
-                "hatTricks": 1
-            },
-            {
-                "id": "ndixngfhytc",
-                "parentName": "Aruba.it Racing - Ducati",
-                "name": "Álvaro Bautista",
-                "countryCode": "ES",
-                "position": 3,
-                "races": 12,
-                "points": 155,
-                "poles": 1,
-                "wins": 2,
-                "podiums": 9,
-                "fastestLaps": 1
-            },
-            {
-                "id": "odjjndm0owq",
-                "parentName": "Kawasaki Racing Team WorldSBK",
-                "name": "Alex Lowes",
-                "countryCode": "GB",
-                "position": 4,
-                "races": 12,
-                "points": 124,
-                "poles": 1,
-                "wins": 2,
-                "podiums": 4
-            },
-            {
-                "id": "mmy1yjvjotc",
-                "parentName": "Pata Prometeon Yamaha",
-                "name": "Andrea Locatelli",
-                "countryCode": "IT",
-                "position": 5,
-                "races": 12,
-                "points": 94,
-                "podiums": 2
-            },
-            {
-                "id": "ntfln2mymtq",
-                "parentName": "Team GO Eleven",
-                "name": "Andrea Iannone",
-                "countryCode": "IT",
-                "position": 6,
-                "races": 12,
-                "points": 83,
-                "podiums": 2
-            },
-            {
-                "id": "mmvjnji5zji",
-                "parentName": "GYTR GRT Yamaha WorldSBK Team",
-                "name": "Remy Gardner",
-                "countryCode": "AU",
-                "position": 7,
-                "races": 12,
-                "points": 72,
-                "podiums": 1,
-                "fastestLaps": 1
-            },
-            {
-                "id": "otmzmjqyy2u",
-                "parentName": "ROKiT BMW Motorrad WorldSBK Team",
-                "name": "Michael van der Mark",
-                "countryCode": "NL",
-                "position": 8,
-                "races": 12,
-                "points": 66
-            },
-            {
-                "id": "ztnhntnlzjy",
-                "parentName": "BARNI Spark Racing Team",
-                "name": "Danilo Petrucci",
-                "countryCode": "IT",
-                "position": 9,
-                "races": 9,
-                "points": 65,
-                "podiums": 1
-            },
-            {
-                "id": "njnkmmvlztk",
-                "parentName": "GYTR GRT Yamaha WorldSBK Team",
-                "name": "Dominique Aegerter",
-                "countryCode": "CH",
-                "position": 10,
-                "races": 12,
-                "points": 46
-            },
-            {
-                "id": "nwjjzgyxmge",
-                "parentName": "Kawasaki Racing Team WorldSBK",
-                "name": "Axel Bassani",
-                "countryCode": "IT",
-                "position": 11,
-                "races": 12,
-                "points": 40
-            },
-            {
-                "id": "mzlhnzy0ngu",
-                "parentName": "Elf Marc VDS Racing Team",
-                "name": "Sam Lowes",
-                "countryCode": "GB",
-                "position": 12,
-                "races": 12,
-                "points": 34,
-                "fastestLaps": 1
-            },
-            {
-                "id": "mda1nji2nda",
-                "parentName": "Bonovo Action BMW",
-                "name": "Garrett Gerloff",
-                "countryCode": "US",
-                "position": 13,
-                "races": 12,
-                "points": 33
-            },
-            {
-                "id": "zwu1mzq3yza",
-                "parentName": "Pata Prometeon Yamaha",
-                "name": "Jonathan Rea",
-                "countryCode": "GB",
-                "position": 14,
-                "races": 12,
-                "points": 31,
-                "poles": 2
-            },
-            {
-                "id": "ymmzzwzhzjc",
-                "parentName": "BARNI Spark Racing Team",
-                "name": "Nicholas Spinelli",
-                "countryCode": "IT",
-                "position": 15,
-                "races": 3,
-                "points": 25,
-                "wins": 1,
-                "podiums": 1
-            },
-            {
-                "id": "njkxytu1nme",
-                "parentName": "Team HRC",
-                "name": "Xavi Vierge",
-                "countryCode": "ES",
-                "position": 16,
-                "races": 12,
-                "points": 25
-            },
-            {
-                "id": "ywe0ztjlmdq",
-                "parentName": "Motocorsa Racing",
-                "name": "Michael Ruben Rinaldi",
-                "countryCode": "IT",
-                "position": 17,
-                "races": 12,
-                "points": 23
-            },
-            {
-                "id": "oda4nwvjzdm",
-                "parentName": "Bonovo Action BMW",
-                "name": "Scott Redding",
-                "countryCode": "GB",
-                "position": 18,
-                "races": 12,
-                "points": 23
-            },
-            {
-                "id": "owmxzgvjmte",
-                "parentName": "Team HRC",
-                "name": "Iker Lecuona",
-                "countryCode": "ES",
-                "position": 19,
-                "races": 6,
-                "points": 19
-            },
-            {
-                "id": "ngnjnzg1nde",
-                "parentName": "Petronas MIE Racing Honda Team",
-                "name": "Tarran Mackenzie",
-                "countryCode": "GB",
-                "position": 20,
-                "races": 12,
-                "points": 7
-            },
-            {
-                "id": "n2rhyzg1n2y",
-                "parentName": "GMT94 Yamaha",
-                "name": "Philipp Öttl",
-                "countryCode": "DE",
-                "position": 21,
-                "races": 12,
-                "points": 5
-            },
-            {
-                "id": "yzy5zdu4zdu",
-                "parentName": "Kawasaki Puccetti Racing",
-                "name": "Tito Rabat",
-                "countryCode": "ES",
-                "position": 22,
-                "races": 12,
-                "points": 4
-            },
-            {
-                "id": "ytiyytawyzy",
-                "parentName": "Aruba.it Racing - Ducati",
-                "name": "Michele Pirro",
-                "countryCode": "IT",
-                "position": 23,
-                "races": 3,
-                "points": 3
-            },
-            {
-                "id": "zjlkowi2zme",
-                "parentName": "Yamaha Motoxracing WorldSBK Team",
-                "name": "Bradley Ray",
-                "countryCode": "GB",
-                "position": 24,
-                "races": 12,
-                "points": 2
-            }
-        ]
-    },
-    {
-        "sport": "superbike",
-        "year": 2024,
-        "type": "team",
-        "entries": [
-            {
-                "id": "m2iwnwywyju",
-                "name": "Aruba.it Racing - Ducati",
-                "countryCode": "IT",
-                "position": 1,
-                "races": 12,
-                "points": 313,
-                "poles": 3,
-                "wins": 3,
-                "podiums": 16,
-                "fastestLaps": 7
-            },
-            {
-                "id": "owzjzjfkoda",
-                "name": "ROKiT BMW Motorrad WorldSBK Team",
-                "position": 2,
-                "races": 12,
-                "points": 245,
-                "poles": 6,
-                "wins": 6,
-                "podiums": 9,
-                "fastestLaps": 3
-            },
-            {
-                "id": "m2i3mwq2zdi",
-                "name": "Kawasaki Racing Team WorldSBK",
-                "countryCode": "JP",
-                "position": 3,
-                "races": 12,
-                "points": 164,
-                "poles": 1,
-                "wins": 2,
-                "podiums": 4
-            },
-            {
-                "id": "mmywmtzlowy",
-                "name": "Pata Prometeon Yamaha",
-                "position": 4,
-                "races": 12,
-                "points": 125,
-                "poles": 2,
-                "podiums": 2
-            },
-            {
-                "id": "otm5nju4y2q",
-                "name": "GYTR GRT Yamaha WorldSBK Team",
-                "position": 5,
-                "races": 12,
-                "points": 118,
-                "podiums": 1,
-                "fastestLaps": 1
-            },
-            {
-                "id": "ntm0mty1mgq",
-                "name": "BARNI Spark Racing Team",
-                "countryCode": "IT",
-                "position": 6,
-                "races": 12,
-                "points": 90,
-                "wins": 1,
-                "podiums": 2
-            },
-            {
-                "id": "ymfhy2rlnzg",
-                "name": "Team GO Eleven",
-                "countryCode": "IT",
-                "position": 7,
-                "races": 12,
-                "points": 83,
-                "podiums": 2
-            },
-            {
-                "id": "mgy2yjc3mzm",
-                "name": "Bonovo Action BMW",
-                "position": 8,
-                "races": 12,
-                "points": 56
-            },
-            {
-                "id": "mmmwmgewy2q",
-                "name": "Team HRC",
-                "countryCode": "JP",
-                "position": 9,
-                "races": 12,
-                "points": 44
-            },
-            {
-                "id": "nmm1njyynwu",
-                "name": "Elf Marc VDS Racing Team",
-                "countryCode": "BE",
-                "position": 10,
-                "races": 12,
-                "points": 34,
-                "fastestLaps": 1
-            },
-            {
-                "id": "mgeymgy0m2y",
-                "name": "Motocorsa Racing",
-                "position": 11,
-                "races": 12,
-                "points": 23
-            },
-            {
-                "id": "ytg2ntbknmm",
-                "name": "Petronas MIE Racing Honda Team",
-                "position": 12,
-                "races": 12,
-                "points": 7
-            },
-            {
-                "id": "ngq2yjyzotm",
-                "name": "GMT94 Yamaha",
-                "countryCode": "FR",
-                "position": 13,
-                "races": 12,
-                "points": 5
-            },
-            {
-                "id": "ztqznjawmti",
-                "name": "Kawasaki Puccetti Racing",
-                "countryCode": "IT",
-                "position": 14,
-                "races": 12,
-                "points": 4
-            },
-            {
-                "id": "nwqwmtjlm2q",
-                "name": "Yamaha Motoxracing WorldSBK Team",
-                "position": 15,
-                "races": 12,
-                "points": 2
-            }
-        ]
-    },
-    {
-        "sport": "moto2",
-        "year": 2024,
-        "type": "driver",
-        "entries": [
-            {
-                "id": "owzjyzm3ywi",
-                "parentName": "MT Helmets - MSI",
-                "name": "Sergio Garcia",
-                "countryCode": "ES",
-                "position": 1,
-                "races": 7,
-                "points": 122,
-                "poles": 1,
-                "wins": 2,
-                "podiums": 4
-            },
-            {
-                "id": "mtiymzg2n2m",
-                "parentName": "OnlyFans American Racing Team",
-                "name": "Joe Roberts",
-                "countryCode": "US",
-                "position": 2,
-                "races": 7,
-                "points": 115,
-                "poles": 1,
-                "wins": 1,
-                "podiums": 4,
-                "fastestLaps": 1
-            },
-            {
-                "id": "ndy2yzgxyjy",
-                "parentName": "MT Helmets - MSI",
-                "name": "Ai Ogura",
-                "countryCode": "JP",
-                "position": 3,
-                "races": 7,
-                "points": 99,
-                "wins": 1,
-                "podiums": 2
-            },
-            {
-                "id": "yzlhyjhlmdg",
-                "parentName": "MB Conveyors SpeedUp",
-                "name": "Alonso López González",
-                "countryCode": "ES",
-                "position": 4,
-                "races": 7,
-                "points": 79,
-                "wins": 1,
-                "podiums": 3,
-                "fastestLaps": 1
-            },
-            {
-                "id": "mddkzdqymji",
-                "parentName": "QJMOTOR Gresini Moto2",
-                "name": "Manuel González",
-                "countryCode": "ES",
-                "position": 5,
-                "races": 7,
-                "points": 66,
-                "poles": 1,
-                "podiums": 3
-            },
-            {
-                "id": "ndm2mtk5ztg",
-                "parentName": "MB Conveyors SpeedUp",
-                "name": "Fermín Aldeguer",
-                "countryCode": "ES",
-                "position": 6,
-                "races": 7,
-                "points": 63,
-                "poles": 1,
-                "wins": 1,
-                "podiums": 2,
-                "fastestLaps": 2
-            },
-            {
-                "id": "yjrkzgi4nte",
-                "parentName": "Fantic Racing",
-                "name": "Aròn Canet",
-                "countryCode": "ES",
-                "position": 7,
-                "races": 6,
-                "points": 58,
-                "poles": 3,
-                "wins": 1,
-                "podiums": 1,
-                "fastestLaps": 3
-            },
-            {
-                "id": "n2e2njcyzgi",
-                "parentName": "QJMOTOR Gresini Moto2",
-                "name": "Albert Arenas",
-                "countryCode": "ES",
-                "position": 8,
-                "races": 7,
-                "points": 48
-            },
-            {
-                "id": "ytvmzgvlzdy",
-                "parentName": "Yamaha VR46 Master Camp Team",
-                "name": "Jeremy Alcoba",
-                "countryCode": "ES",
-                "position": 9,
-                "races": 7,
-                "points": 43
-            },
-            {
-                "id": "mwu5ndkxy2m",
-                "parentName": "Red Bull KTM Ajo",
-                "name": "Celestino Vietti",
-                "countryCode": "IT",
-                "position": 10,
-                "races": 6,
-                "points": 38
-            },
-            {
-                "id": "mzizndeyngm",
-                "parentName": "OnlyFans American Racing Team",
-                "name": "Marcos Ramírez",
-                "countryCode": "ES",
-                "position": 11,
-                "races": 7,
-                "points": 35
-            },
-            {
-                "id": "zje4ntnlote",
-                "parentName": "Idemitsu Honda Team Asia",
-                "name": "Somkiat Chantra",
-                "countryCode": "TH",
-                "position": 12,
-                "races": 7,
-                "points": 35
-            },
-            {
-                "id": "ywy5oda0mjm",
-                "parentName": "Elf Marc VDS Racing Team",
-                "name": "Tony Arbolino",
-                "countryCode": "IT",
-                "position": 13,
-                "races": 7,
-                "points": 33
-            },
-            {
-                "id": "zwjkmgi2nzi",
-                "parentName": "RW-Idrofoglia Racing GP",
-                "name": "Barry Baltus",
-                "countryCode": "BE",
-                "position": 14,
-                "races": 7,
-                "points": 23,
-                "podiums": 1
-            },
-            {
-                "id": "owizy2uyogu",
-                "parentName": "CFMOTO Inde Aspar Team",
-                "name": "Jake Dixon",
-                "countryCode": "GB",
-                "position": 15,
-                "races": 5,
-                "points": 20,
-                "podiums": 1
-            },
-            {
-                "id": "zdywm2zkngq",
-                "parentName": "CFMOTO Inde Aspar Team",
-                "name": "Izan Guevara",
-                "countryCode": "ES",
-                "position": 16,
-                "races": 7,
-                "points": 18
-            },
-            {
-                "id": "ngq5mjc0odq",
-                "parentName": "Liqui Moly Husqvarna Intact GP",
-                "name": "Senna Agius",
-                "countryCode": "AU",
-                "position": 17,
-                "races": 7,
-                "points": 16
-            },
-            {
-                "id": "y2mzndezndm",
-                "parentName": "Elf Marc VDS Racing Team",
-                "name": "Filip Salac",
-                "countryCode": "CZ",
-                "position": 18,
-                "races": 6,
-                "points": 14
-            },
-            {
-                "id": "mgi3zjcyn2i",
-                "parentName": "RW-Idrofoglia Racing GP",
-                "name": "Zonta van den Goorbergh",
-                "countryCode": "NL",
-                "position": 19,
-                "races": 7,
-                "points": 13
-            },
-            {
-                "id": "otliywrhn2m",
-                "parentName": "Italtrans Racing Team",
-                "name": "Dennis Foggia",
-                "countryCode": "IT",
-                "position": 20,
-                "races": 7,
-                "points": 10
-            },
-            {
-                "id": "yta1zmewodg",
-                "parentName": "Italtrans Racing Team",
-                "name": "Diogo Moreira Nascimento",
-                "countryCode": "BR",
-                "position": 21,
-                "races": 7,
-                "points": 7
-            },
-            {
-                "id": "yjgxymuznjg",
-                "parentName": "KLINT Forward Factory Team",
-                "name": "Jorge Navarro",
-                "countryCode": "ES",
-                "position": 22,
-                "races": 3,
-                "points": 6
-            },
-            {
-                "id": "owe1ogiwzty",
-                "parentName": "Red Bull KTM Ajo",
-                "name": "Deniz Öncü",
-                "countryCode": "TR",
-                "position": 23,
-                "races": 7,
-                "points": 6
-            },
-            {
-                "id": "y2fkntgzntu",
-                "parentName": "Liqui Moly Husqvarna Intact GP",
-                "name": "Darryn Binder",
-                "countryCode": "ZA",
-                "position": 24,
-                "races": 7,
-                "points": 5
-            },
-            {
-                "id": "yte3mzfhnmy",
-                "parentName": "Pertamina Mandalika GAS UP Team",
-                "name": "Jaume Masiá",
-                "countryCode": "ES",
-                "position": 25,
-                "races": 7,
-                "points": 3
-            },
-            {
-                "id": "ztvimze3oda",
-                "parentName": "Pertamina Mandalika GAS UP Team",
-                "name": "Bo Bendsneyder",
-                "countryCode": "NL",
-                "position": 26,
-                "races": 4,
-                "points": 2
-            },
-            {
-                "id": "ogzjywq0zwu",
-                "parentName": "Idemitsu Honda Team Asia",
-                "name": "Mario Aji",
-                "countryCode": "ID",
-                "position": 27,
-                "races": 6,
-                "points": 2
-            },
-            {
-                "id": "otywngizmzc",
-                "parentName": "QJMOTOR Gresini Moto2",
-                "name": "Matteo Ferrari",
-                "countryCode": "IT",
-                "position": 28,
-                "races": 1,
-                "points": 1
-            },
-            {
-                "id": "odg3mwnkmdu",
-                "parentName": "Fantic Racing",
-                "name": "Xavier Cardelús",
-                "countryCode": "AD",
-                "position": 29,
-                "races": 7
-            },
-            {
-                "id": "ngq4ztllotq",
-                "parentName": "Team Ciatti Boscoscuro",
-                "name": "Mattia Pasini",
-                "countryCode": "IT",
-                "position": 30,
-                "races": 2
-            },
-            {
-                "id": "m2jmzjqwnty",
-                "parentName": "KLINT Forward Factory Team",
-                "name": "Álex Escrig",
-                "countryCode": "ES",
-                "position": 31,
-                "races": 6
-            },
-            {
-                "id": "nti0zwnkndu",
-                "parentName": "KLINT Forward Factory Team",
-                "name": "Xavier Artigas",
-                "countryCode": "ES",
-                "position": 32,
-                "races": 6
-            },
-            {
-                "id": "ogq0ntzlnda",
-                "parentName": "Pertamina Mandalika GAS UP Team",
-                "name": "Alexandre Munoz",
-                "countryCode": "ES",
-                "position": 33,
-                "races": 3
-            },
-            {
-                "id": "nwzinmnjnda",
-                "parentName": "Yamaha VR46 Master Camp Team",
-                "name": "Ayumu Sasaki",
-                "countryCode": "JP",
-                "position": 34,
-                "races": 5
-            }
-        ]
-    },
-    {
-        "sport": "moto2",
-        "year": 2024,
-        "type": "team",
-        "entries": [
-            {
-                "id": "ytkynjk3mmu",
-                "name": "MT Helmets - MSI",
-                "position": 1,
-                "races": 7,
-                "points": 221,
-                "poles": 1,
-                "wins": 3,
-                "podiums": 6
-            },
-            {
-                "id": "ywqznjk2ndg",
-                "name": "OnlyFans American Racing Team",
-                "countryCode": "US",
-                "position": 2,
-                "races": 7,
-                "points": 150,
-                "poles": 1,
-                "wins": 1,
-                "podiums": 4,
-                "fastestLaps": 1
-            },
-            {
-                "id": "nmm5ngzlmme",
-                "name": "Speed Up Racing",
-                "position": 3,
-                "points": 142
-            },
-            {
-                "id": "ngfly2exy2e",
-                "name": "QJMOTOR Gresini Moto2",
-                "countryCode": "IT",
-                "position": 4,
-                "races": 7,
-                "points": 114,
-                "poles": 1,
-                "podiums": 3
-            },
-            {
-                "id": "zde2ymuznda",
-                "name": "Fantic Racing",
-                "position": 5,
-                "races": 7,
-                "points": 58,
-                "poles": 3,
-                "wins": 1,
-                "podiums": 1,
-                "fastestLaps": 3
-            },
-            {
-                "id": "nmm1njyynwu",
-                "name": "Elf Marc VDS Racing Team",
-                "countryCode": "BE",
-                "position": 6,
-                "races": 7,
-                "points": 47
-            },
-            {
-                "id": "zgnhmzziyzk",
-                "name": "Red Bull KTM Ajo",
-                "countryCode": "FI",
-                "position": 7,
-                "races": 7,
-                "points": 44
-            },
-            {
-                "id": "zmy3ztiyymu",
-                "name": "Yamaha VR46 Master Camp Team",
-                "position": 8,
-                "races": 7,
-                "points": 43
-            },
-            {
-                "id": "mwu5yti4nji",
-                "name": "CFMOTO Aspar Team",
-                "countryCode": "ES",
-                "position": 9,
-                "races": 2,
-                "points": 38
-            },
-            {
-                "id": "mgnjmzy5zge",
-                "name": "Idemitsu Honda Team Asia",
-                "position": 10,
-                "races": 7,
-                "points": 37
-            },
-            {
-                "id": "zda0nwu4m2q",
-                "name": "RW-Idrofoglia Racing GP",
-                "position": 11,
-                "races": 7,
-                "points": 36,
-                "podiums": 1
-            },
-            {
-                "id": "mdc2zme0ymq",
-                "name": "Liqui Moly Husqvarna Intact GP",
-                "countryCode": "DE",
-                "position": 12,
-                "races": 7,
-                "points": 21
-            },
-            {
-                "id": "mmy0zdvmzmy",
-                "name": "Italtrans Racing Team",
-                "position": 13,
-                "races": 7,
-                "points": 17
-            },
-            {
-                "id": "otzknta0zta",
-                "name": "Pertamina Mandalika GAS UP Team",
-                "position": 14,
-                "races": 7,
-                "points": 5
-            },
-            {
-                "id": "zwyzngm1mty",
-                "name": "KLINT Forward Factory Team",
-                "countryCode": "CH",
-                "position": 15,
-                "races": 7
-            },
-            {
-                "id": "njmxzwu0mdm",
-                "name": "Team Ciatti Boscoscuro",
-                "position": 16,
-                "races": 2
-            },
-            {
-                "id": "ywmyyjzjyzq",
-                "name": "Sync SpeedUp",
-                "countryCode": "IT",
-                "races": 7,
-                "points": 25,
-                "poles": 1,
-                "wins": 2,
-                "podiums": 5,
-                "fastestLaps": 3
-            },
-            {
-                "id": "ywmyyjzjyzq",
-                "name": "Beta Tools - Speed Up Racing",
-                "countryCode": "IT",
-                "races": 7,
-                "points": 13,
-                "poles": 1,
-                "wins": 2,
-                "podiums": 5,
-                "fastestLaps": 3
-            }
-        ]
-    },
-    {
         "sport": "moto3",
         "year": 2024,
         "type": "driver",
         "entries": [
             {
                 "id": "mmmwmmm2mdk",
-                "parentName": "CFMOTO Valresa Aspar Team",
+                "parentName": "CFMOTO Gaviota Aspar Team",
                 "name": "David Alonso",
                 "countryCode": "ES",
                 "position": 1,
-                "races": 7,
-                "points": 143,
+                "races": 8,
+                "points": 154,
                 "poles": 4,
                 "wins": 5,
                 "podiums": 5,
-                "fastestLaps": 1
-            },
-            {
-                "id": "mje1y2niyje",
-                "parentName": "Red Bull GASGAS Tech3",
-                "name": "Daniel Holgado Miralles",
-                "countryCode": "ES",
-                "position": 2,
-                "races": 7,
-                "points": 106,
-                "poles": 1,
-                "wins": 1,
-                "podiums": 4,
                 "fastestLaps": 1
             },
             {
@@ -2020,11 +22,24 @@
                 "parentName": "Liqui Moly Husqvarna Intact GP",
                 "name": "Collin Veijer",
                 "countryCode": "NL",
-                "position": 3,
-                "races": 7,
-                "points": 95,
+                "position": 2,
+                "races": 8,
+                "points": 115,
                 "wins": 1,
-                "podiums": 3,
+                "podiums": 4,
+                "fastestLaps": 1
+            },
+            {
+                "id": "mje1y2niyje",
+                "parentName": "Red Bull GASGAS Tech3",
+                "name": "Daniel Holgado Miralles",
+                "countryCode": "ES",
+                "position": 3,
+                "races": 8,
+                "points": 111,
+                "poles": 1,
+                "wins": 1,
+                "podiums": 4,
                 "fastestLaps": 1
             },
             {
@@ -2033,10 +48,11 @@
                 "name": "Iván Ortolá",
                 "countryCode": "ES",
                 "position": 4,
-                "races": 7,
-                "points": 80,
+                "races": 8,
+                "points": 105,
                 "poles": 1,
-                "podiums": 3
+                "wins": 1,
+                "podiums": 4
             },
             {
                 "id": "njbmmtjkyti",
@@ -2044,9 +60,9 @@
                 "name": "David Muñoz",
                 "countryCode": "ES",
                 "position": 5,
-                "races": 7,
-                "points": 60,
-                "podiums": 1
+                "races": 8,
+                "points": 76,
+                "podiums": 2
             },
             {
                 "id": "mdq5owjlytm",
@@ -2054,28 +70,19 @@
                 "name": "Ryusei Yamanaka",
                 "countryCode": "JP",
                 "position": 6,
-                "races": 7,
-                "points": 56,
+                "races": 8,
+                "points": 62,
                 "podiums": 1,
                 "fastestLaps": 1
-            },
-            {
-                "id": "ztvkyjmyzgu",
-                "parentName": "BOE Motorsports",
-                "name": "Joel Kelso",
-                "countryCode": "AU",
-                "position": 7,
-                "races": 7,
-                "points": 46
             },
             {
                 "id": "ywy1otq3ogi",
                 "parentName": "Red Bull KTM Ajo",
                 "name": "José Rueda",
                 "countryCode": "ES",
-                "position": 8,
-                "races": 5,
-                "points": 45,
+                "position": 7,
+                "races": 6,
+                "points": 58,
                 "poles": 1,
                 "podiums": 2,
                 "fastestLaps": 1
@@ -2085,57 +92,48 @@
                 "parentName": "Leopard Racing",
                 "name": "Adrián Fernández",
                 "countryCode": "ES",
-                "position": 9,
-                "races": 7,
-                "points": 45
+                "position": 8,
+                "races": 8,
+                "points": 54,
+                "fastestLaps": 1
             },
             {
-                "id": "owizmtexytk",
-                "parentName": "Red Bull GASGAS Tech3",
-                "name": "Jacob Roulstone",
-                "countryCode": "ES",
-                "position": 10,
-                "races": 7,
-                "points": 42
+                "id": "ztvkyjmyzgu",
+                "parentName": "BOE Motorsports",
+                "name": "Joel Kelso",
+                "countryCode": "AU",
+                "position": 9,
+                "races": 8,
+                "points": 50
             },
             {
                 "id": "ymy0zgm4yjq",
                 "parentName": "Leopard Racing",
                 "name": "Ángel Piqueras",
                 "countryCode": "ES",
-                "position": 11,
-                "races": 7,
-                "points": 41,
+                "position": 10,
+                "races": 8,
+                "points": 49,
+                "poles": 1,
                 "podiums": 1
+            },
+            {
+                "id": "owizmtexytk",
+                "parentName": "Red Bull GASGAS Tech3",
+                "name": "Jacob Roulstone",
+                "countryCode": "ES",
+                "position": 11,
+                "races": 8,
+                "points": 44
             },
             {
                 "id": "yzq4ytuyodk",
-                "parentName": "CFMOTO Valresa Aspar Team",
+                "parentName": "CFMOTO Gaviota Aspar Team",
                 "name": "Joel Esteban",
                 "countryCode": "AU",
                 "position": 12,
-                "races": 7,
-                "points": 35,
-                "fastestLaps": 1
-            },
-            {
-                "id": "odhjzdaxzje",
-                "parentName": "Honda Team Asia",
-                "name": "Taiyo Furusato",
-                "countryCode": "JP",
-                "position": 13,
-                "races": 7,
-                "points": 31,
-                "podiums": 1
-            },
-            {
-                "id": "nji0njixmda",
-                "parentName": "Liqui Moly Husqvarna Intact GP",
-                "name": "Tatsuki Suzuki",
-                "countryCode": "JP",
-                "position": 14,
-                "races": 7,
-                "points": 31,
+                "races": 8,
+                "points": 36,
                 "fastestLaps": 1
             },
             {
@@ -2143,18 +141,38 @@
                 "parentName": "LEVELUP - MTA",
                 "name": "Stefano Nepa",
                 "countryCode": "IT",
-                "position": 15,
-                "races": 7,
-                "points": 29
+                "position": 13,
+                "races": 8,
+                "points": 36
+            },
+            {
+                "id": "odhjzdaxzje",
+                "parentName": "Honda Team Asia",
+                "name": "Taiyo Furusato",
+                "countryCode": "JP",
+                "position": 14,
+                "races": 8,
+                "points": 34,
+                "podiums": 1
             },
             {
                 "id": "ogvjmdyzotm",
                 "parentName": "SIC58 Squadra Corse",
                 "name": "Luca Lunetta",
                 "countryCode": "IT",
+                "position": 15,
+                "races": 8,
+                "points": 34
+            },
+            {
+                "id": "nji0njixmda",
+                "parentName": "Liqui Moly Husqvarna Intact GP",
+                "name": "Tatsuki Suzuki",
+                "countryCode": "JP",
                 "position": 16,
-                "races": 7,
-                "points": 24
+                "races": 8,
+                "points": 31,
+                "fastestLaps": 1
             },
             {
                 "id": "mzqyotexnze",
@@ -2162,7 +180,7 @@
                 "name": "Riccardo Rossi",
                 "countryCode": "IT",
                 "position": 17,
-                "races": 7,
+                "races": 8,
                 "points": 16
             },
             {
@@ -2171,7 +189,7 @@
                 "name": "Nicola Carraro",
                 "countryCode": "IT",
                 "position": 18,
-                "races": 7,
+                "races": 8,
                 "points": 15
             },
             {
@@ -2180,7 +198,7 @@
                 "name": "Matteo Bertelle",
                 "countryCode": "IT",
                 "position": 19,
-                "races": 7,
+                "races": 8,
                 "points": 14
             },
             {
@@ -2189,7 +207,7 @@
                 "name": "Filippo Farioli",
                 "countryCode": "IT",
                 "position": 20,
-                "races": 7,
+                "races": 8,
                 "points": 11
             },
             {
@@ -2198,7 +216,7 @@
                 "name": "Scott Ogden",
                 "countryCode": "GB",
                 "position": 21,
-                "races": 7,
+                "races": 8,
                 "points": 5
             },
             {
@@ -2207,7 +225,7 @@
                 "name": "Xabi Zurutuza",
                 "countryCode": "ES",
                 "position": 22,
-                "races": 5,
+                "races": 6,
                 "points": 3
             },
             {
@@ -2225,7 +243,7 @@
                 "name": "Noah Dettwiler",
                 "countryCode": "CH",
                 "position": 24,
-                "races": 7,
+                "races": 8,
                 "points": 2
             },
             {
@@ -2234,7 +252,7 @@
                 "name": "David Almansa",
                 "countryCode": "ES",
                 "position": 25,
-                "races": 4,
+                "races": 5,
                 "points": 2
             },
             {
@@ -2243,7 +261,7 @@
                 "name": "Joshua Whatley",
                 "countryCode": "GB",
                 "position": 26,
-                "races": 7
+                "races": 8
             },
             {
                 "id": "ztrmoduymdi",
@@ -2251,7 +269,7 @@
                 "name": "Tatchakorn Buasri",
                 "countryCode": "TH",
                 "position": 27,
-                "races": 6
+                "races": 7
             },
             {
                 "id": "nzbjm2u4mgm",
@@ -2282,29 +300,30 @@
                 "countryCode": "ES",
                 "position": 1,
                 "races": 1,
-                "points": 178,
+                "points": 190,
                 "wins": 1,
                 "podiums": 1
+            },
+            {
+                "id": "ytkynjk3mmu",
+                "name": "MT Helmets - MSI",
+                "position": 2,
+                "races": 8,
+                "points": 167,
+                "poles": 1,
+                "wins": 1,
+                "podiums": 5,
+                "fastestLaps": 1
             },
             {
                 "id": "yzcyodixzgy",
                 "name": "Red Bull GASGAS Tech3",
                 "countryCode": "FR",
-                "position": 2,
-                "races": 7,
-                "points": 148,
+                "position": 3,
+                "races": 8,
+                "points": 155,
                 "poles": 1,
                 "wins": 1,
-                "podiums": 4,
-                "fastestLaps": 1
-            },
-            {
-                "id": "ytkynjk3mmu",
-                "name": "MT Helmets - MSI",
-                "position": 3,
-                "races": 7,
-                "points": 136,
-                "poles": 1,
                 "podiums": 4,
                 "fastestLaps": 1
             },
@@ -2313,36 +332,38 @@
                 "name": "Liqui Moly Husqvarna Intact GP",
                 "countryCode": "DE",
                 "position": 4,
-                "races": 7,
-                "points": 126,
+                "races": 8,
+                "points": 146,
                 "wins": 1,
-                "podiums": 3,
+                "podiums": 4,
                 "fastestLaps": 2
             },
             {
                 "id": "yjvkzme5odk",
                 "name": "BOE Motorsports",
                 "position": 5,
-                "races": 7,
-                "points": 106,
-                "podiums": 1
+                "races": 8,
+                "points": 126,
+                "podiums": 2
             },
             {
                 "id": "zgi0odq5yjq",
                 "name": "Leopard Racing",
                 "countryCode": "LU",
                 "position": 6,
-                "races": 7,
-                "points": 86,
-                "podiums": 1
+                "races": 8,
+                "points": 103,
+                "poles": 1,
+                "podiums": 1,
+                "fastestLaps": 1
             },
             {
                 "id": "zgnhmzziyzk",
                 "name": "Red Bull KTM Ajo",
                 "countryCode": "FI",
                 "position": 7,
-                "races": 7,
-                "points": 51,
+                "races": 8,
+                "points": 64,
                 "poles": 1,
                 "podiums": 2,
                 "fastestLaps": 1
@@ -2351,24 +372,24 @@
                 "id": "ntqwnme1yme",
                 "name": "LEVELUP - MTA",
                 "position": 8,
-                "races": 7,
-                "points": 44
+                "races": 8,
+                "points": 51
             },
             {
                 "id": "nta3otnlnde",
                 "name": "SIC58 Squadra Corse",
                 "countryCode": "IT",
                 "position": 9,
-                "races": 7,
-                "points": 35
+                "races": 8,
+                "points": 45
             },
             {
                 "id": "yzbmogy5ogi",
                 "name": "Honda Team Asia",
                 "countryCode": "JP",
                 "position": 10,
-                "races": 7,
-                "points": 31,
+                "races": 8,
+                "points": 34,
                 "podiums": 1
             },
             {
@@ -2376,7 +397,7 @@
                 "name": "CIP Green Power",
                 "countryCode": "FR",
                 "position": 11,
-                "races": 7,
+                "races": 8,
                 "points": 18
             },
             {
@@ -2384,14 +405,14 @@
                 "name": "Rivacold Snipers Team",
                 "countryCode": "IT",
                 "position": 12,
-                "races": 7,
+                "races": 8,
                 "points": 16
             },
             {
                 "id": "mdu1ytixyzm",
                 "name": "MLav Racing",
                 "position": 13,
-                "races": 7,
+                "races": 8,
                 "points": 5
             }
         ]
