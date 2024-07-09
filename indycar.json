@@ -1,91 +1,5 @@
 [
     {
-        "id": "mteyodyyng",
-        "type": "indycar",
-        "index": "9 / 17",
-        "title": "Grand Prix of Lexington",
-        "start": "2024-07-05T19:20:00+00:00",
-        "end": "2024-07-07T19:40:00+00:00",
-        "timezone": "America/Indiana/Indianapolis",
-        "latitude": "40.688992",
-        "longitude": "-82.635663",
-        "trackName": "Mid-Ohio Sports Car Course",
-        "countryCode": "US",
-        "cityName": "Lexington",
-        "steps": [
-            {
-                "id": "mteyodyyoa",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2024-07-05T19:20:00+00:00",
-                "startLocal": "2024-07-05T15:20:00-04:00",
-                "end": "2024-07-05T20:35:00+00:00",
-                "endLocal": "2024-07-05T16:35:00-04:00",
-                "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
-                "weatherRainProbability": 0,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "mteyodyzma",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2024-07-06T14:50:00+00:00",
-                "startLocal": "2024-07-06T10:50:00-04:00",
-                "end": "2024-07-06T15:50:00+00:00",
-                "endLocal": "2024-07-06T11:50:00-04:00",
-                "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "weatherRainProbability": 0,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "mteyody0ng",
-                "title": "Qualification",
-                "type": "qualifying",
-                "index": null,
-                "start": "2024-07-06T19:00:00+00:00",
-                "startLocal": "2024-07-06T15:00:00-04:00",
-                "end": "2024-07-06T20:30:00+00:00",
-                "endLocal": "2024-07-06T16:30:00-04:00",
-                "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.2,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "mteyody1ng",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2024-07-07T17:45:00+00:00",
-                "startLocal": "2024-07-07T13:45:00-04:00",
-                "end": "2024-07-07T19:40:00+00:00",
-                "endLocal": "2024-07-07T15:40:00-04:00",
-                "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "weatherRainProbability": 0,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "C35.api.telerama.fr"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "id": "mteyoti1oa",
         "type": "indycar",
         "index": "10 / 17",
@@ -109,8 +23,8 @@
                 "end": "2024-07-12T22:00:00+00:00",
                 "endLocal": "2024-07-12T17:00:00-05:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
@@ -125,9 +39,9 @@
                 "end": "2024-07-13T20:45:00+00:00",
                 "endLocal": "2024-07-13T15:45:00-05:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -141,9 +55,9 @@
                 "end": "2024-07-14T02:00:00+00:00",
                 "endLocal": "2024-07-13T21:00:00-05:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 803,
+                "weatherIcon": "04n",
+                "weatherRainProbability": 0,
                 "isNightEvent": true,
                 "channels": []
             }
@@ -173,9 +87,9 @@
                 "end": "2024-07-13T20:45:00+00:00",
                 "endLocal": "2024-07-13T15:45:00-05:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -279,7 +193,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    }
+                ]
             }
         ]
     },
