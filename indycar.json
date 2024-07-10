@@ -5,7 +5,7 @@
         "index": "10 / 17",
         "title": "Grand Prix of Iowa Race 1",
         "start": "2024-07-12T20:30:00+00:00",
-        "end": "2024-07-14T02:00:00+00:00",
+        "end": "2024-07-14T01:45:00+00:00",
         "timezone": "America/Chicago",
         "latitude": "41.677089",
         "longitude": "-93.011502",
@@ -23,8 +23,8 @@
                 "end": "2024-07-12T22:00:00+00:00",
                 "endLocal": "2024-07-12T17:00:00-05:00",
                 "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
@@ -39,8 +39,8 @@
                 "end": "2024-07-13T20:45:00+00:00",
                 "endLocal": "2024-07-13T15:45:00-05:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
@@ -52,13 +52,13 @@
                 "index": null,
                 "start": "2024-07-14T00:00:00+00:00",
                 "startLocal": "2024-07-13T19:00:00-05:00",
-                "end": "2024-07-14T02:00:00+00:00",
-                "endLocal": "2024-07-13T21:00:00-05:00",
+                "end": "2024-07-14T01:45:00+00:00",
+                "endLocal": "2024-07-13T20:45:00-05:00",
                 "hasTime": true,
                 "weatherCondition": 803,
-                "weatherIcon": "04n",
+                "weatherIcon": "04d",
                 "weatherRainProbability": 0,
-                "isNightEvent": true,
+                "isNightEvent": false,
                 "channels": []
             }
         ]
@@ -87,8 +87,8 @@
                 "end": "2024-07-13T20:45:00+00:00",
                 "endLocal": "2024-07-13T15:45:00-05:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
@@ -103,9 +103,9 @@
                 "end": "2024-07-14T19:30:00+00:00",
                 "endLocal": "2024-07-14T14:30:00-05:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -148,28 +148,34 @@
                 "channels": []
             },
             {
-                "id": "mtezmdu0mg",
-                "title": "Qualification",
-                "type": "qualifying",
-                "index": null,
-                "start": "2024-07-20T18:50:00+00:00",
-                "startLocal": "2024-07-20T14:50:00-04:00",
-                "end": "2024-07-20T20:20:00+00:00",
-                "endLocal": "2024-07-20T16:20:00-04:00",
+                "id": "mtezmduyng",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2024-07-20T14:30:00+00:00",
+                "startLocal": "2024-07-20T10:30:00-04:00",
+                "end": "2024-07-30T15:30:00+00:00",
+                "endLocal": "2024-07-30T11:30:00-04:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    }
+                ]
             },
             {
-                "id": "mtezmduyng",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2024-07-20T19:00:00+00:00",
-                "startLocal": "2024-07-20T15:00:00-04:00",
+                "id": "mtezmdu0mg",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-07-20T18:45:00+00:00",
+                "startLocal": "2024-07-20T14:45:00-04:00",
                 "end": "2024-07-20T20:15:00+00:00",
                 "endLocal": "2024-07-20T16:15:00-04:00",
                 "hasTime": true,
