@@ -10,11 +10,11 @@
                 "name": "Max Verstappen",
                 "countryCode": "NL",
                 "position": 1,
-                "races": 11,
-                "points": 237,
+                "races": 12,
+                "points": 255,
                 "poles": 8,
                 "wins": 7,
-                "podiums": 8,
+                "podiums": 9,
                 "fastestLaps": 2,
                 "hatTricks": 2
             },
@@ -24,11 +24,11 @@
                 "name": "Lando Norris",
                 "countryCode": "GB",
                 "position": 2,
-                "races": 11,
-                "points": 156,
+                "races": 12,
+                "points": 171,
                 "poles": 1,
                 "wins": 1,
-                "podiums": 6,
+                "podiums": 7,
                 "fastestLaps": 1
             },
             {
@@ -37,7 +37,7 @@
                 "name": "Charles Leclerc",
                 "countryCode": "MC",
                 "position": 3,
-                "races": 11,
+                "races": 12,
                 "points": 150,
                 "poles": 1,
                 "wins": 1,
@@ -50,31 +50,32 @@
                 "name": "Carlos Sainz",
                 "countryCode": "ES",
                 "position": 4,
-                "races": 10,
-                "points": 135,
-                "wins": 1,
-                "podiums": 5
-            },
-            {
-                "id": "mza2ztblztc",
-                "parentName": "Oracle Red Bull Racing",
-                "name": "Sergio Pérez",
-                "countryCode": "MX",
-                "position": 5,
                 "races": 11,
-                "points": 118,
-                "podiums": 4
+                "points": 146,
+                "wins": 1,
+                "podiums": 5,
+                "fastestLaps": 1
             },
             {
                 "id": "nmqyzdq2ztg",
                 "parentName": "McLaren Formula 1 Team",
                 "name": "Oscar Piastri",
                 "countryCode": "AU",
-                "position": 6,
-                "races": 11,
-                "points": 112,
+                "position": 5,
+                "races": 12,
+                "points": 124,
                 "podiums": 2,
                 "fastestLaps": 1
+            },
+            {
+                "id": "mza2ztblztc",
+                "parentName": "Oracle Red Bull Racing",
+                "name": "Sergio Pérez",
+                "countryCode": "MX",
+                "position": 6,
+                "races": 12,
+                "points": 118,
+                "podiums": 4
             },
             {
                 "id": "ogywmzkzntg",
@@ -82,9 +83,9 @@
                 "name": "George Russell",
                 "countryCode": "GB",
                 "position": 7,
-                "races": 11,
+                "races": 12,
                 "points": 111,
-                "poles": 1,
+                "poles": 2,
                 "wins": 1,
                 "podiums": 2,
                 "fastestLaps": 1
@@ -95,9 +96,10 @@
                 "name": "Lewis Hamilton",
                 "countryCode": "GB",
                 "position": 8,
-                "races": 11,
-                "points": 85,
-                "podiums": 1,
+                "races": 12,
+                "points": 110,
+                "wins": 1,
+                "podiums": 2,
                 "fastestLaps": 2
             },
             {
@@ -106,36 +108,36 @@
                 "name": "Fernando Alonso",
                 "countryCode": "ES",
                 "position": 9,
-                "races": 11,
-                "points": 41,
+                "races": 12,
+                "points": 45,
                 "fastestLaps": 2
-            },
-            {
-                "id": "ntu5mmjjmtk",
-                "parentName": "Visa Cash App RB F1 Team",
-                "name": "Yuki Tsunoda",
-                "countryCode": "JP",
-                "position": 10,
-                "races": 11,
-                "points": 19
             },
             {
                 "id": "mzmwntiym2m",
                 "parentName": "Aston Martin Aramco Formula One Team",
                 "name": "Lance Stroll",
                 "countryCode": "CA",
-                "position": 11,
-                "races": 11,
-                "points": 17
+                "position": 10,
+                "races": 12,
+                "points": 23
             },
             {
                 "id": "nmezowe5mta",
                 "parentName": "MoneyGram Haas F1 Team",
                 "name": "Nico Hülkenberg",
                 "countryCode": "DE",
+                "position": 11,
+                "races": 12,
+                "points": 22
+            },
+            {
+                "id": "ntu5mmjjmtk",
+                "parentName": "Visa Cash App RB F1 Team",
+                "name": "Yuki Tsunoda",
+                "countryCode": "JP",
                 "position": 12,
-                "races": 11,
-                "points": 14
+                "races": 12,
+                "points": 20
             },
             {
                 "id": "y2zhytllnzy",
@@ -143,7 +145,7 @@
                 "name": "Daniel Ricciardo",
                 "countryCode": "AU",
                 "position": 13,
-                "races": 11,
+                "races": 12,
                 "points": 11
             },
             {
@@ -170,26 +172,26 @@
                 "name": "Kevin Magnussen",
                 "countryCode": "DK",
                 "position": 16,
-                "races": 11,
+                "races": 12,
                 "points": 5
-            },
-            {
-                "id": "yzjkmzexmzi",
-                "parentName": "BWT Alpine F1 Team",
-                "name": "Esteban Ocon",
-                "countryCode": "FR",
-                "position": 17,
-                "races": 11,
-                "points": 3
             },
             {
                 "id": "mme2yzqxoty",
                 "parentName": "Williams Racing",
                 "name": "Alexander Albon",
                 "countryCode": "TH",
+                "position": 17,
+                "races": 12,
+                "points": 4
+            },
+            {
+                "id": "yzjkmzexmzi",
+                "parentName": "BWT Alpine F1 Team",
+                "name": "Esteban Ocon",
+                "countryCode": "FR",
                 "position": 18,
-                "races": 11,
-                "points": 2
+                "races": 12,
+                "points": 3
             },
             {
                 "id": "ogfjmdy5mzu",
@@ -197,6 +199,14 @@
                 "name": "Zhou Guanyu",
                 "countryCode": "CN",
                 "position": 19,
+                "races": 12
+            },
+            {
+                "id": "mzc3mdfln2e",
+                "parentName": "Williams Racing",
+                "name": "Logan Sargeant",
+                "countryCode": "US",
+                "position": 20,
                 "races": 11
             },
             {
@@ -204,16 +214,8 @@
                 "parentName": "Stake F1 Team Kick Sauber",
                 "name": "Valtteri Bottas",
                 "countryCode": "FI",
-                "position": 20,
-                "races": 11
-            },
-            {
-                "id": "mzc3mdfln2e",
-                "parentName": "Williams Racing",
-                "name": "Logan Sargeant",
-                "countryCode": "US",
                 "position": 21,
-                "races": 10
+                "races": 12
             }
         ]
     },
@@ -227,7 +229,7 @@
                 "name": "Oracle Red Bull Racing",
                 "countryCode": "AT",
                 "position": 1,
-                "points": 355,
+                "points": 373,
                 "wins": 7
             },
             {
@@ -235,7 +237,7 @@
                 "name": "Scuderia Ferrari",
                 "countryCode": "IT",
                 "position": 2,
-                "points": 291,
+                "points": 302,
                 "wins": 2
             },
             {
@@ -243,7 +245,7 @@
                 "name": "McLaren Formula 1 Team",
                 "countryCode": "GB",
                 "position": 3,
-                "points": 268,
+                "points": 295,
                 "wins": 1
             },
             {
@@ -251,28 +253,28 @@
                 "name": "Mercedes-AMG Petronas Formula One Team",
                 "countryCode": "DE",
                 "position": 4,
-                "points": 196,
-                "wins": 1
+                "points": 221,
+                "wins": 2
             },
             {
                 "id": "n2uxzgywzdu",
                 "name": "Aston Martin Aramco Formula One Team",
                 "countryCode": "GB",
                 "position": 5,
-                "points": 58
+                "points": 68
             },
             {
                 "id": "yzm1otzlnjq",
                 "name": "Visa Cash App RB F1 Team",
                 "position": 6,
-                "points": 30
+                "points": 31
             },
             {
                 "id": "ymixzjyzyzu",
                 "name": "MoneyGram Haas F1 Team",
                 "countryCode": "US",
                 "position": 7,
-                "points": 19
+                "points": 27
             },
             {
                 "id": "ywzlotg3mge",
@@ -286,7 +288,7 @@
                 "name": "Williams Racing",
                 "countryCode": "GB",
                 "position": 9,
-                "points": 2
+                "points": 4
             },
             {
                 "id": "ntmwytqzntc",

@@ -5,49 +5,74 @@
         "type": "driver",
         "entries": [
             {
-                "id": "yjvjotkymge",
-                "parentName": "Hitech Pulse-Eight",
-                "name": "Luke Browning",
-                "countryCode": "GB",
-                "position": 1,
-                "races": 12,
-                "points": 106,
-                "poles": 1,
-                "wins": 2,
-                "podiums": 3,
-                "fastestLaps": 2
-            },
-            {
                 "id": "zdiwnzgynmi",
                 "parentName": "Prema Racing",
                 "name": "Gabriele Minì",
                 "countryCode": "IT",
-                "position": 2,
-                "races": 12,
-                "points": 95,
+                "position": 1,
+                "races": 14,
+                "points": 119,
                 "poles": 1,
                 "wins": 1,
-                "podiums": 3
+                "podiums": 4,
+                "fastestLaps": 1
+            },
+            {
+                "id": "nguzymnkmgi",
+                "parentName": "Prema Racing",
+                "name": "Arvid Lindblad",
+                "countryCode": "GB",
+                "position": 2,
+                "races": 14,
+                "points": 113,
+                "wins": 4,
+                "podiums": 5,
+                "fastestLaps": 1
+            },
+            {
+                "id": "yjvjotkymge",
+                "parentName": "Hitech Pulse-Eight",
+                "name": "Luke Browning",
+                "countryCode": "GB",
+                "position": 3,
+                "races": 14,
+                "points": 112,
+                "poles": 2,
+                "wins": 2,
+                "podiums": 3,
+                "fastestLaps": 2
             },
             {
                 "id": "mwe2owrjnty",
                 "parentName": "Trident",
                 "name": "Leonardo Fornaroli",
                 "countryCode": "IT",
-                "position": 3,
-                "races": 12,
-                "points": 86,
+                "position": 4,
+                "races": 14,
+                "points": 93,
                 "poles": 1,
                 "podiums": 4,
                 "fastestLaps": 1
+            },
+            {
+                "id": "n2exn2flmtm",
+                "parentName": "Campos Racing",
+                "name": "Oliver Goethe",
+                "countryCode": "DK",
+                "position": 5,
+                "races": 14,
+                "points": 85,
+                "wins": 1,
+                "podiums": 3,
+                "fastestLaps": 2
             },
             {
                 "id": "ndfjyjhingm",
                 "parentName": "Prema Racing",
                 "name": "Dino Beganovic",
                 "countryCode": "SE",
-                "position": 4,
-                "races": 12,
+                "position": 6,
+                "races": 14,
                 "points": 80,
                 "poles": 1,
                 "wins": 1,
@@ -59,98 +84,86 @@
                 "parentName": "ART Grand Prix",
                 "name": "Christian Mansell",
                 "countryCode": "AU",
-                "position": 5,
-                "races": 12,
+                "position": 7,
+                "races": 14,
                 "points": 78,
                 "poles": 1,
                 "podiums": 4
-            },
-            {
-                "id": "nguzymnkmgi",
-                "parentName": "Prema Racing",
-                "name": "Arvid Lindblad",
-                "countryCode": "GB",
-                "position": 6,
-                "races": 12,
-                "points": 77,
-                "wins": 2,
-                "podiums": 3
-            },
-            {
-                "id": "n2exn2flmtm",
-                "parentName": "Campos Racing",
-                "name": "Oliver Goethe",
-                "countryCode": "DK",
-                "position": 7,
-                "races": 12,
-                "points": 77,
-                "wins": 1,
-                "podiums": 3,
-                "fastestLaps": 2
-            },
-            {
-                "id": "zjhhowe1nmm",
-                "parentName": "MP Motorsport",
-                "name": "Tim Tramnitz",
-                "countryCode": "DE",
-                "position": 8,
-                "races": 12,
-                "points": 47,
-                "podiums": 3
-            },
-            {
-                "id": "njzjmtq1nza",
-                "parentName": "ART Grand Prix",
-                "name": "Laurens Van Hoepen",
-                "position": 9,
-                "races": 12,
-                "points": 47,
-                "poles": 2,
-                "podiums": 3,
-                "fastestLaps": 1
             },
             {
                 "id": "zdi2ztu5yjm",
                 "parentName": "ART Grand Prix",
                 "name": "Nikola Tsolov",
                 "countryCode": "BG",
-                "position": 10,
-                "races": 12,
-                "points": 44,
+                "position": 8,
+                "races": 14,
+                "points": 50,
                 "poles": 1,
                 "wins": 2,
                 "podiums": 2,
                 "fastestLaps": 1
             },
             {
-                "id": "zdfjyjllowu",
-                "parentName": "Campos Racing",
-                "name": "Mari Boya",
-                "countryCode": "ES",
-                "position": 11,
-                "races": 12,
-                "points": 40,
-                "wins": 1,
-                "podiums": 1
+                "id": "njzjmtq1nza",
+                "parentName": "ART Grand Prix",
+                "name": "Laurens Van Hoepen",
+                "position": 9,
+                "races": 14,
+                "points": 49,
+                "poles": 2,
+                "podiums": 3,
+                "fastestLaps": 1
+            },
+            {
+                "id": "zjhhowe1nmm",
+                "parentName": "MP Motorsport",
+                "name": "Tim Tramnitz",
+                "countryCode": "DE",
+                "position": 10,
+                "races": 14,
+                "points": 47,
+                "podiums": 3
             },
             {
                 "id": "mza0ytiwnzi",
                 "parentName": "Trident",
                 "name": "Sami Meguetounif",
                 "countryCode": "FR",
-                "position": 12,
-                "races": 12,
-                "points": 39,
+                "position": 11,
+                "races": 14,
+                "points": 42,
                 "wins": 1,
                 "podiums": 1
+            },
+            {
+                "id": "zdfjyjllowu",
+                "parentName": "Campos Racing",
+                "name": "Mari Boya",
+                "countryCode": "ES",
+                "position": 12,
+                "races": 14,
+                "points": 40,
+                "wins": 1,
+                "podiums": 1
+            },
+            {
+                "id": "zdmzzmi5yzg",
+                "parentName": "Van Amersfoort Racing",
+                "name": "Noel Leon",
+                "countryCode": "MX",
+                "position": 13,
+                "races": 14,
+                "points": 34,
+                "poles": 1,
+                "podiums": 2
             },
             {
                 "id": "mjeyyzc4mjm",
                 "parentName": "MP Motorsport",
                 "name": "Alex Dunne",
                 "countryCode": "IE",
-                "position": 13,
-                "races": 12,
+                "position": 14,
+                "races": 14,
                 "points": 29,
                 "podiums": 1
             },
@@ -159,7 +172,7 @@
                 "parentName": "Hitech Pulse-Eight",
                 "name": "Martinius Stenshorne",
                 "countryCode": "NO",
-                "position": 14,
+                "position": 15,
                 "races": 12,
                 "points": 26,
                 "poles": 1,
@@ -168,13 +181,13 @@
                 "fastestLaps": 1
             },
             {
-                "id": "zdmzzmi5yzg",
-                "parentName": "Van Amersfoort Racing",
-                "name": "Noel Leon",
-                "countryCode": "MX",
-                "position": 15,
-                "races": 12,
-                "points": 24,
+                "id": "nmzlzmy0zde",
+                "parentName": "Rodin Motorsport",
+                "name": "Callum Voisin",
+                "countryCode": "CH",
+                "position": 16,
+                "races": 14,
+                "points": 22,
                 "podiums": 1
             },
             {
@@ -182,8 +195,8 @@
                 "parentName": "Trident",
                 "name": "Santiago Ramos",
                 "countryCode": "MX",
-                "position": 16,
-                "races": 12,
+                "position": 17,
+                "races": 14,
                 "points": 18,
                 "poles": 2
             },
@@ -192,8 +205,17 @@
                 "parentName": "Campos Racing",
                 "name": "Sebastian Montoya",
                 "countryCode": "CO",
-                "position": 17,
-                "races": 12,
+                "position": 18,
+                "races": 14,
+                "points": 16
+            },
+            {
+                "id": "mtc3mguymzu",
+                "parentName": "Van Amersfoort Racing",
+                "name": "Tom Smith",
+                "countryCode": "AU",
+                "position": 19,
+                "races": 14,
                 "points": 12
             },
             {
@@ -201,17 +223,46 @@
                 "parentName": "Jenzer Motorsport",
                 "name": "Charlie Wurz",
                 "countryCode": "AT",
-                "position": 18,
-                "races": 12,
+                "position": 20,
+                "races": 14,
                 "points": 10
+            },
+            {
+                "id": "n2jizjmyogy",
+                "parentName": "Rodin Motorsport",
+                "name": "Piotr Wisnicki",
+                "countryCode": "PL",
+                "position": 21,
+                "races": 14,
+                "points": 10,
+                "fastestLaps": 1
+            },
+            {
+                "id": "ztawngiyytq",
+                "parentName": "Jenzer Motorsport",
+                "name": "Matías Zagazeta",
+                "countryCode": "PE",
+                "position": 22,
+                "races": 12,
+                "points": 8,
+                "podiums": 1
             },
             {
                 "id": "ytaynjrizgq",
                 "parentName": "Rodin Motorsport",
                 "name": "Joseph Loake",
                 "countryCode": "GB",
-                "position": 19,
-                "races": 12,
+                "position": 23,
+                "races": 14,
+                "points": 8
+            },
+            {
+                "id": "ythjyti0y2q",
+                "parentName": "PHM AIX Racing",
+                "name": "Nikita Bedrin",
+                "countryCode": "RU",
+                "position": 24,
+                "races": 14,
                 "points": 8
             },
             {
@@ -219,27 +270,18 @@
                 "parentName": "MP Motorsport",
                 "name": "Kacper Sztuka",
                 "countryCode": "PL",
-                "position": 20,
-                "races": 12,
+                "position": 25,
+                "races": 14,
                 "points": 6,
                 "poles": 1
-            },
-            {
-                "id": "ythjyti0y2q",
-                "parentName": "PHM AIX Racing",
-                "name": "Nikita Bedrin",
-                "countryCode": "RU",
-                "position": 21,
-                "races": 12,
-                "points": 6
             },
             {
                 "id": "n2nhnjblzwq",
                 "parentName": "Jenzer Motorsport",
                 "name": "Maxwell Esterson",
                 "countryCode": "US",
-                "position": 22,
-                "races": 12,
+                "position": 26,
+                "races": 14,
                 "points": 5
             },
             {
@@ -247,72 +289,46 @@
                 "parentName": "Van Amersfoort Racing",
                 "name": "Sophia Flörsch",
                 "countryCode": "DE",
-                "position": 23,
-                "races": 12
-            },
-            {
-                "id": "nmzlzmy0zde",
-                "parentName": "Rodin Motorsport",
-                "name": "Callum Voisin",
-                "countryCode": "CH",
-                "position": 24,
-                "races": 12
-            },
-            {
-                "id": "mtc3mguymzu",
-                "parentName": "Van Amersfoort Racing",
-                "name": "Tom Smith",
-                "countryCode": "AU",
-                "position": 25,
-                "races": 12
-            },
-            {
-                "id": "ztawngiyytq",
-                "parentName": "Jenzer Motorsport",
-                "name": "Matías Zagazeta",
-                "countryCode": "PE",
-                "position": 26,
-                "races": 10
+                "position": 27,
+                "races": 14
             },
             {
                 "id": "n2rkzjrjnwe",
                 "parentName": "Hitech Pulse-Eight",
                 "name": "Cian Shields",
                 "countryCode": "GB",
-                "position": 27,
-                "races": 12
+                "position": 28,
+                "races": 14
             },
             {
                 "id": "zwe3zjbimmm",
                 "parentName": "PHM AIX Racing",
                 "name": "Josh Dufek",
                 "countryCode": "CH",
-                "position": 28,
-                "races": 12
+                "position": 29,
+                "races": 14
             },
             {
                 "id": "otbknjy2nje",
                 "parentName": "PHM AIX Racing",
                 "name": "Tasanapol Inthraphuvasak",
                 "countryCode": "TH",
-                "position": 29,
-                "races": 12
+                "position": 30,
+                "races": 14
             },
             {
-                "id": "n2jizjmyogy",
-                "parentName": "Rodin Motorsport",
-                "name": "Piotr Wisnicki",
-                "countryCode": "PL",
-                "position": 30,
-                "races": 12,
-                "fastestLaps": 1
+                "id": "ymu3otvlmty",
+                "parentName": "Hitech Pulse-Eight",
+                "name": "James Wharton",
+                "position": 31,
+                "races": 2
             },
             {
                 "id": "nzriode3zda",
                 "parentName": "Jenzer Motorsport",
                 "name": "James Hedley",
                 "countryCode": "GB",
-                "position": 31,
+                "position": 32,
                 "races": 2
             }
         ]
@@ -327,20 +343,20 @@
                 "name": "Prema Racing",
                 "countryCode": "IT",
                 "position": 1,
-                "races": 12,
-                "points": 252,
+                "races": 14,
+                "points": 312,
                 "poles": 2,
-                "wins": 4,
-                "podiums": 8,
-                "fastestLaps": 3
+                "wins": 6,
+                "podiums": 11,
+                "fastestLaps": 5
             },
             {
                 "id": "njg4m2y0yzm",
                 "name": "ART Grand Prix",
                 "countryCode": "DE",
                 "position": 2,
-                "races": 12,
-                "points": 169,
+                "races": 14,
+                "points": 177,
                 "poles": 4,
                 "wins": 2,
                 "podiums": 9,
@@ -351,42 +367,42 @@
                 "name": "Trident",
                 "countryCode": "IT",
                 "position": 3,
-                "races": 12,
-                "points": 143,
+                "races": 14,
+                "points": 153,
                 "poles": 3,
                 "wins": 1,
                 "podiums": 5,
                 "fastestLaps": 1
             },
             {
-                "id": "ztgxnzliowe",
-                "name": "Hitech Pulse-Eight",
-                "countryCode": "GB",
-                "position": 4,
-                "races": 12,
-                "points": 132,
-                "poles": 2,
-                "wins": 3,
-                "podiums": 5,
-                "fastestLaps": 3
-            },
-            {
                 "id": "zwuzzjcxnwe",
                 "name": "Campos Racing",
                 "countryCode": "ES",
-                "position": 5,
-                "races": 12,
-                "points": 129,
+                "position": 4,
+                "races": 14,
+                "points": 141,
                 "wins": 2,
                 "podiums": 4,
                 "fastestLaps": 2
+            },
+            {
+                "id": "ztgxnzliowe",
+                "name": "Hitech Pulse-Eight",
+                "countryCode": "GB",
+                "position": 5,
+                "races": 14,
+                "points": 138,
+                "poles": 3,
+                "wins": 3,
+                "podiums": 5,
+                "fastestLaps": 3
             },
             {
                 "id": "nmy1zjjjnza",
                 "name": "MP Motorsport",
                 "countryCode": "NL",
                 "position": 6,
-                "races": 12,
+                "races": 14,
                 "points": 82,
                 "poles": 1,
                 "podiums": 4
@@ -396,32 +412,35 @@
                 "name": "Van Amersfoort Racing",
                 "countryCode": "NL",
                 "position": 7,
-                "races": 12,
-                "points": 24,
-                "podiums": 1
+                "races": 14,
+                "points": 46,
+                "poles": 1,
+                "podiums": 2
+            },
+            {
+                "id": "zwm2odkxzgu",
+                "name": "Rodin Motorsport",
+                "position": 8,
+                "races": 14,
+                "points": 40,
+                "podiums": 1,
+                "fastestLaps": 1
             },
             {
                 "id": "yzu5yzixmdi",
                 "name": "Jenzer Motorsport",
                 "countryCode": "CH",
-                "position": 8,
-                "races": 12,
-                "points": 15
-            },
-            {
-                "id": "zwm2odkxzgu",
-                "name": "Rodin Motorsport",
                 "position": 9,
-                "races": 12,
-                "points": 8,
-                "fastestLaps": 1
+                "races": 14,
+                "points": 23,
+                "podiums": 1
             },
             {
                 "id": "mwjjztdhogu",
                 "name": "PHM AIX Racing",
                 "position": 10,
-                "races": 12,
-                "points": 6
+                "races": 14,
+                "points": 8
             }
         ]
     }
