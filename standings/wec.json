@@ -10,7 +10,7 @@
                 "countryCode": "DE",
                 "position": 1,
                 "races": 5,
-                "points": 99,
+                "points": 117,
                 "poles": 1,
                 "wins": 11,
                 "podiums": 25,
@@ -22,7 +22,7 @@
                 "countryCode": "FR",
                 "position": 1,
                 "races": 5,
-                "points": 99,
+                "points": 117,
                 "poles": 1,
                 "wins": 11,
                 "podiums": 25,
@@ -34,7 +34,7 @@
                 "countryCode": "BE",
                 "position": 1,
                 "races": 5,
-                "points": 99,
+                "points": 117,
                 "poles": 1,
                 "wins": 11,
                 "podiums": 25,
@@ -46,7 +46,7 @@
                 "countryCode": "IT",
                 "position": 2,
                 "races": 5,
-                "points": 90,
+                "points": 98,
                 "poles": 1,
                 "wins": 7,
                 "podiums": 13,
@@ -58,7 +58,7 @@
                 "countryCode": "ES",
                 "position": 2,
                 "races": 5,
-                "points": 90,
+                "points": 98,
                 "poles": 1,
                 "wins": 7,
                 "podiums": 13,
@@ -70,7 +70,7 @@
                 "countryCode": "DK",
                 "position": 2,
                 "races": 5,
-                "points": 90,
+                "points": 98,
                 "poles": 1,
                 "wins": 7,
                 "podiums": 13,
@@ -82,7 +82,7 @@
                 "countryCode": "JP",
                 "position": 3,
                 "races": 5,
-                "points": 82,
+                "points": 95,
                 "poles": 1,
                 "wins": 1,
                 "podiums": 13,
@@ -94,17 +94,83 @@
                 "countryCode": "NL",
                 "position": 3,
                 "races": 5,
-                "points": 82,
+                "points": 95,
                 "poles": 1,
                 "wins": 1,
                 "podiums": 13,
                 "fastestLaps": 36
             },
             {
+                "parentName": "Porsche Penske Motorsport",
+                "name": "Frédéric Makowiecki",
+                "countryCode": "FR",
+                "position": 4,
+                "races": 5,
+                "points": 71,
+                "poles": 2,
+                "podiums": 14,
+                "fastestLaps": 35
+            },
+            {
+                "parentName": "Porsche Penske Motorsport",
+                "name": "Matt Campbell",
+                "countryCode": "AU",
+                "position": 4,
+                "races": 5,
+                "points": 71,
+                "poles": 2,
+                "podiums": 14,
+                "fastestLaps": 35
+            },
+            {
+                "parentName": "Porsche Penske Motorsport",
+                "name": "Michael Christensen",
+                "countryCode": "DK",
+                "position": 4,
+                "races": 5,
+                "points": 71,
+                "poles": 2,
+                "podiums": 14,
+                "fastestLaps": 35
+            },
+            {
+                "parentName": "Toyota Gazoo Racing",
+                "name": "Brendon Hartley",
+                "countryCode": "NZ",
+                "position": 5,
+                "races": 5,
+                "points": 69,
+                "wins": 10,
+                "podiums": 18,
+                "fastestLaps": 34
+            },
+            {
+                "parentName": "Toyota Gazoo Racing",
+                "name": "Ryo Hirakawa",
+                "countryCode": "JP",
+                "position": 5,
+                "races": 5,
+                "points": 69,
+                "wins": 10,
+                "podiums": 18,
+                "fastestLaps": 34
+            },
+            {
+                "parentName": "Toyota Gazoo Racing",
+                "name": "Sébastien Buemi",
+                "countryCode": "CH",
+                "position": 5,
+                "races": 5,
+                "points": 69,
+                "wins": 10,
+                "podiums": 18,
+                "fastestLaps": 34
+            },
+            {
                 "parentName": "Hertz Team JOTA",
                 "name": "Callum Ilott",
                 "countryCode": "GB",
-                "position": 4,
+                "position": 6,
                 "races": 5,
                 "points": 60,
                 "wins": 1,
@@ -115,74 +181,11 @@
                 "parentName": "Hertz Team JOTA",
                 "name": "Will Stevens",
                 "countryCode": "GB",
-                "position": 4,
+                "position": 6,
                 "races": 5,
                 "points": 60,
                 "wins": 1,
                 "podiums": 9,
-                "fastestLaps": 34
-            },
-            {
-                "parentName": "Porsche Penske Motorsport",
-                "name": "Frédéric Makowiecki",
-                "countryCode": "FR",
-                "position": 5,
-                "races": 5,
-                "points": 56,
-                "poles": 2,
-                "podiums": 14,
-                "fastestLaps": 35
-            },
-            {
-                "parentName": "Porsche Penske Motorsport",
-                "name": "Matt Campbell",
-                "countryCode": "AU",
-                "position": 5,
-                "races": 5,
-                "points": 56,
-                "poles": 2,
-                "podiums": 14,
-                "fastestLaps": 35
-            },
-            {
-                "parentName": "Porsche Penske Motorsport",
-                "name": "Michael Christensen",
-                "countryCode": "DK",
-                "position": 5,
-                "races": 5,
-                "points": 56,
-                "poles": 2,
-                "podiums": 14,
-                "fastestLaps": 35
-            },
-            {
-                "parentName": "Ferrari AF Corse",
-                "name": "Alessandro Pier Guidi",
-                "countryCode": "IT",
-                "position": 6,
-                "races": 5,
-                "points": 48,
-                "podiums": 5,
-                "fastestLaps": 34
-            },
-            {
-                "parentName": "Ferrari AF Corse",
-                "name": "Antonio Giovinazzi",
-                "countryCode": "IT",
-                "position": 6,
-                "races": 5,
-                "points": 48,
-                "podiums": 5,
-                "fastestLaps": 34
-            },
-            {
-                "parentName": "Ferrari AF Corse",
-                "name": "James Calado",
-                "countryCode": "GB",
-                "position": 6,
-                "races": 5,
-                "points": 48,
-                "podiums": 5,
                 "fastestLaps": 34
             },
             {
@@ -191,43 +194,40 @@
                 "countryCode": "GB",
                 "position": 7,
                 "races": 4,
-                "points": 46,
+                "points": 59,
                 "poles": 1,
                 "wins": 1,
                 "podiums": 1,
                 "fastestLaps": 11
             },
             {
-                "parentName": "Toyota Gazoo Racing",
-                "name": "Brendon Hartley",
-                "countryCode": "NZ",
+                "parentName": "Ferrari AF Corse",
+                "name": "Alessandro Pier Guidi",
+                "countryCode": "IT",
                 "position": 8,
                 "races": 5,
-                "points": 44,
-                "wins": 10,
-                "podiums": 18,
+                "points": 58,
+                "podiums": 5,
                 "fastestLaps": 34
             },
             {
-                "parentName": "Toyota Gazoo Racing",
-                "name": "Ryo Hirakawa",
-                "countryCode": "JP",
+                "parentName": "Ferrari AF Corse",
+                "name": "Antonio Giovinazzi",
+                "countryCode": "IT",
                 "position": 8,
                 "races": 5,
-                "points": 44,
-                "wins": 10,
-                "podiums": 18,
+                "points": 58,
+                "podiums": 5,
                 "fastestLaps": 34
             },
             {
-                "parentName": "Toyota Gazoo Racing",
-                "name": "Sébastien Buemi",
-                "countryCode": "CH",
+                "parentName": "Ferrari AF Corse",
+                "name": "James Calado",
+                "countryCode": "GB",
                 "position": 8,
                 "races": 5,
-                "points": 44,
-                "wins": 10,
-                "podiums": 18,
+                "points": 58,
+                "podiums": 5,
                 "fastestLaps": 34
             },
             {
@@ -382,40 +382,40 @@
                 "fastestLaps": 34
             },
             {
-                "parentName": "Alpine Endurance Team",
-                "name": "Ferdinand Habsburg",
-                "countryCode": "AT",
-                "position": 17,
-                "races": 3,
-                "points": 9,
-                "podiums": 1,
-                "fastestLaps": 34
-            },
-            {
                 "parentName": "Hertz Team JOTA",
                 "name": "Jenson Button",
                 "countryCode": "GB",
-                "position": 18,
+                "position": 17,
                 "races": 5,
-                "points": 4,
+                "points": 10,
                 "fastestLaps": 34
             },
             {
                 "parentName": "Hertz Team JOTA",
                 "name": "Oliver Rasmussen",
                 "countryCode": "DK",
-                "position": 18,
+                "position": 17,
                 "races": 5,
-                "points": 4,
+                "points": 10,
                 "fastestLaps": 34
             },
             {
                 "parentName": "Hertz Team JOTA",
                 "name": "Philip Hanson",
                 "countryCode": "GB",
-                "position": 18,
+                "position": 17,
                 "races": 5,
-                "points": 4,
+                "points": 10,
+                "fastestLaps": 34
+            },
+            {
+                "parentName": "Alpine Endurance Team",
+                "name": "Ferdinand Habsburg",
+                "countryCode": "AT",
+                "position": 18,
+                "races": 3,
+                "points": 9,
+                "podiums": 1,
                 "fastestLaps": 34
             },
             {
@@ -424,7 +424,7 @@
                 "countryCode": "DK",
                 "position": 19,
                 "races": 5,
-                "points": 3,
+                "points": 7,
                 "wins": 1,
                 "podiums": 8,
                 "fastestLaps": 34
@@ -435,7 +435,18 @@
                 "countryCode": "CH",
                 "position": 19,
                 "races": 5,
-                "points": 3,
+                "points": 7,
+                "wins": 1,
+                "podiums": 8,
+                "fastestLaps": 34
+            },
+            {
+                "parentName": "Peugeot TotalEnergies",
+                "name": "Jean-Eric Vergne",
+                "countryCode": "FR",
+                "position": 20,
+                "races": 4,
+                "points": 6,
                 "wins": 1,
                 "podiums": 8,
                 "fastestLaps": 34
@@ -444,27 +455,43 @@
                 "parentName": "Proton Competition",
                 "name": "Harry Tincknell",
                 "countryCode": "GB",
-                "position": 20,
+                "position": 21,
                 "races": 3,
                 "points": 3,
                 "fastestLaps": 34
             },
             {
-                "parentName": "Peugeot TotalEnergies",
-                "name": "Jean-Eric Vergne",
-                "countryCode": "FR",
-                "position": 21,
-                "races": 4,
+                "parentName": "BMW M Team WRT",
+                "name": "Dries Vanthoor",
+                "countryCode": "BE",
+                "position": 22,
+                "races": 5,
                 "points": 2,
-                "wins": 1,
-                "podiums": 8,
+                "fastestLaps": 34
+            },
+            {
+                "parentName": "BMW M Team WRT",
+                "name": "Marco Wittmann",
+                "countryCode": "DE",
+                "position": 22,
+                "races": 5,
+                "points": 2,
+                "fastestLaps": 34
+            },
+            {
+                "parentName": "BMW M Team WRT",
+                "name": "Raffaele Marciello",
+                "countryCode": "CH",
+                "position": 22,
+                "races": 5,
+                "points": 2,
                 "fastestLaps": 34
             },
             {
                 "parentName": "Lamborghini Iron Lynx",
                 "name": "Daniil Kvyat",
                 "countryCode": "RU",
-                "position": 22,
+                "position": 23,
                 "races": 5,
                 "points": 2,
                 "fastestLaps": 34
@@ -473,7 +500,7 @@
                 "parentName": "Lamborghini Iron Lynx",
                 "name": "Mirko Bortolotti",
                 "countryCode": "IT",
-                "position": 22,
+                "position": 23,
                 "races": 5,
                 "points": 2,
                 "fastestLaps": 34
@@ -482,17 +509,10 @@
                 "parentName": "Lamborghini Iron Lynx",
                 "name": "Edoardo Mortara",
                 "countryCode": "IT",
-                "position": 23,
+                "position": 24,
                 "races": 4,
                 "points": 2,
                 "fastestLaps": 34
-            },
-            {
-                "parentName": "Alpine Endurance Team",
-                "name": "Jules Gounon",
-                "countryCode": "FR",
-                "position": 24,
-                "races": 2
             },
             {
                 "parentName": "Alpine Endurance Team",
@@ -500,6 +520,7 @@
                 "countryCode": "FR",
                 "position": 25,
                 "races": 5,
+                "points": 1,
                 "fastestLaps": 34
             },
             {
@@ -508,6 +529,7 @@
                 "countryCode": "DE",
                 "position": 25,
                 "races": 5,
+                "points": 1,
                 "fastestLaps": 34
             },
             {
@@ -516,31 +538,15 @@
                 "countryCode": "FR",
                 "position": 25,
                 "races": 5,
+                "points": 1,
                 "fastestLaps": 34
             },
             {
-                "parentName": "BMW M Team WRT",
-                "name": "Dries Vanthoor",
-                "countryCode": "BE",
+                "parentName": "Alpine Endurance Team",
+                "name": "Jules Gounon",
+                "countryCode": "FR",
                 "position": 26,
-                "races": 5,
-                "fastestLaps": 34
-            },
-            {
-                "parentName": "BMW M Team WRT",
-                "name": "Marco Wittmann",
-                "countryCode": "DE",
-                "position": 26,
-                "races": 5,
-                "fastestLaps": 34
-            },
-            {
-                "parentName": "BMW M Team WRT",
-                "name": "Raffaele Marciello",
-                "countryCode": "CH",
-                "position": 26,
-                "races": 5,
-                "fastestLaps": 34
+                "races": 2
             },
             {
                 "parentName": "Peugeot TotalEnergies",
@@ -615,38 +621,38 @@
             {
                 "name": "Porsche",
                 "position": 1,
-                "points": 108,
+                "points": 126,
                 "wins": 2
-            },
-            {
-                "name": "Ferrari",
-                "position": 2,
-                "points": 99,
-                "wins": 1
             },
             {
                 "name": "Toyota",
                 "countryCode": "JP",
+                "position": 2,
+                "points": 122,
+                "wins": 2
+            },
+            {
+                "name": "Ferrari",
                 "position": 3,
-                "points": 96,
+                "points": 109,
                 "wins": 1
             },
             {
                 "name": "Alpine",
                 "countryCode": "FR",
                 "position": 4,
-                "points": 23
+                "points": 25
             },
             {
                 "name": "BMW",
                 "position": 5,
-                "points": 21
+                "points": 25
             },
             {
                 "name": "Peugeot",
                 "countryCode": "FR",
                 "position": 6,
-                "points": 14
+                "points": 20
             },
             {
                 "name": "Cadillac",
