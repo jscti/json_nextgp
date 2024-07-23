@@ -1,161 +1,5 @@
 [
     {
-        "id": "mtexmtawnq",
-        "type": "f1",
-        "index": "13 / 24",
-        "title": "Hungarian Grand Prix",
-        "start": "2024-07-19T11:30:00+00:00",
-        "end": "2024-07-21T15:00:00+00:00",
-        "timezone": "Europe/Budapest",
-        "latitude": "47.579768",
-        "longitude": "19.247789",
-        "trackName": "Hungaroring",
-        "countryCode": "HU",
-        "cityName": "Budapest",
-        "steps": [
-            {
-                "id": "mtexmtawnw",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2024-07-19T11:30:00+00:00",
-                "startLocal": "2024-07-19T13:30:00+02:00",
-                "end": "2024-07-19T12:30:00+00:00",
-                "endLocal": "2024-07-19T14:30:00+02:00",
-                "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
-                "weatherRainProbability": 0,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "C35.api.telerama.fr"
-                    }
-                ]
-            },
-            {
-                "id": "mtexmtawoq",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2024-07-19T15:00:00+00:00",
-                "startLocal": "2024-07-19T17:00:00+02:00",
-                "end": "2024-07-19T16:00:00+00:00",
-                "endLocal": "2024-07-19T18:00:00+02:00",
-                "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "weatherRainProbability": 0,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "C35.api.telerama.fr"
-                    }
-                ]
-            },
-            {
-                "id": "mtexmtaxmq",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2024-07-20T10:30:00+00:00",
-                "startLocal": "2024-07-20T12:30:00+02:00",
-                "end": "2024-07-20T11:30:00+00:00",
-                "endLocal": "2024-07-20T13:30:00+02:00",
-                "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
-                "weatherRainProbability": 0,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "C35.api.telerama.fr"
-                    }
-                ]
-            },
-            {
-                "id": "mtexmtaxmw",
-                "title": "Qualification",
-                "type": "qualifying",
-                "index": null,
-                "start": "2024-07-20T14:00:00+00:00",
-                "startLocal": "2024-07-20T16:00:00+02:00",
-                "end": "2024-07-20T15:00:00+00:00",
-                "endLocal": "2024-07-20T17:00:00+02:00",
-                "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "C35.api.telerama.fr"
-                    },
-                    {
-                        "countryCode": "CH",
-                        "channelName": "RTS 2",
-                        "channelCode": "C183.api.telerama.fr"
-                    },
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": "tipik.be"
-                    }
-                ]
-            },
-            {
-                "id": "mtexmta5mq",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2024-07-21T13:00:00+00:00",
-                "startLocal": "2024-07-21T15:00:00+02:00",
-                "end": "2024-07-21T15:00:00+00:00",
-                "endLocal": "2024-07-21T17:00:00+02:00",
-                "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+",
-                        "channelCode": "C34.api.telerama.fr"
-                    },
-                    {
-                        "countryCode": "FR",
-                        "channelName": "C8",
-                        "channelCode": "C445.api.telerama.fr"
-                    },
-                    {
-                        "countryCode": "CH",
-                        "channelName": "RTS 2",
-                        "channelCode": "C183.api.telerama.fr"
-                    },
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": "tipik.be"
-                    },
-                    {
-                        "countryCode": "BE",
-                        "channelName": "La Trois",
-                        "channelCode": "la-trois.be"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "id": "mtexmti5mw",
         "type": "f1",
         "index": "14 / 24",
@@ -211,9 +55,9 @@
                 "end": "2024-07-26T16:00:00+00:00",
                 "endLocal": "2024-07-26T18:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.75,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -243,9 +87,9 @@
                 "end": "2024-07-27T11:30:00+00:00",
                 "endLocal": "2024-07-27T13:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -275,9 +119,9 @@
                 "end": "2024-07-27T15:00:00+00:00",
                 "endLocal": "2024-07-27T17:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 501,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 1,
                 "isNightEvent": false,
                 "channels": [
                     {
