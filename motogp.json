@@ -2,7 +2,7 @@
     {
         "id": "mte0mzk2ng",
         "type": "motogp",
-        "index": "10 / 19",
+        "index": "10 / 20",
         "title": "British Grand Prix",
         "start": "2024-08-02T09:45:00+00:00",
         "end": "2024-08-04T13:00:00+00:00",
@@ -23,11 +23,17 @@
                 "end": "2024-08-02T10:30:00+00:00",
                 "endLocal": "2024-08-02T11:30:00+01:00",
                 "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "mte0mzk3ma",
@@ -39,11 +45,17 @@
                 "end": "2024-08-02T15:00:00+00:00",
                 "endLocal": "2024-08-02T16:00:00+01:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "mte0mzk3mg",
@@ -57,7 +69,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherRainProbability": 0.25,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -73,7 +85,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherRainProbability": 0.25,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -88,9 +100,9 @@
                 "end": "2024-08-03T14:30:00+00:00",
                 "endLocal": "2024-08-03T15:30:00+01:00",
                 "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.2,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -104,9 +116,9 @@
                 "end": "2024-08-04T13:00:00+00:00",
                 "endLocal": "2024-08-04T14:00:00+01:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -121,7 +133,7 @@
     {
         "id": "mte0ndi4ng",
         "type": "motogp",
-        "index": "11 / 19",
+        "index": "11 / 20",
         "title": "Motorrad Grand Prix von Osterreich",
         "start": "2024-08-16T08:45:00+00:00",
         "end": "2024-08-18T13:00:00+00:00",
@@ -234,7 +246,7 @@
     {
         "id": "mte0ndywng",
         "type": "motogp",
-        "index": "12 / 19",
+        "index": "12 / 20",
         "title": "Gran Premio de Aragon",
         "start": "2024-08-30T07:55:00+00:00",
         "end": "2024-09-01T13:00:00+00:00",
@@ -347,7 +359,7 @@
     {
         "id": "mte0ntiyma",
         "type": "motogp",
-        "index": "13 / 19",
+        "index": "13 / 20",
         "title": "Gran Premio di San Marino",
         "start": "2024-09-06T08:45:00+00:00",
         "end": "2024-09-08T13:00:00+00:00",
@@ -458,9 +470,24 @@
         ]
     },
     {
+        "id": "mtixota3mq",
+        "type": "motogp",
+        "index": "14 / 20",
+        "title": "Emilia-Romagna Grand Prix",
+        "start": "2024-09-20T12:45:00+00:00",
+        "end": "2024-09-22T18:00:00+00:00",
+        "timezone": "Europe/Rome",
+        "latitude": "43.961364",
+        "longitude": "12.683075",
+        "trackName": "Misano World Circuit",
+        "countryCode": "IT",
+        "cityName": "Misano Adriatico",
+        "steps": []
+    },
+    {
         "id": "mte0ntg2ma",
         "type": "motogp",
-        "index": "14 / 19",
+        "index": "15 / 20",
         "title": "Grand Prix of Indonesia",
         "start": "2024-09-27T02:45:00+00:00",
         "end": "2024-09-29T07:00:00+00:00",
@@ -573,7 +600,7 @@
     {
         "id": "mte0nje4ma",
         "type": "motogp",
-        "index": "15 / 19",
+        "index": "16 / 20",
         "title": "Grand Prix of Japan",
         "start": "2024-10-04T01:45:00+00:00",
         "end": "2024-10-06T07:00:00+00:00",
@@ -686,7 +713,7 @@
     {
         "id": "mte0njuwma",
         "type": "motogp",
-        "index": "16 / 19",
+        "index": "17 / 20",
         "title": "Australian Motorcycle Grand Prix",
         "start": "2024-10-17T23:45:00+00:00",
         "end": "2024-10-20T04:00:00+00:00",
@@ -799,7 +826,7 @@
     {
         "id": "mte0njgyma",
         "type": "motogp",
-        "index": "17 / 19",
+        "index": "18 / 20",
         "title": "Thailand Grand Prix",
         "start": "2024-10-25T03:45:00+00:00",
         "end": "2024-10-27T08:00:00+00:00",
@@ -912,7 +939,7 @@
     {
         "id": "mte0nze0ma",
         "type": "motogp",
-        "index": "18 / 19",
+        "index": "19 / 20",
         "title": "Grand Prix of Malaysia",
         "start": "2024-11-01T02:45:00+00:00",
         "end": "2024-11-03T07:00:00+00:00",
@@ -1025,7 +1052,7 @@
     {
         "id": "mte0nzq2ma",
         "type": "motogp",
-        "index": "19 / 19",
+        "index": "20 / 20",
         "title": "Gran Premio de la Comunitat Valenciana",
         "start": "2024-11-15T09:45:00+00:00",
         "end": "2024-11-17T15:00:00+00:00",
