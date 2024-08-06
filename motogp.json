@@ -1,154 +1,5 @@
 [
     {
-        "id": "mte0mzk2ng",
-        "type": "motogp",
-        "index": "10 / 20",
-        "title": "British Grand Prix",
-        "start": "2024-08-02T09:45:00+00:00",
-        "end": "2024-08-04T13:00:00+00:00",
-        "timezone": "Europe/London",
-        "latitude": "52.078346",
-        "longitude": "-1.023273",
-        "trackName": "Silverstone Circuit",
-        "countryCode": "GB",
-        "cityName": "Silverstone",
-        "steps": [
-            {
-                "id": "mte0mzk2oa",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2024-08-02T09:45:00+00:00",
-                "startLocal": "2024-08-02T10:45:00+01:00",
-                "end": "2024-08-02T10:30:00+00:00",
-                "endLocal": "2024-08-02T11:30:00+01:00",
-                "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
-                "weatherRainProbability": 0,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": "canal-plus-sport360.fr"
-                    }
-                ]
-            },
-            {
-                "id": "mte0mzk3ma",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2024-08-02T14:00:00+00:00",
-                "startLocal": "2024-08-02T15:00:00+01:00",
-                "end": "2024-08-02T15:00:00+00:00",
-                "endLocal": "2024-08-02T16:00:00+01:00",
-                "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": "canal-plus-sport360.fr"
-                    }
-                ]
-            },
-            {
-                "id": "mte0mzk3mg",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2024-08-03T09:10:00+00:00",
-                "startLocal": "2024-08-03T10:10:00+01:00",
-                "end": "2024-08-03T09:40:00+00:00",
-                "endLocal": "2024-08-03T10:40:00+01:00",
-                "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": "canal-plus-sport360.fr"
-                    }
-                ]
-            },
-            {
-                "id": "mte0mzk3ng",
-                "title": "Qualifying",
-                "type": "qualifying",
-                "index": null,
-                "start": "2024-08-03T09:50:00+00:00",
-                "startLocal": "2024-08-03T10:50:00+01:00",
-                "end": "2024-08-03T10:30:00+00:00",
-                "endLocal": "2024-08-03T11:30:00+01:00",
-                "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": "canal-plus-sport360.fr"
-                    }
-                ]
-            },
-            {
-                "id": "mte0mzk4mg",
-                "title": "Sprint",
-                "subtitle": "Sprint",
-                "type": "race",
-                "index": 1,
-                "start": "2024-08-03T14:00:00+00:00",
-                "startLocal": "2024-08-03T15:00:00+01:00",
-                "end": "2024-08-03T14:30:00+00:00",
-                "endLocal": "2024-08-03T15:30:00+01:00",
-                "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": "canal-plus-sport360.fr"
-                    }
-                ]
-            },
-            {
-                "id": "mte0nda4na",
-                "title": "Race",
-                "type": "race",
-                "index": 2,
-                "start": "2024-08-04T12:00:00+00:00",
-                "startLocal": "2024-08-04T13:00:00+01:00",
-                "end": "2024-08-04T13:00:00+00:00",
-                "endLocal": "2024-08-04T14:00:00+01:00",
-                "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+",
-                        "channelCode": "C34.api.telerama.fr"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "id": "mte0ndi4ng",
         "type": "motogp",
         "index": "11 / 20",
@@ -292,6 +143,11 @@
                         "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": "tipik.be"
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+",
+                        "channelCode": "C34.api.telerama.fr"
                     }
                 ]
             }
