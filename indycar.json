@@ -17,7 +17,7 @@
                 "id": "mtezmte1ng",
                 "title": "Practice 1",
                 "type": "practice",
-                "index": null,
+                "index": 1,
                 "start": "2024-08-16T16:45:00+00:00",
                 "startLocal": "2024-08-16T11:45:00-05:00",
                 "end": "2024-08-16T17:45:00+00:00",
@@ -43,6 +43,22 @@
                 "weatherIcon": "02d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
+                "channels": []
+            },
+            {
+                "id": "mtezmte1oa",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2024-08-17T00:30:00+00:00",
+                "startLocal": "2024-08-16T19:30:00-05:00",
+                "end": "2024-08-17T01:30:00+00:00",
+                "endLocal": "2024-08-16T20:30:00-05:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": true,
                 "channels": []
             },
             {
