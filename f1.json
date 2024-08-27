@@ -1,151 +1,5 @@
 [
     {
-        "id": "mtexmtu4mq",
-        "type": "f1",
-        "index": "15 / 24",
-        "title": "Dutch Grand Prix",
-        "start": "2024-08-23T10:30:00+00:00",
-        "end": "2024-08-25T15:00:00+00:00",
-        "timezone": "Europe/Amsterdam",
-        "latitude": "52.388535",
-        "longitude": "4.53958",
-        "trackName": "Circuit Park Zandvoort",
-        "countryCode": "NL",
-        "cityName": "Zandvoort",
-        "steps": [
-            {
-                "id": "mtexmtu4mw",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2024-08-23T10:30:00+00:00",
-                "startLocal": "2024-08-23T12:30:00+02:00",
-                "end": "2024-08-23T11:30:00+00:00",
-                "endLocal": "2024-08-23T13:30:00+02:00",
-                "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 1,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "C35.api.telerama.fr"
-                    }
-                ]
-            },
-            {
-                "id": "mtexmtu4nq",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2024-08-23T14:00:00+00:00",
-                "startLocal": "2024-08-23T16:00:00+02:00",
-                "end": "2024-08-23T15:00:00+00:00",
-                "endLocal": "2024-08-23T17:00:00+02:00",
-                "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
-                "weatherRainProbability": 0,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "C35.api.telerama.fr"
-                    }
-                ]
-            },
-            {
-                "id": "mtexmtu4nw",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2024-08-24T09:30:00+00:00",
-                "startLocal": "2024-08-24T11:30:00+02:00",
-                "end": "2024-08-24T10:30:00+00:00",
-                "endLocal": "2024-08-24T12:30:00+02:00",
-                "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.95,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "C35.api.telerama.fr"
-                    }
-                ]
-            },
-            {
-                "id": "mtexmtu4oq",
-                "title": "Qualification",
-                "type": "qualifying",
-                "index": null,
-                "start": "2024-08-24T13:00:00+00:00",
-                "startLocal": "2024-08-24T15:00:00+02:00",
-                "end": "2024-08-24T14:00:00+00:00",
-                "endLocal": "2024-08-24T16:00:00+02:00",
-                "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0.77,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "C35.api.telerama.fr"
-                    },
-                    {
-                        "countryCode": "CH",
-                        "channelName": "RTS 2",
-                        "channelCode": "C183.api.telerama.fr"
-                    },
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": "tipik.be"
-                    }
-                ]
-            },
-            {
-                "id": "mtexmty2nw",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2024-08-25T13:00:00+00:00",
-                "startLocal": "2024-08-25T15:00:00+02:00",
-                "end": "2024-08-25T15:00:00+00:00",
-                "endLocal": "2024-08-25T17:00:00+02:00",
-                "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
-                "weatherRainProbability": 0,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+",
-                        "channelCode": "C34.api.telerama.fr"
-                    },
-                    {
-                        "countryCode": "CH",
-                        "channelName": "RTS 2",
-                        "channelCode": "C183.api.telerama.fr"
-                    },
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": "tipik.be"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "id": "mtexmtg2oq",
         "type": "f1",
         "index": "16 / 24",
@@ -169,8 +23,8 @@
                 "end": "2024-08-30T12:30:00+00:00",
                 "endLocal": "2024-08-30T14:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
@@ -196,8 +50,8 @@
                 "end": "2024-08-30T16:00:00+00:00",
                 "endLocal": "2024-08-30T18:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
@@ -223,9 +77,9 @@
                 "end": "2024-08-31T11:30:00+00:00",
                 "endLocal": "2024-08-31T13:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -250,9 +104,9 @@
                 "end": "2024-08-31T15:00:00+00:00",
                 "endLocal": "2024-08-31T17:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
