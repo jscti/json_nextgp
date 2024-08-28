@@ -23,11 +23,17 @@
                 "end": "2024-08-30T07:35:00+00:00",
                 "endLocal": "2024-08-30T09:35:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 803,
+                "weatherCondition": 804,
                 "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherRainProbability": 0.07,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "mte1ntqwmg",
@@ -43,7 +49,13 @@
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "mte1ntqwna",
@@ -55,9 +67,9 @@
                 "end": "2024-08-31T07:10:00+00:00",
                 "endLocal": "2024-08-31T09:10:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -71,9 +83,9 @@
                 "end": "2024-08-31T11:30:00+00:00",
                 "endLocal": "2024-08-31T13:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
-                "weatherRainProbability": 0.07,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -87,9 +99,9 @@
                 "end": "2024-09-01T10:00:00+00:00",
                 "endLocal": "2024-09-01T12:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
+                "weatherRainProbability": 0.16,
                 "isNightEvent": false,
                 "channels": []
             }
