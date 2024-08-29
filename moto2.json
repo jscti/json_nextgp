@@ -23,8 +23,8 @@
                 "end": "2024-08-30T08:30:00+00:00",
                 "endLocal": "2024-08-30T10:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
@@ -45,8 +45,8 @@
                 "end": "2024-08-30T12:45:00+00:00",
                 "endLocal": "2024-08-30T14:45:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
@@ -67,9 +67,9 @@
                 "end": "2024-08-31T07:55:00+00:00",
                 "endLocal": "2024-08-31T09:55:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.28,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -89,7 +89,7 @@
                 "end": "2024-08-31T12:25:00+00:00",
                 "endLocal": "2024-08-31T14:25:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 804,
+                "weatherCondition": 803,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
@@ -111,11 +111,22 @@
                 "end": "2024-09-01T11:15:00+00:00",
                 "endLocal": "2024-09-01T13:15:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.95,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    },
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": "tipik.be"
+                    }
+                ]
             }
         ]
     },
@@ -147,7 +158,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": "tipik.be"
+                    }
+                ]
             },
             {
                 "id": "mte1mdgxma",
@@ -163,7 +180,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": "tipik.be"
+                    }
+                ]
             },
             {
                 "id": "mte1mdgxmg",
@@ -179,7 +202,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": "tipik.be"
+                    }
+                ]
             },
             {
                 "id": "mte1mdgxna",
@@ -195,7 +224,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": "tipik.be"
+                    }
+                ]
             },
             {
                 "id": "mte1mdgyma",
@@ -211,7 +246,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": "tipik.be"
+                    }
+                ]
             }
         ]
     },
@@ -258,7 +299,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": "tipik.be"
+                    }
+                ]
             },
             {
                 "id": "mte1mti0mg",
@@ -274,7 +321,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": "tipik.be"
+                    }
+                ]
             },
             {
                 "id": "mte1mti0na",
@@ -290,7 +343,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": "tipik.be"
+                    }
+                ]
             },
             {
                 "id": "mte1mti0ng",
@@ -306,7 +365,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": "tipik.be"
+                    }
+                ]
             },
             {
                 "id": "mte1mti1mg",
@@ -322,7 +387,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": "tipik.be"
+                    }
+                ]
             }
         ]
     },
@@ -354,7 +425,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": "tipik.be"
+                    }
+                ]
             },
             {
                 "id": "mte1mtq1oa",
@@ -370,7 +447,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": "tipik.be"
+                    }
+                ]
             },
             {
                 "id": "mte1mtq2ma",
@@ -386,7 +469,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": "tipik.be"
+                    }
+                ]
             },
             {
                 "id": "mte1mtq2mg",
@@ -402,7 +491,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": "tipik.be"
+                    }
+                ]
             },
             {
                 "id": "mte1mtq2oa",
@@ -418,7 +513,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": "tipik.be"
+                    }
+                ]
             }
         ]
     },
@@ -450,7 +551,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": "tipik.be"
+                    }
+                ]
             },
             {
                 "id": "mte1mty3na",
@@ -466,7 +573,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": "tipik.be"
+                    }
+                ]
             },
             {
                 "id": "mte1mty3ng",
@@ -482,7 +595,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": "tipik.be"
+                    }
+                ]
             },
             {
                 "id": "mte1mty3oa",
@@ -498,7 +617,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": "tipik.be"
+                    }
+                ]
             },
             {
                 "id": "mte1mty4na",
@@ -514,7 +639,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": "tipik.be"
+                    }
+                ]
             }
         ]
     },
@@ -546,7 +677,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": "tipik.be"
+                    }
+                ]
             },
             {
                 "id": "mte1mtg5ma",
@@ -562,7 +699,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": "tipik.be"
+                    }
+                ]
             },
             {
                 "id": "mte1mtg5mg",
@@ -578,7 +721,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": "tipik.be"
+                    }
+                ]
             },
             {
                 "id": "mte1mtg5na",
@@ -594,7 +743,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": "tipik.be"
+                    }
+                ]
             },
             {
                 "id": "mte1mtkwma",
@@ -610,7 +765,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": "tipik.be"
+                    }
+                ]
             }
         ]
     },
@@ -642,7 +803,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": "tipik.be"
+                    }
+                ]
             },
             {
                 "id": "mte1mjewng",
@@ -658,7 +825,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": "tipik.be"
+                    }
+                ]
             },
             {
                 "id": "mte1mjewoa",
@@ -674,7 +847,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": "tipik.be"
+                    }
+                ]
             },
             {
                 "id": "mte1mjexma",
@@ -690,7 +869,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": "tipik.be"
+                    }
+                ]
             },
             {
                 "id": "mte1mjexng",
@@ -706,7 +891,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": "tipik.be"
+                    }
+                ]
             }
         ]
     },
@@ -738,7 +929,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": "tipik.be"
+                    }
+                ]
             },
             {
                 "id": "mte1mjmymg",
@@ -754,7 +951,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": "tipik.be"
+                    }
+                ]
             },
             {
                 "id": "mte1mjmyna",
@@ -770,7 +973,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": "tipik.be"
+                    }
+                ]
             },
             {
                 "id": "mte1mjmyng",
@@ -786,7 +995,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": "tipik.be"
+                    }
+                ]
             },
             {
                 "id": "mte1mjmzmg",
@@ -802,7 +1017,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": "tipik.be"
+                    }
+                ]
             }
         ]
     }
