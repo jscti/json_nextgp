@@ -84,11 +84,17 @@
                 "end": "2024-08-31T08:10:00+00:00",
                 "endLocal": "2024-08-31T10:10:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 804,
+                "weatherCondition": 803,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    }
+                ]
             },
             {
                 "id": "oda2oa",
@@ -102,7 +108,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.43,
+                "weatherRainProbability": 0.91,
                 "isNightEvent": false,
                 "channels": [
                     {
