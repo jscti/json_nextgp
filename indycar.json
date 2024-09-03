@@ -1,129 +1,5 @@
 [
     {
-        "id": "mtezmtc4ng",
-        "type": "indycar",
-        "index": "15 / 17",
-        "title": "Milwaukee Mile 1",
-        "start": "2024-08-30T20:35:00+00:00",
-        "end": "2024-09-01T00:00:00+00:00",
-        "timezone": "US/Central",
-        "latitude": "43.021944",
-        "longitude": "-88.012778",
-        "trackName": "Wisconsin State Fair Park",
-        "countryCode": "US",
-        "cityName": "Milwaukee, WI",
-        "steps": [
-            {
-                "id": "mtezmtc4oa",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": null,
-                "start": "2024-08-30T19:35:00+00:00",
-                "startLocal": "2024-08-30T14:35:00-05:00",
-                "end": "2024-08-30T20:15:00+00:00",
-                "endLocal": "2024-08-30T15:15:00-05:00",
-                "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 1,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "mtezmtgwng",
-                "title": "Qualification",
-                "type": "qualifying",
-                "index": null,
-                "start": "2024-08-31T18:15:00+00:00",
-                "startLocal": "2024-08-31T13:15:00-05:00",
-                "end": "2024-08-31T19:15:00+00:00",
-                "endLocal": "2024-08-31T14:15:00-05:00",
-                "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "weatherRainProbability": 0,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "mtezmtgxng",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2024-08-31T22:00:00+00:00",
-                "startLocal": "2024-08-31T17:00:00-05:00",
-                "end": "2024-09-01T00:00:00+00:00",
-                "endLocal": "2024-08-31T19:00:00-05:00",
-                "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "weatherRainProbability": 0,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "C35.api.telerama.fr"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "id": "mtezmjqxoa",
-        "type": "indycar",
-        "index": "16 / 17",
-        "title": "Milwaukee Mile 2",
-        "start": "2024-08-31T18:15:00+00:00",
-        "end": "2024-09-01T20:55:00+00:00",
-        "timezone": "US/Central",
-        "latitude": "43.021944",
-        "longitude": "-88.012778",
-        "trackName": "Wisconsin State Fair Park",
-        "countryCode": "US",
-        "cityName": "Milwaukee, WI",
-        "steps": [
-            {
-                "id": "mtezmjqzoa",
-                "title": "Qualification",
-                "type": "qualifying",
-                "index": null,
-                "start": "2024-08-31T18:15:00+00:00",
-                "startLocal": "2024-08-31T13:15:00-05:00",
-                "end": "2024-08-31T19:15:00+00:00",
-                "endLocal": "2024-08-31T14:15:00-05:00",
-                "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "weatherRainProbability": 0,
-                "isNightEvent": false,
-                "channels": []
-            },
-            {
-                "id": "mtezmjq0oa",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2024-09-01T18:50:00+00:00",
-                "startLocal": "2024-09-01T13:50:00-05:00",
-                "end": "2024-09-01T20:55:00+00:00",
-                "endLocal": "2024-09-01T15:55:00-05:00",
-                "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "weatherRainProbability": 0,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "C35.api.telerama.fr"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "id": "mtezmza1ma",
         "type": "indycar",
         "index": "17 / 17",
@@ -215,7 +91,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    }
+                ]
             }
         ]
     },
