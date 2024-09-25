@@ -1,131 +1,5 @@
 [
     {
-        "id": "mtixotm5mq",
-        "type": "moto2",
-        "index": "14 / 20",
-        "title": "Emilia-Romagna Grand Prix",
-        "start": "2024-09-20T07:50:00+00:00",
-        "end": "2024-09-22T10:15:00+00:00",
-        "timezone": "Europe/Rome",
-        "latitude": "43.961364",
-        "longitude": "12.683075",
-        "trackName": "Misano World Circuit",
-        "countryCode": "IT",
-        "cityName": "Misano Adriatico",
-        "steps": [
-            {
-                "id": "mtixotm5mw",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2024-09-20T07:50:00+00:00",
-                "startLocal": "2024-09-20T09:50:00+02:00",
-                "end": "2024-09-20T08:30:00+00:00",
-                "endLocal": "2024-09-20T10:30:00+02:00",
-                "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 1,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": "canal-plus-sport360.fr"
-                    }
-                ]
-            },
-            {
-                "id": "mtixotm5nq",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2024-09-20T12:05:00+00:00",
-                "startLocal": "2024-09-20T14:05:00+02:00",
-                "end": "2024-09-20T12:45:00+00:00",
-                "endLocal": "2024-09-20T14:45:00+02:00",
-                "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 1,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": "canal-plus-sport360.fr"
-                    }
-                ]
-            },
-            {
-                "id": "mtixotqwmq",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2024-09-21T07:25:00+00:00",
-                "startLocal": "2024-09-21T09:25:00+02:00",
-                "end": "2024-09-21T07:55:00+00:00",
-                "endLocal": "2024-09-21T09:55:00+02:00",
-                "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": "canal-plus-sport360.fr"
-                    }
-                ]
-            },
-            {
-                "id": "mtixotm5nw",
-                "title": "Qualifying",
-                "type": "qualifying",
-                "index": null,
-                "start": "2024-09-21T11:45:00+00:00",
-                "startLocal": "2024-09-21T13:45:00+02:00",
-                "end": "2024-09-21T12:25:00+00:00",
-                "endLocal": "2024-09-21T14:25:00+02:00",
-                "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
-                "weatherRainProbability": 0,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": "canal-plus-sport360.fr"
-                    }
-                ]
-            },
-            {
-                "id": "mtixotm5oq",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2024-09-22T09:15:00+00:00",
-                "startLocal": "2024-09-22T11:15:00+02:00",
-                "end": "2024-09-22T10:15:00+00:00",
-                "endLocal": "2024-09-22T12:15:00+02:00",
-                "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
-                "weatherRainProbability": 0,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": "canal-plus-sport360.fr"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "id": "mte1mtizoa",
         "type": "moto2",
         "index": "15 / 20",
@@ -153,7 +27,13 @@
                 "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "mte1mti0mg",
@@ -165,11 +45,17 @@
                 "end": "2024-09-27T06:45:00+00:00",
                 "endLocal": "2024-09-27T14:45:00+08:00",
                 "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
-                "weatherRainProbability": 0.1,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.22,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "mte1mti0na",
@@ -181,9 +67,9 @@
                 "end": "2024-09-28T01:55:00+00:00",
                 "endLocal": "2024-09-28T09:55:00+08:00",
                 "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.2,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -197,9 +83,9 @@
                 "end": "2024-09-28T06:25:00+00:00",
                 "endLocal": "2024-09-28T14:25:00+08:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -213,9 +99,9 @@
                 "end": "2024-09-29T06:15:00+00:00",
                 "endLocal": "2024-09-29T14:15:00+08:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
             }
