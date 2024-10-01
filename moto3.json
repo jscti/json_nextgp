@@ -1,136 +1,5 @@
 [
     {
-        "id": "mte1nja0ng",
-        "type": "moto3",
-        "index": "15 / 20",
-        "title": "Grand Prix of Indonesia",
-        "start": "2024-09-27T01:00:00+00:00",
-        "end": "2024-09-29T05:00:00+00:00",
-        "timezone": "Asia/Makassar",
-        "latitude": "-8.895611",
-        "longitude": "116.305823",
-        "trackName": "Mandalika International Circuit",
-        "countryCode": "ID",
-        "cityName": "Lombok",
-        "steps": [
-            {
-                "id": "mte1nja0oa",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2024-09-27T01:00:00+00:00",
-                "startLocal": "2024-09-27T09:00:00+08:00",
-                "end": "2024-09-27T01:35:00+00:00",
-                "endLocal": "2024-09-27T09:35:00+08:00",
-                "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 1,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": "canal-plus-sport360.fr"
-                    }
-                ]
-            },
-            {
-                "id": "mte1nja1ma",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2024-09-27T05:15:00+00:00",
-                "startLocal": "2024-09-27T13:15:00+08:00",
-                "end": "2024-09-27T05:50:00+00:00",
-                "endLocal": "2024-09-27T13:50:00+08:00",
-                "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.33,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": "canal-plus-sport360.fr"
-                    }
-                ]
-            },
-            {
-                "id": "mte1nja1mg",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2024-09-28T00:40:00+00:00",
-                "startLocal": "2024-09-28T08:40:00+08:00",
-                "end": "2024-09-28T01:10:00+00:00",
-                "endLocal": "2024-09-28T09:10:00+08:00",
-                "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
-                "weatherRainProbability": 0,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": "canal-plus-sport360.fr"
-                    }
-                ]
-            },
-            {
-                "id": "mte1nja1na",
-                "title": "Qualifying",
-                "type": "qualifying",
-                "index": null,
-                "start": "2024-09-28T04:50:00+00:00",
-                "startLocal": "2024-09-28T12:50:00+08:00",
-                "end": "2024-09-28T05:30:00+00:00",
-                "endLocal": "2024-09-28T13:30:00+08:00",
-                "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
-                "weatherRainProbability": 0,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": "canal-plus-sport360.fr"
-                    }
-                ]
-            },
-            {
-                "id": "mte1nja2ma",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2024-09-29T04:00:00+00:00",
-                "startLocal": "2024-09-29T12:00:00+08:00",
-                "end": "2024-09-29T05:00:00+00:00",
-                "endLocal": "2024-09-29T13:00:00+08:00",
-                "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": "canal-plus-sport360.fr"
-                    },
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": "tipik.be"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "id": "mte1nji2mg",
         "type": "moto3",
         "index": "16 / 20",
@@ -163,6 +32,11 @@
                         "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": "tipik.be"
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
                     }
                 ]
             },
@@ -176,7 +50,7 @@
                 "end": "2024-10-04T04:50:00+00:00",
                 "endLocal": "2024-10-04T13:50:00+09:00",
                 "hasTime": true,
-                "weatherCondition": 803,
+                "weatherCondition": 804,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
@@ -198,9 +72,9 @@
                 "end": "2024-10-05T00:10:00+00:00",
                 "endLocal": "2024-10-05T09:10:00+09:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 1,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -220,9 +94,9 @@
                 "end": "2024-10-05T04:30:00+00:00",
                 "endLocal": "2024-10-05T13:30:00+09:00",
                 "hasTime": true,
-                "weatherCondition": 803,
+                "weatherCondition": 804,
                 "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherRainProbability": 0.08,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -242,9 +116,9 @@
                 "end": "2024-10-06T03:00:00+00:00",
                 "endLocal": "2024-10-06T12:00:00+09:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
