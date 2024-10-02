@@ -23,9 +23,9 @@
                 "end": "2024-10-04T01:30:00+00:00",
                 "endLocal": "2024-10-04T10:30:00+09:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0.46,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.2,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -50,7 +50,7 @@
                 "end": "2024-10-04T05:45:00+00:00",
                 "endLocal": "2024-10-04T14:45:00+09:00",
                 "hasTime": true,
-                "weatherCondition": 804,
+                "weatherCondition": 803,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
@@ -77,15 +77,20 @@
                 "end": "2024-10-05T00:55:00+00:00",
                 "endLocal": "2024-10-05T09:55:00+09:00",
                 "hasTime": true,
-                "weatherCondition": 500,
+                "weatherCondition": 501,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.88,
+                "weatherRainProbability": 1,
                 "isNightEvent": false,
                 "channels": [
                     {
                         "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": "tipik.be"
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
                     }
                 ]
             },
@@ -101,13 +106,18 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.53,
+                "weatherRainProbability": 1,
                 "isNightEvent": false,
                 "channels": [
                     {
                         "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": "tipik.be"
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
                     }
                 ]
             },
