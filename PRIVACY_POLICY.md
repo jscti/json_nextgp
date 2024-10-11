@@ -1,4 +1,4 @@
-# F1 x MotoGP: Règles de confidentialité
+# NextGP : Règles de confidentialité
 
 Bienvenue sur l'application `F1 x MotoGP` pour Android!
 
