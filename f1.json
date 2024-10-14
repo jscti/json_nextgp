@@ -46,9 +46,9 @@
                 "end": "2024-10-18T22:14:00+00:00",
                 "endLocal": "2024-10-18T17:14:00-05:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -165,7 +165,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    }
+                ]
             },
             {
                 "id": "mtexmzaynq",
@@ -174,14 +180,20 @@
                 "index": 2,
                 "start": "2024-10-25T22:00:00+00:00",
                 "startLocal": "2024-10-25T16:00:00-06:00",
-                "end": "2024-10-25T23:00:00+00:00",
-                "endLocal": "2024-10-25T17:00:00-06:00",
+                "end": "2024-10-25T23:30:00+00:00",
+                "endLocal": "2024-10-25T17:30:00-06:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    }
+                ]
             },
             {
                 "id": "mtexmzaynw",
@@ -197,7 +209,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    }
+                ]
             },
             {
                 "id": "mtexmzayoq",
@@ -213,7 +231,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": "C35.api.telerama.fr"
+                    }
+                ]
             },
             {
                 "id": "mtexmzewnw",
@@ -480,10 +504,10 @@
                 "subtitle": "Sprint",
                 "type": "race",
                 "index": 1,
-                "start": "2024-11-30T13:00:00+00:00",
-                "startLocal": "2024-11-30T16:00:00+03:00",
-                "end": "2024-11-30T14:00:00+00:00",
-                "endLocal": "2024-11-30T17:00:00+03:00",
+                "start": "2024-11-30T14:00:00+00:00",
+                "startLocal": "2024-11-30T17:00:00+03:00",
+                "end": "2024-11-30T15:00:00+00:00",
+                "endLocal": "2024-11-30T18:00:00+03:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
