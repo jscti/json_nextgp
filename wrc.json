@@ -23,8 +23,8 @@
                 "end": "2024-10-17T17:00:00+00:00",
                 "endLocal": "2024-10-17T19:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01n",
+                "weatherCondition": 803,
+                "weatherIcon": "04n",
                 "weatherRainProbability": 0,
                 "isNightEvent": true,
                 "channels": [
@@ -45,8 +45,8 @@
                 "end": "2024-10-18T16:55:00+00:00",
                 "endLocal": "2024-10-18T18:55:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04n",
+                "weatherCondition": 802,
+                "weatherIcon": "03n",
                 "weatherRainProbability": 0,
                 "isNightEvent": true,
                 "channels": [
@@ -76,7 +76,18 @@
                 "weatherIcon": "04n",
                 "weatherRainProbability": 0,
                 "isNightEvent": true,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    },
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mte3njuzmg",
@@ -88,8 +99,8 @@
                 "end": "2024-10-20T12:45:00+00:00",
                 "endLocal": "2024-10-20T14:45:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
@@ -97,6 +108,11 @@
                         "countryCode": "FR",
                         "channelName": "Canal+ Sport",
                         "channelCode": "C35.api.telerama.fr"
+                    },
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
                     }
                 ]
             }
@@ -130,7 +146,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mte3nju0ma",
@@ -146,7 +168,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mte3nju0mg",
@@ -162,7 +190,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mte3nju0na",
@@ -178,7 +212,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             }
         ]
     },
@@ -210,7 +250,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mtiymzixoq",
@@ -226,7 +272,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mtiymziymq",
@@ -242,7 +294,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mtiymziymw",
@@ -258,7 +316,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             }
         ]
     },
@@ -290,7 +354,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mtiymzizmq",
@@ -306,7 +376,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mtiymzizmw",
@@ -322,7 +398,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mtiymziznq",
@@ -338,7 +420,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             }
         ]
     },
@@ -370,7 +458,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mtiymzi0mw",
@@ -386,7 +480,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mtiymzi0nq",
@@ -402,7 +502,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mtiymzi0nw",
@@ -418,7 +524,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             }
         ]
     },
@@ -450,7 +562,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mtiymzi1nq",
@@ -466,7 +584,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mtiymzi1nw",
@@ -482,7 +606,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mtiymzi1oq",
@@ -498,7 +628,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             }
         ]
     },
@@ -530,7 +666,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mtiymzi2nw",
@@ -546,7 +688,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mtiymzi2oq",
@@ -562,7 +710,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mtiymzi3mq",
@@ -578,7 +732,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             }
         ]
     },
@@ -610,7 +770,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mtiymzi3oq",
@@ -626,7 +792,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mtiymzi4mq",
@@ -642,7 +814,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mtiymzi4mw",
@@ -658,7 +836,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             }
         ]
     },
@@ -690,7 +874,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mtiymzi5mq",
@@ -706,7 +896,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mtiymzi5mw",
@@ -722,7 +918,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mtiymzi5nq",
@@ -738,7 +940,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             }
         ]
     },
@@ -770,7 +978,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mtiymzmwmw",
@@ -786,7 +1000,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mtiymzmwnq",
@@ -802,7 +1022,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mtiymzmwnw",
@@ -818,7 +1044,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             }
         ]
     },
@@ -850,7 +1082,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mtiymzmxnq",
@@ -866,7 +1104,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mtiymzmxnw",
@@ -882,7 +1126,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mtiymzmxoq",
@@ -898,7 +1148,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             }
         ]
     },
@@ -930,7 +1186,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mtiymzmynw",
@@ -946,7 +1208,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mtiymzmyoq",
@@ -962,7 +1230,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mtiymzmzmq",
@@ -978,7 +1252,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             }
         ]
     },
@@ -1010,7 +1290,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mtiymzmzoq",
@@ -1026,7 +1312,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mtiymzm0mq",
@@ -1042,7 +1334,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mtiymzm0mw",
@@ -1058,7 +1356,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             }
         ]
     },
@@ -1090,7 +1394,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mtiymzm1mq",
@@ -1106,7 +1416,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mtiymzm1mw",
@@ -1122,7 +1438,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mtiymzm1nq",
@@ -1138,7 +1460,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             }
         ]
     },
@@ -1170,7 +1498,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mtiymzm2mw",
@@ -1186,7 +1520,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mtiymzm2nq",
@@ -1202,7 +1542,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mtiymzm2nw",
@@ -1218,7 +1564,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             }
         ]
     },
@@ -1250,7 +1602,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mtiymzm3nq",
@@ -1266,7 +1624,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mtiymzm3nw",
@@ -1282,7 +1646,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             },
             {
                 "id": "mtiymzm3oq",
@@ -1298,7 +1668,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": "la-trois.be"
+                    }
+                ]
             }
         ]
     }
