@@ -1,136 +1,5 @@
 [
     {
-        "id": "mte1njq3oa",
-        "type": "moto3",
-        "index": "17 / 20",
-        "title": "Australian Motorcycle Grand Prix",
-        "start": "2024-10-17T21:45:00+00:00",
-        "end": "2024-10-20T01:00:00+00:00",
-        "timezone": "Australia/Victoria",
-        "latitude": "-38.501418",
-        "longitude": "145.232269",
-        "trackName": "Phillip Island Circuit",
-        "countryCode": "AU",
-        "cityName": "Phillip Island",
-        "steps": [
-            {
-                "id": "mte1njq4ma",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2024-10-17T21:45:00+00:00",
-                "startLocal": "2024-10-18T08:45:00+11:00",
-                "end": "2024-10-17T22:20:00+00:00",
-                "endLocal": "2024-10-18T09:20:00+11:00",
-                "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.97,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": "canal-plus-sport360.fr"
-                    }
-                ]
-            },
-            {
-                "id": "mte1njq4mg",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2024-10-18T02:15:00+00:00",
-                "startLocal": "2024-10-18T13:15:00+11:00",
-                "end": "2024-10-18T02:50:00+00:00",
-                "endLocal": "2024-10-18T13:50:00+11:00",
-                "hasTime": true,
-                "weatherCondition": 501,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 1,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": "canal-plus-sport360.fr"
-                    }
-                ]
-            },
-            {
-                "id": "mte1njq4na",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2024-10-18T21:40:00+00:00",
-                "startLocal": "2024-10-19T08:40:00+11:00",
-                "end": "2024-10-18T22:10:00+00:00",
-                "endLocal": "2024-10-19T09:10:00+11:00",
-                "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.94,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": "canal-plus-sport360.fr"
-                    }
-                ]
-            },
-            {
-                "id": "mte1njq4ng",
-                "title": "Qualifying",
-                "type": "qualifying",
-                "index": null,
-                "start": "2024-10-19T01:50:00+00:00",
-                "startLocal": "2024-10-19T12:50:00+11:00",
-                "end": "2024-10-19T02:30:00+00:00",
-                "endLocal": "2024-10-19T13:30:00+11:00",
-                "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "weatherRainProbability": 0,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": "canal-plus-sport360.fr"
-                    }
-                ]
-            },
-            {
-                "id": "mte1njq5mg",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2024-10-20T00:00:00+00:00",
-                "startLocal": "2024-10-20T11:00:00+11:00",
-                "end": "2024-10-20T01:00:00+00:00",
-                "endLocal": "2024-10-20T12:00:00+11:00",
-                "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
-                "weatherRainProbability": 0,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": "canal-plus-sport360.fr"
-                    },
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": "tipik.be"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "id": "mte1njy5na",
         "type": "moto3",
         "index": "18 / 20",
@@ -220,9 +89,9 @@
                 "end": "2024-10-26T06:30:00+00:00",
                 "endLocal": "2024-10-26T13:30:00+07:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.26,
                 "isNightEvent": false,
                 "channels": [
                     {
