@@ -132,7 +132,7 @@
                 "end": "2024-10-26T09:00:00+00:00",
                 "endLocal": "2024-10-26T16:00:00+07:00",
                 "hasTime": true,
-                "weatherCondition": 501,
+                "weatherCondition": 500,
                 "weatherIcon": "10d",
                 "weatherRainProbability": 1,
                 "isNightEvent": false,
@@ -146,6 +146,11 @@
                         "countryCode": "FR",
                         "channelName": "Canal+ Sport 360",
                         "channelCode": "canal-plus-sport360.fr"
+                    },
+                    {
+                        "countryCode": "CH",
+                        "channelName": "RTS 2",
+                        "channelCode": "C183.api.telerama.fr"
                     }
                 ]
             },
@@ -159,7 +164,7 @@
                 "end": "2024-10-27T09:00:00+00:00",
                 "endLocal": "2024-10-27T16:00:00+07:00",
                 "hasTime": true,
-                "weatherCondition": 500,
+                "weatherCondition": 501,
                 "weatherIcon": "10d",
                 "weatherRainProbability": 1,
                 "isNightEvent": false,
@@ -168,6 +173,16 @@
                         "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": "tipik.be"
+                    },
+                    {
+                        "countryCode": "CH",
+                        "channelName": "RTS 2",
+                        "channelCode": "C183.api.telerama.fr"
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+",
+                        "channelCode": "C34.api.telerama.fr"
                     }
                 ]
             }
@@ -295,6 +310,11 @@
                         "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": "tipik.be"
+                    },
+                    {
+                        "countryCode": "CH",
+                        "channelName": "RTS 2",
+                        "channelCode": "C183.api.telerama.fr"
                     }
                 ]
             },
@@ -317,6 +337,16 @@
                         "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": "tipik.be"
+                    },
+                    {
+                        "countryCode": "CH",
+                        "channelName": "RTS 2",
+                        "channelCode": "C183.api.telerama.fr"
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+",
+                        "channelCode": "C34.api.telerama.fr"
                     }
                 ]
             }
