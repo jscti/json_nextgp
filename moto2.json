@@ -2,7 +2,7 @@
     {
         "id": "mte1mjewmg",
         "type": "moto2",
-        "index": "19 / 20",
+        "index": "19 / 19",
         "title": "Grand Prix of Malaysia",
         "start": "2024-11-01T01:50:00+00:00",
         "end": "2024-11-03T06:15:00+00:00",
@@ -79,7 +79,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.71,
+                "weatherRainProbability": 1,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -106,7 +106,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.88,
+                "weatherRainProbability": 1,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -133,7 +133,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.78,
+                "weatherRainProbability": 0.42,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -145,132 +145,6 @@
                         "countryCode": "FR",
                         "channelName": "Canal+ Sport 360",
                         "channelCode": "canal-plus-sport360.fr"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "id": "mte1mjmxoa",
-        "type": "moto2",
-        "index": "20 / 20",
-        "title": "Gran Premio de la Comunitat Valenciana",
-        "start": "2024-11-15T08:50:00+00:00",
-        "end": "2024-11-17T12:15:00+00:00",
-        "timezone": "Europe/Madrid",
-        "latitude": "39.485644",
-        "longitude": "-0.628078",
-        "trackName": "Circuit de la Comunitat Valenciana Ricardo Tormo",
-        "countryCode": "ES",
-        "cityName": "Valencia",
-        "steps": [
-            {
-                "id": "mte1mjmyma",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2024-11-15T08:50:00+00:00",
-                "startLocal": "2024-11-15T09:50:00+01:00",
-                "end": "2024-11-15T09:30:00+00:00",
-                "endLocal": "2024-11-15T10:30:00+01:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": "tipik.be"
-                    }
-                ]
-            },
-            {
-                "id": "mte1mjmymg",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2024-11-15T13:05:00+00:00",
-                "startLocal": "2024-11-15T14:05:00+01:00",
-                "end": "2024-11-15T13:45:00+00:00",
-                "endLocal": "2024-11-15T14:45:00+01:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": "tipik.be"
-                    }
-                ]
-            },
-            {
-                "id": "mte1mjmyna",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2024-11-16T08:25:00+00:00",
-                "startLocal": "2024-11-16T09:25:00+01:00",
-                "end": "2024-11-16T08:55:00+00:00",
-                "endLocal": "2024-11-16T09:55:00+01:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": "tipik.be"
-                    }
-                ]
-            },
-            {
-                "id": "mte1mjmyng",
-                "title": "Qualifying",
-                "type": "qualifying",
-                "index": null,
-                "start": "2024-11-16T12:45:00+00:00",
-                "startLocal": "2024-11-16T13:45:00+01:00",
-                "end": "2024-11-16T13:25:00+00:00",
-                "endLocal": "2024-11-16T14:25:00+01:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": "tipik.be"
-                    }
-                ]
-            },
-            {
-                "id": "mte1mjmzmg",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2024-11-17T11:15:00+00:00",
-                "startLocal": "2024-11-17T12:15:00+01:00",
-                "end": "2024-11-17T12:15:00+00:00",
-                "endLocal": "2024-11-17T13:15:00+01:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": "tipik.be"
                     }
                 ]
             }
