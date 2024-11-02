@@ -111,20 +111,25 @@
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": 2,
-                "start": "2024-11-02T20:00:00+00:00",
-                "startLocal": "2024-11-02T17:00:00-03:00",
-                "end": "2024-11-02T21:00:00+00:00",
-                "endLocal": "2024-11-02T18:00:00-03:00",
+                "start": "2024-11-03T15:00:00+00:00",
+                "startLocal": "2024-11-03T12:00:00-03:00",
+                "end": "2024-11-03T16:00:00+00:00",
+                "endLocal": "2024-11-03T13:00:00-03:00",
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.94,
+                "weatherRainProbability": 0.67,
                 "isNightEvent": false,
                 "channels": [
                     {
                         "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": "tipik.be"
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+",
+                        "channelCode": "C34.api.telerama.fr"
                     }
                 ]
             },
