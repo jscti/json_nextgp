@@ -111,14 +111,14 @@
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": 2,
-                "start": "2024-11-02T18:00:00+00:00",
-                "startLocal": "2024-11-02T15:00:00-03:00",
-                "end": "2024-11-02T19:00:00+00:00",
-                "endLocal": "2024-11-02T16:00:00-03:00",
+                "start": "2024-11-02T19:30:00+00:00",
+                "startLocal": "2024-11-02T16:30:00-03:00",
+                "end": "2024-11-02T20:30:00+00:00",
+                "endLocal": "2024-11-02T17:30:00-03:00",
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.64,
+                "weatherRainProbability": 0.94,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -127,14 +127,9 @@
                         "channelCode": "tipik.be"
                     },
                     {
-                        "countryCode": "CH",
-                        "channelName": "RTS 2",
-                        "channelCode": "C183.api.telerama.fr"
-                    },
-                    {
                         "countryCode": "FR",
-                        "channelName": "Canal+",
-                        "channelCode": "C34.api.telerama.fr"
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
                     }
                 ]
             },
