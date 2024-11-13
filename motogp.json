@@ -23,11 +23,17 @@
                 "end": "2024-11-15T10:30:00+00:00",
                 "endLocal": "2024-11-15T11:30:00+01:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "mti2njgymq",
@@ -39,11 +45,17 @@
                 "end": "2024-11-16T15:00:00+00:00",
                 "endLocal": "2024-11-16T16:00:00+01:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ]
             },
             {
                 "id": "mti2njgymw",
@@ -55,8 +67,8 @@
                 "end": "2024-11-16T09:40:00+00:00",
                 "endLocal": "2024-11-16T10:40:00+01:00",
                 "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
@@ -71,8 +83,8 @@
                 "end": "2024-11-16T10:30:00+00:00",
                 "endLocal": "2024-11-16T11:30:00+01:00",
                 "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": []
@@ -88,7 +100,7 @@
                 "end": "2024-11-16T14:30:00+00:00",
                 "endLocal": "2024-11-16T15:30:00+01:00",
                 "hasTime": true,
-                "weatherCondition": 803,
+                "weatherCondition": 804,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
@@ -104,9 +116,9 @@
                 "end": "2024-11-17T14:00:00+00:00",
                 "endLocal": "2024-11-17T15:00:00+01:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
