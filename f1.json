@@ -1,151 +1,5 @@
 [
     {
-        "id": "mtexmzu5nw",
-        "type": "f1",
-        "index": "22 / 24",
-        "title": "Las Vegas Grand Prix",
-        "start": "2024-11-22T02:30:00+00:00",
-        "end": "2024-11-24T08:00:00+00:00",
-        "timezone": "America/Los_Angeles",
-        "latitude": "36.174965",
-        "longitude": "-115.136507",
-        "trackName": "Las Vegas Strip Circuit",
-        "countryCode": "US",
-        "cityName": "Las Vegas",
-        "steps": [
-            {
-                "id": "mtexmzu5oq",
-                "title": "Practice 1",
-                "type": "practice",
-                "index": 1,
-                "start": "2024-11-22T02:30:00+00:00",
-                "startLocal": "2024-11-21T18:30:00-08:00",
-                "end": "2024-11-22T03:30:00+00:00",
-                "endLocal": "2024-11-21T19:30:00-08:00",
-                "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01n",
-                "weatherRainProbability": 0,
-                "isNightEvent": true,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "C35.api.telerama.fr"
-                    }
-                ]
-            },
-            {
-                "id": "mtexmzywmq",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2024-11-22T06:00:00+00:00",
-                "startLocal": "2024-11-21T22:00:00-08:00",
-                "end": "2024-11-22T07:00:00+00:00",
-                "endLocal": "2024-11-21T23:00:00-08:00",
-                "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01n",
-                "weatherRainProbability": 0,
-                "isNightEvent": true,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "C35.api.telerama.fr"
-                    }
-                ]
-            },
-            {
-                "id": "mtexmzywmw",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2024-11-23T02:30:00+00:00",
-                "startLocal": "2024-11-22T18:30:00-08:00",
-                "end": "2024-11-23T03:30:00+00:00",
-                "endLocal": "2024-11-22T19:30:00-08:00",
-                "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03n",
-                "weatherRainProbability": 0,
-                "isNightEvent": true,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "C35.api.telerama.fr"
-                    }
-                ]
-            },
-            {
-                "id": "mtexmzywnq",
-                "title": "Qualification",
-                "type": "qualifying",
-                "index": null,
-                "start": "2024-11-23T06:00:00+00:00",
-                "startLocal": "2024-11-22T22:00:00-08:00",
-                "end": "2024-11-23T07:21:00+00:00",
-                "endLocal": "2024-11-22T23:21:00-08:00",
-                "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03n",
-                "weatherRainProbability": 0,
-                "isNightEvent": true,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "C35.api.telerama.fr"
-                    },
-                    {
-                        "countryCode": "CH",
-                        "channelName": "RTS 2",
-                        "channelCode": "C183.api.telerama.fr"
-                    },
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": "tipik.be"
-                    }
-                ]
-            },
-            {
-                "id": "mtexmzy4mw",
-                "title": "Race",
-                "type": "race",
-                "index": null,
-                "start": "2024-11-24T06:00:00+00:00",
-                "startLocal": "2024-11-23T22:00:00-08:00",
-                "end": "2024-11-24T08:00:00+00:00",
-                "endLocal": "2024-11-24T00:00:00-08:00",
-                "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02n",
-                "weatherRainProbability": 0,
-                "isNightEvent": true,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+",
-                        "channelCode": "C34.api.telerama.fr"
-                    },
-                    {
-                        "countryCode": "CH",
-                        "channelName": "RTS 2",
-                        "channelCode": "C183.api.telerama.fr"
-                    },
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": "tipik.be"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "id": "mtexmzg4nq",
         "type": "f1",
         "index": "23 / 24",
@@ -225,9 +79,9 @@
                 "end": "2024-11-30T15:00:00+00:00",
                 "endLocal": "2024-11-30T18:00:00+03:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 800,
+                "weatherIcon": "01n",
+                "weatherRainProbability": 0,
                 "isNightEvent": true,
                 "channels": [
                     {
@@ -257,9 +111,9 @@
                 "end": "2024-11-30T19:00:00+00:00",
                 "endLocal": "2024-11-30T22:00:00+03:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 800,
+                "weatherIcon": "01n",
+                "weatherRainProbability": 0,
                 "isNightEvent": true,
                 "channels": [
                     {
@@ -449,6 +303,11 @@
                         "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": "tipik.be"
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+",
+                        "channelCode": "C34.api.telerama.fr"
                     }
                 ]
             }
