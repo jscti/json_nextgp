@@ -25,7 +25,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.51,
+                "weatherRainProbability": 0.88,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -39,9 +39,9 @@
                 "end": "2024-12-07T11:10:00+00:00",
                 "endLocal": "2024-12-07T08:10:00-03:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 1,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -55,9 +55,9 @@
                 "end": "2024-12-07T14:03:00+00:00",
                 "endLocal": "2024-12-07T11:03:00-03:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0.79,
                 "isNightEvent": false,
                 "channels": []
             },
@@ -71,9 +71,9 @@
                 "end": "2024-12-07T18:00:00+00:00",
                 "endLocal": "2024-12-07T15:00:00-03:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.62,
                 "isNightEvent": false,
                 "channels": []
             }
