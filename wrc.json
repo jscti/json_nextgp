@@ -1,6 +1,1043 @@
 [
     {
-        "id": "mtiymzixnq",
+        "id": "9fa3ce311",
+        "type": "wrc",
+        "index": "1 / 13",
+        "season": "2024",
+        "title": "Rally de Monte-Carlo",
+        "start": "2024-01-25T19:35:00+00:00",
+        "end": "2024-02-18T12:45:00+00:00",
+        "timezone": "Europe/Paris",
+        "latitude": "43.735386",
+        "longitude": "7.424122",
+        "trackName": "Monaco harbour",
+        "countryCode": "MC",
+        "cityName": "Monaco",
+        "steps": [
+            {
+                "id": "f2ff91561",
+                "title": "Day 1",
+                "type": "race",
+                "index": 1,
+                "start": "2024-02-15T18:05:00+00:00",
+                "startLocal": "2024-02-15T19:05:00+01:00",
+                "end": "2024-02-15T18:35:00+00:00",
+                "endLocal": "2024-02-15T19:35:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": true,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "8babb0677",
+                "title": "Day 2",
+                "type": "race",
+                "index": 2,
+                "start": "2024-02-16T07:55:00+00:00",
+                "startLocal": "2024-02-16T08:55:00+01:00",
+                "end": "2024-02-16T20:00:00+00:00",
+                "endLocal": "2024-02-16T21:00:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": true,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "3cee4dd37",
+                "title": "Day 3",
+                "type": "race",
+                "index": 3,
+                "start": "2024-02-17T06:45:00+00:00",
+                "startLocal": "2024-02-17T07:45:00+01:00",
+                "end": "2024-02-17T19:00:00+00:00",
+                "endLocal": "2024-02-17T20:00:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": true,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "094475da0",
+                "title": "Day 4",
+                "type": "race",
+                "index": 4,
+                "start": "2024-02-18T06:30:00+00:00",
+                "startLocal": "2024-02-18T07:30:00+01:00",
+                "end": "2024-02-18T12:45:00+00:00",
+                "endLocal": "2024-02-18T13:45:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "3fdbcf00a",
+        "type": "wrc",
+        "index": "2 / 13",
+        "season": "2024",
+        "title": "Rally Sweden",
+        "start": "2024-02-15T18:05:00+00:00",
+        "end": "2024-02-18T12:45:00+00:00",
+        "timezone": "Europe/Stockholm",
+        "latitude": 63.8256568,
+        "longitude": 20.2630745,
+        "trackName": "Umea",
+        "countryCode": "SE",
+        "cityName": "Umea",
+        "steps": [
+            {
+                "id": "c29302f9b",
+                "title": "Day 1",
+                "type": "race",
+                "index": 1,
+                "start": "2024-02-15T18:05:00+00:00",
+                "startLocal": "2024-02-15T19:05:00+01:00",
+                "end": "2024-02-15T19:35:00+00:00",
+                "endLocal": "2024-02-15T20:35:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": true,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "b44c6578e",
+                "title": "Day 2",
+                "type": "race",
+                "index": 2,
+                "start": "2024-02-16T07:55:00+00:00",
+                "startLocal": "2024-02-16T08:55:00+01:00",
+                "end": "2024-02-16T19:35:00+00:00",
+                "endLocal": "2024-02-16T20:35:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": true,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "a5d88034c",
+                "title": "Day 3",
+                "type": "race",
+                "index": 3,
+                "start": "2024-02-17T06:45:00+00:00",
+                "startLocal": "2024-02-17T07:45:00+01:00",
+                "end": "2024-02-17T19:35:00+00:00",
+                "endLocal": "2024-02-17T20:35:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": true,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "bec1c1a0f",
+                "title": "Day 4",
+                "type": "race",
+                "index": 4,
+                "start": "2024-02-18T06:25:00+00:00",
+                "startLocal": "2024-02-18T07:25:00+01:00",
+                "end": "2024-02-18T12:45:00+00:00",
+                "endLocal": "2024-02-18T13:45:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "808929ab5",
+        "type": "wrc",
+        "index": "3 / 13",
+        "season": "2024",
+        "title": "Rally Kenya",
+        "start": "2024-03-28T11:05:00+00:00",
+        "end": "2024-03-31T12:45:00+00:00",
+        "timezone": "Africa/Nairobi",
+        "latitude": -0.7224425,
+        "longitude": 36.4387834,
+        "trackName": "Naivasha",
+        "countryCode": "KE",
+        "cityName": "Naivasha",
+        "steps": [
+            {
+                "id": "bb2aa2dc5",
+                "title": "Day 1",
+                "type": "race",
+                "index": 1,
+                "start": "2024-03-28T11:05:00+00:00",
+                "startLocal": "2024-03-28T14:05:00+03:00",
+                "end": "2024-03-28T12:35:00+00:00",
+                "endLocal": "2024-03-28T15:35:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "944cec2e9",
+                "title": "Day 2",
+                "type": "race",
+                "index": 2,
+                "start": "2024-03-29T05:15:00+00:00",
+                "startLocal": "2024-03-29T08:15:00+03:00",
+                "end": "2024-03-29T14:30:00+00:00",
+                "endLocal": "2024-03-29T17:30:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "f6905dc95",
+                "title": "Day 3",
+                "type": "race",
+                "index": 3,
+                "start": "2024-03-30T05:00:00+00:00",
+                "startLocal": "2024-03-30T08:00:00+03:00",
+                "end": "2024-03-30T15:05:00+00:00",
+                "endLocal": "2024-03-30T18:05:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "8fe48b81b",
+                "title": "Day 4",
+                "type": "race",
+                "index": 4,
+                "start": "2024-03-31T04:00:00+00:00",
+                "startLocal": "2024-03-31T07:00:00+03:00",
+                "end": "2024-03-31T12:45:00+00:00",
+                "endLocal": "2024-03-31T15:45:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "3c37ee488",
+        "type": "wrc",
+        "index": "4 / 13",
+        "season": "2024",
+        "title": "Rally Croatia",
+        "start": "2024-04-19T06:25:00+00:00",
+        "end": "2024-04-21T13:15:00+00:00",
+        "timezone": "Europe/Zagreb",
+        "latitude": 45.84264135,
+        "longitude": 15.962231476593626,
+        "trackName": "Zagreb Fair",
+        "countryCode": "HR",
+        "cityName": "Zagreb",
+        "steps": [
+            {
+                "id": "f38c55226",
+                "title": "Day 1",
+                "type": "race",
+                "index": 1,
+                "start": "2024-04-19T06:25:00+00:00",
+                "startLocal": "2024-04-19T08:25:00+02:00",
+                "end": "2024-04-19T17:40:00+00:00",
+                "endLocal": "2024-04-19T19:40:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "330c832a6",
+                "title": "Day 2",
+                "type": "race",
+                "index": 2,
+                "start": "2024-04-20T05:30:00+00:00",
+                "startLocal": "2024-04-20T07:30:00+02:00",
+                "end": "2024-04-20T17:30:00+00:00",
+                "endLocal": "2024-04-20T19:30:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "76b15878b",
+                "title": "Day 3",
+                "type": "race",
+                "index": 3,
+                "start": "2024-04-21T05:05:00+00:00",
+                "startLocal": "2024-04-21T07:05:00+02:00",
+                "end": "2024-04-21T12:45:00+00:00",
+                "endLocal": "2024-04-21T14:45:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "486d3319f",
+        "type": "wrc",
+        "index": "5 / 13",
+        "season": "2024",
+        "title": "Rally de Portugal",
+        "start": "2024-05-09T18:05:00+00:00",
+        "end": "2024-05-12T12:45:00+00:00",
+        "timezone": "Europe/Lisbon",
+        "latitude": 41.1806814,
+        "longitude": -8.6821998,
+        "trackName": "Exponor Exhibition Centre",
+        "countryCode": "PT",
+        "cityName": "Matosinhos",
+        "steps": [
+            {
+                "id": "218029808",
+                "title": "Day 1",
+                "type": "race",
+                "index": 1,
+                "start": "2024-05-09T18:05:00+00:00",
+                "startLocal": "2024-05-09T19:05:00+01:00",
+                "end": "2024-05-09T19:35:00+00:00",
+                "endLocal": "2024-05-09T20:35:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "a20278492",
+                "title": "Day 2",
+                "type": "race",
+                "index": 2,
+                "start": "2024-05-10T07:05:00+00:00",
+                "startLocal": "2024-05-10T08:05:00+01:00",
+                "end": "2024-05-10T18:05:00+00:00",
+                "endLocal": "2024-05-10T19:05:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "7f2c66246",
+                "title": "Day 3",
+                "type": "race",
+                "index": 3,
+                "start": "2024-05-11T07:05:00+00:00",
+                "startLocal": "2024-05-11T08:05:00+01:00",
+                "end": "2024-05-11T19:35:00+00:00",
+                "endLocal": "2024-05-11T20:35:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "eb0e10447",
+                "title": "Day 4",
+                "type": "race",
+                "index": 4,
+                "start": "2024-05-12T06:05:00+00:00",
+                "startLocal": "2024-05-12T07:05:00+01:00",
+                "end": "2024-05-12T12:45:00+00:00",
+                "endLocal": "2024-05-12T13:45:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "74d7000e2",
+        "type": "wrc",
+        "index": "6 / 13",
+        "season": "2024",
+        "title": "Rally Italia",
+        "start": "2024-05-31T12:30:00+00:00",
+        "end": "2024-06-02T11:45:00+00:00",
+        "timezone": "Europe/Rome",
+        "latitude": 40.9232659,
+        "longitude": 9.5027442,
+        "trackName": "Molo Brin",
+        "countryCode": "IT",
+        "cityName": "Olbia",
+        "steps": [
+            {
+                "id": "0ece9d2d6",
+                "title": "Day 1",
+                "type": "race",
+                "index": 1,
+                "start": "2024-05-31T12:30:00+00:00",
+                "startLocal": "2024-05-31T14:30:00+02:00",
+                "end": "2024-05-31T18:05:00+00:00",
+                "endLocal": "2024-05-31T20:05:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "689cd4f59",
+                "title": "Day 2",
+                "type": "race",
+                "index": 2,
+                "start": "2024-06-01T05:40:00+00:00",
+                "startLocal": "2024-06-01T07:40:00+02:00",
+                "end": "2024-06-01T17:35:00+00:00",
+                "endLocal": "2024-06-01T19:35:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "cbf35003a",
+                "title": "Day 3",
+                "type": "race",
+                "index": 3,
+                "start": "2024-06-02T06:00:00+00:00",
+                "startLocal": "2024-06-02T08:00:00+02:00",
+                "end": "2024-06-02T11:45:00+00:00",
+                "endLocal": "2024-06-02T13:45:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "500f0e291",
+        "type": "wrc",
+        "index": "7 / 13",
+        "season": "2024",
+        "title": "Rally Poland",
+        "start": "2024-06-27T17:05:00+00:00",
+        "end": "2024-06-30T13:45:00+00:00",
+        "timezone": "Europe/Warsaw",
+        "latitude": 53.7981816,
+        "longitude": 21.5772462,
+        "trackName": "Mikolajki",
+        "countryCode": "PL",
+        "cityName": "Mikolajki",
+        "steps": [
+            {
+                "id": "e3b5c5dbe",
+                "title": "Day 1",
+                "type": "race",
+                "index": 1,
+                "start": "2024-06-27T17:05:00+00:00",
+                "startLocal": "2024-06-27T19:05:00+02:00",
+                "end": "2024-06-27T18:35:00+00:00",
+                "endLocal": "2024-06-27T20:35:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "6f76a3d36",
+                "title": "Day 2",
+                "type": "race",
+                "index": 2,
+                "start": "2024-06-28T06:45:00+00:00",
+                "startLocal": "2024-06-28T08:45:00+02:00",
+                "end": "2024-06-28T18:30:00+00:00",
+                "endLocal": "2024-06-28T20:30:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "f84a6901c",
+                "title": "Day 3",
+                "type": "race",
+                "index": 3,
+                "start": "2024-06-29T06:30:00+00:00",
+                "startLocal": "2024-06-29T08:30:00+02:00",
+                "end": "2024-06-29T18:00:00+00:00",
+                "endLocal": "2024-06-29T20:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "1b1f53a23",
+                "title": "Day 4",
+                "type": "race",
+                "index": 4,
+                "start": "2024-06-30T07:00:00+00:00",
+                "startLocal": "2024-06-30T09:00:00+02:00",
+                "end": "2024-06-30T13:45:00+00:00",
+                "endLocal": "2024-06-30T15:45:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "ad982ceb1",
+        "type": "wrc",
+        "index": "8 / 13",
+        "season": "2024",
+        "title": "Rally Latvia",
+        "start": "2024-07-18T15:15:00+00:00",
+        "end": "2024-07-21T12:45:00+00:00",
+        "timezone": "Europe/Riga",
+        "latitude": 56.5048435,
+        "longitude": 21.0070903,
+        "trackName": "Liepaja",
+        "countryCode": "LV",
+        "cityName": "Liepaja",
+        "steps": [
+            {
+                "id": "ff234f584",
+                "title": "Day 1",
+                "type": "race",
+                "index": 1,
+                "start": "2024-07-18T15:15:00+00:00",
+                "startLocal": "2024-07-18T18:15:00+03:00",
+                "end": "2024-07-18T18:45:00+00:00",
+                "endLocal": "2024-07-18T21:45:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "cb42f34d2",
+                "title": "Day 2",
+                "type": "race",
+                "index": 2,
+                "start": "2024-07-19T07:00:00+00:00",
+                "startLocal": "2024-07-19T10:00:00+03:00",
+                "end": "2024-07-19T15:50:00+00:00",
+                "endLocal": "2024-07-19T18:50:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "acf9b2b86",
+                "title": "Day 3",
+                "type": "race",
+                "index": 3,
+                "start": "2024-07-20T05:20:00+00:00",
+                "startLocal": "2024-07-20T08:20:00+03:00",
+                "end": "2024-07-20T18:45:00+00:00",
+                "endLocal": "2024-07-20T21:45:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "0ee4b4335",
+                "title": "Day 4",
+                "type": "race",
+                "index": 4,
+                "start": "2024-07-21T05:55:00+00:00",
+                "startLocal": "2024-07-21T08:55:00+03:00",
+                "end": "2024-07-21T12:45:00+00:00",
+                "endLocal": "2024-07-21T15:45:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "b903dd09e",
+        "type": "wrc",
+        "index": "9 / 13",
+        "season": "2024",
+        "title": "Rally Finland",
+        "start": "2024-08-01T15:30:00+00:00",
+        "end": "2024-08-04T11:45:00+00:00",
+        "timezone": "Europe/Helsinki",
+        "latitude": 62.2393431,
+        "longitude": 25.7458236,
+        "trackName": "Jyvaskyla",
+        "countryCode": "FI",
+        "cityName": "Jyvaskyla",
+        "steps": [
+            {
+                "id": "fa7dbff6c",
+                "title": "Day 1",
+                "type": "race",
+                "index": 1,
+                "start": "2024-08-01T15:30:00+00:00",
+                "startLocal": "2024-08-01T18:30:00+03:00",
+                "end": "2024-08-01T17:30:00+00:00",
+                "endLocal": "2024-08-01T20:30:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "9670381a9",
+                "title": "Day 2",
+                "type": "race",
+                "index": 2,
+                "start": "2024-08-02T04:55:00+00:00",
+                "startLocal": "2024-08-02T07:55:00+03:00",
+                "end": "2024-08-02T16:20:00+00:00",
+                "endLocal": "2024-08-02T19:20:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "7964fa1c9",
+                "title": "Day 3",
+                "type": "race",
+                "index": 3,
+                "start": "2024-08-03T05:15:00+00:00",
+                "startLocal": "2024-08-03T08:15:00+03:00",
+                "end": "2024-08-03T19:35:00+00:00",
+                "endLocal": "2024-08-03T22:35:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": true,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "8100a9dc1",
+                "title": "Day 4",
+                "type": "race",
+                "index": 4,
+                "start": "2024-08-04T06:00:00+00:00",
+                "startLocal": "2024-08-04T09:00:00+03:00",
+                "end": "2024-08-04T11:00:00+00:00",
+                "endLocal": "2024-08-04T14:00:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "db089af14",
+        "type": "wrc",
+        "index": "10 / 13",
+        "season": "2024",
+        "title": "Rally Greece",
+        "start": "2024-09-06T04:55:00+00:00",
+        "end": "2024-09-08T11:45:00+00:00",
+        "timezone": "Europe/Athens",
+        "latitude": 38.8993832,
+        "longitude": 22.433582,
+        "trackName": "Lamia",
+        "countryCode": "GR",
+        "cityName": "Lamia",
+        "steps": [
+            {
+                "id": "11e893798",
+                "title": "Day 1",
+                "type": "race",
+                "index": 1,
+                "start": "2024-09-06T04:55:00+00:00",
+                "startLocal": "2024-09-06T07:55:00+03:00",
+                "end": "2024-09-06T16:20:00+00:00",
+                "endLocal": "2024-09-06T19:20:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "6e4dd7603",
+                "title": "Day 2",
+                "type": "race",
+                "index": 2,
+                "start": "2024-09-07T05:15:00+00:00",
+                "startLocal": "2024-09-07T08:15:00+03:00",
+                "end": "2024-09-07T19:35:00+00:00",
+                "endLocal": "2024-09-07T22:35:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": true,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "4512faccf",
+                "title": "Day 3",
+                "type": "race",
+                "index": 3,
+                "start": "2024-09-08T05:55:00+00:00",
+                "startLocal": "2024-09-08T08:55:00+03:00",
+                "end": "2024-09-08T11:45:00+00:00",
+                "endLocal": "2024-09-08T14:45:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "850afc2ae",
+        "type": "wrc",
+        "index": "11 / 13",
+        "season": "2024",
+        "title": "Rally Chile",
+        "start": "2024-09-26T11:35:00+00:00",
+        "end": "2024-09-29T17:35:00+00:00",
+        "timezone": "America/Santiago",
+        "latitude": -36.8270795,
+        "longitude": -73.0502399,
+        "trackName": "Concepcion",
+        "countryCode": "CL",
+        "cityName": "Concepcion",
+        "steps": [
+            {
+                "id": "f7ece4ea2",
+                "title": "Day 1",
+                "type": "race",
+                "index": 1,
+                "start": "2024-09-27T11:35:00+00:00",
+                "startLocal": "2024-09-27T08:35:00-03:00",
+                "end": "2024-09-27T20:15:00+00:00",
+                "endLocal": "2024-09-27T17:15:00-03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "70f54f31a",
+                "title": "Day 2",
+                "type": "race",
+                "index": 2,
+                "start": "2024-09-28T12:05:00+00:00",
+                "startLocal": "2024-09-28T09:05:00-03:00",
+                "end": "2024-09-28T21:35:00+00:00",
+                "endLocal": "2024-09-28T18:35:00-03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "86c7484f4",
+                "title": "Day 3",
+                "type": "race",
+                "index": 3,
+                "start": "2024-09-29T11:20:00+00:00",
+                "startLocal": "2024-09-29T08:20:00-03:00",
+                "end": "2024-09-29T17:35:00+00:00",
+                "endLocal": "2024-09-29T14:35:00-03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "ca0922252",
+        "type": "wrc",
+        "index": "12 / 13",
+        "season": "2024",
+        "title": "Rally Central Europe",
+        "start": "2024-10-17T13:00:00+00:00",
+        "end": "2024-10-20T13:45:00+00:00",
+        "timezone": "Europe/Berlin",
+        "latitude": 48.5748229,
+        "longitude": 13.4609744,
+        "trackName": "Passau",
+        "countryCode": "DE",
+        "cityName": "Passau",
+        "steps": [
+            {
+                "id": "f5f6417e6",
+                "title": "Day 1",
+                "type": "race",
+                "index": 1,
+                "start": "2024-10-17T13:00:00+00:00",
+                "startLocal": "2024-10-17T15:00:00+02:00",
+                "end": "2024-10-17T17:00:00+00:00",
+                "endLocal": "2024-10-17T19:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": true,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "749c57701",
+                "title": "Day 2",
+                "type": "race",
+                "index": 2,
+                "start": "2024-10-18T06:00:00+00:00",
+                "startLocal": "2024-10-18T08:00:00+02:00",
+                "end": "2024-10-18T16:55:00+00:00",
+                "endLocal": "2024-10-18T18:55:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": true,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "06b435444",
+                "title": "Day 3",
+                "type": "race",
+                "index": 3,
+                "start": "2024-10-19T05:55:00+00:00",
+                "startLocal": "2024-10-19T07:55:00+02:00",
+                "end": "2024-10-19T16:35:00+00:00",
+                "endLocal": "2024-10-19T18:35:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": true,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "87f53cca1",
+                "title": "Day 4",
+                "type": "race",
+                "index": 4,
+                "start": "2024-10-20T07:10:00+00:00",
+                "startLocal": "2024-10-20T09:10:00+02:00",
+                "end": "2024-10-20T13:45:00+00:00",
+                "endLocal": "2024-10-20T15:45:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "d14b18f62",
+        "type": "wrc",
+        "index": "13 / 13",
+        "season": "2024",
+        "title": "Rally Japan",
+        "start": "2024-11-21T10:05:00+00:00",
+        "end": "2024-11-24T06:45:00+00:00",
+        "timezone": "Asia/Tokyo",
+        "latitude": 26.2684467,
+        "longitude": 127.7712375,
+        "trackName": "Aichi",
+        "countryCode": "JP",
+        "cityName": "Aichi",
+        "steps": [
+            {
+                "id": "7f22ade14",
+                "title": "Day 1",
+                "type": "race",
+                "index": 1,
+                "start": "2024-11-21T10:05:00+00:00",
+                "startLocal": "2024-11-21T19:05:00+09:00",
+                "end": "2024-11-21T11:35:00+00:00",
+                "endLocal": "2024-11-21T20:35:00+09:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": true,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "565d9e22c",
+                "title": "Day 2",
+                "type": "race",
+                "index": 2,
+                "start": "2024-11-21T22:40:00+00:00",
+                "startLocal": "2024-11-22T07:40:00+09:00",
+                "end": "2024-11-22T11:05:00+00:00",
+                "endLocal": "2024-11-22T20:05:00+09:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": true,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "44380c300",
+                "title": "Day 3",
+                "type": "race",
+                "index": 3,
+                "start": "2024-11-22T23:05:00+00:00",
+                "startLocal": "2024-11-23T08:05:00+09:00",
+                "end": "2024-11-23T11:35:00+00:00",
+                "endLocal": "2024-11-23T20:35:00+09:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": true,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "68a791041",
+                "title": "Day 4",
+                "type": "race",
+                "index": 4,
+                "start": "2024-11-23T22:35:00+00:00",
+                "startLocal": "2024-11-24T07:35:00+09:00",
+                "end": "2024-11-24T06:45:00+00:00",
+                "endLocal": "2024-11-24T15:45:00+09:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "962d02e5d",
         "type": "wrc",
         "index": "1 / 14",
         "season": "2025",
@@ -15,7 +1052,7 @@
         "cityName": null,
         "steps": [
             {
-                "id": "mtiymzixnw",
+                "id": "1cba3bf68",
                 "title": "Day 1",
                 "type": "race",
                 "index": 1,
@@ -28,10 +1065,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiymzixoq",
+                "id": "5cfc6967f",
                 "title": "Day 2",
                 "type": "race",
                 "index": 2,
@@ -44,10 +1082,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiymziymq",
+                "id": "7bf5e2fe4",
                 "title": "Day 3",
                 "type": "race",
                 "index": 3,
@@ -60,10 +1099,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiymziymw",
+                "id": "8c644f583",
                 "title": "Day 4",
                 "type": "race",
                 "index": 4,
@@ -76,12 +1116,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mtiymziynw",
+        "id": "337acbe5b",
         "type": "wrc",
         "index": "2 / 14",
         "season": "2025",
@@ -96,7 +1137,7 @@
         "cityName": null,
         "steps": [
             {
-                "id": "mtiymziyoq",
+                "id": "ff9f96e8e",
                 "title": "Day 1",
                 "type": "race",
                 "index": 1,
@@ -109,10 +1150,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiymzizmq",
+                "id": "cc9e1e075",
                 "title": "Day 2",
                 "type": "race",
                 "index": 2,
@@ -125,10 +1167,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiymzizmw",
+                "id": "7de919089",
                 "title": "Day 3",
                 "type": "race",
                 "index": 3,
@@ -141,10 +1184,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiymziznq",
+                "id": "7bae240d8",
                 "title": "Day 4",
                 "type": "race",
                 "index": 4,
@@ -157,12 +1201,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mtiymzizoq",
+        "id": "a43182aab",
         "type": "wrc",
         "index": "3 / 14",
         "season": "2025",
@@ -177,7 +1222,7 @@
         "cityName": null,
         "steps": [
             {
-                "id": "mtiymzi0mq",
+                "id": "11d065cd2",
                 "title": "Day 1",
                 "type": "race",
                 "index": 1,
@@ -190,10 +1235,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiymzi0mw",
+                "id": "2b8d134cb",
                 "title": "Day 2",
                 "type": "race",
                 "index": 2,
@@ -206,10 +1252,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiymzi0nq",
+                "id": "bcf59e05b",
                 "title": "Day 3",
                 "type": "race",
                 "index": 3,
@@ -222,10 +1269,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiymzi0nw",
+                "id": "16cf9a2c5",
                 "title": "Day 4",
                 "type": "race",
                 "index": 4,
@@ -238,12 +1286,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mtiymzi1mq",
+        "id": "4f034dd2f",
         "type": "wrc",
         "index": "4 / 14",
         "season": "2025",
@@ -258,7 +1307,7 @@
         "cityName": null,
         "steps": [
             {
-                "id": "mtiymzi1mw",
+                "id": "7e5dc3a67",
                 "title": "Day 1",
                 "type": "race",
                 "index": 1,
@@ -271,10 +1320,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiymzi1nq",
+                "id": "8b699a655",
                 "title": "Day 2",
                 "type": "race",
                 "index": 2,
@@ -287,10 +1337,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiymzi1nw",
+                "id": "63473e120",
                 "title": "Day 3",
                 "type": "race",
                 "index": 3,
@@ -303,10 +1354,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiymzi1oq",
+                "id": "800b2926f",
                 "title": "Day 4",
                 "type": "race",
                 "index": 4,
@@ -319,12 +1371,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mtiymzi2mw",
+        "id": "696af4c51",
         "type": "wrc",
         "index": "5 / 14",
         "season": "2025",
@@ -339,7 +1392,7 @@
         "cityName": null,
         "steps": [
             {
-                "id": "mtiymzi2nq",
+                "id": "6982767cd",
                 "title": "Day 1",
                 "type": "race",
                 "index": 1,
@@ -352,10 +1405,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiymzi2nw",
+                "id": "e6ddb1297",
                 "title": "Day 2",
                 "type": "race",
                 "index": 2,
@@ -368,10 +1422,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiymzi2oq",
+                "id": "81f5dd643",
                 "title": "Day 3",
                 "type": "race",
                 "index": 3,
@@ -384,10 +1439,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiymzi3mq",
+                "id": "3c55282f9",
                 "title": "Day 4",
                 "type": "race",
                 "index": 4,
@@ -400,12 +1456,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mtiymzi3nq",
+        "id": "8858b7a8a",
         "type": "wrc",
         "index": "6 / 14",
         "season": "2025",
@@ -420,7 +1477,7 @@
         "cityName": null,
         "steps": [
             {
-                "id": "mtiymzi3nw",
+                "id": "c7c39e02f",
                 "title": "Day 1",
                 "type": "race",
                 "index": 1,
@@ -433,10 +1490,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiymzi3oq",
+                "id": "ff68f10b5",
                 "title": "Day 2",
                 "type": "race",
                 "index": 2,
@@ -449,10 +1507,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiymzi4mq",
+                "id": "01a461e21",
                 "title": "Day 3",
                 "type": "race",
                 "index": 3,
@@ -465,10 +1524,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiymzi4mw",
+                "id": "0d245a6c1",
                 "title": "Day 4",
                 "type": "race",
                 "index": 4,
@@ -481,12 +1541,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mtiymzi4nw",
+        "id": "bd7561e69",
         "type": "wrc",
         "index": "7 / 14",
         "season": "2025",
@@ -501,7 +1562,7 @@
         "cityName": null,
         "steps": [
             {
-                "id": "mtiymzi4oq",
+                "id": "8f2be3f63",
                 "title": "Day 1",
                 "type": "race",
                 "index": 1,
@@ -514,10 +1575,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiymzi5mq",
+                "id": "4136e466d",
                 "title": "Day 2",
                 "type": "race",
                 "index": 2,
@@ -530,10 +1592,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiymzi5mw",
+                "id": "afd3eb337",
                 "title": "Day 3",
                 "type": "race",
                 "index": 3,
@@ -546,10 +1609,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiymzi5nq",
+                "id": "22d8f3e40",
                 "title": "Day 4",
                 "type": "race",
                 "index": 4,
@@ -562,12 +1626,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mtiymzi5oq",
+        "id": "aaddd0d0e",
         "type": "wrc",
         "index": "8 / 14",
         "season": "2025",
@@ -582,7 +1647,7 @@
         "cityName": null,
         "steps": [
             {
-                "id": "mtiymzmwmq",
+                "id": "211126105",
                 "title": "Day 1",
                 "type": "race",
                 "index": 1,
@@ -595,10 +1660,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiymzmwmw",
+                "id": "9955aa8be",
                 "title": "Day 2",
                 "type": "race",
                 "index": 2,
@@ -611,10 +1677,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiymzmwnq",
+                "id": "aca957b8e",
                 "title": "Day 3",
                 "type": "race",
                 "index": 3,
@@ -627,10 +1694,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiymzmwnw",
+                "id": "f5ef0fef3",
                 "title": "Day 4",
                 "type": "race",
                 "index": 4,
@@ -643,12 +1711,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mtiymzmxmq",
+        "id": "9e0ff0b92",
         "type": "wrc",
         "index": "9 / 14",
         "season": "2025",
@@ -663,7 +1732,7 @@
         "cityName": null,
         "steps": [
             {
-                "id": "mtiymzmxmw",
+                "id": "8aa387a07",
                 "title": "Day 1",
                 "type": "race",
                 "index": 1,
@@ -676,10 +1745,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiymzmxnq",
+                "id": "0cb7e027c",
                 "title": "Day 2",
                 "type": "race",
                 "index": 2,
@@ -692,10 +1762,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiymzmxnw",
+                "id": "387bdaeeb",
                 "title": "Day 3",
                 "type": "race",
                 "index": 3,
@@ -708,10 +1779,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiymzmxoq",
+                "id": "5cffcd04a",
                 "title": "Day 4",
                 "type": "race",
                 "index": 4,
@@ -724,12 +1796,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mtiymzmymw",
+        "id": "0707e1f0f",
         "type": "wrc",
         "index": "10 / 14",
         "season": "2025",
@@ -744,7 +1817,7 @@
         "cityName": null,
         "steps": [
             {
-                "id": "mtiymzmynq",
+                "id": "4814834ff",
                 "title": "Day 1",
                 "type": "race",
                 "index": 1,
@@ -757,10 +1830,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiymzmynw",
+                "id": "20f8d453e",
                 "title": "Day 2",
                 "type": "race",
                 "index": 2,
@@ -773,10 +1847,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiymzmyoq",
+                "id": "7a441f240",
                 "title": "Day 3",
                 "type": "race",
                 "index": 3,
@@ -789,10 +1864,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiymzmzmq",
+                "id": "7a66ccf1b",
                 "title": "Day 4",
                 "type": "race",
                 "index": 4,
@@ -805,12 +1881,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mtiymzmznq",
+        "id": "12f62caf6",
         "type": "wrc",
         "index": "11 / 14",
         "season": "2025",
@@ -825,7 +1902,7 @@
         "cityName": null,
         "steps": [
             {
-                "id": "mtiymzmznw",
+                "id": "d4a3cb7e6",
                 "title": "Day 1",
                 "type": "race",
                 "index": 1,
@@ -838,10 +1915,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiymzmzoq",
+                "id": "d75247c74",
                 "title": "Day 2",
                 "type": "race",
                 "index": 2,
@@ -854,10 +1932,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiymzm0mq",
+                "id": "a053dad33",
                 "title": "Day 3",
                 "type": "race",
                 "index": 3,
@@ -870,10 +1949,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiymzm0mw",
+                "id": "184d90122",
                 "title": "Day 4",
                 "type": "race",
                 "index": 4,
@@ -886,12 +1966,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mtiymzm0nw",
+        "id": "118567d81",
         "type": "wrc",
         "index": "12 / 14",
         "season": "2025",
@@ -906,7 +1987,7 @@
         "cityName": null,
         "steps": [
             {
-                "id": "mtiymzm0oq",
+                "id": "1b5301cc0",
                 "title": "Day 1",
                 "type": "race",
                 "index": 1,
@@ -919,10 +2000,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiymzm1mq",
+                "id": "36dbf423d",
                 "title": "Day 2",
                 "type": "race",
                 "index": 2,
@@ -935,10 +2017,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiymzm1mw",
+                "id": "6de2cbadd",
                 "title": "Day 3",
                 "type": "race",
                 "index": 3,
@@ -951,10 +2034,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiymzm1nq",
+                "id": "1f86e8c78",
                 "title": "Day 4",
                 "type": "race",
                 "index": 4,
@@ -967,12 +2051,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mtiymzm1oq",
+        "id": "c6c7f40f0",
         "type": "wrc",
         "index": "13 / 14",
         "season": "2025",
@@ -987,7 +2072,7 @@
         "cityName": null,
         "steps": [
             {
-                "id": "mtiymzm2mq",
+                "id": "61f132ece",
                 "title": "Day 1",
                 "type": "race",
                 "index": 1,
@@ -1000,10 +2085,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiymzm2mw",
+                "id": "22b088271",
                 "title": "Day 2",
                 "type": "race",
                 "index": 2,
@@ -1016,10 +2102,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiymzm2nq",
+                "id": "8ae8f5e4b",
                 "title": "Day 3",
                 "type": "race",
                 "index": 3,
@@ -1032,10 +2119,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiymzm2nw",
+                "id": "3f6028602",
                 "title": "Day 4",
                 "type": "race",
                 "index": 4,
@@ -1048,12 +2136,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mtiymzm3mq",
+        "id": "c39973cc1",
         "type": "wrc",
         "index": "14 / 14",
         "season": "2025",
@@ -1068,7 +2157,7 @@
         "cityName": null,
         "steps": [
             {
-                "id": "mtiymzm3mw",
+                "id": "4bf79fcab",
                 "title": "Day 1",
                 "type": "race",
                 "index": 1,
@@ -1081,10 +2170,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiymzm3nq",
+                "id": "ed6a47825",
                 "title": "Day 2",
                 "type": "race",
                 "index": 2,
@@ -1097,10 +2187,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiymzm3nw",
+                "id": "926760702",
                 "title": "Day 3",
                 "type": "race",
                 "index": 3,
@@ -1113,10 +2204,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiymzm3oq",
+                "id": "0991d759c",
                 "title": "Day 4",
                 "type": "race",
                 "index": 4,
@@ -1129,7 +2221,8 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     }
