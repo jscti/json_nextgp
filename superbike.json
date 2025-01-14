@@ -1,6 +1,1661 @@
 [
     {
-        "id": "mti1nzgwnw",
+        "id": "d5d9b0f40",
+        "type": "superbike",
+        "index": "1 / 12",
+        "season": "2024",
+        "title": "Phillip Island",
+        "start": "2024-02-23T00:20:00+00:00",
+        "end": "2024-02-25T06:00:00+00:00",
+        "timezone": "Australia/Victoria",
+        "latitude": "-38.501418",
+        "longitude": "145.232269",
+        "trackName": "Phillip Island Circuit",
+        "countryCode": "AU",
+        "cityName": "Phillip Island",
+        "steps": [
+            {
+                "id": "bac845c6e",
+                "title": "Free practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2024-02-23T00:20:00+00:00",
+                "startLocal": "2024-02-23T11:20:00+11:00",
+                "end": "2024-02-23T01:05:00+00:00",
+                "endLocal": "2024-02-23T12:05:00+11:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "0151bf7f7",
+                "title": "Free practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2024-02-23T05:00:00+00:00",
+                "startLocal": "2024-02-23T16:00:00+11:00",
+                "end": "2024-02-23T05:45:00+00:00",
+                "endLocal": "2024-02-23T16:45:00+11:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "cb92e2371",
+                "title": "Free practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2024-02-23T23:00:00+00:00",
+                "startLocal": "2024-02-24T10:00:00+11:00",
+                "end": "2024-02-23T23:20:00+00:00",
+                "endLocal": "2024-02-24T10:20:00+11:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "627374767",
+                "title": "Qualifying",
+                "subtitle": "Superpole",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-02-24T02:00:00+00:00",
+                "startLocal": "2024-02-24T13:00:00+11:00",
+                "end": "2024-02-24T02:15:00+00:00",
+                "endLocal": "2024-02-24T13:15:00+11:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "33343d494",
+                "title": "Race 1",
+                "type": "race",
+                "index": 1,
+                "start": "2024-02-24T05:00:00+00:00",
+                "startLocal": "2024-02-24T16:00:00+11:00",
+                "end": "2024-02-24T06:00:00+00:00",
+                "endLocal": "2024-02-24T17:00:00+11:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "d8a0ab606",
+                "title": "Superpole Race",
+                "subtitle": "Superpole",
+                "type": "race",
+                "index": null,
+                "start": "2024-02-25T02:00:00+00:00",
+                "startLocal": "2024-02-25T13:00:00+11:00",
+                "end": "2024-02-25T02:30:00+00:00",
+                "endLocal": "2024-02-25T13:30:00+11:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "96d18a114",
+                "title": "Race 2",
+                "type": "race",
+                "index": 2,
+                "start": "2024-02-25T05:00:00+00:00",
+                "startLocal": "2024-02-25T16:00:00+11:00",
+                "end": "2024-02-25T06:00:00+00:00",
+                "endLocal": "2024-02-25T17:00:00+11:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "8b69c6a5b",
+        "type": "superbike",
+        "index": "2 / 12",
+        "season": "2024",
+        "title": "Catalunya",
+        "start": "2024-03-22T09:20:00+00:00",
+        "end": "2024-03-24T14:00:00+00:00",
+        "timezone": "Europe/Madrid",
+        "latitude": "41.57",
+        "longitude": "2.261111",
+        "trackName": "Circuit de Catalunya",
+        "countryCode": "ES",
+        "cityName": "Barcelona",
+        "steps": [
+            {
+                "id": "f3c8f3960",
+                "title": "Free practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2024-03-22T09:20:00+00:00",
+                "startLocal": "2024-03-22T10:20:00+01:00",
+                "end": "2024-03-22T10:05:00+00:00",
+                "endLocal": "2024-03-22T11:05:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "cb73d2869",
+                "title": "Free practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2024-03-22T14:00:00+00:00",
+                "startLocal": "2024-03-22T15:00:00+01:00",
+                "end": "2024-03-22T14:45:00+00:00",
+                "endLocal": "2024-03-22T15:45:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "8ea470d09",
+                "title": "Free practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2024-03-23T08:00:00+00:00",
+                "startLocal": "2024-03-23T09:00:00+01:00",
+                "end": "2024-03-23T08:20:00+00:00",
+                "endLocal": "2024-03-23T09:20:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "c176bdcc9",
+                "title": "Qualifying",
+                "subtitle": "Superpole",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-03-23T10:00:00+00:00",
+                "startLocal": "2024-03-23T11:00:00+01:00",
+                "end": "2024-03-23T10:15:00+00:00",
+                "endLocal": "2024-03-23T11:15:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "9b5cf5366",
+                "title": "Race 1",
+                "type": "race",
+                "index": 1,
+                "start": "2024-03-23T13:00:00+00:00",
+                "startLocal": "2024-03-23T14:00:00+01:00",
+                "end": "2024-03-23T14:00:00+00:00",
+                "endLocal": "2024-03-23T15:00:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "2ce1d95be",
+                "title": "Superpole Race",
+                "subtitle": "Superpole",
+                "type": "race",
+                "index": null,
+                "start": "2024-03-24T10:00:00+00:00",
+                "startLocal": "2024-03-24T11:00:00+01:00",
+                "end": "2024-03-24T10:30:00+00:00",
+                "endLocal": "2024-03-24T11:30:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "99171b361",
+                "title": "Race 2",
+                "type": "race",
+                "index": 2,
+                "start": "2024-03-24T13:00:00+00:00",
+                "startLocal": "2024-03-24T14:00:00+01:00",
+                "end": "2024-03-24T14:00:00+00:00",
+                "endLocal": "2024-03-24T15:00:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "89a39327d",
+        "type": "superbike",
+        "index": "3 / 12",
+        "season": "2024",
+        "title": "Assen",
+        "start": "2024-04-19T08:20:00+00:00",
+        "end": "2024-04-21T13:00:00+00:00",
+        "timezone": "Europe/Brussels",
+        "latitude": "52.962074",
+        "longitude": "6.523558",
+        "trackName": "TT Circuit Assen",
+        "countryCode": "NL",
+        "cityName": "Assen",
+        "steps": [
+            {
+                "id": "fdffe9494",
+                "title": "Free practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2024-04-19T08:20:00+00:00",
+                "startLocal": "2024-04-19T10:20:00+02:00",
+                "end": "2024-04-19T09:05:00+00:00",
+                "endLocal": "2024-04-19T11:05:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "7e16e2c36",
+                "title": "Free practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2024-04-19T13:00:00+00:00",
+                "startLocal": "2024-04-19T15:00:00+02:00",
+                "end": "2024-04-19T13:45:00+00:00",
+                "endLocal": "2024-04-19T15:45:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "b98791bea",
+                "title": "Free practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2024-04-20T07:00:00+00:00",
+                "startLocal": "2024-04-20T09:00:00+02:00",
+                "end": "2024-04-20T07:20:00+00:00",
+                "endLocal": "2024-04-20T09:20:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "5600735a9",
+                "title": "Qualifying",
+                "subtitle": "Superpole",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-04-20T09:00:00+00:00",
+                "startLocal": "2024-04-20T11:00:00+02:00",
+                "end": "2024-04-20T09:15:00+00:00",
+                "endLocal": "2024-04-20T11:15:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "e297ed4ed",
+                "title": "Race 1",
+                "type": "race",
+                "index": 1,
+                "start": "2024-04-20T12:00:00+00:00",
+                "startLocal": "2024-04-20T14:00:00+02:00",
+                "end": "2024-04-20T13:00:00+00:00",
+                "endLocal": "2024-04-20T15:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "3325b7c68",
+                "title": "Superpole Race",
+                "subtitle": "Superpole",
+                "type": "race",
+                "index": null,
+                "start": "2024-04-21T09:00:00+00:00",
+                "startLocal": "2024-04-21T11:00:00+02:00",
+                "end": "2024-04-21T09:30:00+00:00",
+                "endLocal": "2024-04-21T11:30:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "273e73285",
+                "title": "Race 2",
+                "type": "race",
+                "index": 2,
+                "start": "2024-04-21T12:00:00+00:00",
+                "startLocal": "2024-04-21T14:00:00+02:00",
+                "end": "2024-04-21T13:00:00+00:00",
+                "endLocal": "2024-04-21T15:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "dcccbfb2d",
+        "type": "superbike",
+        "index": "4 / 12",
+        "season": "2024",
+        "title": "Misano",
+        "start": "2024-06-14T08:20:00+00:00",
+        "end": "2024-06-16T13:00:00+00:00",
+        "timezone": "Europe/Rome",
+        "latitude": "43.961364",
+        "longitude": "12.683075",
+        "trackName": "Misano World Circuit",
+        "countryCode": "IT",
+        "cityName": "Misano Adriatico",
+        "steps": [
+            {
+                "id": "b4e3792fa",
+                "title": "Free practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2024-06-14T08:20:00+00:00",
+                "startLocal": "2024-06-14T10:20:00+02:00",
+                "end": "2024-06-14T09:05:00+00:00",
+                "endLocal": "2024-06-14T11:05:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "da65f67ec",
+                "title": "Free practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2024-06-14T13:00:00+00:00",
+                "startLocal": "2024-06-14T15:00:00+02:00",
+                "end": "2024-06-14T13:45:00+00:00",
+                "endLocal": "2024-06-14T15:45:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "682356b12",
+                "title": "Free practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2024-06-15T07:00:00+00:00",
+                "startLocal": "2024-06-15T09:00:00+02:00",
+                "end": "2024-06-15T07:20:00+00:00",
+                "endLocal": "2024-06-15T09:20:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "ab36c1dd5",
+                "title": "Qualifying",
+                "subtitle": "Superpole",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-06-15T09:00:00+00:00",
+                "startLocal": "2024-06-15T11:00:00+02:00",
+                "end": "2024-06-15T09:15:00+00:00",
+                "endLocal": "2024-06-15T11:15:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "1ac6e0f6c",
+                "title": "Race 1",
+                "type": "race",
+                "index": 1,
+                "start": "2024-06-15T12:00:00+00:00",
+                "startLocal": "2024-06-15T14:00:00+02:00",
+                "end": "2024-06-15T13:00:00+00:00",
+                "endLocal": "2024-06-15T15:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "ea540a532",
+                "title": "Superpole Race",
+                "subtitle": "Superpole",
+                "type": "race",
+                "index": null,
+                "start": "2024-06-16T09:00:00+00:00",
+                "startLocal": "2024-06-16T11:00:00+02:00",
+                "end": "2024-06-16T09:30:00+00:00",
+                "endLocal": "2024-06-16T11:30:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "cfda89cbc",
+                "title": "Race 2",
+                "type": "race",
+                "index": 2,
+                "start": "2024-06-16T12:00:00+00:00",
+                "startLocal": "2024-06-16T14:00:00+02:00",
+                "end": "2024-06-16T13:00:00+00:00",
+                "endLocal": "2024-06-16T15:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "f70bc39ab",
+        "type": "superbike",
+        "index": "5 / 12",
+        "season": "2024",
+        "title": "Donington",
+        "start": "2024-07-12T09:20:00+00:00",
+        "end": "2024-07-14T14:00:00+00:00",
+        "timezone": "Europe/London",
+        "latitude": "52.830382",
+        "longitude": "-1.378214",
+        "trackName": "Donington Park Circuit",
+        "countryCode": "GB",
+        "cityName": "Derby",
+        "steps": [
+            {
+                "id": "c1c23391d",
+                "title": "Free practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2024-07-12T09:20:00+00:00",
+                "startLocal": "2024-07-12T10:20:00+01:00",
+                "end": "2024-07-12T10:05:00+00:00",
+                "endLocal": "2024-07-12T11:05:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "d8b8dd07a",
+                "title": "Free practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2024-07-12T14:00:00+00:00",
+                "startLocal": "2024-07-12T15:00:00+01:00",
+                "end": "2024-07-12T14:45:00+00:00",
+                "endLocal": "2024-07-12T15:45:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "227275061",
+                "title": "Free practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2024-07-13T08:00:00+00:00",
+                "startLocal": "2024-07-13T09:00:00+01:00",
+                "end": "2024-07-13T08:20:00+00:00",
+                "endLocal": "2024-07-13T09:20:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "47018a534",
+                "title": "Qualifying",
+                "subtitle": "Superpole",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-07-13T10:00:00+00:00",
+                "startLocal": "2024-07-13T11:00:00+01:00",
+                "end": "2024-07-13T10:15:00+00:00",
+                "endLocal": "2024-07-13T11:15:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "8b8895022",
+                "title": "Race 1",
+                "type": "race",
+                "index": 1,
+                "start": "2024-07-13T13:00:00+00:00",
+                "startLocal": "2024-07-13T14:00:00+01:00",
+                "end": "2024-07-13T14:00:00+00:00",
+                "endLocal": "2024-07-13T15:00:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "3a24a38c5",
+                "title": "Superpole Race",
+                "subtitle": "Superpole",
+                "type": "race",
+                "index": null,
+                "start": "2024-07-14T10:00:00+00:00",
+                "startLocal": "2024-07-14T11:00:00+01:00",
+                "end": "2024-07-14T10:30:00+00:00",
+                "endLocal": "2024-07-14T11:30:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "95f258de1",
+                "title": "Race 2",
+                "type": "race",
+                "index": 2,
+                "start": "2024-07-14T13:00:00+00:00",
+                "startLocal": "2024-07-14T14:00:00+01:00",
+                "end": "2024-07-14T14:00:00+00:00",
+                "endLocal": "2024-07-14T15:00:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "08af8ea1b",
+        "type": "superbike",
+        "index": "6 / 12",
+        "season": "2024",
+        "title": "Most",
+        "start": "2024-07-19T08:20:00+00:00",
+        "end": "2024-07-21T13:00:00+00:00",
+        "timezone": "Europe/Prague",
+        "latitude": "50.522669",
+        "longitude": "13.60106",
+        "trackName": "Autodrom Most",
+        "countryCode": "CZ",
+        "cityName": "Most",
+        "steps": [
+            {
+                "id": "00a63fc93",
+                "title": "Free practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2024-07-19T08:20:00+00:00",
+                "startLocal": "2024-07-19T10:20:00+02:00",
+                "end": "2024-07-19T09:05:00+00:00",
+                "endLocal": "2024-07-19T11:05:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "cfbb2871e",
+                "title": "Free practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2024-07-19T13:00:00+00:00",
+                "startLocal": "2024-07-19T15:00:00+02:00",
+                "end": "2024-07-19T13:45:00+00:00",
+                "endLocal": "2024-07-19T15:45:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "adcc37587",
+                "title": "Free practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2024-07-20T07:00:00+00:00",
+                "startLocal": "2024-07-20T09:00:00+02:00",
+                "end": "2024-07-20T07:20:00+00:00",
+                "endLocal": "2024-07-20T09:20:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "e1e570321",
+                "title": "Qualifying",
+                "subtitle": "Superpole",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-07-20T09:00:00+00:00",
+                "startLocal": "2024-07-20T11:00:00+02:00",
+                "end": "2024-07-20T09:15:00+00:00",
+                "endLocal": "2024-07-20T11:15:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "da286793b",
+                "title": "Race 1",
+                "type": "race",
+                "index": 1,
+                "start": "2024-07-20T12:00:00+00:00",
+                "startLocal": "2024-07-20T14:00:00+02:00",
+                "end": "2024-07-20T13:00:00+00:00",
+                "endLocal": "2024-07-20T15:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "190312c7c",
+                "title": "Superpole Race",
+                "subtitle": "Superpole",
+                "type": "race",
+                "index": null,
+                "start": "2024-07-21T09:00:00+00:00",
+                "startLocal": "2024-07-21T11:00:00+02:00",
+                "end": "2024-07-21T09:30:00+00:00",
+                "endLocal": "2024-07-21T11:30:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "70875ae4c",
+                "title": "Race 2",
+                "type": "race",
+                "index": 2,
+                "start": "2024-07-21T12:00:00+00:00",
+                "startLocal": "2024-07-21T14:00:00+02:00",
+                "end": "2024-07-21T13:00:00+00:00",
+                "endLocal": "2024-07-21T15:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "73b68ddc2",
+        "type": "superbike",
+        "index": "7 / 12",
+        "season": "2024",
+        "title": "Algarve",
+        "start": "2024-08-09T12:15:00+00:00",
+        "end": "2024-08-11T18:00:00+00:00",
+        "timezone": "Europe/Lisbon",
+        "latitude": "37.2313331",
+        "longitude": "-8.6305163",
+        "trackName": "Autodromo International Algarve",
+        "countryCode": "PT",
+        "cityName": "Portimao",
+        "steps": [
+            {
+                "id": "0edf71876",
+                "title": "Free practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2024-08-09T12:15:00+00:00",
+                "startLocal": "2024-08-09T13:15:00+01:00",
+                "end": "2024-08-09T13:00:00+00:00",
+                "endLocal": "2024-08-09T14:00:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "2720b136e",
+                "title": "Free practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2024-08-09T17:00:00+00:00",
+                "startLocal": "2024-08-09T18:00:00+01:00",
+                "end": "2024-08-09T17:45:00+00:00",
+                "endLocal": "2024-08-09T18:45:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "0da100013",
+                "title": "Free practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2024-08-10T11:10:00+00:00",
+                "startLocal": "2024-08-10T12:10:00+01:00",
+                "end": "2024-08-10T11:30:00+00:00",
+                "endLocal": "2024-08-10T12:30:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "5f2938a43",
+                "title": "Qualifying",
+                "subtitle": "Superpole",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-08-10T13:45:00+00:00",
+                "startLocal": "2024-08-10T14:45:00+01:00",
+                "end": "2024-08-10T14:00:00+00:00",
+                "endLocal": "2024-08-10T15:00:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "ff9119a3f",
+                "title": "Race 1",
+                "type": "race",
+                "index": 1,
+                "start": "2024-08-10T17:00:00+00:00",
+                "startLocal": "2024-08-10T18:00:00+01:00",
+                "end": "2024-08-10T18:00:00+00:00",
+                "endLocal": "2024-08-10T19:00:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "3df14421a",
+                "title": "Superpole Race",
+                "subtitle": "Superpole",
+                "type": "race",
+                "index": null,
+                "start": "2024-08-11T13:45:00+00:00",
+                "startLocal": "2024-08-11T14:45:00+01:00",
+                "end": "2024-08-11T14:15:00+00:00",
+                "endLocal": "2024-08-11T15:15:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "417dd6c66",
+                "title": "Race 2",
+                "type": "race",
+                "index": 2,
+                "start": "2024-08-11T17:00:00+00:00",
+                "startLocal": "2024-08-11T18:00:00+01:00",
+                "end": "2024-08-11T18:00:00+00:00",
+                "endLocal": "2024-08-11T19:00:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "c2e4aa94e",
+        "type": "superbike",
+        "index": "8 / 12",
+        "season": "2024",
+        "title": "Magny Cours",
+        "start": "2024-09-06T08:20:00+00:00",
+        "end": "2024-09-08T14:30:00+00:00",
+        "timezone": "Europe/Paris",
+        "latitude": "46.863029",
+        "longitude": "3.162741",
+        "trackName": "Circuit de Nevers",
+        "countryCode": "FR",
+        "cityName": "Magny-Cours",
+        "steps": [
+            {
+                "id": "2ff489ec5",
+                "title": "Free practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2024-09-06T08:20:00+00:00",
+                "startLocal": "2024-09-06T10:20:00+02:00",
+                "end": "2024-09-06T09:05:00+00:00",
+                "endLocal": "2024-09-06T11:05:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "ad93e4722",
+                "title": "Free practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2024-09-06T13:00:00+00:00",
+                "startLocal": "2024-09-06T15:00:00+02:00",
+                "end": "2024-09-06T13:45:00+00:00",
+                "endLocal": "2024-09-06T15:45:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "4c3395aaf",
+                "title": "Free practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2024-09-07T07:00:00+00:00",
+                "startLocal": "2024-09-07T09:00:00+02:00",
+                "end": "2024-09-07T07:20:00+00:00",
+                "endLocal": "2024-09-07T09:20:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "666015fa9",
+                "title": "Qualifying",
+                "subtitle": "Superpole",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-09-07T09:00:00+00:00",
+                "startLocal": "2024-09-07T11:00:00+02:00",
+                "end": "2024-09-07T09:15:00+00:00",
+                "endLocal": "2024-09-07T11:15:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "d7b9c56e1",
+                "title": "Race 1",
+                "type": "race",
+                "index": 1,
+                "start": "2024-09-07T12:00:00+00:00",
+                "startLocal": "2024-09-07T14:00:00+02:00",
+                "end": "2024-09-07T13:00:00+00:00",
+                "endLocal": "2024-09-07T15:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "b4f860ad4",
+                "title": "Superpole Race",
+                "subtitle": "Superpole",
+                "type": "race",
+                "index": null,
+                "start": "2024-09-08T09:00:00+00:00",
+                "startLocal": "2024-09-08T11:00:00+02:00",
+                "end": "2024-09-08T09:30:00+00:00",
+                "endLocal": "2024-09-08T11:30:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "81bac71af",
+                "title": "Race 2",
+                "type": "race",
+                "index": 2,
+                "start": "2024-09-08T13:30:00+00:00",
+                "startLocal": "2024-09-08T15:30:00+02:00",
+                "end": "2024-09-08T14:30:00+00:00",
+                "endLocal": "2024-09-08T16:30:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "cbabcc345",
+        "type": "superbike",
+        "index": "9 / 12",
+        "season": "2024",
+        "title": "Cremona",
+        "start": "2024-09-20T08:20:00+00:00",
+        "end": "2024-09-22T13:00:00+00:00",
+        "timezone": "Europe/Rome",
+        "latitude": 45.1334796,
+        "longitude": 10.0248716,
+        "trackName": "Cremona Circuit",
+        "countryCode": "IT",
+        "cityName": "Cremona",
+        "steps": [
+            {
+                "id": "45ea3ba84",
+                "title": "Free practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2024-09-20T08:20:00+00:00",
+                "startLocal": "2024-09-20T10:20:00+02:00",
+                "end": "2024-09-20T09:05:00+00:00",
+                "endLocal": "2024-09-20T11:05:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "31fa56604",
+                "title": "Free practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2024-09-20T13:00:00+00:00",
+                "startLocal": "2024-09-20T15:00:00+02:00",
+                "end": "2024-09-20T13:45:00+00:00",
+                "endLocal": "2024-09-20T15:45:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "6c620543b",
+                "title": "Free practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2024-09-21T07:00:00+00:00",
+                "startLocal": "2024-09-21T09:00:00+02:00",
+                "end": "2024-09-21T07:20:00+00:00",
+                "endLocal": "2024-09-21T09:20:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "201dc0c29",
+                "title": "Qualifying",
+                "subtitle": "Superpole",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-09-21T09:00:00+00:00",
+                "startLocal": "2024-09-21T11:00:00+02:00",
+                "end": "2024-09-21T09:15:00+00:00",
+                "endLocal": "2024-09-21T11:15:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "9da92bb28",
+                "title": "Race 1",
+                "type": "race",
+                "index": 1,
+                "start": "2024-09-21T12:00:00+00:00",
+                "startLocal": "2024-09-21T14:00:00+02:00",
+                "end": "2024-09-21T13:00:00+00:00",
+                "endLocal": "2024-09-21T15:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "b55aeef1c",
+                "title": "Superpole Race",
+                "subtitle": "Superpole",
+                "type": "race",
+                "index": null,
+                "start": "2024-09-22T09:00:00+00:00",
+                "startLocal": "2024-09-22T11:00:00+02:00",
+                "end": "2024-09-22T09:30:00+00:00",
+                "endLocal": "2024-09-22T11:30:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "698775bb8",
+                "title": "Race 2",
+                "type": "race",
+                "index": 2,
+                "start": "2024-09-22T12:00:00+00:00",
+                "startLocal": "2024-09-22T14:00:00+02:00",
+                "end": "2024-09-22T13:00:00+00:00",
+                "endLocal": "2024-09-22T15:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "ab8476429",
+        "type": "superbike",
+        "index": "10 / 12",
+        "season": "2024",
+        "title": "Aragon",
+        "start": "2024-09-27T08:20:00+00:00",
+        "end": "2024-09-29T13:00:00+00:00",
+        "timezone": "Europe/Madrid",
+        "latitude": "41.078348",
+        "longitude": "-0.205019",
+        "trackName": "Motorland Aragon",
+        "countryCode": "ES",
+        "cityName": "Alcaniz",
+        "steps": [
+            {
+                "id": "0de127810",
+                "title": "Free practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2024-09-27T08:20:00+00:00",
+                "startLocal": "2024-09-27T10:20:00+02:00",
+                "end": "2024-09-27T09:05:00+00:00",
+                "endLocal": "2024-09-27T11:05:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "e01cfdbf1",
+                "title": "Free practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2024-09-27T13:00:00+00:00",
+                "startLocal": "2024-09-27T15:00:00+02:00",
+                "end": "2024-09-27T13:45:00+00:00",
+                "endLocal": "2024-09-27T15:45:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "66a37e5d8",
+                "title": "Free practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2024-09-28T07:00:00+00:00",
+                "startLocal": "2024-09-28T09:00:00+02:00",
+                "end": "2024-09-28T07:20:00+00:00",
+                "endLocal": "2024-09-28T09:20:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "e94f6325a",
+                "title": "Qualifying",
+                "subtitle": "Superpole",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-09-28T09:00:00+00:00",
+                "startLocal": "2024-09-28T11:00:00+02:00",
+                "end": "2024-09-28T09:15:00+00:00",
+                "endLocal": "2024-09-28T11:15:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "21b0947c5",
+                "title": "Race 1",
+                "type": "race",
+                "index": 1,
+                "start": "2024-09-28T12:00:00+00:00",
+                "startLocal": "2024-09-28T14:00:00+02:00",
+                "end": "2024-09-28T13:00:00+00:00",
+                "endLocal": "2024-09-28T15:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "440f02532",
+                "title": "Superpole Race",
+                "subtitle": "Superpole",
+                "type": "race",
+                "index": null,
+                "start": "2024-09-29T09:00:00+00:00",
+                "startLocal": "2024-09-29T11:00:00+02:00",
+                "end": "2024-09-29T09:30:00+00:00",
+                "endLocal": "2024-09-29T11:30:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "680be4d90",
+                "title": "Race 2",
+                "type": "race",
+                "index": 2,
+                "start": "2024-09-29T12:00:00+00:00",
+                "startLocal": "2024-09-29T14:00:00+02:00",
+                "end": "2024-09-29T13:00:00+00:00",
+                "endLocal": "2024-09-29T15:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "42443aefc",
+        "type": "superbike",
+        "index": "11 / 12",
+        "season": "2024",
+        "title": "Estoril",
+        "start": "2024-10-11T09:20:00+00:00",
+        "end": "2024-10-13T14:00:00+00:00",
+        "timezone": "Europe/Lisbon",
+        "latitude": "38.750778",
+        "longitude": "-9.39425",
+        "trackName": "Circuito do Estoril",
+        "countryCode": "PT",
+        "cityName": "Estoril",
+        "steps": [
+            {
+                "id": "e1c709356",
+                "title": "Free practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2024-10-11T09:20:00+00:00",
+                "startLocal": "2024-10-11T10:20:00+01:00",
+                "end": "2024-10-11T10:05:00+00:00",
+                "endLocal": "2024-10-11T11:05:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "a63d91d58",
+                "title": "Free practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2024-10-11T14:00:00+00:00",
+                "startLocal": "2024-10-11T15:00:00+01:00",
+                "end": "2024-10-11T14:45:00+00:00",
+                "endLocal": "2024-10-11T15:45:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "b9fd5c980",
+                "title": "Free practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2024-10-12T08:00:00+00:00",
+                "startLocal": "2024-10-12T09:00:00+01:00",
+                "end": "2024-10-12T08:20:00+00:00",
+                "endLocal": "2024-10-12T09:20:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "1964d94ee",
+                "title": "Qualifying",
+                "subtitle": "Superpole",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-10-12T10:00:00+00:00",
+                "startLocal": "2024-10-12T11:00:00+01:00",
+                "end": "2024-10-12T10:15:00+00:00",
+                "endLocal": "2024-10-12T11:15:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "0c4ed7ebb",
+                "title": "Race 1",
+                "type": "race",
+                "index": 1,
+                "start": "2024-10-12T13:00:00+00:00",
+                "startLocal": "2024-10-12T14:00:00+01:00",
+                "end": "2024-10-12T14:00:00+00:00",
+                "endLocal": "2024-10-12T15:00:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "a2c69a39f",
+                "title": "Race 3",
+                "type": "race",
+                "index": 2,
+                "start": "2024-10-13T10:00:00+00:00",
+                "startLocal": "2024-10-13T11:00:00+01:00",
+                "end": "2024-10-13T10:30:00+00:00",
+                "endLocal": "2024-10-13T11:30:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "7f6ae4f83",
+                "title": "Race 2",
+                "type": "race",
+                "index": 3,
+                "start": "2024-10-13T13:00:00+00:00",
+                "startLocal": "2024-10-13T14:00:00+01:00",
+                "end": "2024-10-13T14:00:00+00:00",
+                "endLocal": "2024-10-13T15:00:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "6affe535a",
+        "type": "superbike",
+        "index": "12 / 12",
+        "season": "2024",
+        "title": "Jerez",
+        "start": "2024-10-18T08:35:00+00:00",
+        "end": "2024-10-20T13:00:00+00:00",
+        "timezone": "Europe/Madrid",
+        "latitude": "36.708333",
+        "longitude": "-6.034167",
+        "trackName": "Circuito de Jerez",
+        "countryCode": "ES",
+        "cityName": "Jerez",
+        "steps": [
+            {
+                "id": "dc884a7a2",
+                "title": "Free practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2024-10-18T08:35:00+00:00",
+                "startLocal": "2024-10-18T10:35:00+02:00",
+                "end": "2024-10-18T09:20:00+00:00",
+                "endLocal": "2024-10-18T11:20:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "a25d87278",
+                "title": "Free practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2024-10-18T13:00:00+00:00",
+                "startLocal": "2024-10-18T15:00:00+02:00",
+                "end": "2024-10-18T13:45:00+00:00",
+                "endLocal": "2024-10-18T15:45:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "a10688fef",
+                "title": "Free practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2024-10-19T07:15:00+00:00",
+                "startLocal": "2024-10-19T09:15:00+02:00",
+                "end": "2024-10-19T07:35:00+00:00",
+                "endLocal": "2024-10-19T09:35:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "310920b12",
+                "title": "Qualifying",
+                "subtitle": "Superpole",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-10-19T09:00:00+00:00",
+                "startLocal": "2024-10-19T11:00:00+02:00",
+                "end": "2024-10-19T09:15:00+00:00",
+                "endLocal": "2024-10-19T11:15:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "1e45f2b3a",
+                "title": "Race 1",
+                "type": "race",
+                "index": 1,
+                "start": "2024-10-19T12:00:00+00:00",
+                "startLocal": "2024-10-19T14:00:00+02:00",
+                "end": "2024-10-19T13:00:00+00:00",
+                "endLocal": "2024-10-19T15:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "d97adae5b",
+                "title": "Superpole Race",
+                "subtitle": "Superpole",
+                "type": "race",
+                "index": null,
+                "start": "2024-10-20T09:00:00+00:00",
+                "startLocal": "2024-10-20T11:00:00+02:00",
+                "end": "2024-10-20T09:30:00+00:00",
+                "endLocal": "2024-10-20T11:30:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "425353b6c",
+                "title": "Race 2",
+                "type": "race",
+                "index": 2,
+                "start": "2024-10-20T12:00:00+00:00",
+                "startLocal": "2024-10-20T14:00:00+02:00",
+                "end": "2024-10-20T13:00:00+00:00",
+                "endLocal": "2024-10-20T15:00:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "e3624f285",
         "type": "superbike",
         "index": "1 / 12",
         "season": "2025",
@@ -15,7 +1670,7 @@
         "cityName": "Phillip Island",
         "steps": [
             {
-                "id": "mti1nzgwoq",
+                "id": "cefda2c2b",
                 "title": "Free practice 1",
                 "type": "practice",
                 "index": 1,
@@ -28,10 +1683,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti1nzgxmq",
+                "id": "f1b760774",
                 "title": "Free practice 2",
                 "type": "practice",
                 "index": 2,
@@ -44,10 +1700,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti1nzgxmw",
+                "id": "c444211d2",
                 "title": "Free practice 3",
                 "type": "practice",
                 "index": 3,
@@ -60,10 +1717,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti1nzgymq",
+                "id": "02b011b15",
                 "title": "Qualifying",
                 "subtitle": "Superpole",
                 "type": "qualifying",
@@ -77,10 +1735,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti1nzgymw",
+                "id": "41b666d8b",
                 "title": "Race 1",
                 "type": "race",
                 "index": 1,
@@ -93,10 +1752,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti1nzgynw",
+                "id": "17b777dab",
                 "title": "Race 3",
                 "type": "race",
                 "index": 2,
@@ -109,10 +1769,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti1nzgynq",
+                "id": "52ce93b0b",
                 "title": "Race 2",
                 "type": "race",
                 "index": 3,
@@ -125,12 +1786,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mti1odqznq",
+        "id": "1de16e504",
         "type": "superbike",
         "index": "2 / 12",
         "season": "2025",
@@ -145,7 +1807,7 @@
         "cityName": "Portimao",
         "steps": [
             {
-                "id": "mti1odqznw",
+                "id": "c50bd366c",
                 "title": "Free practice 1",
                 "type": "practice",
                 "index": 1,
@@ -158,10 +1820,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti1odqzoq",
+                "id": "ab2ac874c",
                 "title": "Free practice 2",
                 "type": "practice",
                 "index": 2,
@@ -174,10 +1837,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti1odq0mq",
+                "id": "2dae6353d",
                 "title": "Free practice 3",
                 "type": "practice",
                 "index": 3,
@@ -190,10 +1854,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti1odq0oq",
+                "id": "4d0581300",
                 "title": "Qualifying",
                 "subtitle": "Superpole",
                 "type": "qualifying",
@@ -207,10 +1872,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti1odq1mq",
+                "id": "4c605dded",
                 "title": "Race 1",
                 "type": "race",
                 "index": 1,
@@ -223,10 +1889,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti1odq1nq",
+                "id": "97f28cd9b",
                 "title": "Race 3",
                 "type": "race",
                 "index": 2,
@@ -239,10 +1906,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti1odq1mw",
+                "id": "227e0b48c",
                 "title": "Race 2",
                 "type": "race",
                 "index": 3,
@@ -255,12 +1923,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mti1ota2mw",
+        "id": "e2b4438d8",
         "type": "superbike",
         "index": "3 / 12",
         "season": "2025",
@@ -275,7 +1944,7 @@
         "cityName": "Assen",
         "steps": [
             {
-                "id": "mti1ota2nq",
+                "id": "a7b161440",
                 "title": "Free practice 1",
                 "type": "practice",
                 "index": 1,
@@ -288,10 +1957,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti1ota2nw",
+                "id": "cea47ab34",
                 "title": "Free practice 2",
                 "type": "practice",
                 "index": 2,
@@ -304,10 +1974,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti1ota2oq",
+                "id": "204f2bf7f",
                 "title": "Free practice 3",
                 "type": "practice",
                 "index": 3,
@@ -320,10 +1991,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti1ota3nw",
+                "id": "c24612bb4",
                 "title": "Qualifying",
                 "subtitle": "Superpole",
                 "type": "qualifying",
@@ -337,10 +2009,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti1ota3oq",
+                "id": "7e83c3edd",
                 "title": "Race 1",
                 "type": "race",
                 "index": 1,
@@ -353,10 +2026,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti1ota4mw",
+                "id": "2222c9426",
                 "title": "Race 3",
                 "type": "race",
                 "index": 2,
@@ -369,10 +2043,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti1ota4mq",
+                "id": "a4984bc26",
                 "title": "Race 2",
                 "type": "race",
                 "index": 3,
@@ -385,12 +2060,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mti1oty5mq",
+        "id": "a77c2ff07",
         "type": "superbike",
         "index": "4 / 12",
         "season": "2025",
@@ -405,7 +2081,7 @@
         "cityName": "Cremona",
         "steps": [
             {
-                "id": "mti1oty5mw",
+                "id": "51b1f0345",
                 "title": "Free practice 1",
                 "type": "practice",
                 "index": 1,
@@ -418,10 +2094,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti1oty5nq",
+                "id": "5845df05b",
                 "title": "Free practice 2",
                 "type": "practice",
                 "index": 2,
@@ -434,10 +2111,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti1oty5nw",
+                "id": "daab09209",
                 "title": "Free practice 3",
                 "type": "practice",
                 "index": 3,
@@ -450,10 +2128,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti1otcwnq",
+                "id": "049b0546a",
                 "title": "Qualifying",
                 "subtitle": "Superpole",
                 "type": "qualifying",
@@ -467,10 +2146,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti1otcwnw",
+                "id": "740b82fa9",
                 "title": "Race 1",
                 "type": "race",
                 "index": 1,
@@ -483,10 +2163,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti1otcxmq",
+                "id": "61425d3ac",
                 "title": "Race 3",
                 "type": "race",
                 "index": 2,
@@ -499,10 +2180,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti1otcwoq",
+                "id": "0202715f3",
                 "title": "Race 2",
                 "type": "race",
                 "index": 3,
@@ -515,12 +2197,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mti2mdm1nq",
+        "id": "085b811fd",
         "type": "superbike",
         "index": "5 / 12",
         "season": "2025",
@@ -535,7 +2218,7 @@
         "cityName": "Most",
         "steps": [
             {
-                "id": "mti2mdm1nw",
+                "id": "68484924f",
                 "title": "Free practice 1",
                 "type": "practice",
                 "index": 1,
@@ -548,10 +2231,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2mdm1oq",
+                "id": "f6e2ef319",
                 "title": "Free practice 2",
                 "type": "practice",
                 "index": 2,
@@ -564,10 +2248,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2mdm2mq",
+                "id": "73ca92ffd",
                 "title": "Free practice 3",
                 "type": "practice",
                 "index": 3,
@@ -580,10 +2265,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2mdm2oq",
+                "id": "101c28b8a",
                 "title": "Qualifying",
                 "subtitle": "Superpole",
                 "type": "qualifying",
@@ -597,10 +2283,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2mdm3mq",
+                "id": "36829fb9e",
                 "title": "Race 1",
                 "type": "race",
                 "index": 1,
@@ -613,10 +2300,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2mdm3nq",
+                "id": "92b6b9172",
                 "title": "Race 3",
                 "type": "race",
                 "index": 2,
@@ -629,10 +2317,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2mdm3mw",
+                "id": "8957e587c",
                 "title": "Race 2",
                 "type": "race",
                 "index": 3,
@@ -645,12 +2334,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mti2mta1nq",
+        "id": "6d04796ab",
         "type": "superbike",
         "index": "6 / 12",
         "season": "2025",
@@ -665,7 +2355,7 @@
         "cityName": "Misano Adriatico",
         "steps": [
             {
-                "id": "mti2mta1nw",
+                "id": "22f0a0822",
                 "title": "Free practice 1",
                 "type": "practice",
                 "index": 1,
@@ -678,10 +2368,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2mta1oq",
+                "id": "e8356e4ca",
                 "title": "Free practice 2",
                 "type": "practice",
                 "index": 2,
@@ -694,10 +2385,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2mta2mq",
+                "id": "bbfc576a6",
                 "title": "Free practice 3",
                 "type": "practice",
                 "index": 3,
@@ -710,10 +2402,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2mta2oq",
+                "id": "8ce32949c",
                 "title": "Qualifying",
                 "subtitle": "Superpole",
                 "type": "qualifying",
@@ -727,10 +2420,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2mta3mq",
+                "id": "2201357c9",
                 "title": "Race 1",
                 "type": "race",
                 "index": 1,
@@ -743,10 +2437,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2mta3nq",
+                "id": "e31fec467",
                 "title": "Race 3",
                 "type": "race",
                 "index": 2,
@@ -759,10 +2454,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2mta3mw",
+                "id": "a44372f3e",
                 "title": "Race 2",
                 "type": "race",
                 "index": 3,
@@ -775,12 +2471,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mti2mty4mw",
+        "id": "655348851",
         "type": "superbike",
         "index": "7 / 12",
         "season": "2025",
@@ -795,7 +2492,7 @@
         "cityName": "Derby",
         "steps": [
             {
-                "id": "mti2mty4nq",
+                "id": "1718ec6bc",
                 "title": "Free practice 1",
                 "type": "practice",
                 "index": 1,
@@ -808,10 +2505,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2mty4nw",
+                "id": "9e5ab47e1",
                 "title": "Free practice 2",
                 "type": "practice",
                 "index": 2,
@@ -824,10 +2522,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2mty4oq",
+                "id": "b19631eb7",
                 "title": "Free practice 3",
                 "type": "practice",
                 "index": 3,
@@ -840,10 +2539,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2mty5nw",
+                "id": "fb7d950b9",
                 "title": "Qualifying",
                 "subtitle": "Superpole",
                 "type": "qualifying",
@@ -857,10 +2557,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2mty5oq",
+                "id": "dd0fae340",
                 "title": "Race 1",
                 "type": "race",
                 "index": 1,
@@ -873,10 +2574,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2mtcwmq",
+                "id": "ed62335fd",
                 "title": "Race 2",
                 "type": "race",
                 "index": 2,
@@ -889,10 +2591,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2mtcwmw",
+                "id": "04cb92c05",
                 "title": "Race 3",
                 "type": "race",
                 "index": 3,
@@ -905,12 +2608,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mti2mjmxmq",
+        "id": "176b214db",
         "type": "superbike",
         "index": "8 / 12",
         "season": "2025",
@@ -925,7 +2629,7 @@
         "cityName": "Balatonfokajar",
         "steps": [
             {
-                "id": "mti2mjmxmw",
+                "id": "f841ccc3e",
                 "title": "Free practice 1",
                 "type": "practice",
                 "index": 1,
@@ -938,10 +2642,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2mjmxnq",
+                "id": "e7ed54803",
                 "title": "Free practice 2",
                 "type": "practice",
                 "index": 2,
@@ -954,10 +2659,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2mjmxnw",
+                "id": "3107c6480",
                 "title": "Free practice 3",
                 "type": "practice",
                 "index": 3,
@@ -970,10 +2676,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2mjmynq",
+                "id": "2605a68f8",
                 "title": "Qualifying",
                 "subtitle": "Superpole",
                 "type": "qualifying",
@@ -987,10 +2694,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2mjmynw",
+                "id": "3a7696fbc",
                 "title": "Race 1",
                 "type": "race",
                 "index": 1,
@@ -1003,10 +2711,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2mjmzmq",
+                "id": "53a01e8cd",
                 "title": "Race 3",
                 "type": "race",
                 "index": 2,
@@ -1019,10 +2728,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2mjmyoq",
+                "id": "5909e82cb",
                 "title": "Race 2",
                 "type": "race",
                 "index": 3,
@@ -1035,12 +2745,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mti2mjkzoq",
+        "id": "cd4ebd9bc",
         "type": "superbike",
         "index": "9 / 12",
         "season": "2025",
@@ -1055,7 +2766,7 @@
         "cityName": "Magny-Cours",
         "steps": [
             {
-                "id": "mti2mjk0mq",
+                "id": "1d19bd7d9",
                 "title": "Free practice 1",
                 "type": "practice",
                 "index": 1,
@@ -1068,10 +2779,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2mjk0mw",
+                "id": "a1f72c54f",
                 "title": "Free practice 2",
                 "type": "practice",
                 "index": 2,
@@ -1084,10 +2796,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2mjk0nq",
+                "id": "2134c0d6f",
                 "title": "Free practice 3",
                 "type": "practice",
                 "index": 3,
@@ -1100,10 +2813,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2mjk1mw",
+                "id": "56a04c686",
                 "title": "Qualifying",
                 "subtitle": "Superpole",
                 "type": "qualifying",
@@ -1117,10 +2831,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2mjk1nq",
+                "id": "b1833ab60",
                 "title": "Race 1",
                 "type": "race",
                 "index": 1,
@@ -1133,10 +2848,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2mjk1oq",
+                "id": "e51bc5d6e",
                 "title": "Race 3",
                 "type": "race",
                 "index": 2,
@@ -1149,10 +2865,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2mjk1nw",
+                "id": "fbbaf69a9",
                 "title": "Race 2",
                 "type": "race",
                 "index": 3,
@@ -1165,12 +2882,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mti2mzu2nw",
+        "id": "10346d421",
         "type": "superbike",
         "index": "10 / 12",
         "season": "2025",
@@ -1185,7 +2903,7 @@
         "cityName": "Alcaniz",
         "steps": [
             {
-                "id": "mti2mzu2oq",
+                "id": "cd6978d8b",
                 "title": "Free practice 1",
                 "type": "practice",
                 "index": 1,
@@ -1198,10 +2916,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2mzu3mq",
+                "id": "25f267c5b",
                 "title": "Free practice 2",
                 "type": "practice",
                 "index": 2,
@@ -1214,10 +2933,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2mzu3mw",
+                "id": "29c255b67",
                 "title": "Free practice 3",
                 "type": "practice",
                 "index": 3,
@@ -1230,10 +2950,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2mzu4mq",
+                "id": "16b163e7f",
                 "title": "Qualifying",
                 "subtitle": "Superpole",
                 "type": "qualifying",
@@ -1247,10 +2968,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2mzu4mw",
+                "id": "4a8bdbba6",
                 "title": "Race 1",
                 "type": "race",
                 "index": 1,
@@ -1263,10 +2985,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2mzu4nw",
+                "id": "a3f0548cc",
                 "title": "Race 3",
                 "type": "race",
                 "index": 2,
@@ -1279,10 +3002,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2mzu4nq",
+                "id": "d36a64072",
                 "title": "Race 2",
                 "type": "race",
                 "index": 3,
@@ -1295,12 +3019,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mti2nde5nq",
+        "id": "a0c1ca53b",
         "type": "superbike",
         "index": "11 / 12",
         "season": "2025",
@@ -1315,7 +3040,7 @@
         "cityName": "Estoril",
         "steps": [
             {
-                "id": "mti2nde5nw",
+                "id": "ae7efa3ba",
                 "title": "Free practice 1",
                 "type": "practice",
                 "index": 1,
@@ -1328,10 +3053,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2nde5oq",
+                "id": "9d4dbcf33",
                 "title": "Free practice 2",
                 "type": "practice",
                 "index": 2,
@@ -1344,10 +3070,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2ndiwmq",
+                "id": "ffd32c1de",
                 "title": "Free practice 3",
                 "type": "practice",
                 "index": 3,
@@ -1360,10 +3087,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2ndiwoq",
+                "id": "e9de87d51",
                 "title": "Qualifying",
                 "subtitle": "Superpole",
                 "type": "qualifying",
@@ -1377,10 +3105,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2ndixmq",
+                "id": "e0610292a",
                 "title": "Race 1",
                 "type": "race",
                 "index": 1,
@@ -1393,10 +3122,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2ndixnq",
+                "id": "5d6760f8b",
                 "title": "Race 3",
                 "type": "race",
                 "index": 2,
@@ -1409,10 +3139,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2ndixmw",
+                "id": "7ba6ee610",
                 "title": "Race 2",
                 "type": "race",
                 "index": 3,
@@ -1425,12 +3156,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mti2ndgymw",
+        "id": "88822a591",
         "type": "superbike",
         "index": "12 / 12",
         "season": "2025",
@@ -1445,7 +3177,7 @@
         "cityName": "Jerez",
         "steps": [
             {
-                "id": "mti2ndgynq",
+                "id": "d3db481bd",
                 "title": "Free practice 1",
                 "type": "practice",
                 "index": 1,
@@ -1458,10 +3190,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2ndgynw",
+                "id": "487386dd6",
                 "title": "Free practice 2",
                 "type": "practice",
                 "index": 2,
@@ -1474,10 +3207,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2ndgyoq",
+                "id": "3dff0b751",
                 "title": "Free practice 3",
                 "type": "practice",
                 "index": 3,
@@ -1490,10 +3224,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2ndgznw",
+                "id": "f95eadaa6",
                 "title": "Qualifying",
                 "subtitle": "Superpole",
                 "type": "qualifying",
@@ -1507,10 +3242,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2ndgzoq",
+                "id": "17c8c5eac",
                 "title": "Race 1",
                 "type": "race",
                 "index": 1,
@@ -1523,10 +3259,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2ndg0mq",
+                "id": "4d80baca2",
                 "title": "Race 2",
                 "type": "race",
                 "index": 2,
@@ -1539,10 +3276,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mti2ndg0mw",
+                "id": "f90f04bbb",
                 "title": "Race 3",
                 "type": "race",
                 "index": 3,
@@ -1555,7 +3293,8 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     }

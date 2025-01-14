@@ -1,6 +1,1485 @@
 [
     {
-        "id": "mtiwmzmwnw",
+        "id": "14f1cff13",
+        "type": "indycar",
+        "index": "1 / 17",
+        "season": "2024",
+        "title": "Grand Prix of St. Petersburg",
+        "start": "2024-03-08T19:45:00+00:00",
+        "end": "2024-03-10T19:30:00+00:00",
+        "timezone": "America/New_York",
+        "latitude": "27.766442",
+        "longitude": "-82.629573",
+        "trackName": "Streets of St. Petersburg",
+        "countryCode": "US",
+        "cityName": "St. Petersburg",
+        "steps": [
+            {
+                "id": "af9a71d7f",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2024-03-08T19:45:00+00:00",
+                "startLocal": "2024-03-08T14:45:00-05:00",
+                "end": "2024-03-08T21:00:00+00:00",
+                "endLocal": "2024-03-08T16:00:00-05:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "de606baf6",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2024-03-09T14:35:00+00:00",
+                "startLocal": "2024-03-09T09:35:00-05:00",
+                "end": "2024-03-09T15:35:00+00:00",
+                "endLocal": "2024-03-09T10:35:00-05:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "d584bb513",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-03-09T19:00:00+00:00",
+                "startLocal": "2024-03-09T14:00:00-05:00",
+                "end": "2024-03-09T20:30:00+00:00",
+                "endLocal": "2024-03-09T15:30:00-05:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "bc99a7de3",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2024-03-10T17:15:00+00:00",
+                "startLocal": "2024-03-10T13:15:00-04:00",
+                "end": "2024-03-10T19:30:00+00:00",
+                "endLocal": "2024-03-10T15:30:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "f3192ee40",
+        "type": "indycar",
+        "index": "2 / 17",
+        "season": "2024",
+        "title": "Grand Prix of Long Beach",
+        "start": "2024-04-19T21:50:00+00:00",
+        "end": "2024-04-21T21:45:00+00:00",
+        "timezone": "America/Los_Angeles",
+        "latitude": "33.766322",
+        "longitude": "-118.192662",
+        "trackName": "Streets of Long Beach",
+        "countryCode": "US",
+        "cityName": "Long Beach",
+        "steps": [
+            {
+                "id": "664be6b09",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2024-04-19T21:50:00+00:00",
+                "startLocal": "2024-04-19T14:50:00-07:00",
+                "end": "2024-04-19T23:05:00+00:00",
+                "endLocal": "2024-04-19T16:05:00-07:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "a0181b6cb",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2024-04-20T15:25:00+00:00",
+                "startLocal": "2024-04-20T08:25:00-07:00",
+                "end": "2024-04-20T16:25:00+00:00",
+                "endLocal": "2024-04-20T09:25:00-07:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "026f8ddf3",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-04-20T18:25:00+00:00",
+                "startLocal": "2024-04-20T11:25:00-07:00",
+                "end": "2024-04-20T19:55:00+00:00",
+                "endLocal": "2024-04-20T12:55:00-07:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "a9fd7fa72",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2024-04-21T19:30:00+00:00",
+                "startLocal": "2024-04-21T12:30:00-07:00",
+                "end": "2024-04-21T21:45:00+00:00",
+                "endLocal": "2024-04-21T14:45:00-07:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "f708a9fd2",
+        "type": "indycar",
+        "index": "3 / 17",
+        "season": "2024",
+        "title": "Grand Prix of Alabama",
+        "start": "2024-04-26T18:45:00+00:00",
+        "end": "2024-04-28T19:45:00+00:00",
+        "timezone": "America/Chicago",
+        "latitude": "33.532634",
+        "longitude": "-86.618567",
+        "trackName": "Barber Motorsports Park",
+        "countryCode": "US",
+        "cityName": "Birmingham",
+        "steps": [
+            {
+                "id": "dab8d3a9c",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2024-04-26T18:45:00+00:00",
+                "startLocal": "2024-04-26T13:45:00-05:00",
+                "end": "2024-04-26T19:30:00+00:00",
+                "endLocal": "2024-04-26T14:30:00-05:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "d2138da50",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2024-04-27T15:05:00+00:00",
+                "startLocal": "2024-04-27T10:05:00-05:00",
+                "end": "2024-04-27T15:50:00+00:00",
+                "endLocal": "2024-04-27T10:50:00-05:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "8fc3b730a",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-04-27T18:35:00+00:00",
+                "startLocal": "2024-04-27T13:35:00-05:00",
+                "end": "2024-04-27T19:05:00+00:00",
+                "endLocal": "2024-04-27T14:05:00-05:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "0342b5b19",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2024-04-28T15:05:00+00:00",
+                "startLocal": "2024-04-28T10:05:00-05:00",
+                "end": "2024-04-28T18:20:00+00:00",
+                "endLocal": "2024-04-28T13:20:00-05:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "ae5c33096",
+        "type": "indycar",
+        "index": "4 / 17",
+        "season": "2024",
+        "title": "Grand Prix of Indianapolis",
+        "start": "2024-05-10T13:30:00+00:00",
+        "end": "2024-05-11T21:45:00+00:00",
+        "timezone": "America/New_York",
+        "latitude": "39.798761",
+        "longitude": "-86.233282",
+        "trackName": "Indianapolis Motor Speedway Road Course",
+        "countryCode": "US",
+        "cityName": "Indianapolis",
+        "steps": [
+            {
+                "id": "ba8dc2091",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2024-05-10T13:30:00+00:00",
+                "startLocal": "2024-05-10T09:30:00-04:00",
+                "end": "2024-05-10T14:45:00+00:00",
+                "endLocal": "2024-05-10T10:45:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "9da103c38",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2024-05-10T17:10:00+00:00",
+                "startLocal": "2024-05-10T13:10:00-04:00",
+                "end": "2024-05-10T18:10:00+00:00",
+                "endLocal": "2024-05-10T14:10:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "f09414b77",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-05-10T20:20:00+00:00",
+                "startLocal": "2024-05-10T16:20:00-04:00",
+                "end": "2024-05-10T21:50:00+00:00",
+                "endLocal": "2024-05-10T17:50:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "fd1efe537",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2024-05-11T19:30:00+00:00",
+                "startLocal": "2024-05-11T15:30:00-04:00",
+                "end": "2024-05-11T21:45:00+00:00",
+                "endLocal": "2024-05-11T17:45:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "500504d08",
+        "type": "indycar",
+        "index": "5 / 17",
+        "season": "2024",
+        "title": "Indianapolis 500",
+        "start": "2024-05-14T13:00:00+00:00",
+        "end": "2024-05-26T20:00:00+00:00",
+        "timezone": "America/New_York",
+        "latitude": "39.798482",
+        "longitude": "-86.231202",
+        "trackName": "Indianapolis Motor Speedway",
+        "countryCode": "US",
+        "cityName": "Indianapolis",
+        "steps": [
+            {
+                "id": "16facfb0f",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2024-05-14T13:00:00+00:00",
+                "startLocal": "2024-05-14T09:00:00-04:00",
+                "end": "2024-05-14T15:00:00+00:00",
+                "endLocal": "2024-05-14T11:00:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "238ac0402",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2024-05-14T17:00:00+00:00",
+                "startLocal": "2024-05-14T13:00:00-04:00",
+                "end": "2024-05-14T22:00:00+00:00",
+                "endLocal": "2024-05-14T18:00:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "a4c948d92",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2024-05-15T14:00:00+00:00",
+                "startLocal": "2024-05-15T10:00:00-04:00",
+                "end": "2024-05-15T23:00:00+00:00",
+                "endLocal": "2024-05-15T19:00:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "4e7017316",
+                "title": "Practice 4",
+                "type": "practice",
+                "index": 4,
+                "start": "2024-05-16T14:00:00+00:00",
+                "startLocal": "2024-05-16T10:00:00-04:00",
+                "end": "2024-05-16T22:00:00+00:00",
+                "endLocal": "2024-05-16T18:00:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "b141655d4",
+                "title": "Practice 5",
+                "type": "practice",
+                "index": 5,
+                "start": "2024-05-17T16:00:00+00:00",
+                "startLocal": "2024-05-17T12:00:00-04:00",
+                "end": "2024-05-17T22:00:00+00:00",
+                "endLocal": "2024-05-17T18:00:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "224e1c2b2",
+                "title": "Practice 6",
+                "type": "practice",
+                "index": 6,
+                "start": "2024-05-18T12:30:00+00:00",
+                "startLocal": "2024-05-18T08:30:00-04:00",
+                "end": "2024-05-18T13:30:00+00:00",
+                "endLocal": "2024-05-18T09:30:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "6a7bcfba8",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-05-18T15:00:00+00:00",
+                "startLocal": "2024-05-18T11:00:00-04:00",
+                "end": "2024-05-19T22:00:00+00:00",
+                "endLocal": "2024-05-19T18:00:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "3bd8da495",
+                "title": "Practice 7",
+                "type": "practice",
+                "index": 7,
+                "start": "2024-05-19T16:00:00+00:00",
+                "startLocal": "2024-05-19T12:00:00-04:00",
+                "end": "2024-05-19T18:00:00+00:00",
+                "endLocal": "2024-05-19T14:00:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "097eb6661",
+                "title": "Practice 8",
+                "type": "practice",
+                "index": 8,
+                "start": "2024-05-20T17:00:00+00:00",
+                "startLocal": "2024-05-20T13:00:00-04:00",
+                "end": "2024-05-20T19:00:00+00:00",
+                "endLocal": "2024-05-20T15:00:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "659a1556c",
+                "title": "Practice 9",
+                "type": "practice",
+                "index": 9,
+                "start": "2024-05-24T15:00:00+00:00",
+                "startLocal": "2024-05-24T11:00:00-04:00",
+                "end": "2024-05-24T17:00:00+00:00",
+                "endLocal": "2024-05-24T13:00:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "691821bee",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2024-05-26T15:00:00+00:00",
+                "startLocal": "2024-05-26T11:00:00-04:00",
+                "end": "2024-05-26T20:00:00+00:00",
+                "endLocal": "2024-05-26T16:00:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "223ee20ee",
+        "type": "indycar",
+        "index": "6 / 17",
+        "season": "2024",
+        "title": "Detroit Grand Prix",
+        "start": "2024-05-31T19:00:00+00:00",
+        "end": "2024-06-02T19:00:00+00:00",
+        "timezone": "America/New_York",
+        "latitude": "42.30808",
+        "longitude": "-83.095932",
+        "trackName": "Detroit Street Circuit",
+        "countryCode": "US",
+        "cityName": "Detroit",
+        "steps": [
+            {
+                "id": "c2fd6df4a",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2024-05-31T19:00:00+00:00",
+                "startLocal": "2024-05-31T15:00:00-04:00",
+                "end": "2024-05-31T20:15:00+00:00",
+                "endLocal": "2024-05-31T16:15:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "337e03c08",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2024-06-01T13:10:00+00:00",
+                "startLocal": "2024-06-01T09:10:00-04:00",
+                "end": "2024-06-01T14:10:00+00:00",
+                "endLocal": "2024-06-01T10:10:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "c7a386d97",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-06-01T16:15:00+00:00",
+                "startLocal": "2024-06-01T12:15:00-04:00",
+                "end": "2024-06-01T17:45:00+00:00",
+                "endLocal": "2024-06-01T13:45:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "86352ef96",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2024-06-02T16:00:00+00:00",
+                "startLocal": "2024-06-02T12:00:00-04:00",
+                "end": "2024-06-02T19:00:00+00:00",
+                "endLocal": "2024-06-02T15:00:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "629a42b8a",
+        "type": "indycar",
+        "index": "7 / 17",
+        "season": "2024",
+        "title": "Road America Grand Prix",
+        "start": "2024-06-07T20:00:00+00:00",
+        "end": "2024-06-09T21:30:00+00:00",
+        "timezone": "America/Indiana/Indianapolis",
+        "latitude": "43.797591",
+        "longitude": "-87.993238",
+        "trackName": "Road America",
+        "countryCode": "US",
+        "cityName": "Elkhart Lake",
+        "steps": [
+            {
+                "id": "8b4dc9a36",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2024-06-07T21:00:00+00:00",
+                "startLocal": "2024-06-07T17:00:00-04:00",
+                "end": "2024-06-07T22:15:00+00:00",
+                "endLocal": "2024-06-07T18:15:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "c6a1cd098",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2024-06-08T15:10:00+00:00",
+                "startLocal": "2024-06-08T11:10:00-04:00",
+                "end": "2024-06-08T16:10:00+00:00",
+                "endLocal": "2024-06-08T12:10:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "52c8c651a",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-06-08T19:25:00+00:00",
+                "startLocal": "2024-06-08T15:25:00-04:00",
+                "end": "2024-06-08T20:55:00+00:00",
+                "endLocal": "2024-06-08T16:55:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "80f5d219e",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2024-06-09T19:35:00+00:00",
+                "startLocal": "2024-06-09T15:35:00-04:00",
+                "end": "2024-06-09T21:30:00+00:00",
+                "endLocal": "2024-06-09T17:30:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "1bdbbac42",
+        "type": "indycar",
+        "index": "8 / 17",
+        "season": "2024",
+        "title": "Grand Prix of Monterey",
+        "start": "2024-06-22T00:00:00+00:00",
+        "end": "2024-06-24T04:00:00+00:00",
+        "timezone": "America/Los_Angeles",
+        "latitude": "36.584003",
+        "longitude": "-121.752473",
+        "trackName": "WeatherTech Raceway Laguna Seca",
+        "countryCode": "US",
+        "cityName": "Monterey",
+        "steps": [
+            {
+                "id": "d2ee402e9",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2024-06-22T00:00:00+00:00",
+                "startLocal": "2024-06-21T17:00:00-07:00",
+                "end": "2024-06-22T01:15:00+00:00",
+                "endLocal": "2024-06-21T18:15:00-07:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "e74e84578",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2024-06-22T20:00:00+00:00",
+                "startLocal": "2024-06-22T13:00:00-07:00",
+                "end": "2024-06-22T21:00:00+00:00",
+                "endLocal": "2024-06-22T14:00:00-07:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "88ca3fa2c",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-06-23T00:15:00+00:00",
+                "startLocal": "2024-06-22T17:15:00-07:00",
+                "end": "2024-06-22T01:45:00+00:00",
+                "endLocal": "2024-06-21T18:45:00-07:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "f2bda1afa",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2024-06-24T01:00:00+00:00",
+                "startLocal": "2024-06-23T18:00:00-07:00",
+                "end": "2024-06-24T04:00:00+00:00",
+                "endLocal": "2024-06-23T21:00:00-07:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": true,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "986e7414e",
+        "type": "indycar",
+        "index": "9 / 17",
+        "season": "2024",
+        "title": "Grand Prix of Lexington",
+        "start": "2024-07-05T19:20:00+00:00",
+        "end": "2024-07-07T19:40:00+00:00",
+        "timezone": "America/Indiana/Indianapolis",
+        "latitude": "40.688992",
+        "longitude": "-82.635663",
+        "trackName": "Mid-Ohio Sports Car Course",
+        "countryCode": "US",
+        "cityName": "Lexington",
+        "steps": [
+            {
+                "id": "1eaa24d44",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2024-07-05T19:20:00+00:00",
+                "startLocal": "2024-07-05T15:20:00-04:00",
+                "end": "2024-07-05T20:35:00+00:00",
+                "endLocal": "2024-07-05T16:35:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "1653586bd",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2024-07-06T14:50:00+00:00",
+                "startLocal": "2024-07-06T10:50:00-04:00",
+                "end": "2024-07-06T15:50:00+00:00",
+                "endLocal": "2024-07-06T11:50:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "58d816711",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-07-06T19:00:00+00:00",
+                "startLocal": "2024-07-06T15:00:00-04:00",
+                "end": "2024-07-06T20:30:00+00:00",
+                "endLocal": "2024-07-06T16:30:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "ab9bc3bfd",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2024-07-07T17:45:00+00:00",
+                "startLocal": "2024-07-07T13:45:00-04:00",
+                "end": "2024-07-07T19:40:00+00:00",
+                "endLocal": "2024-07-07T15:40:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "e443d1921",
+        "type": "indycar",
+        "index": "10 / 17",
+        "season": "2024",
+        "title": "Grand Prix of Iowa Race 1",
+        "start": "2024-07-12T20:30:00+00:00",
+        "end": "2024-07-14T01:45:00+00:00",
+        "timezone": "America/Chicago",
+        "latitude": "41.677089",
+        "longitude": "-93.011502",
+        "trackName": "Iowa Speedway",
+        "countryCode": "US",
+        "cityName": "Newton",
+        "steps": [
+            {
+                "id": "40e4edf12",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": null,
+                "start": "2024-07-12T20:30:00+00:00",
+                "startLocal": "2024-07-12T15:30:00-05:00",
+                "end": "2024-07-12T22:00:00+00:00",
+                "endLocal": "2024-07-12T17:00:00-05:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "70de3f848",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-07-13T19:45:00+00:00",
+                "startLocal": "2024-07-13T14:45:00-05:00",
+                "end": "2024-07-13T20:45:00+00:00",
+                "endLocal": "2024-07-13T15:45:00-05:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "7bfe320a0",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2024-07-14T00:00:00+00:00",
+                "startLocal": "2024-07-13T19:00:00-05:00",
+                "end": "2024-07-14T01:45:00+00:00",
+                "endLocal": "2024-07-13T20:45:00-05:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "9c64153d0",
+        "type": "indycar",
+        "index": "11 / 17",
+        "season": "2024",
+        "title": "Grand Prix of Iowa Race 2",
+        "start": "2024-07-13T19:45:00+00:00",
+        "end": "2024-07-14T19:30:00+00:00",
+        "timezone": "America/Chicago",
+        "latitude": "41.677089",
+        "longitude": "-93.011502",
+        "trackName": "Iowa Speedway",
+        "countryCode": "US",
+        "cityName": "Newton",
+        "steps": [
+            {
+                "id": "a5963d3a8",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-07-13T19:45:00+00:00",
+                "startLocal": "2024-07-13T14:45:00-05:00",
+                "end": "2024-07-13T20:45:00+00:00",
+                "endLocal": "2024-07-13T15:45:00-05:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "d7d1a04d9",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2024-07-14T16:00:00+00:00",
+                "startLocal": "2024-07-14T11:00:00-05:00",
+                "end": "2024-07-14T19:30:00+00:00",
+                "endLocal": "2024-07-14T14:30:00-05:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "998f9bbe1",
+        "type": "indycar",
+        "index": "12 / 17",
+        "season": "2024",
+        "title": "Grand Prix of Toronto",
+        "start": "2024-07-19T19:00:00+00:00",
+        "end": "2024-07-21T19:45:00+00:00",
+        "timezone": "Canada/Eastern",
+        "latitude": "43.637281",
+        "longitude": "-79.414298",
+        "trackName": "Streets of Toronto",
+        "countryCode": "CA",
+        "cityName": "Toronto",
+        "steps": [
+            {
+                "id": "85fe02549",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2024-07-19T19:00:00+00:00",
+                "startLocal": "2024-07-19T15:00:00-04:00",
+                "end": "2024-07-19T20:15:00+00:00",
+                "endLocal": "2024-07-19T16:15:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "1f12ec324",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2024-07-20T14:30:00+00:00",
+                "startLocal": "2024-07-20T10:30:00-04:00",
+                "end": "2024-07-20T15:30:00+00:00",
+                "endLocal": "2024-07-20T11:30:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "40f8df2c9",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-07-20T18:45:00+00:00",
+                "startLocal": "2024-07-20T14:45:00-04:00",
+                "end": "2024-07-20T20:15:00+00:00",
+                "endLocal": "2024-07-20T16:15:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "0fee15489",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2024-07-21T17:30:00+00:00",
+                "startLocal": "2024-07-21T13:30:00-04:00",
+                "end": "2024-07-21T19:15:00+00:00",
+                "endLocal": "2024-07-21T15:15:00-04:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "1143e2abd",
+        "type": "indycar",
+        "index": "13 / 17",
+        "season": "2024",
+        "title": "Grand Prix of Madison",
+        "start": "2024-08-16T16:45:00+00:00",
+        "end": "2024-08-18T00:45:00+00:00",
+        "timezone": "America/Chicago",
+        "latitude": "38.64791",
+        "longitude": "-90.137346",
+        "trackName": "World Wide Technology Raceway at Gateway",
+        "countryCode": "US",
+        "cityName": "Madison (IL)",
+        "steps": [
+            {
+                "id": "ea3187d99",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2024-08-16T16:45:00+00:00",
+                "startLocal": "2024-08-16T11:45:00-05:00",
+                "end": "2024-08-16T17:45:00+00:00",
+                "endLocal": "2024-08-16T12:45:00-05:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "13e45d7cf",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-08-16T20:20:00+00:00",
+                "startLocal": "2024-08-16T15:20:00-05:00",
+                "end": "2024-08-16T21:20:00+00:00",
+                "endLocal": "2024-08-16T16:20:00-05:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "d33955651",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2024-08-17T00:30:00+00:00",
+                "startLocal": "2024-08-16T19:30:00-05:00",
+                "end": "2024-08-17T01:30:00+00:00",
+                "endLocal": "2024-08-16T20:30:00-05:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": true,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "03173051e",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2024-08-17T22:15:00+00:00",
+                "startLocal": "2024-08-17T17:15:00-05:00",
+                "end": "2024-08-18T00:45:00+00:00",
+                "endLocal": "2024-08-17T19:45:00-05:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "8676f793b",
+        "type": "indycar",
+        "index": "14 / 17",
+        "season": "2024",
+        "title": "Grand Prix of Portland",
+        "start": "2024-08-23T21:55:00+00:00",
+        "end": "2024-08-26T21:45:00+00:00",
+        "timezone": "America/Los_Angeles",
+        "latitude": "45.596876",
+        "longitude": "-122.696251",
+        "trackName": "Portland International Raceway",
+        "countryCode": "US",
+        "cityName": "Portland",
+        "steps": [
+            {
+                "id": "fcf096310",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2024-08-23T21:55:00+00:00",
+                "startLocal": "2024-08-23T14:55:00-07:00",
+                "end": "2024-08-23T23:10:00+00:00",
+                "endLocal": "2024-08-23T16:10:00-07:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "da4a824cb",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2024-08-24T16:00:00+00:00",
+                "startLocal": "2024-08-24T09:00:00-07:00",
+                "end": "2024-08-24T17:00:00+00:00",
+                "endLocal": "2024-08-24T10:00:00-07:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "b44110484",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-08-24T19:30:00+00:00",
+                "startLocal": "2024-08-24T12:30:00-07:00",
+                "end": "2024-08-24T21:00:00+00:00",
+                "endLocal": "2024-08-24T14:00:00-07:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "ff6bc4057",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2024-08-24T22:15:00+00:00",
+                "startLocal": "2024-08-24T15:15:00-07:00",
+                "end": "2024-08-24T22:45:00+00:00",
+                "endLocal": "2024-08-24T15:45:00-07:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "c3888a649",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2024-08-25T19:20:00+00:00",
+                "startLocal": "2024-08-25T12:20:00-07:00",
+                "end": "2024-08-26T21:45:00+00:00",
+                "endLocal": "2024-08-26T14:45:00-07:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "2b840e0c7",
+        "type": "indycar",
+        "index": "15 / 17",
+        "season": "2024",
+        "title": "Milwaukee Mile 1",
+        "start": "2024-08-30T19:35:00+00:00",
+        "end": "2024-09-01T00:00:00+00:00",
+        "timezone": "US/Central",
+        "latitude": "43.021944",
+        "longitude": "-88.012778",
+        "trackName": "Wisconsin State Fair Park",
+        "countryCode": "US",
+        "cityName": "Milwaukee, WI",
+        "steps": [
+            {
+                "id": "721bda4b6",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": null,
+                "start": "2024-08-30T19:35:00+00:00",
+                "startLocal": "2024-08-30T14:35:00-05:00",
+                "end": "2024-08-30T20:15:00+00:00",
+                "endLocal": "2024-08-30T15:15:00-05:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "2eae3d0b7",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-08-31T18:15:00+00:00",
+                "startLocal": "2024-08-31T13:15:00-05:00",
+                "end": "2024-08-31T19:15:00+00:00",
+                "endLocal": "2024-08-31T14:15:00-05:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "5d0e813d2",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2024-08-31T22:00:00+00:00",
+                "startLocal": "2024-08-31T17:00:00-05:00",
+                "end": "2024-09-01T00:00:00+00:00",
+                "endLocal": "2024-08-31T19:00:00-05:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "467b89bfe",
+        "type": "indycar",
+        "index": "16 / 17",
+        "season": "2024",
+        "title": "Milwaukee Mile 2",
+        "start": "2024-08-31T18:15:00+00:00",
+        "end": "2024-09-01T20:55:00+00:00",
+        "timezone": "US/Central",
+        "latitude": "43.021944",
+        "longitude": "-88.012778",
+        "trackName": "Wisconsin State Fair Park",
+        "countryCode": "US",
+        "cityName": "Milwaukee, WI",
+        "steps": [
+            {
+                "id": "ead8cad4e",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-08-31T18:15:00+00:00",
+                "startLocal": "2024-08-31T13:15:00-05:00",
+                "end": "2024-08-31T19:15:00+00:00",
+                "endLocal": "2024-08-31T14:15:00-05:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "dc1e70b4d",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2024-09-01T18:50:00+00:00",
+                "startLocal": "2024-09-01T13:50:00-05:00",
+                "end": "2024-09-01T20:55:00+00:00",
+                "endLocal": "2024-09-01T15:55:00-05:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "61024a954",
+        "type": "indycar",
+        "index": "17 / 17",
+        "season": "2024",
+        "title": "Grand Prix of Nashville",
+        "start": "2024-09-14T15:00:00+00:00",
+        "end": "2024-09-15T21:45:00+00:00",
+        "timezone": "America/Chicago",
+        "latitude": "36.16469",
+        "longitude": "-86.771343",
+        "trackName": "Streets of Nashville",
+        "countryCode": "US",
+        "cityName": "Nashville",
+        "steps": [
+            {
+                "id": "95007a3cf",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2024-09-14T15:00:00+00:00",
+                "startLocal": "2024-09-14T10:00:00-05:00",
+                "end": "2024-09-14T16:30:00+00:00",
+                "endLocal": "2024-09-14T11:30:00-05:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "84cb83628",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2024-09-14T18:15:00+00:00",
+                "startLocal": "2024-09-14T13:15:00-05:00",
+                "end": "2024-09-14T19:15:00+00:00",
+                "endLocal": "2024-09-14T14:15:00-05:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "9b6a43a8e",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2024-09-14T21:15:00+00:00",
+                "startLocal": "2024-09-14T16:15:00-05:00",
+                "end": "2024-09-14T21:45:00+00:00",
+                "endLocal": "2024-09-14T16:45:00-05:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "a45b5babc",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2024-09-15T19:30:00+00:00",
+                "startLocal": "2024-09-15T14:30:00-05:00",
+                "end": "2024-09-15T21:45:00+00:00",
+                "endLocal": "2024-09-15T16:45:00-05:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "f081d4bdc",
         "type": "indycar",
         "index": "1 / 17",
         "season": "2025",
@@ -15,7 +1494,7 @@
         "cityName": "St. Petersburg",
         "steps": [
             {
-                "id": "mtiwmzmwoq",
+                "id": "f3a715aa3",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -28,10 +1507,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwmzmxmq",
+                "id": "3d5b8595a",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -44,10 +1524,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwmzmxnw",
+                "id": "15292f24c",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -60,10 +1541,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwmzmxoq",
+                "id": "141efa5d9",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -76,12 +1558,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mtiwmzkzoq",
+        "id": "9a25f3694",
         "type": "indycar",
         "index": "2 / 17",
         "season": "2025",
@@ -96,7 +1579,7 @@
         "cityName": "Thermal",
         "steps": [
             {
-                "id": "mtiwmzk0mq",
+                "id": "3c0d002b9",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -109,10 +1592,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwmzk0mw",
+                "id": "e2a97b1f9",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -125,10 +1609,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwmzk0nq",
+                "id": "bccac83e2",
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 3,
@@ -141,10 +1626,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwmzk0nw",
+                "id": "d518ef595",
                 "title": "Practice 4",
                 "type": "practice",
                 "index": 4,
@@ -157,10 +1643,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwmzk0oq",
+                "id": "204a0b90c",
                 "title": "Practice 5",
                 "type": "practice",
                 "index": 5,
@@ -173,10 +1660,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwmzk1mq",
+                "id": "b405080f5",
                 "title": "Practice 6",
                 "type": "practice",
                 "index": 6,
@@ -189,10 +1677,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwmzk1mw",
+                "id": "0f56fedb4",
                 "title": "Practice 7",
                 "type": "practice",
                 "index": 7,
@@ -205,10 +1694,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwmzk1nq",
+                "id": "8866013bc",
                 "title": "Practice 8",
                 "type": "practice",
                 "index": 8,
@@ -221,10 +1711,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwmzk1nw",
+                "id": "afb90b0fd",
                 "title": "Practice 9",
                 "type": "practice",
                 "index": 9,
@@ -237,10 +1728,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwmzk1oq",
+                "id": "9e960b80d",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -253,10 +1745,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwmzk2oq",
+                "id": "d6221fcee",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -269,12 +1762,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mtiwndu3mq",
+        "id": "67f670705",
         "type": "indycar",
         "index": "3 / 17",
         "season": "2025",
@@ -289,7 +1783,7 @@
         "cityName": "Long Beach",
         "steps": [
             {
-                "id": "mtiwndu3mw",
+                "id": "c07d8d534",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -302,10 +1796,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwndu3nq",
+                "id": "b71ec28fe",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -318,10 +1813,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwndu5mq",
+                "id": "d7e419418",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -334,10 +1830,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwndywmq",
+                "id": "8f7de9488",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -350,12 +1847,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mtiwntiwmw",
+        "id": "81664e2ad",
         "type": "indycar",
         "index": "4 / 17",
         "season": "2025",
@@ -370,7 +1868,7 @@
         "cityName": "Birmingham",
         "steps": [
             {
-                "id": "mtiwntiwnq",
+                "id": "72eaa196c",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -383,10 +1881,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwntiwnw",
+                "id": "9e1457960",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -399,10 +1898,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwntiymw",
+                "id": "c754cabf3",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -415,10 +1915,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwntiynq",
+                "id": "e8a9cc740",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -431,12 +1932,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mtiwnzazmw",
+        "id": "3fc682f21",
         "type": "indycar",
         "index": "5 / 17",
         "season": "2025",
@@ -451,7 +1953,7 @@
         "cityName": "Indianapolis",
         "steps": [
             {
-                "id": "mtiwnzaznq",
+                "id": "5585041ae",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -464,10 +1966,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwnzaznw",
+                "id": "56d25aeb4",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -480,10 +1983,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwnza0mw",
+                "id": "3bbb960a4",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -496,10 +2000,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwnza0nq",
+                "id": "3e28a5622",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -512,12 +2017,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mtiwnzg3oq",
+        "id": "d5a8c0030",
         "type": "indycar",
         "index": "6 / 17",
         "season": "2025",
@@ -532,7 +2038,7 @@
         "cityName": "Indianapolis",
         "steps": [
             {
-                "id": "mtiwnzg4mq",
+                "id": "825bdc317",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -545,10 +2051,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwnzg4mw",
+                "id": "c992c1b87",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -561,10 +2068,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwnzg4nq",
+                "id": "25f1efe61",
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 3,
@@ -577,10 +2085,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwnzg4nw",
+                "id": "5f79a0592",
                 "title": "Practice 4",
                 "type": "practice",
                 "index": 4,
@@ -593,10 +2102,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwnzg5mw",
+                "id": "54d6fd252",
                 "title": "Practice 5",
                 "type": "practice",
                 "index": 5,
@@ -609,10 +2119,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwnzg5nq",
+                "id": "6704bb39b",
                 "title": "Practice 6",
                 "type": "practice",
                 "index": 6,
@@ -625,10 +2136,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwnzg4oq",
+                "id": "1252d7856",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -641,10 +2153,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwnzg5nw",
+                "id": "676fbbd8b",
                 "title": "Practice 7",
                 "type": "practice",
                 "index": 7,
@@ -657,10 +2170,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwnzg5oq",
+                "id": "deade59ea",
                 "title": "Practice 8",
                 "type": "practice",
                 "index": 8,
@@ -673,10 +2187,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwnzkwmq",
+                "id": "38e523b9c",
                 "title": "Practice 9",
                 "type": "practice",
                 "index": 9,
@@ -689,10 +2204,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtiwnzg5mq",
+                "id": "2a41396f3",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -705,12 +2221,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mtixmta3oq",
+        "id": "019fe3dcc",
         "type": "indycar",
         "index": "7 / 17",
         "season": "2025",
@@ -725,7 +2242,7 @@
         "cityName": "Detroit",
         "steps": [
             {
-                "id": "mtixmta4mq",
+                "id": "1187d26fc",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -738,10 +2255,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixmta4mw",
+                "id": "dc4dc0b85",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -754,10 +2272,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixmta4oq",
+                "id": "677fcf542",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -770,10 +2289,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixmta5mq",
+                "id": "ccfa6b56f",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -786,12 +2306,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mtixmtcxmq",
+        "id": "8265f5fd7",
         "type": "indycar",
         "index": "8 / 17",
         "season": "2025",
@@ -806,7 +2327,7 @@
         "cityName": "Madison (IL)",
         "steps": [
             {
-                "id": "mtixmtcxnw",
+                "id": "0b9e21083",
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 1,
@@ -819,10 +2340,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixmtcxmw",
+                "id": "024a6fb51",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 2,
@@ -835,10 +2357,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixmtcxnq",
+                "id": "7812eb1ab",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 3,
@@ -851,10 +2374,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixmtcymq",
+                "id": "c450d047b",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -867,10 +2391,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixmtcymw",
+                "id": "afa0b0703",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -883,12 +2408,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mtixmjm0mw",
+        "id": "29f9cbdae",
         "type": "indycar",
         "index": "9 / 17",
         "season": "2025",
@@ -903,7 +2429,7 @@
         "cityName": "Elkhart Lake",
         "steps": [
             {
-                "id": "mtixmjm0nq",
+                "id": "f837a3cb1",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -916,10 +2442,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixmjm0nw",
+                "id": "9c31f4180",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -932,10 +2459,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixmjm1mw",
+                "id": "a799dc389",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -948,10 +2476,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixmjm1nq",
+                "id": "cc36bb597",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -964,12 +2493,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mtixmjk3nq",
+        "id": "174371fb1",
         "type": "indycar",
         "index": "10 / 17",
         "season": "2025",
@@ -984,7 +2514,7 @@
         "cityName": "Lexington",
         "steps": [
             {
-                "id": "mtixmjk3nw",
+                "id": "a1c862559",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -997,10 +2527,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixmjk3oq",
+                "id": "b536bb0f6",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -1013,10 +2544,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixmjk4nq",
+                "id": "12dbb3f63",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -1029,10 +2561,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixmjk4nw",
+                "id": "186ba5275",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -1045,12 +2578,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mtixmzywnw",
+        "id": "3f9f2b468",
         "type": "indycar",
         "index": "11 / 17",
         "season": "2025",
@@ -1065,7 +2599,7 @@
         "cityName": "Newton",
         "steps": [
             {
-                "id": "mtixmzywoq",
+                "id": "8260b1b14",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": null,
@@ -1078,10 +2612,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixmzyxoq",
+                "id": "d4d170023",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -1094,10 +2629,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixmzyxnw",
+                "id": "84d112933",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -1110,12 +2646,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mtixndizoq",
+        "id": "f4e996cab",
         "type": "indycar",
         "index": "12 / 17",
         "season": "2025",
@@ -1130,7 +2667,7 @@
         "cityName": "Newton",
         "steps": [
             {
-                "id": "mtixndi0oq",
+                "id": "fff53ac1b",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -1143,10 +2680,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixndi1mq",
+                "id": "a5c9aefe2",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -1159,12 +2697,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mtixndg3mq",
+        "id": "d8f531529",
         "type": "indycar",
         "index": "13 / 17",
         "season": "2025",
@@ -1179,7 +2718,7 @@
         "cityName": "Toronto",
         "steps": [
             {
-                "id": "mtixndg3mw",
+                "id": "0cc1d2386",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -1192,10 +2731,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixndg4mq",
+                "id": "6c5d3f1f6",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -1208,10 +2748,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixndg4mw",
+                "id": "056c049ca",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -1224,10 +2765,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixndg3nq",
+                "id": "9f8e01c47",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -1240,12 +2782,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mtixntuwmw",
+        "id": "e464d5868",
         "type": "indycar",
         "index": "14 / 17",
         "season": "2025",
@@ -1260,7 +2803,7 @@
         "cityName": "Monterey",
         "steps": [
             {
-                "id": "mtixntuwnq",
+                "id": "9f3966e71",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -1273,10 +2816,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixntuwnw",
+                "id": "ef30ec21b",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -1289,10 +2833,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixntuxmw",
+                "id": "97600c36e",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -1305,10 +2850,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixntuxnq",
+                "id": "8ed8873ea",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -1321,12 +2867,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": true,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mtixnjeznq",
+        "id": "e6b64e58b",
         "type": "indycar",
         "index": "15 / 17",
         "season": "2025",
@@ -1341,7 +2888,7 @@
         "cityName": "Portland",
         "steps": [
             {
-                "id": "mtixnjeznw",
+                "id": "1fd3f6d6b",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -1354,10 +2901,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixnjezoq",
+                "id": "7700dfcda",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -1370,10 +2918,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixnje0mq",
+                "id": "c9d15347d",
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 3,
@@ -1386,10 +2935,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixnje0nq",
+                "id": "1124c5de3",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -1402,10 +2952,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixnje0nw",
+                "id": "b0b86747f",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -1418,12 +2969,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mtixnjc2nw",
+        "id": "2674d55b6",
         "type": "indycar",
         "index": "16 / 17",
         "season": "2025",
@@ -1438,7 +2990,7 @@
         "cityName": null,
         "steps": [
             {
-                "id": "mtixnjc2oq",
+                "id": "0091f8da7",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -1451,10 +3003,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixnjc3mq",
+                "id": "7832702ee",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
@@ -1467,10 +3020,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixnjc3nw",
+                "id": "ebd33a6e1",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -1483,10 +3037,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixnjc3oq",
+                "id": "f5d7082d8",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -1499,12 +3054,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     },
     {
-        "id": "mtixnzm5oq",
+        "id": "0ba3f99c4",
         "type": "indycar",
         "index": "17 / 17",
         "season": "2025",
@@ -1519,7 +3075,7 @@
         "cityName": "Lebanon",
         "steps": [
             {
-                "id": "mtixnzqwmq",
+                "id": "61cddc19f",
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
@@ -1532,10 +3088,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixnzqwnq",
+                "id": "6c8c7f6c3",
                 "title": "Practice 3",
                 "type": "practice",
                 "index": 2,
@@ -1548,10 +3105,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixnzqwmw",
+                "id": "21748c4bb",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 3,
@@ -1564,10 +3122,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixnzqwoq",
+                "id": "749a490ff",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
@@ -1580,10 +3139,11 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             },
             {
-                "id": "mtixnzqxmq",
+                "id": "eb3f3ed76",
                 "title": "Race",
                 "type": "race",
                 "index": null,
@@ -1596,7 +3156,8 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": []
+                "channels": [],
+                "hasSummary": false
             }
         ]
     }
