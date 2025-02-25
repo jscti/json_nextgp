@@ -337,7 +337,7 @@
                 "name": "Toprak Razgatlioglu",
                 "countryCode": "TR",
                 "team": "BMW Motorrad",
-                "time": "01:30.719",
+                "time": "1:30.719",
                 "laps": 10
             },
             {
@@ -816,14 +816,14 @@
                 "name": "Alex Lowes",
                 "countryCode": "GB",
                 "team": "Kawasaki Racing",
-                "time": "1:32.408",
+                "time": null,
                 "laps": 17
             },
             {
                 "name": "Iker Lecuona",
                 "countryCode": "ES",
                 "team": "Team HRC",
-                "time": "1:33.158",
+                "time": null,
                 "laps": 9
             }
         ]
@@ -975,21 +975,21 @@
                 "name": "Alvaro Bautista",
                 "countryCode": "ES",
                 "team": "Aruba.It Racing - Ducati (SBK)",
-                "time": "1:31.343",
+                "time": null,
                 "laps": 10
             },
             {
                 "name": "Scott Redding",
                 "countryCode": "GB",
                 "team": "Bonovo Action MBW",
-                "time": "1:32.925",
+                "time": null,
                 "laps": 2
             },
             {
                 "name": "Sam Lowes",
                 "countryCode": "GB",
                 "team": "Elf Marc Vds Racing Team",
-                "time": "1:32.627",
+                "time": null,
                 "laps": 2
             }
         ]
@@ -1127,30 +1127,33 @@
                 "name": "Axel Bassani",
                 "countryCode": "IT",
                 "team": "Motocorsa Racing",
-                "time": "1:32.769",
+                "time": null,
                 "laps": 21
             },
             {
                 "name": "Philipp Ottl",
                 "countryCode": "DE",
                 "team": "Gmt94 Yamaha",
-                "time": "1:33.505",
+                "time": null,
                 "laps": 10
             },
             {
                 "name": "Danilo Petrucci",
                 "countryCode": "IT",
-                "team": "Barni Racing Team"
+                "team": "Barni Racing Team",
+                "time": null
             },
             {
                 "name": "Alvaro Bautista",
                 "countryCode": "ES",
-                "team": "Aruba.It Racing - Ducati (SBK)"
+                "team": "Aruba.It Racing - Ducati (SBK)",
+                "time": null
             },
             {
                 "name": "Sam Lowes",
                 "countryCode": "GB",
-                "team": "Elf Marc Vds Racing Team"
+                "team": "Elf Marc Vds Racing Team",
+                "time": null
             }
         ]
     }

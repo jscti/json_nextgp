@@ -693,27 +693,28 @@
                 "name": "George Russell",
                 "countryCode": "GB",
                 "team": "Mercedes AMG Motorsport",
-                "time": "1:20.284",
+                "time": null,
                 "laps": 56
             },
             {
                 "name": "Lewis Hamilton",
                 "countryCode": "GB",
                 "team": "Mercedes AMG Motorsport",
-                "time": "1:22.444",
+                "time": null,
                 "laps": 15
             },
             {
                 "name": "Max Verstappen",
                 "countryCode": "NL",
                 "team": "Red Bull Racing",
-                "time": "1:23.115",
+                "time": null,
                 "laps": 3
             },
             {
                 "name": "Logan Sargeant",
                 "countryCode": "US",
-                "team": "Williams"
+                "team": "Williams",
+                "time": null
             }
         ]
     }

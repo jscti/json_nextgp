@@ -422,12 +422,14 @@
                 "name": "Lance Stroll",
                 "countryCode": "CA",
                 "team": "Aston Martin F1 Team",
+                "time": null,
                 "laps": 1
             },
             {
                 "name": "Lando Norris",
                 "countryCode": "GB",
-                "team": "McLaren"
+                "team": "McLaren",
+                "time": null
             }
         ]
     },
@@ -716,7 +718,7 @@
                 "name": "Logan Sargeant",
                 "countryCode": "US",
                 "team": "Williams",
-                "time": "1:33.452",
+                "time": null,
                 "laps": 27
             }
         ]

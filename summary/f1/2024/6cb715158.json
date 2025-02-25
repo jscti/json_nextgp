@@ -440,13 +440,14 @@
                 "name": "Fernando Alonso",
                 "countryCode": "ES",
                 "team": "Aston Martin F1 Team",
-                "time": "1:40.537",
+                "time": null,
                 "laps": 17
             },
             {
                 "name": "Ayumu Iwasa",
                 "countryCode": "JP",
-                "team": "Racing Bulls"
+                "team": "Racing Bulls",
+                "time": null
             }
         ]
     },
@@ -727,27 +728,28 @@
                 "name": "Daniel Ricciardo",
                 "countryCode": "AU",
                 "team": "Racing Bulls",
-                "time": "1:40.994",
+                "time": null,
                 "laps": 33
             },
             {
                 "name": "Yuki Tsunoda",
                 "countryCode": "JP",
                 "team": "Racing Bulls",
-                "time": "1:41.593",
+                "time": null,
                 "laps": 26
             },
             {
                 "name": "Valtteri Bottas",
                 "countryCode": "FI",
                 "team": "Sauber",
-                "time": "1:41.276",
+                "time": null,
                 "laps": 19
             },
             {
                 "name": "Ayumu Iwasa",
                 "countryCode": "JP",
-                "team": "Racing Bulls"
+                "team": "Racing Bulls",
+                "time": null
             }
         ]
     }

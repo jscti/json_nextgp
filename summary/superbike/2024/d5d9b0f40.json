@@ -813,13 +813,14 @@
                 "name": "Remy Gardner",
                 "countryCode": "AU",
                 "team": "Grt Yamaha",
-                "time": "1:30.552",
+                "time": null,
                 "laps": 2
             },
             {
                 "name": "Iker Lecuona",
                 "countryCode": "ES",
-                "team": "Team HRC"
+                "team": "Team HRC",
+                "time": null
             }
         ]
     },
@@ -977,12 +978,14 @@
                 "name": "Tarran Mackenzie",
                 "countryCode": "GB",
                 "team": "Petronas Mie Racing Honda",
+                "time": null,
                 "laps": 0
             },
             {
                 "name": "Iker Lecuona",
                 "countryCode": "ES",
-                "team": "Team HRC"
+                "team": "Team HRC",
+                "time": null
             }
         ]
     },
@@ -1126,23 +1129,26 @@
                 "name": "Andrea Locatelli",
                 "countryCode": "IT",
                 "team": "Pata Yamaha With Brixx",
-                "time": "1:28.963",
+                "time": null,
                 "laps": 10
             },
             {
                 "name": "Jonathan Rea",
                 "countryCode": "GB",
-                "team": "Pata Yamaha With Brixx"
+                "team": "Pata Yamaha With Brixx",
+                "time": null
             },
             {
                 "name": "Toprak Razgatlioglu",
                 "countryCode": "TR",
-                "team": "BMW Motorrad"
+                "team": "BMW Motorrad",
+                "time": null
             },
             {
                 "name": "Iker Lecuona",
                 "countryCode": "ES",
-                "team": "Team HRC"
+                "team": "Team HRC",
+                "time": null
             }
         ]
     }

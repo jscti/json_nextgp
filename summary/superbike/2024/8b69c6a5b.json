@@ -810,20 +810,21 @@
                 "name": "Esteve Rabat",
                 "countryCode": "ES",
                 "team": "Kawasaki Puccetti Racing",
-                "time": "+1l",
+                "time": "+1 lap",
                 "laps": 19
             },
             {
                 "name": "Sam Lowes",
                 "countryCode": "GB",
                 "team": "Elf Marc Vds Racing Team",
-                "time": "1:41.440",
+                "time": null,
                 "laps": 4
             },
             {
                 "name": "Jonathan Rea",
                 "countryCode": "GB",
                 "team": "Pata Yamaha With Brixx",
+                "time": null,
                 "laps": 1
             }
         ]
@@ -989,7 +990,7 @@
                 "name": "Adam Norrodin",
                 "countryCode": "MY",
                 "team": "Petronas Mie Racing Honda",
-                "time": "1:43.008",
+                "time": null,
                 "laps": 9
             }
         ]
@@ -1127,32 +1128,34 @@
                 "name": "Andrea Iannone",
                 "countryCode": "IT",
                 "team": "Team Goeleven",
-                "time": "1:42.237",
+                "time": null,
                 "laps": 12
             },
             {
                 "name": "Iker Lecuona",
                 "countryCode": "ES",
                 "team": "Team HRC",
-                "time": "1:43.280",
+                "time": null,
                 "laps": 2
             },
             {
                 "name": "Bradley Ray",
                 "countryCode": "GB",
                 "team": "Yamaha Motoxracing Worldsbk Team",
-                "time": "1:43.478",
+                "time": null,
                 "laps": 2
             },
             {
                 "name": "Axel Bassani",
                 "countryCode": "IT",
-                "team": "Motocorsa Racing"
+                "team": "Motocorsa Racing",
+                "time": null
             },
             {
                 "name": "Michael Ruben Rinaldi",
                 "countryCode": "IT",
-                "team": "Motocorsa Racing"
+                "team": "Motocorsa Racing",
+                "time": null
             }
         ]
     }
