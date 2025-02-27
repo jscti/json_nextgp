@@ -29,6 +29,7 @@
             {
                 "name": "Ai Ogura",
                 "countryCode": "JP",
+                "team": "Trackhouse MotoGP Team",
                 "time": "+0.287",
                 "laps": 14
             },
@@ -47,6 +48,7 @@
             {
                 "name": "Fermin Aldeguer",
                 "countryCode": "ES",
+                "team": "Gresini Racing MotoGP",
                 "time": "+0.794",
                 "laps": 16
             },
@@ -184,6 +186,7 @@
             {
                 "name": "Fermin Aldeguer",
                 "countryCode": "ES",
+                "team": "Gresini Racing MotoGP",
                 "time": "1:32.718",
                 "laps": 18
             },
@@ -256,6 +259,7 @@
             {
                 "name": "Ai Ogura",
                 "countryCode": "JP",
+                "team": "Trackhouse MotoGP Team",
                 "time": "+1.413",
                 "laps": 16
             },
@@ -340,13 +344,13 @@
             {
                 "name": "Xavi Cardelus",
                 "countryCode": "AD",
-                "time": "+4.411 ",
+                "time": "+4.411",
                 "laps": 15
             },
             {
                 "name": "Xavier Artigas",
                 "countryCode": "ES",
-                "time": "+5.301 ",
+                "time": "+5.301",
                 "laps": 12
             },
             {
@@ -439,6 +443,7 @@
             {
                 "name": "Fermin Aldeguer",
                 "countryCode": "ES",
+                "team": "Gresini Racing MotoGP",
                 "time": "+3.301",
                 "laps": 7
             },
@@ -512,7 +517,8 @@
             },
             {
                 "name": "Ai Ogura",
-                "countryCode": "JP"
+                "countryCode": "JP",
+                "team": "Trackhouse MotoGP Team"
             },
             {
                 "name": "Celestino Vietti",
@@ -526,6 +532,7 @@
             {
                 "name": "Fermin Aldeguer",
                 "countryCode": "ES",
+                "team": "Gresini Racing MotoGP",
                 "time": "1:30.876",
                 "laps": 10
             },
@@ -574,6 +581,7 @@
             {
                 "name": "Ai Ogura",
                 "countryCode": "JP",
+                "team": "Trackhouse MotoGP Team",
                 "time": "+0.579",
                 "laps": 8
             },
@@ -703,6 +711,7 @@
             {
                 "name": "Fermin Aldeguer",
                 "countryCode": "ES",
+                "team": "Gresini Racing MotoGP",
                 "time": "35:08.816",
                 "laps": 23
             },
@@ -721,6 +730,7 @@
             {
                 "name": "Ai Ogura",
                 "countryCode": "JP",
+                "team": "Trackhouse MotoGP Team",
                 "time": "+8.385",
                 "laps": 23
             },
@@ -823,48 +833,52 @@
             {
                 "name": "Deniz Oncu",
                 "countryCode": "TR",
-                "time": "+1l",
+                "time": "+1 lap",
                 "laps": 22
             },
             {
                 "name": "Alonso Lopez",
                 "countryCode": "ES",
-                "time": "1:31.295",
+                "time": null,
                 "laps": 20
             },
             {
                 "name": "Ayumu Sasaki",
                 "countryCode": "JP",
-                "time": "1:31.693",
+                "time": null,
                 "laps": 17
             },
             {
                 "name": "Jaume Masia",
                 "countryCode": "ES",
-                "time": "1:32.721",
+                "time": null,
                 "laps": 10
             },
             {
                 "name": "Zonta van Den Goorbergh",
                 "countryCode": "NL",
-                "time": "1:32.527",
+                "time": null,
                 "laps": 4
             },
             {
                 "name": "Jake Dixon",
-                "countryCode": "GB"
+                "countryCode": "GB",
+                "time": null
             },
             {
                 "name": "Dennis Foggia",
-                "countryCode": "IT"
+                "countryCode": "IT",
+                "time": null
             },
             {
                 "name": "Joe Roberts",
-                "countryCode": "US"
+                "countryCode": "US",
+                "time": null
             },
             {
                 "name": "Celestino Vietti",
-                "countryCode": "IT"
+                "countryCode": "IT",
+                "time": null
             }
         ]
     }
