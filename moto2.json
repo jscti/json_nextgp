@@ -2168,7 +2168,7 @@
                 "hasTime": true,
                 "weatherCondition": 804,
                 "weatherIcon": "04d",
-                "weatherRainProbability": 0.03,
+                "weatherRainProbability": 0.08,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
@@ -2183,9 +2183,9 @@
                 "end": "2025-03-14T17:45:00+00:00",
                 "endLocal": "2025-03-14T14:45:00-03:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.59,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
