@@ -2153,7 +2153,13 @@
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ],
                 "hasSummary": false
             },
             {
@@ -2170,7 +2176,13 @@
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ],
                 "hasSummary": false
             },
             {
@@ -2183,8 +2195,8 @@
                 "end": "2025-03-15T12:10:00+00:00",
                 "endLocal": "2025-03-15T09:10:00-03:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
@@ -2200,9 +2212,9 @@
                 "end": "2025-03-15T16:30:00+00:00",
                 "endLocal": "2025-03-15T13:30:00-03:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
@@ -2217,9 +2229,9 @@
                 "end": "2025-03-16T16:00:00+00:00",
                 "endLocal": "2025-03-16T13:00:00-03:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
