@@ -2206,7 +2206,7 @@
                         "channelCode": "canal-plus-sport360.fr"
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "ec8d131d0",
@@ -2218,9 +2218,9 @@
                 "end": "2025-03-15T16:30:00+00:00",
                 "endLocal": "2025-03-15T13:30:00-03:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.2,
                 "isNightEvent": false,
                 "channels": [
                     {
