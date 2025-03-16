@@ -2607,7 +2607,7 @@
                         "channelCode": "tipik.be"
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             }
         ]
     },
@@ -2636,8 +2636,8 @@
                 "end": "2025-03-21T04:30:00+00:00",
                 "endLocal": "2025-03-21T12:30:00+08:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
@@ -2665,9 +2665,9 @@
                 "end": "2025-03-21T08:14:00+00:00",
                 "endLocal": "2025-03-21T16:14:00+08:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
