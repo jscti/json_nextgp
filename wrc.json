@@ -1231,9 +1231,9 @@
                 "end": "2025-03-20T14:30:00+00:00",
                 "endLocal": "2025-03-20T17:30:00+03:00",
                 "hasTime": true,
-                "weatherCondition": 803,
+                "weatherCondition": 804,
                 "weatherIcon": "04d",
-                "weatherRainProbability": 0.13,
+                "weatherRainProbability": 0.21,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -1256,7 +1256,7 @@
                 "hasTime": true,
                 "weatherCondition": 804,
                 "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherRainProbability": 0.01,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -1282,15 +1282,20 @@
                 "end": "2025-03-22T15:40:00+00:00",
                 "endLocal": "2025-03-22T18:40:00+03:00",
                 "hasTime": true,
-                "weatherCondition": 804,
+                "weatherCondition": 803,
                 "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherRainProbability": 0.04,
                 "isNightEvent": false,
                 "channels": [
                     {
                         "countryCode": "BE",
                         "channelName": "La Trois",
                         "channelCode": "la-trois.be"
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
                     }
                 ],
                 "hasSummary": false
@@ -1305,9 +1310,9 @@
                 "end": "2025-03-23T12:45:00+00:00",
                 "endLocal": "2025-03-23T15:45:00+03:00",
                 "hasTime": true,
-                "weatherCondition": 804,
+                "weatherCondition": 803,
                 "weatherIcon": "04d",
-                "weatherRainProbability": 0.1,
+                "weatherRainProbability": 0.04,
                 "isNightEvent": false,
                 "channels": [
                     {
