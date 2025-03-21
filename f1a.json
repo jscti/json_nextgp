@@ -831,7 +831,7 @@
                 "hasSummary": true
             },
             {
-                "id": "cc8015c20",
+                "id": "8ce0ffcee",
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
@@ -840,12 +840,12 @@
                 "end": "2025-03-21T06:35:00+00:00",
                 "endLocal": "2025-03-21T14:35:00+08:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "72afe8dd6",
@@ -857,8 +857,8 @@
                 "end": "2025-03-22T06:20:00+00:00",
                 "endLocal": "2025-03-22T14:20:00+08:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
