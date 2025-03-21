@@ -911,7 +911,7 @@
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
-                "isNightEvent": false,
+                "isNightEvent": true,
                 "channels": [],
                 "hasSummary": false
             },
@@ -928,7 +928,7 @@
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
-                "isNightEvent": false,
+                "isNightEvent": true,
                 "channels": [],
                 "hasSummary": false
             },
@@ -945,7 +945,7 @@
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
-                "isNightEvent": false,
+                "isNightEvent": true,
                 "channels": [],
                 "hasSummary": false
             },
@@ -962,7 +962,7 @@
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
-                "isNightEvent": false,
+                "isNightEvent": true,
                 "channels": [],
                 "hasSummary": false
             }
@@ -1251,7 +1251,7 @@
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
-                "isNightEvent": false,
+                "isNightEvent": true,
                 "channels": [],
                 "hasSummary": false
             },
@@ -1268,7 +1268,7 @@
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
-                "isNightEvent": false,
+                "isNightEvent": true,
                 "channels": [],
                 "hasSummary": false
             },
@@ -1285,7 +1285,7 @@
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
-                "isNightEvent": false,
+                "isNightEvent": true,
                 "channels": [],
                 "hasSummary": false
             },
@@ -1302,7 +1302,7 @@
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
-                "isNightEvent": false,
+                "isNightEvent": true,
                 "channels": [],
                 "hasSummary": false
             }
@@ -1316,6 +1316,9 @@
         "title": "United States 2025",
         "start": "2025-11-20T13:57:00+00:00",
         "end": "2025-11-21T23:00:00+00:00",
+        "timezone": "America/Los_Angeles",
+        "latitude": "36.1672559",
+        "longitude": "-115.148516",
         "trackName": "Las Vegas Strip Circuit",
         "countryCode": "VG",
         "cityName": "Las Vegas",
@@ -1326,7 +1329,7 @@
                 "type": "practice",
                 "index": null,
                 "start": "2025-11-20T13:57:00+00:00",
-                "startLocal": null,
+                "startLocal": "2025-11-20T05:57:00-08:00",
                 "end": null,
                 "endLocal": null,
                 "hasTime": true,
@@ -1343,7 +1346,7 @@
                 "type": "qualifying",
                 "index": null,
                 "start": "2025-11-20T13:59:00+00:00",
-                "startLocal": null,
+                "startLocal": "2025-11-20T05:59:00-08:00",
                 "end": null,
                 "endLocal": null,
                 "hasTime": true,
@@ -1360,7 +1363,7 @@
                 "type": "race",
                 "index": 1,
                 "start": "2025-11-21T13:58:00+00:00",
-                "startLocal": null,
+                "startLocal": "2025-11-21T05:58:00-08:00",
                 "end": null,
                 "endLocal": null,
                 "hasTime": true,
@@ -1377,7 +1380,7 @@
                 "type": "race",
                 "index": 2,
                 "start": "2025-11-22T13:58:00+00:00",
-                "startLocal": null,
+                "startLocal": "2025-11-22T05:58:00-08:00",
                 "end": null,
                 "endLocal": null,
                 "hasTime": true,
