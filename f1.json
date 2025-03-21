@@ -2488,13 +2488,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "C35.api.telerama.fr"
-                    }
-                ],
+                "channels": [],
                 "hasSummary": true
             },
             {
@@ -2511,13 +2505,7 @@
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "C35.api.telerama.fr"
-                    }
-                ],
+                "channels": [],
                 "hasSummary": true
             },
             {
@@ -2652,7 +2640,7 @@
                         "channelCode": "tipik.be"
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "59e349f35",
