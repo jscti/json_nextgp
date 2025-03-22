@@ -2518,17 +2518,11 @@
                 "end": "2025-03-15T02:30:00+00:00",
                 "endLocal": "2025-03-15T13:30:00+11:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "C35.api.telerama.fr"
-                    }
-                ],
+                "channels": [],
                 "hasSummary": true
             },
             {
@@ -2545,23 +2539,7 @@
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "C35.api.telerama.fr"
-                    },
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+",
-                        "channelCode": "C34.api.telerama.fr"
-                    },
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": "tipik.be"
-                    }
-                ],
+                "channels": [],
                 "hasSummary": true
             },
             {
@@ -2703,7 +2681,7 @@
                         "channelCode": "tipik.be"
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "41e5bb90f",
