@@ -2629,7 +2629,7 @@
         "season": "2025",
         "title": "Grand Prix of The Americas",
         "start": "2025-03-28T15:45:00+00:00",
-        "end": "2025-03-30T21:00:00+00:00",
+        "end": "2025-03-30T20:00:00+00:00",
         "timezone": "America/Chicago",
         "latitude": "30.132778",
         "longitude": "-97.641111",
@@ -2647,7 +2647,7 @@
                 "end": "2025-03-28T16:30:00+00:00",
                 "endLocal": "2025-03-28T11:30:00-05:00",
                 "hasTime": true,
-                "weatherCondition": 501,
+                "weatherCondition": 500,
                 "weatherIcon": "10d",
                 "weatherRainProbability": 1,
                 "isNightEvent": false,
@@ -2693,11 +2693,17 @@
                 "end": "2025-03-29T15:40:00+00:00",
                 "endLocal": "2025-03-29T10:40:00-05:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ],
                 "hasSummary": false
             },
             {
@@ -2710,11 +2716,17 @@
                 "end": "2025-03-29T16:30:00+00:00",
                 "endLocal": "2025-03-29T11:30:00-05:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ],
                 "hasSummary": false
             },
             {
@@ -2728,11 +2740,17 @@
                 "end": "2025-03-29T20:30:00+00:00",
                 "endLocal": "2025-03-29T15:30:00-05:00",
                 "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ],
                 "hasSummary": false
             },
             {
@@ -2740,12 +2758,12 @@
                 "title": "Race",
                 "type": "race",
                 "index": 2,
-                "start": "2025-03-30T20:00:00+00:00",
-                "startLocal": "2025-03-30T15:00:00-05:00",
-                "end": "2025-03-30T21:00:00+00:00",
-                "endLocal": "2025-03-30T16:00:00-05:00",
+                "start": "2025-03-30T19:00:00+00:00",
+                "startLocal": "2025-03-30T14:00:00-05:00",
+                "end": "2025-03-30T20:00:00+00:00",
+                "endLocal": "2025-03-30T15:00:00-05:00",
                 "hasTime": true,
-                "weatherCondition": 803,
+                "weatherCondition": 804,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
