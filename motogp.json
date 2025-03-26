@@ -2647,11 +2647,17 @@
                 "end": "2025-03-28T16:30:00+00:00",
                 "endLocal": "2025-03-28T11:30:00-05:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 501,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 1,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ],
                 "hasSummary": false
             },
             {
@@ -2664,11 +2670,17 @@
                 "end": "2025-03-28T21:00:00+00:00",
                 "endLocal": "2025-03-28T16:00:00-05:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 1,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": "canal-plus-sport360.fr"
+                    }
+                ],
                 "hasSummary": false
             },
             {
@@ -2681,7 +2693,7 @@
                 "end": "2025-03-29T15:40:00+00:00",
                 "endLocal": "2025-03-29T10:40:00-05:00",
                 "hasTime": true,
-                "weatherCondition": 803,
+                "weatherCondition": 804,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
@@ -2698,7 +2710,7 @@
                 "end": "2025-03-29T16:30:00+00:00",
                 "endLocal": "2025-03-29T11:30:00-05:00",
                 "hasTime": true,
-                "weatherCondition": 803,
+                "weatherCondition": 804,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
@@ -2716,8 +2728,8 @@
                 "end": "2025-03-29T20:30:00+00:00",
                 "endLocal": "2025-03-29T15:30:00-05:00",
                 "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
@@ -2733,9 +2745,9 @@
                 "end": "2025-03-30T21:00:00+00:00",
                 "endLocal": "2025-03-30T16:00:00-05:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
