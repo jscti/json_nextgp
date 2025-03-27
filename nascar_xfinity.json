@@ -13,6 +13,7 @@
         "trackName": "Daytona International Speedway",
         "countryCode": "US",
         "cityName": "Daytona Beach",
+        "stateName": "Florida",
         "steps": [
             {
                 "id": "7a00bb75a",
@@ -76,11 +77,12 @@
         "start": "2024-02-23T22:00:00+00:00",
         "end": "2024-02-25T00:30:00+00:00",
         "timezone": "America/New_York",
-        "latitude": 37.0300969,
-        "longitude": -76.3452057,
+        "latitude": 33.3870578,
+        "longitude": -84.2829784,
         "trackName": "Atlanta Motor Speedway",
         "countryCode": "US",
         "cityName": "Hampton",
+        "stateName": "Georgia",
         "steps": [
             {
                 "id": "304d23433",
@@ -97,7 +99,7 @@
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
-                "isNightEvent": true
+                "isNightEvent": false
             },
             {
                 "id": "e9ead4109",
@@ -148,6 +150,7 @@
         "trackName": "Las Vegas Motor Speedway",
         "countryCode": "US",
         "cityName": "Las Vegas",
+        "stateName": "Nevada",
         "steps": [
             {
                 "id": "56a880f7e",
@@ -216,6 +219,7 @@
         "trackName": "Phoenix Raceway",
         "countryCode": "US",
         "cityName": "Avondale",
+        "stateName": "Arizona",
         "steps": [
             {
                 "id": "0529c5011",
@@ -284,6 +288,7 @@
         "trackName": "Circuits of the Americas",
         "countryCode": "US",
         "cityName": "Austin",
+        "stateName": "Texas",
         "steps": [
             {
                 "id": "f9bf5edf9",
@@ -352,6 +357,7 @@
         "trackName": "Richmond Raceway",
         "countryCode": "US",
         "cityName": "Richmond",
+        "stateName": "Virginia",
         "steps": [
             {
                 "id": "55423482a",
@@ -414,12 +420,13 @@
         "title": "NASCAR Xfinity Series at Martinsville",
         "start": "2024-04-05T21:05:00+00:00",
         "end": "2024-04-07T01:30:00+00:00",
-        "timezone": "America/Chicago",
-        "latitude": 43.2969047,
-        "longitude": -91.9895287,
+        "timezone": "America/New_York",
+        "latitude": 36.5768047,
+        "longitude": -79.8583721,
         "trackName": "Martinsville Speedway",
         "countryCode": "US",
         "cityName": "Ridgeway",
+        "stateName": "Virginia",
         "steps": [
             {
                 "id": "30759718a",
@@ -430,8 +437,8 @@
                 "channels": [],
                 "hasSummary": true,
                 "hasTime": true,
-                "startLocal": "2024-04-05T16:05:00-05:00",
-                "endLocal": "2024-04-05T16:40:00-05:00",
+                "startLocal": "2024-04-05T17:05:00-04:00",
+                "endLocal": "2024-04-05T17:40:00-04:00",
                 "index": null,
                 "weatherCondition": null,
                 "weatherIcon": null,
@@ -447,8 +454,8 @@
                 "channels": [],
                 "hasSummary": true,
                 "hasTime": true,
-                "startLocal": "2024-04-05T16:40:00-05:00",
-                "endLocal": "2024-04-05T17:30:00-05:00",
+                "startLocal": "2024-04-05T17:40:00-04:00",
+                "endLocal": "2024-04-05T18:30:00-04:00",
                 "index": null,
                 "weatherCondition": null,
                 "weatherIcon": null,
@@ -464,8 +471,8 @@
                 "channels": [],
                 "hasSummary": true,
                 "hasTime": true,
-                "startLocal": "2024-04-06T18:30:00-05:00",
-                "endLocal": "2024-04-06T20:30:00-05:00",
+                "startLocal": "2024-04-06T19:30:00-04:00",
+                "endLocal": "2024-04-06T21:30:00-04:00",
                 "index": null,
                 "weatherCondition": null,
                 "weatherIcon": null,
@@ -488,6 +495,7 @@
         "trackName": "Texas Motor Speedway",
         "countryCode": "US",
         "cityName": "Fort Worth",
+        "stateName": "Texas",
         "steps": [
             {
                 "id": "f4737cafc",
@@ -551,11 +559,12 @@
         "start": "2024-04-19T21:30:00+00:00",
         "end": "2024-04-20T22:30:00+00:00",
         "timezone": "America/Chicago",
-        "latitude": 33.4359416,
-        "longitude": -86.1058048,
+        "latitude": 33.4332833,
+        "longitude": -86.098631,
         "trackName": "Talladega Superspeedway",
         "countryCode": "US",
         "cityName": "Talladega",
+        "stateName": "Alabama",
         "steps": [
             {
                 "id": "86f1004e5",
@@ -607,6 +616,7 @@
         "trackName": "Dover Motor Speedway",
         "countryCode": "US",
         "cityName": "Dover",
+        "stateName": "Delaware",
         "steps": [
             {
                 "id": "781b2c724",
@@ -670,11 +680,12 @@
         "start": "2024-05-11T17:30:00+00:00",
         "end": "2024-05-11T20:00:00+00:00",
         "timezone": "America/New_York",
-        "latitude": 34.2998762,
-        "longitude": -79.8761741,
+        "latitude": 34.3028537,
+        "longitude": -79.8710831,
         "trackName": "Darlington Raceway",
         "countryCode": "US",
         "cityName": "Darlington",
+        "stateName": "South Carolina",
         "steps": [
             {
                 "id": "52cf97b6a",
@@ -704,11 +715,12 @@
         "start": "2024-05-24T19:35:00+00:00",
         "end": "2024-05-25T20:00:00+00:00",
         "timezone": "America/New_York",
-        "latitude": 43.207178,
-        "longitude": -71.537476,
+        "latitude": 35.4094178,
+        "longitude": -80.5800049,
         "trackName": "Charlotte Motor Speedway",
         "countryCode": "US",
         "cityName": "Concord",
+        "stateName": "North Carolina",
         "steps": [
             {
                 "id": "a020e5ee0",
@@ -777,6 +789,7 @@
         "trackName": "Portland International Raceway",
         "countryCode": "US",
         "cityName": "Portland",
+        "stateName": "Oregon",
         "steps": [
             {
                 "id": "96babf321",
@@ -856,11 +869,12 @@
         "start": "2024-06-07T20:05:00+00:00",
         "end": "2024-06-09T02:00:00+00:00",
         "timezone": "America/Los_Angeles",
-        "latitude": 38.2919984,
-        "longitude": -122.4578582,
+        "latitude": 38.2930864,
+        "longitude": -122.457675,
         "trackName": "Sonoma Raceway",
         "countryCode": "US",
         "cityName": "Sonoma",
+        "stateName": "California",
         "steps": [
             {
                 "id": "f24de09e8",
@@ -923,12 +937,13 @@
         "title": "NASCAR Xfinity Series at Iowa",
         "start": "2024-06-14T20:35:00+00:00",
         "end": "2024-06-15T22:00:00+00:00",
-        "timezone": "America/New_York",
-        "latitude": 42.3370414,
-        "longitude": -71.2092214,
+        "timezone": "America/Chicago",
+        "latitude": 41.6997139,
+        "longitude": -93.0538852,
         "trackName": "Iowa Speedway",
         "countryCode": "US",
         "cityName": "Newton",
+        "stateName": "Iowa",
         "steps": [
             {
                 "id": "90f4bf6f0",
@@ -939,8 +954,8 @@
                 "channels": [],
                 "hasSummary": true,
                 "hasTime": true,
-                "startLocal": "2024-06-14T16:35:00-04:00",
-                "endLocal": "2024-06-14T17:25:00-04:00",
+                "startLocal": "2024-06-14T15:35:00-05:00",
+                "endLocal": "2024-06-14T16:25:00-05:00",
                 "index": null,
                 "weatherCondition": null,
                 "weatherIcon": null,
@@ -956,8 +971,8 @@
                 "channels": [],
                 "hasSummary": true,
                 "hasTime": true,
-                "startLocal": "2024-06-15T15:30:00-04:00",
-                "endLocal": "2024-06-15T18:00:00-04:00",
+                "startLocal": "2024-06-15T14:30:00-05:00",
+                "endLocal": "2024-06-15T17:00:00-05:00",
                 "index": null,
                 "weatherCondition": null,
                 "weatherIcon": null,
@@ -975,11 +990,12 @@
         "start": "2024-06-22T19:00:00+00:00",
         "end": "2024-06-22T21:30:00+00:00",
         "timezone": "America/New_York",
-        "latitude": 43.285703,
-        "longitude": -71.467438,
+        "latitude": 43.2860271,
+        "longitude": -71.4677384,
         "trackName": "New Hampshire Motor Speedway",
         "countryCode": "US",
         "cityName": "Loudon",
+        "stateName": "New Hampshire",
         "steps": [
             {
                 "id": "77a97be2e",
@@ -1008,12 +1024,13 @@
         "title": "NASCAR Xfinity Series at Nashville",
         "start": "2024-06-29T16:05:00+00:00",
         "end": "2024-06-29T23:30:00+00:00",
-        "timezone": "America/New_York",
-        "latitude": 40.3429683,
-        "longitude": -76.4233816,
+        "timezone": "America/Chicago",
+        "latitude": 36.2079779,
+        "longitude": -86.2910945,
         "trackName": "Nashville Superspeedway",
         "countryCode": "US",
         "cityName": "Lebanon",
+        "stateName": "Tennessee",
         "steps": [
             {
                 "id": "5419c5fde",
@@ -1024,8 +1041,8 @@
                 "channels": [],
                 "hasSummary": true,
                 "hasTime": true,
-                "startLocal": "2024-06-29T12:05:00-04:00",
-                "endLocal": "2024-06-29T12:20:00-04:00",
+                "startLocal": "2024-06-29T11:05:00-05:00",
+                "endLocal": "2024-06-29T11:20:00-05:00",
                 "index": null,
                 "weatherCondition": null,
                 "weatherIcon": null,
@@ -1041,8 +1058,8 @@
                 "channels": [],
                 "hasSummary": true,
                 "hasTime": true,
-                "startLocal": "2024-06-29T12:45:00-04:00",
-                "endLocal": "2024-06-29T13:30:00-04:00",
+                "startLocal": "2024-06-29T11:45:00-05:00",
+                "endLocal": "2024-06-29T12:30:00-05:00",
                 "index": null,
                 "weatherCondition": null,
                 "weatherIcon": null,
@@ -1058,8 +1075,8 @@
                 "channels": [],
                 "hasSummary": true,
                 "hasTime": true,
-                "startLocal": "2024-06-29T17:00:00-04:00",
-                "endLocal": "2024-06-29T19:30:00-04:00",
+                "startLocal": "2024-06-29T16:00:00-05:00",
+                "endLocal": "2024-06-29T18:30:00-05:00",
                 "index": null,
                 "weatherCondition": null,
                 "weatherIcon": null,
@@ -1082,6 +1099,7 @@
         "trackName": "Chicago Street Course",
         "countryCode": "US",
         "cityName": "Chicago",
+        "stateName": "Illinois",
         "steps": [
             {
                 "id": "8c653213f",
@@ -1150,6 +1168,7 @@
         "trackName": "Pocono Raceway",
         "countryCode": "US",
         "cityName": "Long Pond",
+        "stateName": "Pennsylvania",
         "steps": [
             {
                 "id": "f07100509",
@@ -1218,6 +1237,7 @@
         "trackName": "Indianapolis Motor Speedway",
         "countryCode": "US",
         "cityName": "Speedway",
+        "stateName": "Indiana",
         "steps": [
             {
                 "id": "43c1970c0",
@@ -1280,12 +1300,13 @@
         "title": "NASCAR Xfinity Series at Michigan",
         "start": "2024-08-16T19:30:00+00:00",
         "end": "2024-08-17T21:51:00+00:00",
-        "timezone": "America/New_York",
-        "latitude": 40.6526006,
-        "longitude": -73.9497211,
+        "timezone": "America/Detroit",
+        "latitude": 42.105874,
+        "longitude": -84.2482819,
         "trackName": "Michigan International Speedway",
         "countryCode": "US",
         "cityName": "Brooklyn",
+        "stateName": "Michigan",
         "steps": [
             {
                 "id": "e83a1d646",
@@ -1354,6 +1375,7 @@
         "trackName": "Daytona International Speedway",
         "countryCode": "US",
         "cityName": "Daytona Beach",
+        "stateName": "Florida",
         "steps": [
             {
                 "id": "e547d06a9",
@@ -1400,11 +1422,12 @@
         "start": "2024-08-31T14:30:00+00:00",
         "end": "2024-08-31T22:00:00+00:00",
         "timezone": "America/New_York",
-        "latitude": 34.2998762,
-        "longitude": -79.8761741,
+        "latitude": 34.3028537,
+        "longitude": -79.8710831,
         "trackName": "Darlington Raceway",
         "countryCode": "US",
         "cityName": "Darlington",
+        "stateName": "South Carolina",
         "steps": [
             {
                 "id": "836e7a5f7",
@@ -1468,11 +1491,12 @@
         "start": "2024-09-07T15:00:00+00:00",
         "end": "2024-09-07T21:30:00+00:00",
         "timezone": "America/New_York",
-        "latitude": 37.0300969,
-        "longitude": -76.3452057,
+        "latitude": 33.3870578,
+        "longitude": -84.2829784,
         "trackName": "Atlanta Motor Speedway",
         "countryCode": "US",
         "cityName": "Hampton",
+        "stateName": "Georgia",
         "steps": [
             {
                 "id": "5d380374f",
@@ -1524,6 +1548,7 @@
         "trackName": "Watkins Glen International",
         "countryCode": "US",
         "cityName": "Watkins Glen",
+        "stateName": "New York",
         "steps": [
             {
                 "id": "b83490fa2",
@@ -1587,11 +1612,12 @@
         "start": "2024-09-20T18:00:00+00:00",
         "end": "2024-09-21T02:00:00+00:00",
         "timezone": "America/New_York",
-        "latitude": 36.5959685,
-        "longitude": -82.1885009,
+        "latitude": 36.5945034,
+        "longitude": -82.1885212,
         "trackName": "Bristol Motor Speedway",
         "countryCode": "US",
         "cityName": "Bristol",
+        "stateName": "Tennessee",
         "steps": [
             {
                 "id": "fddfc5e51",
@@ -1655,11 +1681,12 @@
         "start": "2024-09-28T15:05:00+00:00",
         "end": "2024-09-28T22:30:00+00:00",
         "timezone": "America/Chicago",
-        "latitude": 39.100105,
-        "longitude": -94.5781416,
+        "latitude": 39.1134562,
+        "longitude": -94.626497,
         "trackName": "Kansas Speedway",
         "countryCode": "US",
         "cityName": "Kansas City",
+        "stateName": "Kansas",
         "steps": [
             {
                 "id": "72bfc68f9",
@@ -1723,11 +1750,12 @@
         "start": "2024-10-05T16:00:00+00:00",
         "end": "2024-10-05T22:30:00+00:00",
         "timezone": "America/Chicago",
-        "latitude": 33.4359416,
-        "longitude": -86.1058048,
+        "latitude": 33.4332833,
+        "longitude": -86.098631,
         "trackName": "Talladega Superspeedway",
         "countryCode": "US",
         "cityName": "Talladega",
+        "stateName": "Alabama",
         "steps": [
             {
                 "id": "483201c71",
@@ -1774,11 +1802,12 @@
         "start": "2024-10-12T14:00:00+00:00",
         "end": "2024-10-12T22:30:00+00:00",
         "timezone": "America/New_York",
-        "latitude": 43.207178,
-        "longitude": -71.537476,
+        "latitude": 35.4094178,
+        "longitude": -80.5800049,
         "trackName": "Charlotte Motor Speedway",
         "countryCode": "US",
         "cityName": "Concord",
+        "stateName": "North Carolina",
         "steps": [
             {
                 "id": "c53cdfe90",
@@ -1829,7 +1858,7 @@
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
-                "isNightEvent": true
+                "isNightEvent": false
             }
         ]
     },
@@ -1847,6 +1876,7 @@
         "trackName": "Las Vegas Motor Speedway",
         "countryCode": "US",
         "cityName": "Las Vegas",
+        "stateName": "Nevada",
         "steps": [
             {
                 "id": "481d75db0",
@@ -1915,6 +1945,7 @@
         "trackName": "Homestead-Miami Speedway",
         "countryCode": "US",
         "cityName": "Homestead",
+        "stateName": "Florida",
         "steps": [
             {
                 "id": "61468b8e2",
@@ -1977,12 +2008,13 @@
         "title": "NASCAR Xfinity Series at Martinsville",
         "start": "2024-11-01T19:30:00+00:00",
         "end": "2024-11-02T23:00:00+00:00",
-        "timezone": "America/Chicago",
-        "latitude": 43.2969047,
-        "longitude": -91.9895287,
+        "timezone": "America/New_York",
+        "latitude": 36.5768047,
+        "longitude": -79.8583721,
         "trackName": "Martinsville Speedway",
         "countryCode": "US",
         "cityName": "Ridgeway",
+        "stateName": "Virginia",
         "steps": [
             {
                 "id": "a0c45724d",
@@ -1993,8 +2025,8 @@
                 "channels": [],
                 "hasSummary": true,
                 "hasTime": true,
-                "startLocal": "2024-11-01T14:30:00-05:00",
-                "endLocal": "2024-11-01T15:10:00-05:00",
+                "startLocal": "2024-11-01T15:30:00-04:00",
+                "endLocal": "2024-11-01T16:10:00-04:00",
                 "index": null,
                 "weatherCondition": null,
                 "weatherIcon": null,
@@ -2010,8 +2042,8 @@
                 "channels": [],
                 "hasSummary": true,
                 "hasTime": true,
-                "startLocal": "2024-11-01T15:05:00-05:00",
-                "endLocal": "2024-11-01T16:00:00-05:00",
+                "startLocal": "2024-11-01T16:05:00-04:00",
+                "endLocal": "2024-11-01T17:00:00-04:00",
                 "index": null,
                 "weatherCondition": null,
                 "weatherIcon": null,
@@ -2027,8 +2059,8 @@
                 "channels": [],
                 "hasSummary": true,
                 "hasTime": true,
-                "startLocal": "2024-11-02T15:00:00-05:00",
-                "endLocal": "2024-11-02T18:00:00-05:00",
+                "startLocal": "2024-11-02T16:00:00-04:00",
+                "endLocal": "2024-11-02T19:00:00-04:00",
                 "index": null,
                 "weatherCondition": null,
                 "weatherIcon": null,
@@ -2051,6 +2083,7 @@
         "trackName": "Phoenix Raceway",
         "countryCode": "US",
         "cityName": "Avondale",
+        "stateName": "Arizona",
         "steps": [
             {
                 "id": "15ef70cb2",
@@ -2119,6 +2152,7 @@
         "trackName": "Daytona International Speedway",
         "countryCode": "US",
         "cityName": "Daytona Beach",
+        "stateName": "Florida",
         "steps": [
             {
                 "id": "39b58b56a",
@@ -2170,6 +2204,7 @@
         "trackName": "Daytona International Speedway",
         "countryCode": "US",
         "cityName": "Daytona Beach",
+        "stateName": "Florida",
         "steps": [
             {
                 "id": "34a4fceb1",
@@ -2230,11 +2265,12 @@
         "start": "2025-02-21T22:05:00+00:00",
         "end": "2025-02-23T01:00:00+00:00",
         "timezone": "America/New_York",
-        "latitude": 37.0300969,
-        "longitude": -76.3452057,
+        "latitude": 33.3870578,
+        "longitude": -84.2829784,
         "trackName": "Atlanta Motor Speedway",
         "countryCode": "US",
         "cityName": "Hampton",
+        "stateName": "Georgia",
         "steps": [
             {
                 "id": "084ab0ad9",
@@ -2251,7 +2287,7 @@
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
-                "isNightEvent": true
+                "isNightEvent": false
             },
             {
                 "id": "9fd352af4",
@@ -2286,6 +2322,7 @@
         "trackName": "Circuits of the Americas",
         "countryCode": "US",
         "cityName": "Austin",
+        "stateName": "Texas",
         "steps": [
             {
                 "id": "0d6766306",
@@ -2354,6 +2391,7 @@
         "trackName": "Phoenix Raceway",
         "countryCode": "US",
         "cityName": "Avondale",
+        "stateName": "Arizona",
         "steps": [
             {
                 "id": "f91c974ad",
@@ -2422,6 +2460,7 @@
         "trackName": "Las Vegas Motor Speedway",
         "countryCode": "US",
         "cityName": "Las Vegas",
+        "stateName": "Nevada",
         "steps": [
             {
                 "id": "6e92d2a13",
@@ -2490,6 +2529,7 @@
         "trackName": "Homestead-Miami Speedway",
         "countryCode": "US",
         "cityName": "Homestead",
+        "stateName": "Florida",
         "steps": [
             {
                 "id": "e1bce9df2",
@@ -2552,12 +2592,13 @@
         "title": "NASCAR Xfinity Series at Martinsville",
         "start": "2025-03-28T20:30:00+00:00",
         "end": "2025-03-30T01:00:00+00:00",
-        "timezone": "America/Chicago",
-        "latitude": 43.2969047,
-        "longitude": -91.9895287,
+        "timezone": "America/New_York",
+        "latitude": 36.5768047,
+        "longitude": -79.8583721,
         "trackName": "Martinsville Speedway",
         "countryCode": "US",
         "cityName": "Ridgeway",
+        "stateName": "Virginia",
         "steps": [
             {
                 "id": "e84b41f8f",
@@ -2567,11 +2608,11 @@
                 "channels": [],
                 "hasSummary": false,
                 "hasTime": true,
-                "startLocal": "2025-03-28T15:30:00-05:00",
+                "startLocal": "2025-03-28T16:30:00-04:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false
             },
@@ -2583,11 +2624,11 @@
                 "channels": [],
                 "hasSummary": false,
                 "hasTime": true,
-                "startLocal": "2025-03-28T16:35:00-05:00",
+                "startLocal": "2025-03-28T17:35:00-04:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false
             },
@@ -2599,12 +2640,12 @@
                 "channels": [],
                 "hasSummary": false,
                 "hasTime": true,
-                "startLocal": "2025-03-29T16:00:00-05:00",
+                "startLocal": "2025-03-29T17:00:00-04:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false
             }
         ]
@@ -2618,11 +2659,12 @@
         "start": "2025-04-05T14:00:00+00:00",
         "end": "2025-04-05T23:30:00+00:00",
         "timezone": "America/New_York",
-        "latitude": 34.2998762,
-        "longitude": -79.8761741,
+        "latitude": 34.3028537,
+        "longitude": -79.8710831,
         "trackName": "Darlington Raceway",
         "countryCode": "US",
         "cityName": "Darlington",
+        "stateName": "South Carolina",
         "steps": [
             {
                 "id": "9aec0a256",
@@ -2683,11 +2725,12 @@
         "start": "2025-04-12T15:35:00+00:00",
         "end": "2025-04-13T01:00:00+00:00",
         "timezone": "America/New_York",
-        "latitude": 36.5959685,
-        "longitude": -82.1885009,
+        "latitude": 36.5945034,
+        "longitude": -82.1885212,
         "trackName": "Bristol Motor Speedway",
         "countryCode": "US",
         "cityName": "Bristol",
+        "stateName": "Tennessee",
         "steps": [
             {
                 "id": "23345050c",
@@ -2748,11 +2791,12 @@
         "start": "2025-04-18T19:05:00+00:00",
         "end": "2025-04-20T00:00:00+00:00",
         "timezone": "America/New_York",
-        "latitude": 43.1800206,
-        "longitude": -72.50060298545702,
+        "latitude": 34.9393201,
+        "longitude": -79.7739457,
         "trackName": "Rockingham Speedway",
         "countryCode": "US",
         "cityName": "Rockingham",
+        "stateName": "North Carolina",
         "steps": [
             {
                 "id": "2e78ce867",
@@ -2813,11 +2857,12 @@
         "start": "2025-04-25T21:30:00+00:00",
         "end": "2025-04-27T00:00:00+00:00",
         "timezone": "America/Chicago",
-        "latitude": 33.4359416,
-        "longitude": -86.1058048,
+        "latitude": 33.4332833,
+        "longitude": -86.098631,
         "trackName": "Talladega Superspeedway",
         "countryCode": "US",
         "cityName": "Talladega",
+        "stateName": "Alabama",
         "steps": [
             {
                 "id": "97d6dd754",
@@ -2867,6 +2912,7 @@
         "trackName": "Texas Motor Speedway",
         "countryCode": "US",
         "cityName": "Fort Worth",
+        "stateName": "Texas",
         "steps": [
             {
                 "id": "30845a19d",
@@ -2927,11 +2973,12 @@
         "start": "2025-05-24T15:05:00+00:00",
         "end": "2025-05-25T00:30:00+00:00",
         "timezone": "America/New_York",
-        "latitude": 43.207178,
-        "longitude": -71.537476,
+        "latitude": 35.4094178,
+        "longitude": -80.5800049,
         "trackName": "Charlotte Motor Speedway",
         "countryCode": "US",
         "cityName": "Concord",
+        "stateName": "North Carolina",
         "steps": [
             {
                 "id": "6438dc08a",
@@ -2991,12 +3038,13 @@
         "title": "NASCAR Xfinity Series at Nashville",
         "start": "2025-05-31T18:05:00+00:00",
         "end": "2025-06-01T03:30:00+00:00",
-        "timezone": "America/New_York",
-        "latitude": 40.3429683,
-        "longitude": -76.4233816,
+        "timezone": "America/Chicago",
+        "latitude": 36.2079779,
+        "longitude": -86.2910945,
         "trackName": "Nashville Superspeedway",
         "countryCode": "US",
         "cityName": "Lebanon",
+        "stateName": "Tennessee",
         "steps": [
             {
                 "id": "3aca750b8",
@@ -3006,7 +3054,7 @@
                 "channels": [],
                 "hasSummary": false,
                 "hasTime": true,
-                "startLocal": "2025-05-31T14:05:00-04:00",
+                "startLocal": "2025-05-31T13:05:00-05:00",
                 "endLocal": null,
                 "index": null,
                 "weatherCondition": null,
@@ -3022,7 +3070,7 @@
                 "channels": [],
                 "hasSummary": false,
                 "hasTime": true,
-                "startLocal": "2025-05-31T15:10:00-04:00",
+                "startLocal": "2025-05-31T14:10:00-05:00",
                 "endLocal": null,
                 "index": null,
                 "weatherCondition": null,
@@ -3038,7 +3086,7 @@
                 "channels": [],
                 "hasSummary": false,
                 "hasTime": true,
-                "startLocal": "2025-05-31T19:30:00-04:00",
+                "startLocal": "2025-05-31T18:30:00-05:00",
                 "endLocal": null,
                 "index": null,
                 "weatherCondition": null,
@@ -3143,6 +3191,7 @@
         "trackName": "Pocono Raceway",
         "countryCode": "US",
         "cityName": "Long Pond",
+        "stateName": "Pennsylvania",
         "steps": [
             {
                 "id": "aa5887b99",
@@ -3203,11 +3252,12 @@
         "start": "2025-06-27T19:05:00+00:00",
         "end": "2025-06-28T03:30:00+00:00",
         "timezone": "America/New_York",
-        "latitude": 37.0300969,
-        "longitude": -76.3452057,
+        "latitude": 33.3870578,
+        "longitude": -84.2829784,
         "trackName": "Atlanta Motor Speedway",
         "countryCode": "US",
         "cityName": "Hampton",
+        "stateName": "Georgia",
         "steps": [
             {
                 "id": "8b0e4d153",
@@ -3257,6 +3307,7 @@
         "trackName": "Chicago Street Course",
         "countryCode": "US",
         "cityName": "Chicago",
+        "stateName": "Illinois",
         "steps": [
             {
                 "id": "2efc833dc",
@@ -3317,11 +3368,12 @@
         "start": "2025-07-11T20:05:00+00:00",
         "end": "2025-07-13T00:30:00+00:00",
         "timezone": "America/Los_Angeles",
-        "latitude": 38.2919984,
-        "longitude": -122.4578582,
+        "latitude": 38.2930864,
+        "longitude": -122.457675,
         "trackName": "Sonoma Raceway",
         "countryCode": "US",
         "cityName": "Sonoma",
+        "stateName": "California",
         "steps": [
             {
                 "id": "6f341f0c9",
@@ -3387,6 +3439,7 @@
         "trackName": "Dover Motor Speedway",
         "countryCode": "US",
         "cityName": "Dover",
+        "stateName": "Delaware",
         "steps": [
             {
                 "id": "3d7d9b86c",
@@ -3452,6 +3505,7 @@
         "trackName": "Indianapolis Motor Speedway",
         "countryCode": "US",
         "cityName": "Speedway",
+        "stateName": "Indiana",
         "steps": [
             {
                 "id": "28f62b6e1",
@@ -3511,12 +3565,13 @@
         "title": "NASCAR Xfinity Series at Iowa",
         "start": "2025-08-02T15:05:00+00:00",
         "end": "2025-08-03T00:30:00+00:00",
-        "timezone": "America/New_York",
-        "latitude": 42.3370414,
-        "longitude": -71.2092214,
+        "timezone": "America/Chicago",
+        "latitude": 41.6997139,
+        "longitude": -93.0538852,
         "trackName": "Iowa Speedway",
         "countryCode": "US",
         "cityName": "Newton",
+        "stateName": "Iowa",
         "steps": [
             {
                 "id": "276f32ff8",
@@ -3526,7 +3581,7 @@
                 "channels": [],
                 "hasSummary": false,
                 "hasTime": true,
-                "startLocal": "2025-08-02T11:05:00-04:00",
+                "startLocal": "2025-08-02T10:05:00-05:00",
                 "endLocal": null,
                 "index": null,
                 "weatherCondition": null,
@@ -3542,7 +3597,7 @@
                 "channels": [],
                 "hasSummary": false,
                 "hasTime": true,
-                "startLocal": "2025-08-02T12:10:00-04:00",
+                "startLocal": "2025-08-02T11:10:00-05:00",
                 "endLocal": null,
                 "index": null,
                 "weatherCondition": null,
@@ -3558,7 +3613,7 @@
                 "channels": [],
                 "hasSummary": false,
                 "hasTime": true,
-                "startLocal": "2025-08-02T16:30:00-04:00",
+                "startLocal": "2025-08-02T15:30:00-05:00",
                 "endLocal": null,
                 "index": null,
                 "weatherCondition": null,
@@ -3582,6 +3637,7 @@
         "trackName": "Watkins Glen International",
         "countryCode": "US",
         "cityName": "Watkins Glen",
+        "stateName": "New York",
         "steps": [
             {
                 "id": "ba2e109dd",
@@ -3647,6 +3703,7 @@
         "trackName": "Portland International Raceway",
         "countryCode": "US",
         "cityName": "Portland",
+        "stateName": "Oregon",
         "steps": [
             {
                 "id": "e88e23875",
@@ -3707,11 +3764,12 @@
         "start": "2025-09-05T21:05:00+00:00",
         "end": "2025-09-07T03:30:00+00:00",
         "timezone": "America/Chicago",
-        "latitude": 43.074761,
-        "longitude": -89.3837613,
+        "latitude": 38.6825502,
+        "longitude": -90.1570536,
         "trackName": "World Wide Technology Raceway at Gateway",
         "countryCode": "US",
         "cityName": "Madison",
+        "stateName": "Illinois",
         "steps": [
             {
                 "id": "9bcb2e877",
@@ -3772,11 +3830,12 @@
         "start": "2025-09-12T18:05:00+00:00",
         "end": "2025-09-13T03:30:00+00:00",
         "timezone": "America/New_York",
-        "latitude": 36.5959685,
-        "longitude": -82.1885009,
+        "latitude": 36.5945034,
+        "longitude": -82.1885212,
         "trackName": "Bristol Motor Speedway",
         "countryCode": "US",
         "cityName": "Bristol",
+        "stateName": "Tennessee",
         "steps": [
             {
                 "id": "a9425f860",
@@ -3837,11 +3896,12 @@
         "start": "2025-09-27T14:35:00+00:00",
         "end": "2025-09-28T00:00:00+00:00",
         "timezone": "America/Chicago",
-        "latitude": 39.100105,
-        "longitude": -94.5781416,
+        "latitude": 39.1134562,
+        "longitude": -94.626497,
         "trackName": "Kansas Speedway",
         "countryCode": "US",
         "cityName": "Kansas City",
+        "stateName": "Kansas",
         "steps": [
             {
                 "id": "9d5df4c1a",
@@ -3902,11 +3962,12 @@
         "start": "2025-10-04T14:35:00+00:00",
         "end": "2025-10-05T00:00:00+00:00",
         "timezone": "America/New_York",
-        "latitude": 43.207178,
-        "longitude": -71.537476,
+        "latitude": 35.4094178,
+        "longitude": -80.5800049,
         "trackName": "Charlotte Motor Speedway Road Course",
         "countryCode": "US",
         "cityName": "Concord",
+        "stateName": "North Carolina",
         "steps": [
             {
                 "id": "0527c0197",
@@ -3972,6 +4033,7 @@
         "trackName": "Las Vegas Motor Speedway",
         "countryCode": "US",
         "cityName": "Las Vegas",
+        "stateName": "Nevada",
         "steps": [
             {
                 "id": "e10043fc8",
@@ -4032,11 +4094,12 @@
         "start": "2025-10-18T15:30:00+00:00",
         "end": "2025-10-19T00:00:00+00:00",
         "timezone": "America/Chicago",
-        "latitude": 33.4359416,
-        "longitude": -86.1058048,
+        "latitude": 33.4332833,
+        "longitude": -86.098631,
         "trackName": "Talladega Superspeedway",
         "countryCode": "US",
         "cityName": "Talladega",
+        "stateName": "Alabama",
         "steps": [
             {
                 "id": "6f4d0faef",
@@ -4080,12 +4143,13 @@
         "title": "NASCAR Xfinity Series at Martinsville",
         "start": "2025-10-25T18:05:00+00:00",
         "end": "2025-10-26T03:30:00+00:00",
-        "timezone": "America/Chicago",
-        "latitude": 43.2969047,
-        "longitude": -91.9895287,
+        "timezone": "America/New_York",
+        "latitude": 36.5768047,
+        "longitude": -79.8583721,
         "trackName": "Martinsville Speedway",
         "countryCode": "US",
         "cityName": "Ridgeway",
+        "stateName": "Virginia",
         "steps": [
             {
                 "id": "4fd08d49d",
@@ -4095,7 +4159,7 @@
                 "channels": [],
                 "hasSummary": false,
                 "hasTime": true,
-                "startLocal": "2025-10-25T13:05:00-05:00",
+                "startLocal": "2025-10-25T14:05:00-04:00",
                 "endLocal": null,
                 "index": null,
                 "weatherCondition": null,
@@ -4111,7 +4175,7 @@
                 "channels": [],
                 "hasSummary": false,
                 "hasTime": true,
-                "startLocal": "2025-10-25T14:10:00-05:00",
+                "startLocal": "2025-10-25T15:10:00-04:00",
                 "endLocal": null,
                 "index": null,
                 "weatherCondition": null,
@@ -4127,7 +4191,7 @@
                 "channels": [],
                 "hasSummary": false,
                 "hasTime": true,
-                "startLocal": "2025-10-25T18:30:00-05:00",
+                "startLocal": "2025-10-25T19:30:00-04:00",
                 "endLocal": null,
                 "index": null,
                 "weatherCondition": null,
@@ -4151,6 +4215,7 @@
         "trackName": "Phoenix Raceway",
         "countryCode": "US",
         "cityName": "Avondale",
+        "stateName": "Arizona",
         "steps": [
             {
                 "id": "ab54e6dfd",
