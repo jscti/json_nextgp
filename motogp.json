@@ -2647,9 +2647,9 @@
                 "end": "2025-03-28T16:30:00+00:00",
                 "endLocal": "2025-03-28T11:30:00-05:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 1,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -2672,7 +2672,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherRainProbability": 0.32,
                 "isNightEvent": false,
                 "channels": [
                     {
