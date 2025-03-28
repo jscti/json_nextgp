@@ -2586,17 +2586,11 @@
                 "end": "2025-03-21T04:30:00+00:00",
                 "endLocal": "2025-03-21T12:30:00+08:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": "C35.api.telerama.fr"
-                    }
-                ],
+                "channels": [],
                 "hasSummary": true
             },
             {
