@@ -2577,9 +2577,9 @@
                 "startLocal": "2025-03-22T16:00:00-04:00",
                 "endLocal": "2025-03-22T19:00:00-04:00",
                 "index": null,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false
             }
         ]
@@ -2645,8 +2645,8 @@
                 "startLocal": "2025-03-29T17:00:00-04:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false
             }
