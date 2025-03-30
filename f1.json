@@ -2656,9 +2656,9 @@
                 "end": "2025-03-23T09:00:00+00:00",
                 "endLocal": "2025-03-23T17:00:00+08:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -2734,9 +2734,9 @@
                 "end": "2025-04-04T07:00:00+00:00",
                 "endLocal": "2025-04-04T16:00:00+09:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
