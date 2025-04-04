@@ -2724,7 +2724,7 @@
                         "channelCode": "C35.api.telerama.fr"
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "05c3f92f6",
@@ -2794,7 +2794,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.48,
+                "weatherRainProbability": 0.9,
                 "isNightEvent": false,
                 "channels": [
                     {
