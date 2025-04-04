@@ -2268,17 +2268,11 @@
                 "end": "2025-03-28T15:30:00+00:00",
                 "endLocal": "2025-03-28T10:30:00-05:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.59,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": "canal-plus-sport360.fr"
-                    }
-                ],
+                "channels": [],
                 "hasSummary": true
             },
             {
