@@ -2935,7 +2935,7 @@
                         "channelCode": "tipik.be"
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             }
         ]
     },
@@ -2987,9 +2987,9 @@
                 "end": "2025-04-18T18:00:00+00:00",
                 "endLocal": "2025-04-18T21:00:00+03:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 800,
+                "weatherIcon": "01n",
+                "weatherRainProbability": 0,
                 "isNightEvent": true,
                 "channels": [
                     {
