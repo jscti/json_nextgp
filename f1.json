@@ -2801,11 +2801,6 @@
                         "countryCode": "FR",
                         "channelName": "Canal+ Sport",
                         "channelCode": "C35.api.telerama.fr"
-                    },
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": "tipik.be"
                     }
                 ],
                 "hasSummary": true
@@ -2829,11 +2824,6 @@
                         "countryCode": "FR",
                         "channelName": "Canal+ Sport",
                         "channelCode": "C35.api.telerama.fr"
-                    },
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": "tipik.be"
                     }
                 ],
                 "hasSummary": true
@@ -2857,11 +2847,6 @@
                         "countryCode": "FR",
                         "channelName": "Canal+ Sport",
                         "channelCode": "C35.api.telerama.fr"
-                    },
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": "tipik.be"
                     }
                 ],
                 "hasSummary": true
@@ -3056,20 +3041,20 @@
                 "end": "2025-04-20T19:00:00+00:00",
                 "endLocal": "2025-04-20T22:00:00+03:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 802,
+                "weatherIcon": "03n",
+                "weatherRainProbability": 0,
                 "isNightEvent": true,
                 "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": "tipik.be"
-                    },
                     {
                         "countryCode": "FR",
                         "channelName": "Canal+",
                         "channelCode": "C34.api.telerama.fr"
+                    },
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": "tipik.be"
                     }
                 ],
                 "hasSummary": false
