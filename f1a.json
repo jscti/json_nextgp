@@ -913,7 +913,7 @@
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "a9ec92a0b",
@@ -959,8 +959,8 @@
                 "end": "2025-04-20T12:35:00+00:00",
                 "endLocal": "2025-04-20T15:35:00+03:00",
                 "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
