@@ -3084,20 +3084,14 @@
                 "index": 3,
                 "start": "2025-05-10T08:10:00+00:00",
                 "startLocal": "2025-05-10T10:10:00+02:00",
-                "end": "2025-05-10T14:00:00+00:00",
-                "endLocal": "2025-05-10T16:00:00+02:00",
+                "end": "2025-05-10T08:40:00+00:00",
+                "endLocal": "2025-05-10T10:40:00+02:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+",
-                        "channelCode": "C34.api.telerama.fr"
-                    }
-                ],
+                "channels": [],
                 "hasSummary": false
             },
             {
