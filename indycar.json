@@ -1763,7 +1763,7 @@
                 "weatherRainProbability": 1,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "c754cabf3",
@@ -1780,7 +1780,7 @@
                 "weatherRainProbability": 1,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "e8a9cc740",
@@ -1792,9 +1792,9 @@
                 "end": "2025-05-04T19:00:00+00:00",
                 "endLocal": "2025-05-04T14:00:00-05:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.2,
                 "isNightEvent": false,
                 "channels": [
                     {
