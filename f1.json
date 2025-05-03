@@ -3041,7 +3041,7 @@
                         "channelCode": "tipik.be"
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "00cb0028a",
@@ -3054,9 +3054,9 @@
                 "end": "2025-05-03T17:00:00+00:00",
                 "endLocal": "2025-05-03T13:00:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.2,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -3120,7 +3120,7 @@
                 "end": "2025-05-04T22:00:00+00:00",
                 "endLocal": "2025-05-04T18:00:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 804,
+                "weatherCondition": 803,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
