@@ -2973,22 +2973,11 @@
                 "end": "2025-04-27T13:00:00+00:00",
                 "endLocal": "2025-04-27T15:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+",
-                        "channelCode": "C34.api.telerama.fr"
-                    },
-                    {
-                        "countryCode": "CH",
-                        "channelName": "RTS 2",
-                        "channelCode": "C183.api.telerama.fr"
-                    }
-                ],
+                "channels": [],
                 "hasSummary": true
             }
         ]
@@ -3018,9 +3007,9 @@
                 "end": "2025-05-09T09:30:00+00:00",
                 "endLocal": "2025-05-09T11:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
@@ -3093,16 +3082,6 @@
                 "isNightEvent": false,
                 "channels": [
                     {
-                        "countryCode": "FR",
-                        "channelName": "Canal+",
-                        "channelCode": "C34.api.telerama.fr"
-                    },
-                    {
-                        "countryCode": "CH",
-                        "channelName": "RTS 2",
-                        "channelCode": "C183.api.telerama.fr"
-                    },
-                    {
                         "countryCode": "CH",
                         "channelName": "RTS 2",
                         "channelCode": ""
@@ -3130,16 +3109,6 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+",
-                        "channelCode": "C34.api.telerama.fr"
-                    },
-                    {
-                        "countryCode": "CH",
-                        "channelName": "RTS 2",
-                        "channelCode": "C183.api.telerama.fr"
-                    },
                     {
                         "countryCode": "CH",
                         "channelName": "RTS 2",

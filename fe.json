@@ -1810,7 +1810,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "c6ee75e06",
@@ -1845,9 +1845,9 @@
                 "end": "2025-05-04T14:00:00+00:00",
                 "endLocal": "2025-05-04T16:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.97,
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0.05,
                 "isNightEvent": false,
                 "channels": [
                     {
