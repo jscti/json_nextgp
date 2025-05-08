@@ -1923,9 +1923,9 @@
                 "end": "2025-05-13T15:00:00+00:00",
                 "endLocal": "2025-05-13T11:00:00-04:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.8,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
