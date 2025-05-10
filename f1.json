@@ -3032,24 +3032,14 @@
                 "end": "2025-05-03T17:25:00+00:00",
                 "endLocal": "2025-05-03T13:25:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [
                     {
-                        "countryCode": "CH",
-                        "channelName": "RTS 2",
-                        "channelCode": ""
-                    },
-                    {
                         "countryCode": "FR",
                         "channelName": "Canal+ Sport",
-                        "channelCode": ""
-                    },
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
