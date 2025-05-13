@@ -3070,23 +3070,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "CH",
-                        "channelName": "RTS 2",
-                        "channelCode": ""
-                    },
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+",
-                        "channelCode": ""
-                    },
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": true
             }
         ]
@@ -3118,7 +3102,7 @@
                 "hasTime": true,
                 "weatherCondition": 803,
                 "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherRainProbability": 0.42,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -3144,8 +3128,8 @@
                 "end": "2025-05-16T16:00:00+00:00",
                 "endLocal": "2025-05-16T18:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
@@ -3172,9 +3156,9 @@
                 "end": "2025-05-17T11:30:00+00:00",
                 "endLocal": "2025-05-17T13:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -3200,9 +3184,9 @@
                 "end": "2025-05-17T15:00:00+00:00",
                 "endLocal": "2025-05-17T17:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0.03,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -3383,6 +3367,11 @@
                     {
                         "countryCode": "BE",
                         "channelName": "Tipik",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+",
                         "channelCode": ""
                     }
                 ],
