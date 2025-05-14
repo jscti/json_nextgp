@@ -3100,16 +3100,11 @@
                 "end": "2025-05-16T12:30:00+00:00",
                 "endLocal": "2025-05-16T14:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0.42,
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    },
                     {
                         "countryCode": "FR",
                         "channelName": "Canal+ Sport",
@@ -3134,11 +3129,6 @@
                 "isNightEvent": false,
                 "channels": [
                     {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    },
-                    {
                         "countryCode": "FR",
                         "channelName": "Canal+ Sport",
                         "channelCode": ""
@@ -3162,11 +3152,6 @@
                 "isNightEvent": false,
                 "channels": [
                     {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    },
-                    {
                         "countryCode": "FR",
                         "channelName": "Canal+ Sport",
                         "channelCode": ""
@@ -3186,14 +3171,9 @@
                 "hasTime": true,
                 "weatherCondition": 800,
                 "weatherIcon": "01d",
-                "weatherRainProbability": 0.03,
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    },
                     {
                         "countryCode": "CH",
                         "channelName": "RTS 2",
@@ -3202,6 +3182,11 @@
                     {
                         "countryCode": "FR",
                         "channelName": "Canal+ Sport",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -3217,16 +3202,11 @@
                 "end": "2025-05-18T15:00:00+00:00",
                 "endLocal": "2025-05-18T17:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.75,
                 "isNightEvent": false,
                 "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    },
                     {
                         "countryCode": "FR",
                         "channelName": "Canal+",
@@ -3235,6 +3215,11 @@
                     {
                         "countryCode": "CH",
                         "channelName": "RTS 1",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -3365,13 +3350,13 @@
                 "isNightEvent": false,
                 "channels": [
                     {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "countryCode": "FR",
+                        "channelName": "Canal+",
                         "channelCode": ""
                     },
                     {
-                        "countryCode": "FR",
-                        "channelName": "Canal+",
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
