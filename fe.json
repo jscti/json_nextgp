@@ -1877,7 +1877,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "ff415c1e9",
@@ -1905,7 +1905,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "231fedec7",
@@ -2008,7 +2008,7 @@
                 "end": "2025-05-18T07:00:00+00:00",
                 "endLocal": "2025-05-18T16:00:00+09:00",
                 "hasTime": true,
-                "weatherCondition": 803,
+                "weatherCondition": 804,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
@@ -2016,6 +2016,11 @@
                     {
                         "countryCode": "FR",
                         "channelName": "Eurosport 1",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Eurosport 360 1",
                         "channelCode": ""
                     }
                 ],
