@@ -2001,7 +2001,7 @@
                 "weatherRainProbability": 0,
                 "isNightEvent": true,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "6704bb39b",
@@ -2018,7 +2018,7 @@
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "676fbbd8b",
@@ -2030,8 +2030,8 @@
                 "end": "2025-05-19T19:00:00+00:00",
                 "endLocal": "2025-05-19T15:00:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
