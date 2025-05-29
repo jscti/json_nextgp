@@ -2201,7 +2201,7 @@
                 "index": null,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherRainProbability": 0.99,
                 "isNightEvent": false
             },
             {
@@ -2217,7 +2217,7 @@
                 "index": null,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherRainProbability": 0.99,
                 "isNightEvent": false
             },
             {
@@ -2231,9 +2231,9 @@
                 "startLocal": "2025-05-30T19:00:00-05:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": 500,
-                "weatherIcon": "10n",
-                "weatherRainProbability": 0.96,
+                "weatherCondition": 801,
+                "weatherIcon": "02n",
+                "weatherRainProbability": 0.81,
                 "isNightEvent": true
             }
         ]
