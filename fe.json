@@ -2091,8 +2091,8 @@
         "index": "11 / 16",
         "season": "2025",
         "title": "GP Shanghai 2",
-        "start": "2025-06-01T00:00:00+00:00",
-        "end": "2025-06-01T08:00:00+00:00",
+        "start": "2025-05-31T23:00:00+00:00",
+        "end": "2025-06-01T05:55:00+00:00",
         "timezone": "Asia/Shanghai",
         "latitude": "31.340882",
         "longitude": "121.218252",
@@ -2105,10 +2105,10 @@
                 "title": "Practice 1",
                 "type": "practice",
                 "index": null,
-                "start": "2025-06-01T00:00:00+00:00",
-                "startLocal": "2025-06-01T08:00:00+08:00",
-                "end": "2025-06-01T00:55:00+00:00",
-                "endLocal": "2025-06-01T08:55:00+08:00",
+                "start": "2025-05-31T23:00:00+00:00",
+                "startLocal": "2025-06-01T07:00:00+08:00",
+                "end": "2025-06-01T00:00:00+00:00",
+                "endLocal": "2025-06-01T08:00:00+08:00",
                 "hasTime": true,
                 "weatherCondition": 501,
                 "weatherIcon": "10d",
@@ -2121,17 +2121,17 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "5e40dbe48",
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
-                "start": "2025-06-01T02:20:00+00:00",
-                "startLocal": "2025-06-01T10:20:00+08:00",
-                "end": "2025-06-01T03:45:00+00:00",
-                "endLocal": "2025-06-01T11:45:00+08:00",
+                "start": "2025-06-01T01:40:00+00:00",
+                "startLocal": "2025-06-01T09:40:00+08:00",
+                "end": "2025-06-01T03:05:00+00:00",
+                "endLocal": "2025-06-01T11:05:00+08:00",
                 "hasTime": true,
                 "weatherCondition": 501,
                 "weatherIcon": "10d",
@@ -2144,34 +2144,23 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "250065529",
                 "title": "Race",
                 "type": "race",
                 "index": null,
-                "start": "2025-06-01T07:05:00+00:00",
-                "startLocal": "2025-06-01T15:05:00+08:00",
-                "end": "2025-06-01T08:00:00+00:00",
-                "endLocal": "2025-06-01T16:00:00+08:00",
+                "start": "2025-06-01T05:00:00+00:00",
+                "startLocal": "2025-06-01T13:00:00+08:00",
+                "end": "2025-06-01T05:55:00+00:00",
+                "endLocal": "2025-06-01T13:55:00+08:00",
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
                 "weatherRainProbability": 1,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Eurosport 2",
-                        "channelCode": ""
-                    },
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Eurosport 360 1",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": false
             }
         ]
