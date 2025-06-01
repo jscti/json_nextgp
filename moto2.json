@@ -2753,11 +2753,6 @@
                         "countryCode": "FR",
                         "channelName": "Canal+",
                         "channelCode": ""
-                    },
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": ""
                     }
                 ],
                 "hasSummary": true
@@ -2789,9 +2784,9 @@
                 "end": "2025-06-06T08:30:00+00:00",
                 "endLocal": "2025-06-06T10:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
