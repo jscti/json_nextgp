@@ -3274,28 +3274,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+",
-                        "channelCode": ""
-                    },
-                    {
-                        "countryCode": "CH",
-                        "channelName": "RTS 1",
-                        "channelCode": ""
-                    },
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": ""
-                    },
-                    {
-                        "countryCode": "BE",
-                        "channelName": "La Une",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": true
             }
         ]
@@ -3342,11 +3321,6 @@
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
-                        "channelCode": ""
-                    },
-                    {
-                        "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": ""
                     }
@@ -3380,11 +3354,6 @@
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
-                        "channelCode": ""
-                    },
-                    {
-                        "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": ""
                     }
@@ -3409,11 +3378,6 @@
                     {
                         "countryCode": "FR",
                         "channelName": "Canal+ Sport",
-                        "channelCode": ""
-                    },
-                    {
-                        "countryCode": "BE",
-                        "channelName": "La Une",
                         "channelCode": ""
                     },
                     {
@@ -3446,12 +3410,12 @@
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -3484,16 +3448,16 @@
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             }
         ]
     },
@@ -3529,12 +3493,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -3557,12 +3521,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -3585,12 +3549,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -3613,12 +3577,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -3641,12 +3605,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -3686,12 +3650,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -3714,12 +3678,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -3742,12 +3706,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -3770,12 +3734,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -3798,12 +3762,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -3843,12 +3807,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -3871,12 +3835,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -3899,12 +3863,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -3927,12 +3891,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -3955,12 +3919,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -4000,12 +3964,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -4029,12 +3993,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -4058,12 +4022,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -4086,12 +4050,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -4114,12 +4078,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -4159,12 +4123,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -4187,12 +4151,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -4215,12 +4179,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -4243,12 +4207,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -4271,12 +4235,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -4316,12 +4280,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -4344,12 +4308,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -4372,12 +4336,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -4400,12 +4364,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -4428,12 +4392,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -4473,12 +4437,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -4501,12 +4465,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -4529,12 +4493,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -4557,12 +4521,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -4585,12 +4549,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -4630,12 +4594,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -4658,12 +4622,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -4686,12 +4650,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -4714,12 +4678,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -4742,12 +4706,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -4787,12 +4751,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -4815,12 +4779,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -4843,12 +4807,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -4871,12 +4835,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -4899,12 +4863,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -4944,12 +4908,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -4973,12 +4937,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -5002,12 +4966,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -5030,12 +4994,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -5058,12 +5022,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -5103,12 +5067,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -5131,12 +5095,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -5159,12 +5123,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -5187,12 +5151,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -5215,12 +5179,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -5260,12 +5224,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -5289,12 +5253,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -5318,12 +5282,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -5346,12 +5310,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -5374,12 +5338,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -5419,12 +5383,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -5447,12 +5411,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -5475,12 +5439,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -5503,12 +5467,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -5531,12 +5495,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -5576,12 +5540,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -5605,12 +5569,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -5634,12 +5598,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -5662,12 +5626,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -5690,12 +5654,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -5735,12 +5699,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -5763,12 +5727,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -5791,12 +5755,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -5819,12 +5783,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -5847,12 +5811,12 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Une",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     },
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
