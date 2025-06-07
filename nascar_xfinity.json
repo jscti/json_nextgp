@@ -2267,7 +2267,7 @@
         "timezone": "America/New_York",
         "latitude": 33.3870578,
         "longitude": -84.2829784,
-        "trackName": "Atlanta Motor Speedway",
+        "trackName": "EchoPark Speedway",
         "countryCode": "US",
         "cityName": "Hampton",
         "stateName": "Georgia",
@@ -3044,9 +3044,9 @@
                 "startLocal": "2025-05-31T13:00:00-05:00",
                 "endLocal": "2025-05-31T14:00:00-05:00",
                 "index": null,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.2,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false
             },
             {
@@ -3061,9 +3061,9 @@
                 "startLocal": "2025-05-31T14:05:00-05:00",
                 "endLocal": "2025-05-31T15:00:00-05:00",
                 "index": null,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.2,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false
             },
             {
@@ -3243,7 +3243,7 @@
         "timezone": "America/New_York",
         "latitude": 33.3870578,
         "longitude": -84.2829784,
-        "trackName": "Atlanta Motor Speedway",
+        "trackName": "EchoPark Speedway",
         "countryCode": "US",
         "cityName": "Hampton",
         "stateName": "Georgia",
