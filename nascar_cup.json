@@ -4005,7 +4005,7 @@
                 "index": 1,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherRainProbability": 0.91,
                 "isNightEvent": false
             },
             {
@@ -4021,7 +4021,7 @@
                 "index": 2,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherRainProbability": 0.91,
                 "isNightEvent": false
             },
             {
@@ -4037,7 +4037,7 @@
                 "index": null,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.26,
+                "weatherRainProbability": 1,
                 "isNightEvent": false
             },
             {
@@ -4051,9 +4051,9 @@
                 "startLocal": "2025-06-15T13:00:00-06:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 1,
                 "isNightEvent": false
             }
         ]
