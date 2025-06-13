@@ -3091,7 +3091,7 @@
         "index": "15 / 33",
         "season": 2025,
         "title": "NASCAR Xfinity Series at Mexico City",
-        "start": "2025-06-13T19:30:00+00:00",
+        "start": "2025-06-14T15:05:00+00:00",
         "end": "2025-06-15T00:30:00+00:00",
         "timezone": "America/Mexico_City",
         "latitude": 19.4326296,
@@ -3100,22 +3100,6 @@
         "countryCode": "MX",
         "cityName": "Mexico City",
         "steps": [
-            {
-                "id": "99bce0145",
-                "title": "Practice 2",
-                "type": "practice",
-                "start": "2025-06-13T19:30:00+00:00",
-                "channels": [],
-                "hasSummary": false,
-                "hasTime": true,
-                "startLocal": "2025-06-13T13:30:00-06:00",
-                "endLocal": null,
-                "index": 1,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0.8,
-                "isNightEvent": false
-            },
             {
                 "id": "60c34a097",
                 "title": "Practice 1",
@@ -3126,10 +3110,10 @@
                 "hasTime": true,
                 "startLocal": "2025-06-14T09:05:00-06:00",
                 "endLocal": null,
-                "index": 2,
+                "index": null,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherRainProbability": 0.89,
                 "isNightEvent": false
             },
             {
@@ -3145,7 +3129,7 @@
                 "index": null,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherRainProbability": 0.89,
                 "isNightEvent": false
             },
             {
@@ -3161,7 +3145,7 @@
                 "index": null,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherRainProbability": 0.86,
                 "isNightEvent": false
             }
         ]
