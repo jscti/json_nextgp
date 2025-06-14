@@ -1134,7 +1134,7 @@
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "90a4bd6c4",
@@ -1146,8 +1146,8 @@
                 "end": "2025-06-14T19:20:00+00:00",
                 "endLocal": "2025-06-14T15:20:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
