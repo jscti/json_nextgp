@@ -2149,11 +2149,22 @@
                 "end": "2025-06-20T09:55:00+00:00",
                 "endLocal": "2025-06-20T16:55:00+07:00",
                 "hasTime": true,
-                "weatherCondition": 500,
+                "weatherCondition": 501,
                 "weatherIcon": "10d",
                 "weatherRainProbability": 1,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Eurosport 1",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Eurosport 360 1",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": false
             },
             {
@@ -2166,11 +2177,22 @@
                 "end": "2025-06-21T01:55:00+00:00",
                 "endLocal": "2025-06-21T08:55:00+07:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0.8,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 1,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Eurosport 2",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Eurosport 360 1",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": false
             },
             {
@@ -2183,11 +2205,17 @@
                 "end": "2025-06-21T04:45:00+00:00",
                 "endLocal": "2025-06-21T11:45:00+07:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 501,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 1,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Eurosport 2",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": false
             },
             {
@@ -2202,9 +2230,15 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.29,
+                "weatherRainProbability": 0.7,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Eurosport 1",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": false
             }
         ]
