@@ -2165,7 +2165,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "11103df56",
@@ -2207,7 +2207,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.9,
+                "weatherRainProbability": 0.85,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -2235,7 +2235,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.4,
+                "weatherRainProbability": 1,
                 "isNightEvent": false,
                 "channels": [
                     {
