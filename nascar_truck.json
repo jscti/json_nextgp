@@ -2300,7 +2300,7 @@
         "season": 2025,
         "title": "NASCAR Craftsman Truck Series at Pocono",
         "start": "2025-06-20T16:35:00+00:00",
-        "end": "2025-06-20T23:00:00+00:00",
+        "end": "2025-06-21T01:00:00+00:00",
         "timezone": "America/New_York",
         "latitude": 41.053422,
         "longitude": -75.4629636,
@@ -2347,18 +2347,18 @@
                 "id": "9fc72778e",
                 "title": "Race 1",
                 "type": "race",
-                "start": "2025-06-20T21:00:00+00:00",
-                "end": "2025-06-20T23:00:00+00:00",
+                "start": "2025-06-20T23:00:00+00:00",
+                "end": "2025-06-21T01:00:00+00:00",
                 "channels": [],
                 "hasSummary": true,
                 "hasTime": true,
-                "startLocal": "2025-06-20T17:00:00-04:00",
-                "endLocal": "2025-06-20T19:00:00-04:00",
+                "startLocal": "2025-06-20T19:00:00-04:00",
+                "endLocal": "2025-06-20T21:00:00-04:00",
                 "index": null,
                 "weatherCondition": 802,
-                "weatherIcon": "03d",
+                "weatherIcon": "03n",
                 "weatherRainProbability": 0,
-                "isNightEvent": false
+                "isNightEvent": true
             }
         ]
     },
