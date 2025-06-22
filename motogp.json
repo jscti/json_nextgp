@@ -3504,7 +3504,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             }
         ]
     },
@@ -3533,8 +3533,8 @@
                 "end": "2025-06-27T09:30:00+00:00",
                 "endLocal": "2025-06-27T11:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
@@ -3556,9 +3556,9 @@
                 "end": "2025-06-27T14:00:00+00:00",
                 "endLocal": "2025-06-27T16:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
