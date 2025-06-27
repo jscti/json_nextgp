@@ -1367,7 +1367,7 @@
                 "weatherRainProbability": 0.24,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "4d5664494",
@@ -1405,7 +1405,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.22,
+                "weatherRainProbability": 0.3,
                 "isNightEvent": false,
                 "channels": [
                     {

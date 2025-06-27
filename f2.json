@@ -1780,7 +1780,7 @@
                 "weatherRainProbability": 0.24,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "54959a814",
@@ -1816,9 +1816,9 @@
                 "end": "2025-06-28T13:00:00+00:00",
                 "endLocal": "2025-06-28T15:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0.02,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.25,
                 "isNightEvent": false,
                 "channels": [
                     {
