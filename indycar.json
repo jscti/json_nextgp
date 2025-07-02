@@ -2370,8 +2370,8 @@
                 "end": "2025-07-05T15:45:00+00:00",
                 "endLocal": "2025-07-05T11:45:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
@@ -2387,9 +2387,9 @@
                 "end": "2025-07-05T19:45:00+00:00",
                 "endLocal": "2025-07-05T15:45:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.39,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
@@ -2404,9 +2404,9 @@
                 "end": "2025-07-06T19:30:00+00:00",
                 "endLocal": "2025-07-06T15:30:00-04:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -2465,7 +2465,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": true,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": false
             },
             {
@@ -2482,7 +2488,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": false
             }
         ]
@@ -2493,8 +2505,8 @@
         "index": "12 / 17",
         "season": "2025",
         "title": "Grand Prix of Iowa Race 2",
-        "start": "2025-07-12T15:15:00+00:00",
-        "end": "2025-07-13T20:30:00+00:00",
+        "start": "2025-07-12T16:00:00+00:00",
+        "end": "2025-07-13T17:30:00+00:00",
         "timezone": "America/Chicago",
         "latitude": "41.677089",
         "longitude": "-93.011502",
@@ -2507,10 +2519,10 @@
                 "title": "Qualification",
                 "type": "qualifying",
                 "index": null,
-                "start": "2025-07-12T15:15:00+00:00",
-                "startLocal": "2025-07-12T10:15:00-05:00",
-                "end": "2025-07-12T16:15:00+00:00",
-                "endLocal": "2025-07-12T11:15:00-05:00",
+                "start": "2025-07-12T16:00:00+00:00",
+                "startLocal": "2025-07-12T11:00:00-05:00",
+                "end": "2025-07-12T16:30:00+00:00",
+                "endLocal": "2025-07-12T11:30:00-05:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
@@ -2524,16 +2536,22 @@
                 "title": "Race",
                 "type": "race",
                 "index": null,
-                "start": "2025-07-13T18:00:00+00:00",
-                "startLocal": "2025-07-13T13:00:00-05:00",
-                "end": "2025-07-13T20:30:00+00:00",
-                "endLocal": "2025-07-13T15:30:00-05:00",
+                "start": "2025-07-13T17:00:00+00:00",
+                "startLocal": "2025-07-13T12:00:00-05:00",
+                "end": "2025-07-13T17:30:00+00:00",
+                "endLocal": "2025-07-13T12:30:00-05:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": false
             }
         ]
