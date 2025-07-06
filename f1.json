@@ -3576,27 +3576,11 @@
                 "end": "2025-06-29T15:15:00+00:00",
                 "endLocal": "2025-06-29T17:15:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+",
-                        "channelCode": ""
-                    },
-                    {
-                        "countryCode": "CH",
-                        "channelName": "RTS 1",
-                        "channelCode": ""
-                    },
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": true
             }
         ]
