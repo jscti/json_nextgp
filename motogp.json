@@ -3607,9 +3607,9 @@
                 "end": "2025-07-11T09:30:00+00:00",
                 "endLocal": "2025-07-11T11:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.92,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
@@ -3626,7 +3626,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.2,
+                "weatherRainProbability": 1,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
