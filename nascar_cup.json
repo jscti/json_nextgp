@@ -4288,11 +4288,11 @@
                 "id": "13a9c473a",
                 "title": "Qualifying",
                 "type": "qualifying",
-                "start": "2025-07-12T18:35:00+00:00",
+                "start": "2025-07-12T18:40:00+00:00",
                 "channels": [],
                 "hasSummary": false,
                 "hasTime": true,
-                "startLocal": "2025-07-12T11:35:00-07:00",
+                "startLocal": "2025-07-12T11:40:00-07:00",
                 "endLocal": null,
                 "index": null,
                 "weatherCondition": 800,
@@ -4311,9 +4311,9 @@
                 "startLocal": "2025-07-13T12:30:00-07:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false
             }
         ]
