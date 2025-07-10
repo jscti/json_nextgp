@@ -2505,7 +2505,13 @@
                 "weatherIcon": "01d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Eurosport 360 4",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": false
             },
             {
@@ -2518,11 +2524,17 @@
                 "end": "2025-07-11T14:45:00+00:00",
                 "endLocal": "2025-07-11T15:45:00+01:00",
                 "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Eurosport 360 4",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": false
             },
             {
@@ -2570,8 +2582,8 @@
                 "end": "2025-07-12T15:00:00+00:00",
                 "endLocal": "2025-07-12T16:00:00+01:00",
                 "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],

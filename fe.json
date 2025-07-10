@@ -2234,11 +2234,17 @@
                 "end": "2025-07-11T15:10:00+00:00",
                 "endLocal": "2025-07-11T17:10:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.82,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Eurosport 360 5",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": false
             },
             {
@@ -2251,7 +2257,7 @@
                 "end": "2025-07-12T08:10:00+00:00",
                 "endLocal": "2025-07-12T10:10:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 500,
+                "weatherCondition": 501,
                 "weatherIcon": "10d",
                 "weatherRainProbability": 1,
                 "isNightEvent": false,
@@ -2268,9 +2274,9 @@
                 "end": "2025-07-12T10:43:00+00:00",
                 "endLocal": "2025-07-12T12:43:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 501,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 1,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
@@ -2319,9 +2325,9 @@
                 "end": "2025-07-13T08:10:00+00:00",
                 "endLocal": "2025-07-13T10:10:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.2,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
@@ -2336,7 +2342,7 @@
                 "end": "2025-07-13T10:43:00+00:00",
                 "endLocal": "2025-07-13T12:43:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 804,
+                "weatherCondition": 803,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
@@ -2353,9 +2359,9 @@
                 "end": "2025-07-13T15:00:00+00:00",
                 "endLocal": "2025-07-13T17:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.88,
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
