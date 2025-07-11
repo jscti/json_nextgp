@@ -2234,9 +2234,9 @@
                 "end": "2025-07-11T15:10:00+00:00",
                 "endLocal": "2025-07-11T17:10:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.28,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -2257,9 +2257,9 @@
                 "end": "2025-07-12T08:10:00+00:00",
                 "endLocal": "2025-07-12T10:10:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0.37,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -2280,7 +2280,7 @@
                 "end": "2025-07-12T10:43:00+00:00",
                 "endLocal": "2025-07-12T12:43:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 501,
+                "weatherCondition": 500,
                 "weatherIcon": "10d",
                 "weatherRainProbability": 1,
                 "isNightEvent": false,
@@ -2305,7 +2305,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.22,
+                "weatherRainProbability": 0.2,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -2350,7 +2350,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.2,
+                "weatherRainProbability": 0.95,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
@@ -2367,7 +2367,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherRainProbability": 0.74,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
