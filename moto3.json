@@ -3101,7 +3101,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "0836004f6",
@@ -3161,7 +3161,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.42,
+                "weatherRainProbability": 1,
                 "isNightEvent": false,
                 "channels": [
                     {
