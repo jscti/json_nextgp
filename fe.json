@@ -2228,7 +2228,7 @@
                 "id": "9993ba8d3",
                 "title": "Practice 1",
                 "type": "practice",
-                "index": 1,
+                "index": null,
                 "start": "2025-07-11T14:00:00+00:00",
                 "startLocal": "2025-07-11T16:00:00+02:00",
                 "end": "2025-07-11T15:10:00+00:00",
@@ -2246,29 +2246,6 @@
                     }
                 ],
                 "hasSummary": true
-            },
-            {
-                "id": "5831638df",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2025-07-12T07:00:00+00:00",
-                "startLocal": "2025-07-12T09:00:00+02:00",
-                "end": "2025-07-12T08:10:00+00:00",
-                "endLocal": "2025-07-12T10:10:00+02:00",
-                "hasTime": true,
-                "weatherCondition": 501,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 1,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Eurosport 360 5",
-                        "channelCode": ""
-                    }
-                ],
-                "hasSummary": false
             },
             {
                 "id": "1f3444a9d",
@@ -2365,7 +2342,7 @@
                 "end": "2025-07-13T10:43:00+00:00",
                 "endLocal": "2025-07-13T12:43:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 501,
+                "weatherCondition": 500,
                 "weatherIcon": "10d",
                 "weatherRainProbability": 1,
                 "isNightEvent": false,

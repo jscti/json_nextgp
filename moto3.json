@@ -3124,7 +3124,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "109ba83a6",
@@ -3159,9 +3159,9 @@
                 "end": "2025-07-13T10:00:00+00:00",
                 "endLocal": "2025-07-13T12:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 803,
+                "weatherCondition": 804,
                 "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherRainProbability": 0.08,
                 "isNightEvent": false,
                 "channels": [
                     {
