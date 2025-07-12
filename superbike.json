@@ -2605,7 +2605,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "04cb92c05",
@@ -2640,8 +2640,8 @@
                 "end": "2025-07-13T14:00:00+00:00",
                 "endLocal": "2025-07-13T15:00:00+01:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
