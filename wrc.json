@@ -1603,7 +1603,7 @@
         "index": "8 / 14",
         "season": "2025",
         "title": "Rally Estonia",
-        "start": "2025-07-17T06:00:00+00:00",
+        "start": "2025-07-17T17:05:00+00:00",
         "end": "2025-07-20T11:45:00+00:00",
         "timezone": null,
         "latitude": null,
@@ -1617,7 +1617,7 @@
                 "title": "Day 1",
                 "type": "race",
                 "index": 1,
-                "start": "2025-07-17T06:00:00+00:00",
+                "start": "2025-07-17T17:05:00+00:00",
                 "startLocal": null,
                 "end": "2025-07-17T18:35:00+00:00",
                 "endLocal": null,
@@ -1630,6 +1630,11 @@
                     {
                         "countryCode": "BE",
                         "channelName": "La Trois",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
                         "channelCode": ""
                     }
                 ],
@@ -1668,9 +1673,9 @@
                 "title": "Day 3",
                 "type": "race",
                 "index": 3,
-                "start": "2025-07-19T08:25:00+00:00",
+                "start": "2025-07-19T05:20:00+00:00",
                 "startLocal": null,
-                "end": "2025-07-19T18:20:00+00:00",
+                "end": "2025-07-19T17:25:00+00:00",
                 "endLocal": null,
                 "hasTime": true,
                 "weatherCondition": null,

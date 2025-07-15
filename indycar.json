@@ -2408,13 +2408,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": true
             }
         ]
@@ -2546,7 +2540,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             }
         ]
     },
@@ -2557,7 +2551,7 @@
         "season": "2025",
         "title": "Grand Prix of Toronto",
         "start": "2025-07-18T19:00:00+00:00",
-        "end": "2025-07-20T18:30:00+00:00",
+        "end": "2025-07-20T17:45:00+00:00",
         "timezone": "Canada/Eastern",
         "latitude": "43.637281",
         "longitude": "-79.414298",
@@ -2575,9 +2569,9 @@
                 "end": "2025-07-18T20:15:00+00:00",
                 "endLocal": "2025-07-18T16:15:00-04:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
@@ -2592,9 +2586,9 @@
                 "end": "2025-07-19T20:00:00+00:00",
                 "endLocal": "2025-07-19T16:00:00-04:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
@@ -2623,8 +2617,8 @@
                 "index": null,
                 "start": "2025-07-20T16:00:00+00:00",
                 "startLocal": "2025-07-20T12:00:00-04:00",
-                "end": "2025-07-20T18:30:00+00:00",
-                "endLocal": "2025-07-20T14:30:00-04:00",
+                "end": "2025-07-20T17:45:00+00:00",
+                "endLocal": "2025-07-20T13:45:00-04:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
