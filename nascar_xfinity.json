@@ -3371,9 +3371,9 @@
                 "startLocal": "2025-07-11T13:00:00-07:00",
                 "endLocal": "2025-07-11T13:55:00-07:00",
                 "index": null,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false
             },
             {
@@ -3388,9 +3388,9 @@
                 "startLocal": "2025-07-11T14:05:00-07:00",
                 "endLocal": "2025-07-11T15:00:00-07:00",
                 "index": null,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false
             },
             {
@@ -3439,7 +3439,7 @@
                 "startLocal": "2025-07-19T11:00:00-04:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": 804,
+                "weatherCondition": 803,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false
@@ -3455,7 +3455,7 @@
                 "startLocal": "2025-07-19T12:05:00-04:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": 804,
+                "weatherCondition": 803,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false
@@ -3471,9 +3471,9 @@
                 "startLocal": "2025-07-19T16:30:00-04:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 1,
                 "isNightEvent": false
             }
         ]
@@ -3485,7 +3485,7 @@
         "season": 2025,
         "title": "NASCAR Xfinity Series at Indianapolis",
         "start": "2025-07-25T16:05:00+00:00",
-        "end": "2025-07-26T21:00:00+00:00",
+        "end": "2025-07-27T00:30:00+00:00",
         "timezone": "America/Indiana/Indianapolis",
         "latitude": 39.7881233,
         "longitude": -86.2407144,
@@ -3511,22 +3511,6 @@
                 "isNightEvent": false
             },
             {
-                "id": "4999adba7",
-                "title": "Race 1",
-                "type": "race",
-                "start": "2025-07-26T05:00:00+00:00",
-                "channels": [],
-                "hasSummary": false,
-                "hasTime": true,
-                "startLocal": "2025-07-26T01:00:00-04:00",
-                "endLocal": null,
-                "index": null,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false
-            },
-            {
                 "id": "a59ba9b2e",
                 "title": "Qualifying",
                 "type": "qualifying",
@@ -3535,6 +3519,22 @@
                 "hasSummary": false,
                 "hasTime": true,
                 "startLocal": "2025-07-26T13:00:00-04:00",
+                "endLocal": null,
+                "index": null,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false
+            },
+            {
+                "id": "4999adba7",
+                "title": "Race 1",
+                "type": "race",
+                "start": "2025-07-26T20:30:00+00:00",
+                "channels": [],
+                "hasSummary": false,
+                "hasTime": true,
+                "startLocal": "2025-07-26T16:30:00-04:00",
                 "endLocal": null,
                 "index": null,
                 "weatherCondition": null,
