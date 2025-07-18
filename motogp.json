@@ -3611,13 +3611,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": true
             },
             {
@@ -3630,17 +3624,11 @@
                 "end": "2025-07-11T14:00:00+00:00",
                 "endLocal": "2025-07-11T16:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.6,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": true
             },
             {
@@ -3794,17 +3782,17 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "bd1c97728",
                 "title": "Practice 2",
                 "type": "practice",
                 "index": 2,
-                "start": "2025-07-18T13:00:00+00:00",
-                "startLocal": "2025-07-18T15:00:00+02:00",
-                "end": "2025-07-18T14:00:00+00:00",
-                "endLocal": "2025-07-18T16:00:00+02:00",
+                "start": "2025-07-18T13:20:00+00:00",
+                "startLocal": "2025-07-18T15:20:00+02:00",
+                "end": "2025-07-18T14:20:00+00:00",
+                "endLocal": "2025-07-18T16:20:00+02:00",
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
@@ -3822,7 +3810,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "0b73cefb2",
@@ -3834,8 +3822,8 @@
                 "end": "2025-07-19T08:40:00+00:00",
                 "endLocal": "2025-07-19T10:40:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
@@ -3862,8 +3850,8 @@
                 "end": "2025-07-19T09:30:00+00:00",
                 "endLocal": "2025-07-19T11:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
@@ -3924,7 +3912,7 @@
                 "end": "2025-07-20T13:00:00+00:00",
                 "endLocal": "2025-07-20T15:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 803,
+                "weatherCondition": 804,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
