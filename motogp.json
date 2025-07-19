@@ -3641,17 +3641,11 @@
                 "end": "2025-07-12T08:40:00+00:00",
                 "endLocal": "2025-07-12T10:40:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 501,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": true
             },
             {
@@ -3664,17 +3658,11 @@
                 "end": "2025-07-12T09:30:00+00:00",
                 "endLocal": "2025-07-12T11:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 501,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": true
             },
             {
@@ -3838,7 +3826,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "755ed0eea",
@@ -3912,8 +3900,8 @@
                 "end": "2025-07-20T13:00:00+00:00",
                 "endLocal": "2025-07-20T15:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
