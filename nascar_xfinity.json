@@ -3508,9 +3508,9 @@
                 "startLocal": "2025-07-25T12:05:00-04:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": 501,
+                "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherRainProbability": 0.94,
                 "isNightEvent": false
             },
             {
@@ -3524,9 +3524,9 @@
                 "startLocal": "2025-07-26T13:00:00-04:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false
             },
             {
@@ -3540,8 +3540,8 @@
                 "startLocal": "2025-07-26T16:30:00-04:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false
             }
@@ -3950,7 +3950,7 @@
         "season": 2025,
         "title": "NASCAR Xfinity Series at Charlotte Roval",
         "start": "2025-10-04T15:30:00+00:00",
-        "end": "2025-10-05T00:00:00+00:00",
+        "end": "2025-10-05T01:00:00+00:00",
         "timezone": "America/New_York",
         "latitude": 35.4094178,
         "longitude": -80.5800049,
@@ -3995,11 +3995,11 @@
                 "id": "6ae5a9aed",
                 "title": "Race 1",
                 "type": "race",
-                "start": "2025-10-04T20:00:00+00:00",
+                "start": "2025-10-04T21:00:00+00:00",
                 "channels": [],
                 "hasSummary": false,
                 "hasTime": true,
-                "startLocal": "2025-10-04T16:00:00-04:00",
+                "startLocal": "2025-10-04T17:00:00-04:00",
                 "endLocal": null,
                 "index": null,
                 "weatherCondition": null,
