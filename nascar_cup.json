@@ -4385,7 +4385,7 @@
                 "index": null,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.31,
+                "weatherRainProbability": 1,
                 "isNightEvent": false
             },
             {
@@ -4401,7 +4401,7 @@
                 "index": null,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.3,
+                "weatherRainProbability": 1,
                 "isNightEvent": false
             },
             {
@@ -4415,9 +4415,9 @@
                 "startLocal": "2025-07-27T14:00:00-04:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 1,
                 "isNightEvent": false
             }
         ]
@@ -5006,7 +5006,7 @@
         "index": "34 / 38",
         "season": 2025,
         "title": "NASCAR Cup Series at Charlotte Roval",
-        "start": "2025-10-04T17:05:00+00:00",
+        "start": "2025-10-04T18:05:00+00:00",
         "end": "2025-10-05T09:00:00+00:00",
         "timezone": "America/New_York",
         "latitude": 35.4094178,
@@ -5020,11 +5020,11 @@
                 "id": "dcc35b991",
                 "title": "Practice 1",
                 "type": "practice",
-                "start": "2025-10-04T17:05:00+00:00",
+                "start": "2025-10-04T18:05:00+00:00",
                 "channels": [],
                 "hasSummary": false,
                 "hasTime": true,
-                "startLocal": "2025-10-04T13:05:00-04:00",
+                "startLocal": "2025-10-04T14:05:00-04:00",
                 "endLocal": null,
                 "index": null,
                 "weatherCondition": null,
@@ -5036,11 +5036,11 @@
                 "id": "3b9d6bc94",
                 "title": "Qualifying",
                 "type": "qualifying",
-                "start": "2025-10-04T18:10:00+00:00",
+                "start": "2025-10-04T19:10:00+00:00",
                 "channels": [],
                 "hasSummary": false,
                 "hasTime": true,
-                "startLocal": "2025-10-04T14:10:00-04:00",
+                "startLocal": "2025-10-04T15:10:00-04:00",
                 "endLocal": null,
                 "index": null,
                 "weatherCondition": null,
