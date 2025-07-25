@@ -3502,11 +3502,12 @@
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2025-07-25T16:05:00+00:00",
+                "end": "2025-07-25T16:55:00+00:00",
                 "channels": [],
                 "hasSummary": false,
                 "hasTime": true,
                 "startLocal": "2025-07-25T12:05:00-04:00",
-                "endLocal": null,
+                "endLocal": "2025-07-25T12:55:00-04:00",
                 "index": null,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
@@ -3526,7 +3527,7 @@
                 "index": null,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherRainProbability": 0.42,
                 "isNightEvent": false
             },
             {
@@ -3542,7 +3543,7 @@
                 "index": null,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.93,
+                "weatherRainProbability": 1,
                 "isNightEvent": false
             }
         ]
