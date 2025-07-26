@@ -2653,7 +2653,7 @@
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "ef30ec21b",
@@ -2699,8 +2699,8 @@
                 "end": "2025-07-27T21:30:00+00:00",
                 "endLocal": "2025-07-27T14:30:00-07:00",
                 "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
