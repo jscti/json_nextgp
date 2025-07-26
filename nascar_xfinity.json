@@ -3474,9 +3474,9 @@
                 "startLocal": "2025-07-19T16:30:00-04:00",
                 "endLocal": "2025-07-19T19:30:00-04:00",
                 "index": null,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false
             }
         ]
@@ -3519,11 +3519,12 @@
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2025-07-26T17:00:00+00:00",
+                "end": "2025-07-26T17:50:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2025-07-26T13:00:00-04:00",
-                "endLocal": null,
+                "endLocal": "2025-07-26T13:50:00-04:00",
                 "index": null,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
