@@ -3779,6 +3779,11 @@
                         "countryCode": "FR",
                         "channelName": "Canal+ Sport",
                         "channelCode": ""
+                    },
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": ""
                     }
                 ],
                 "hasSummary": false
@@ -3793,7 +3798,7 @@
                 "end": "2025-07-26T15:00:00+00:00",
                 "endLocal": "2025-07-26T17:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 804,
+                "weatherCondition": 803,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
@@ -3826,9 +3831,9 @@
                 "end": "2025-07-27T15:00:00+00:00",
                 "endLocal": "2025-07-27T17:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0.8,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 1,
                 "isNightEvent": false,
                 "channels": [
                     {
