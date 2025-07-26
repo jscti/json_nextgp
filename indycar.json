@@ -2642,7 +2642,7 @@
                 "id": "9f3966e71",
                 "title": "Practice 1",
                 "type": "practice",
-                "index": 1,
+                "index": null,
                 "start": "2025-07-25T21:00:00+00:00",
                 "startLocal": "2025-07-25T14:00:00-07:00",
                 "end": "2025-07-25T22:00:00+00:00",
@@ -2654,23 +2654,6 @@
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": true
-            },
-            {
-                "id": "ef30ec21b",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 2,
-                "start": "2025-07-26T15:30:00+00:00",
-                "startLocal": "2025-07-26T08:30:00-07:00",
-                "end": "2025-07-26T16:30:00+00:00",
-                "endLocal": "2025-07-26T09:30:00-07:00",
-                "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
-                "isNightEvent": false,
-                "channels": [],
-                "hasSummary": false
             },
             {
                 "id": "97600c36e",
@@ -2687,7 +2670,7 @@
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "8ed8873ea",
@@ -2699,8 +2682,8 @@
                 "end": "2025-07-27T21:30:00+00:00",
                 "endLocal": "2025-07-27T14:30:00-07:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
