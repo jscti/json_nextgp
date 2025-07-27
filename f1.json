@@ -3694,7 +3694,7 @@
         "season": "2025",
         "title": "Belgian Grand Prix",
         "start": "2025-07-25T10:30:00+00:00",
-        "end": "2025-07-27T15:00:00+00:00",
+        "end": "2025-07-27T16:20:00+00:00",
         "timezone": "Europe/Brussels",
         "latitude": "50.44395",
         "longitude": "5.968666",
@@ -3826,10 +3826,10 @@
                 "title": "Race",
                 "type": "race",
                 "index": 2,
-                "start": "2025-07-27T13:00:00+00:00",
-                "startLocal": "2025-07-27T15:00:00+02:00",
-                "end": "2025-07-27T15:00:00+00:00",
-                "endLocal": "2025-07-27T17:00:00+02:00",
+                "start": "2025-07-27T14:20:00+00:00",
+                "startLocal": "2025-07-27T16:20:00+02:00",
+                "end": "2025-07-27T16:20:00+00:00",
+                "endLocal": "2025-07-27T18:20:00+02:00",
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
@@ -3852,7 +3852,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             }
         ]
     },
@@ -3881,9 +3881,9 @@
                 "end": "2025-08-01T12:30:00+00:00",
                 "endLocal": "2025-08-01T14:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -3909,9 +3909,9 @@
                 "end": "2025-08-01T16:00:00+00:00",
                 "endLocal": "2025-08-01T18:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
