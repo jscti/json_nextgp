@@ -1682,9 +1682,9 @@
                 "end": "2025-08-02T08:50:00+00:00",
                 "endLocal": "2025-08-02T10:50:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.2,
                 "isNightEvent": false,
                 "channels": [
                     {
