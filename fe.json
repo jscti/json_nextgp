@@ -2387,17 +2387,11 @@
                 "end": "2025-07-26T10:10:00+00:00",
                 "endLocal": "2025-07-26T11:10:00+01:00",
                 "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Eurosport 2",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": true
             },
             {
