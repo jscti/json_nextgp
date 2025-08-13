@@ -3895,9 +3895,15 @@
                 "hasTime": true,
                 "weatherCondition": 801,
                 "weatherIcon": "02d",
-                "weatherRainProbability": 0,
+                "weatherRainProbability": 0.02,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": false
             },
             {
@@ -3912,9 +3918,15 @@
                 "hasTime": true,
                 "weatherCondition": 801,
                 "weatherIcon": "02d",
-                "weatherRainProbability": 0,
+                "weatherRainProbability": 0.02,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": false
             },
             {
@@ -3930,9 +3942,15 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.2,
+                "weatherRainProbability": 0.22,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": false
             },
             {
@@ -3947,7 +3965,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherRainProbability": 0.95,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
