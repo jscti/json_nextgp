@@ -3275,7 +3275,13 @@
                 "weatherIcon": "01d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": false
             },
             {
@@ -3288,11 +3294,17 @@
                 "end": "2025-08-15T11:50:00+00:00",
                 "endLocal": "2025-08-15T13:50:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": false
             },
             {
@@ -3305,8 +3317,8 @@
                 "end": "2025-08-16T07:10:00+00:00",
                 "endLocal": "2025-08-16T09:10:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
@@ -3322,9 +3334,9 @@
                 "end": "2025-08-16T11:30:00+00:00",
                 "endLocal": "2025-08-16T13:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.2,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
@@ -3339,9 +3351,9 @@
                 "end": "2025-08-17T10:00:00+00:00",
                 "endLocal": "2025-08-17T12:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.97,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
