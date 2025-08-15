@@ -3282,7 +3282,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "dd8bedd35",
@@ -3294,8 +3294,8 @@
                 "end": "2025-08-15T11:50:00+00:00",
                 "endLocal": "2025-08-15T13:50:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
@@ -3335,14 +3335,14 @@
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
-                "start": "2025-08-16T10:50:00+00:00",
-                "startLocal": "2025-08-16T12:50:00+02:00",
-                "end": "2025-08-16T11:30:00+00:00",
-                "endLocal": "2025-08-16T13:30:00+02:00",
+                "start": "2025-08-16T10:45:00+00:00",
+                "startLocal": "2025-08-16T12:45:00+02:00",
+                "end": "2025-08-16T11:25:00+00:00",
+                "endLocal": "2025-08-16T13:25:00+02:00",
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.21,
+                "weatherRainProbability": 0.2,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -3365,7 +3365,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherRainProbability": 0.23,
                 "isNightEvent": false,
                 "channels": [
                     {
