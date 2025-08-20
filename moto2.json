@@ -3425,9 +3425,9 @@
                 "end": "2025-08-22T08:30:00+00:00",
                 "endLocal": "2025-08-22T10:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 501,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -3453,9 +3453,9 @@
                 "end": "2025-08-22T12:45:00+00:00",
                 "endLocal": "2025-08-22T14:45:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -3490,6 +3490,11 @@
                         "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": ""
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": ""
                     }
                 ],
                 "hasSummary": false
@@ -3513,6 +3518,11 @@
                         "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": ""
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": ""
                     }
                 ],
                 "hasSummary": false
@@ -3527,8 +3537,8 @@
                 "end": "2025-08-24T11:15:00+00:00",
                 "endLocal": "2025-08-24T13:15:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
