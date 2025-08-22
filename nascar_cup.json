@@ -4638,7 +4638,7 @@
         "index": "28 / 38",
         "season": 2025,
         "title": "NASCAR Cup Series at Daytona",
-        "start": "2025-08-22T21:00:00+00:00",
+        "start": "2025-08-23T23:30:00+00:00",
         "end": "2025-08-24T03:30:00+00:00",
         "timezone": "America/New_York",
         "latitude": 29.2108147,
@@ -4648,22 +4648,6 @@
         "cityName": "Daytona Beach",
         "stateName": "Florida",
         "steps": [
-            {
-                "id": "00b053754",
-                "title": "Qualifying",
-                "type": "qualifying",
-                "start": "2025-08-22T21:00:00+00:00",
-                "channels": [],
-                "hasSummary": false,
-                "hasTime": true,
-                "startLocal": "2025-08-22T17:00:00-04:00",
-                "endLocal": null,
-                "index": null,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 1,
-                "isNightEvent": false
-            },
             {
                 "id": "b4050b0fd",
                 "title": "Race 1",
@@ -4675,9 +4659,9 @@
                 "startLocal": "2025-08-23T19:30:00-04:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": 500,
-                "weatherIcon": "10n",
-                "weatherRainProbability": 1,
+                "weatherCondition": 804,
+                "weatherIcon": "04n",
+                "weatherRainProbability": 0.08,
                 "isNightEvent": true
             }
         ]

@@ -3628,7 +3628,7 @@
         "index": "24 / 33",
         "season": 2025,
         "title": "NASCAR Xfinity Series at Daytona",
-        "start": "2025-08-22T19:00:00+00:00",
+        "start": "2025-08-22T23:30:00+00:00",
         "end": "2025-08-23T03:30:00+00:00",
         "timezone": "America/New_York",
         "latitude": 29.2108147,
@@ -3638,22 +3638,6 @@
         "cityName": "Daytona Beach",
         "stateName": "Florida",
         "steps": [
-            {
-                "id": "f1a22e313",
-                "title": "Qualifying",
-                "type": "qualifying",
-                "start": "2025-08-22T19:00:00+00:00",
-                "channels": [],
-                "hasSummary": false,
-                "hasTime": true,
-                "startLocal": "2025-08-22T15:00:00-04:00",
-                "endLocal": null,
-                "index": null,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 1,
-                "isNightEvent": false
-            },
             {
                 "id": "9a868c330",
                 "title": "Race 1",
@@ -3665,7 +3649,7 @@
                 "startLocal": "2025-08-22T19:30:00-04:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": 500,
+                "weatherCondition": 501,
                 "weatherIcon": "10n",
                 "weatherRainProbability": 1,
                 "isNightEvent": true
