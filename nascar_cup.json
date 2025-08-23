@@ -4625,9 +4625,9 @@
                 "startLocal": "2025-08-16T19:30:00-04:00",
                 "endLocal": "2025-08-16T22:30:00-04:00",
                 "index": null,
-                "weatherCondition": 801,
-                "weatherIcon": "02n",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": true
             }
         ]
@@ -4661,7 +4661,7 @@
                 "index": null,
                 "weatherCondition": 500,
                 "weatherIcon": "10n",
-                "weatherRainProbability": 0.21,
+                "weatherRainProbability": 0.81,
                 "isNightEvent": true
             }
         ]
