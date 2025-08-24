@@ -3937,18 +3937,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": ""
-                    },
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": true
             }
         ]
@@ -3984,11 +3973,6 @@
                 "isNightEvent": false,
                 "channels": [
                     {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    },
-                    {
                         "countryCode": "FR",
                         "channelName": "Canal+ Sport 360",
                         "channelCode": ""
@@ -4011,11 +3995,6 @@
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    },
                     {
                         "countryCode": "FR",
                         "channelName": "Canal+ Sport 360",
@@ -4040,11 +4019,6 @@
                 "isNightEvent": false,
                 "channels": [
                     {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    },
-                    {
                         "countryCode": "FR",
                         "channelName": "Canal+ Sport 360",
                         "channelCode": ""
@@ -4067,11 +4041,6 @@
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    },
                     {
                         "countryCode": "FR",
                         "channelName": "Canal+ Sport 360",
@@ -4096,11 +4065,6 @@
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    },
                     {
                         "countryCode": "FR",
                         "channelName": "Canal+ Sport 360",
@@ -4130,7 +4094,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             }
         ]
     },
