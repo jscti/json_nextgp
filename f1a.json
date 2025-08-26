@@ -1265,9 +1265,9 @@
                 "end": "2025-08-31T10:10:00+00:00",
                 "endLocal": "2025-08-31T12:10:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.98,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
