@@ -4694,9 +4694,9 @@
                 "startLocal": "2025-08-30T09:00:00-04:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 1,
                 "isNightEvent": false
             },
             {
@@ -4710,9 +4710,9 @@
                 "startLocal": "2025-08-30T10:10:00-04:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.9,
                 "isNightEvent": false
             },
             {
@@ -4726,9 +4726,9 @@
                 "startLocal": "2025-08-31T18:00:00-04:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 804,
+                "weatherIcon": "04n",
+                "weatherRainProbability": 0,
                 "isNightEvent": true
             }
         ]
@@ -5281,11 +5281,11 @@
                 "id": "1a38dfc28",
                 "title": "Qualifying",
                 "type": "qualifying",
-                "start": "2025-11-01T21:30:00+00:00",
+                "start": "2025-11-01T21:00:00+00:00",
                 "channels": [],
                 "hasSummary": false,
                 "hasTime": true,
-                "startLocal": "2025-11-01T14:30:00-07:00",
+                "startLocal": "2025-11-01T14:00:00-07:00",
                 "endLocal": null,
                 "index": null,
                 "weatherCondition": null,
