@@ -4093,9 +4093,9 @@
                 "end": "2025-09-05T09:30:00+00:00",
                 "endLocal": "2025-09-05T11:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.95,
                 "isNightEvent": false,
                 "channels": [
                     {
