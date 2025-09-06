@@ -1766,7 +1766,7 @@
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "695623854",
@@ -1778,8 +1778,8 @@
                 "end": "2025-09-07T07:00:00+00:00",
                 "endLocal": "2025-09-07T09:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
