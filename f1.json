@@ -4122,17 +4122,11 @@
                 "end": "2025-09-19T09:30:00+00:00",
                 "endLocal": "2025-09-19T13:30:00+04:00",
                 "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": false
             },
             {
@@ -4149,13 +4143,7 @@
                 "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": false
             },
             {
@@ -4170,15 +4158,9 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.85,
+                "weatherRainProbability": 0.2,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": false
             },
             {
@@ -4193,12 +4175,12 @@
                 "hasTime": true,
                 "weatherCondition": 803,
                 "weatherIcon": "04d",
-                "weatherRainProbability": 0.56,
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "channelName": "La Une",
                         "channelCode": ""
                     }
                 ],
@@ -4214,11 +4196,16 @@
                 "end": "2025-09-21T13:00:00+00:00",
                 "endLocal": "2025-09-21T17:00:00+04:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0.45,
                 "isNightEvent": false,
                 "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Une",
+                        "channelCode": ""
+                    },
                     {
                         "countryCode": "BE",
                         "channelName": "Tipik",
@@ -4261,6 +4248,11 @@
                 "channels": [
                     {
                         "countryCode": "BE",
+                        "channelName": "La Une",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": ""
                     }
@@ -4282,6 +4274,11 @@
                 "weatherRainProbability": null,
                 "isNightEvent": true,
                 "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Une",
+                        "channelCode": ""
+                    },
                     {
                         "countryCode": "BE",
                         "channelName": "Tipik",
@@ -4307,6 +4304,11 @@
                 "channels": [
                     {
                         "countryCode": "BE",
+                        "channelName": "La Une",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": ""
                     }
@@ -4330,6 +4332,11 @@
                 "channels": [
                     {
                         "countryCode": "BE",
+                        "channelName": "La Une",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": ""
                     }
@@ -4351,6 +4358,11 @@
                 "weatherRainProbability": null,
                 "isNightEvent": true,
                 "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Une",
+                        "channelCode": ""
+                    },
                     {
                         "countryCode": "BE",
                         "channelName": "Tipik",
@@ -4393,6 +4405,11 @@
                 "channels": [
                     {
                         "countryCode": "BE",
+                        "channelName": "La Une",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": ""
                     }
@@ -4415,6 +4432,11 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Une",
+                        "channelCode": ""
+                    },
                     {
                         "countryCode": "BE",
                         "channelName": "Tipik",
@@ -4441,6 +4463,11 @@
                 "channels": [
                     {
                         "countryCode": "BE",
+                        "channelName": "La Une",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": ""
                     }
@@ -4464,6 +4491,11 @@
                 "channels": [
                     {
                         "countryCode": "BE",
+                        "channelName": "La Une",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": ""
                     }
@@ -4485,6 +4517,11 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Une",
+                        "channelCode": ""
+                    },
                     {
                         "countryCode": "BE",
                         "channelName": "Tipik",
@@ -4527,6 +4564,11 @@
                 "channels": [
                     {
                         "countryCode": "BE",
+                        "channelName": "La Une",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": ""
                     }
@@ -4548,6 +4590,11 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Une",
+                        "channelCode": ""
+                    },
                     {
                         "countryCode": "BE",
                         "channelName": "Tipik",
@@ -4573,6 +4620,11 @@
                 "channels": [
                     {
                         "countryCode": "BE",
+                        "channelName": "La Une",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": ""
                     }
@@ -4596,6 +4648,11 @@
                 "channels": [
                     {
                         "countryCode": "BE",
+                        "channelName": "La Une",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": ""
                     }
@@ -4617,6 +4674,11 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Une",
+                        "channelCode": ""
+                    },
                     {
                         "countryCode": "BE",
                         "channelName": "Tipik",
@@ -4659,6 +4721,11 @@
                 "channels": [
                     {
                         "countryCode": "BE",
+                        "channelName": "La Une",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": ""
                     }
@@ -4681,6 +4748,11 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Une",
+                        "channelCode": ""
+                    },
                     {
                         "countryCode": "BE",
                         "channelName": "Tipik",
@@ -4707,6 +4779,11 @@
                 "channels": [
                     {
                         "countryCode": "BE",
+                        "channelName": "La Une",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": ""
                     }
@@ -4730,6 +4807,11 @@
                 "channels": [
                     {
                         "countryCode": "BE",
+                        "channelName": "La Une",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": ""
                     }
@@ -4751,6 +4833,11 @@
                 "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Une",
+                        "channelCode": ""
+                    },
                     {
                         "countryCode": "BE",
                         "channelName": "Tipik",
@@ -4793,6 +4880,11 @@
                 "channels": [
                     {
                         "countryCode": "BE",
+                        "channelName": "La Une",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": ""
                     }
@@ -4814,6 +4906,11 @@
                 "weatherRainProbability": null,
                 "isNightEvent": true,
                 "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Une",
+                        "channelCode": ""
+                    },
                     {
                         "countryCode": "BE",
                         "channelName": "Tipik",
@@ -4839,6 +4936,11 @@
                 "channels": [
                     {
                         "countryCode": "BE",
+                        "channelName": "La Une",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": ""
                     }
@@ -4862,6 +4964,11 @@
                 "channels": [
                     {
                         "countryCode": "BE",
+                        "channelName": "La Une",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": ""
                     }
@@ -4883,6 +4990,11 @@
                 "weatherRainProbability": null,
                 "isNightEvent": true,
                 "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Une",
+                        "channelCode": ""
+                    },
                     {
                         "countryCode": "BE",
                         "channelName": "Tipik",
@@ -4925,6 +5037,11 @@
                 "channels": [
                     {
                         "countryCode": "BE",
+                        "channelName": "La Une",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": ""
                     }
@@ -4947,6 +5064,11 @@
                 "weatherRainProbability": null,
                 "isNightEvent": true,
                 "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Une",
+                        "channelCode": ""
+                    },
                     {
                         "countryCode": "BE",
                         "channelName": "Tipik",
@@ -4973,6 +5095,11 @@
                 "channels": [
                     {
                         "countryCode": "BE",
+                        "channelName": "La Une",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": ""
                     }
@@ -4996,6 +5123,11 @@
                 "channels": [
                     {
                         "countryCode": "BE",
+                        "channelName": "La Une",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": ""
                     }
@@ -5017,6 +5149,11 @@
                 "weatherRainProbability": null,
                 "isNightEvent": true,
                 "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Une",
+                        "channelCode": ""
+                    },
                     {
                         "countryCode": "BE",
                         "channelName": "Tipik",
@@ -5059,6 +5196,11 @@
                 "channels": [
                     {
                         "countryCode": "BE",
+                        "channelName": "La Une",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": ""
                     }
@@ -5080,6 +5222,11 @@
                 "weatherRainProbability": null,
                 "isNightEvent": true,
                 "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Une",
+                        "channelCode": ""
+                    },
                     {
                         "countryCode": "BE",
                         "channelName": "Tipik",
@@ -5105,6 +5252,11 @@
                 "channels": [
                     {
                         "countryCode": "BE",
+                        "channelName": "La Une",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": ""
                     }
@@ -5128,6 +5280,11 @@
                 "channels": [
                     {
                         "countryCode": "BE",
+                        "channelName": "La Une",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": ""
                     }
@@ -5149,6 +5306,11 @@
                 "weatherRainProbability": null,
                 "isNightEvent": true,
                 "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Une",
+                        "channelCode": ""
+                    },
                     {
                         "countryCode": "BE",
                         "channelName": "Tipik",
