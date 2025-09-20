@@ -4170,8 +4170,8 @@
                 "index": null,
                 "start": "2025-09-20T12:00:00+00:00",
                 "startLocal": "2025-09-20T16:00:00+04:00",
-                "end": "2025-09-20T13:00:00+00:00",
-                "endLocal": "2025-09-20T17:00:00+04:00",
+                "end": "2025-09-20T13:44:00+00:00",
+                "endLocal": "2025-09-20T17:44:00+04:00",
                 "hasTime": true,
                 "weatherCondition": 803,
                 "weatherIcon": "04d",
@@ -4184,7 +4184,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "fcb7397c7",
@@ -4196,7 +4196,7 @@
                 "end": "2025-09-21T13:00:00+00:00",
                 "endLocal": "2025-09-21T17:00:00+04:00",
                 "hasTime": true,
-                "weatherCondition": 804,
+                "weatherCondition": 803,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
