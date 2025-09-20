@@ -4161,7 +4161,7 @@
                 "weatherRainProbability": 0.71,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "765ded7ca",
@@ -4175,7 +4175,7 @@
                 "hasTime": true,
                 "weatherCondition": 803,
                 "weatherIcon": "04d",
-                "weatherRainProbability": 0.56,
+                "weatherRainProbability": 0.01,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -4196,7 +4196,7 @@
                 "end": "2025-09-21T13:00:00+00:00",
                 "endLocal": "2025-09-21T17:00:00+04:00",
                 "hasTime": true,
-                "weatherCondition": 803,
+                "weatherCondition": 804,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
