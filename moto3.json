@@ -3679,7 +3679,7 @@
                 "end": "2025-09-26T00:35:00+00:00",
                 "endLocal": "2025-09-26T09:35:00+09:00",
                 "hasTime": true,
-                "weatherCondition": 804,
+                "weatherCondition": 803,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
@@ -3702,11 +3702,17 @@
                 "end": "2025-09-26T04:50:00+00:00",
                 "endLocal": "2025-09-26T13:50:00+09:00",
                 "hasTime": true,
-                "weatherCondition": 804,
+                "weatherCondition": 803,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": false
             },
             {
@@ -3719,11 +3725,17 @@
                 "end": "2025-09-27T00:10:00+00:00",
                 "endLocal": "2025-09-27T09:10:00+09:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.2,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": false
             },
             {
@@ -3736,9 +3748,9 @@
                 "end": "2025-09-27T04:25:00+00:00",
                 "endLocal": "2025-09-27T13:25:00+09:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.2,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
@@ -3753,9 +3765,9 @@
                 "end": "2025-09-28T03:00:00+00:00",
                 "endLocal": "2025-09-28T12:00:00+09:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.52,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
@@ -3833,10 +3845,10 @@
                 "title": "Qualifying",
                 "type": "qualifying",
                 "index": null,
-                "start": "2025-10-04T04:50:00+00:00",
-                "startLocal": "2025-10-04T12:50:00+08:00",
-                "end": "2025-10-04T05:30:00+00:00",
-                "endLocal": "2025-10-04T13:30:00+08:00",
+                "start": "2025-10-04T04:45:00+00:00",
+                "startLocal": "2025-10-04T12:45:00+08:00",
+                "end": "2025-10-04T05:25:00+00:00",
+                "endLocal": "2025-10-04T13:25:00+08:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
