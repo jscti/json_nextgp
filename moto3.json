@@ -3690,7 +3690,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "7652cc01f",
@@ -3725,9 +3725,9 @@
                 "end": "2025-09-27T00:10:00+00:00",
                 "endLocal": "2025-09-27T09:10:00+09:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.2,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -3767,7 +3767,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.91,
+                "weatherRainProbability": 0.2,
                 "isNightEvent": false,
                 "channels": [
                     {
