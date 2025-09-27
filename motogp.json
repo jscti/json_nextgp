@@ -4431,7 +4431,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "c44add565",
@@ -4445,7 +4445,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.73,
+                "weatherRainProbability": 0.5,
                 "isNightEvent": false,
                 "channels": [
                     {

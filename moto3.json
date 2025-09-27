@@ -3753,7 +3753,7 @@
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "23df5df6e",
@@ -3767,7 +3767,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.95,
+                "weatherRainProbability": 0.62,
                 "isNightEvent": false,
                 "channels": [
                     {
