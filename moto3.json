@@ -3781,7 +3781,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             }
         ]
     },
@@ -3810,9 +3810,9 @@
                 "end": "2025-10-03T13:35:00+00:00",
                 "endLocal": "2025-10-03T21:35:00+08:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 803,
+                "weatherIcon": "04n",
+                "weatherRainProbability": 0,
                 "isNightEvent": true,
                 "channels": [
                     {
