@@ -4226,15 +4226,9 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherRainProbability": 0.97,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": false
             },
             {
@@ -4247,17 +4241,11 @@
                 "end": "2025-10-03T14:00:00+00:00",
                 "endLocal": "2025-10-03T22:00:00+08:00",
                 "hasTime": true,
-                "weatherCondition": 501,
+                "weatherCondition": 500,
                 "weatherIcon": "10n",
                 "weatherRainProbability": 1,
                 "isNightEvent": true,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": false
             },
             {
@@ -4274,13 +4262,7 @@
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": false
             },
             {
@@ -4297,13 +4279,7 @@
                 "weatherIcon": "04n",
                 "weatherRainProbability": 0,
                 "isNightEvent": true,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": false
             },
             {
@@ -4316,17 +4292,11 @@
                 "end": "2025-10-05T14:00:00+00:00",
                 "endLocal": "2025-10-05T22:00:00+08:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 804,
+                "weatherIcon": "04n",
+                "weatherRainProbability": 0,
                 "isNightEvent": true,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": false
             }
         ]
@@ -4360,13 +4330,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": false
             },
             {
@@ -4384,13 +4348,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": false
             },
             {
@@ -4408,13 +4366,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": false
             },
             {
@@ -4431,13 +4383,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": false
             },
             {
@@ -4454,13 +4400,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": false
             }
         ]
@@ -4494,13 +4434,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": false
             },
             {
@@ -4517,13 +4451,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": false
             },
             {
@@ -4540,13 +4468,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": false
             },
             {
@@ -4563,13 +4485,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": false
             },
             {
@@ -4586,13 +4502,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": false
             }
         ]
@@ -4626,13 +4536,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": false
             },
             {
@@ -4650,13 +4554,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": false
             },
             {
@@ -4674,13 +4572,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": false
             },
             {
@@ -4697,13 +4589,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": false
             },
             {
@@ -4720,13 +4606,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": false
             }
         ]
@@ -4760,13 +4640,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": true,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": false
             },
             {
@@ -4783,13 +4657,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": true,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": false
             },
             {
@@ -4806,13 +4674,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": true,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": false
             },
             {
@@ -4829,13 +4691,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": true,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": false
             },
             {
@@ -4852,13 +4708,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": true,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": false
             }
         ]
@@ -4892,13 +4742,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": true,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": false
             },
             {
@@ -4916,13 +4760,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": true,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": false
             },
             {
@@ -4940,13 +4778,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": true,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": false
             },
             {
@@ -4963,13 +4795,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": true,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": false
             },
             {
@@ -4986,13 +4812,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": true,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": false
             }
         ]
@@ -5026,13 +4846,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": false
             },
             {
@@ -5049,13 +4863,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": true,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": false
             },
             {
@@ -5072,13 +4880,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": false
             },
             {
@@ -5095,13 +4897,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": true,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": false
             },
             {
@@ -5118,13 +4914,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": true,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": false
             }
         ]

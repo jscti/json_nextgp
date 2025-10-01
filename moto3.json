@@ -3810,14 +3810,19 @@
                 "end": "2025-10-03T01:35:00+00:00",
                 "endLocal": "2025-10-03T09:35:00+08:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
                         "countryCode": "BE",
                         "channelName": "Tipik",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
                         "channelCode": ""
                     }
                 ],
@@ -3842,6 +3847,11 @@
                         "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": ""
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": ""
                     }
                 ],
                 "hasSummary": false
@@ -3856,8 +3866,8 @@
                 "end": "2025-10-04T01:10:00+00:00",
                 "endLocal": "2025-10-04T09:10:00+08:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
@@ -3879,8 +3889,8 @@
                 "end": "2025-10-04T05:25:00+00:00",
                 "endLocal": "2025-10-04T13:25:00+08:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
@@ -3902,7 +3912,7 @@
                 "end": "2025-10-05T05:00:00+00:00",
                 "endLocal": "2025-10-05T13:00:00+08:00",
                 "hasTime": true,
-                "weatherCondition": 804,
+                "weatherCondition": 803,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
