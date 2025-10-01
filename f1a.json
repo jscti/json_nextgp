@@ -1301,7 +1301,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherRainProbability": 0.75,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
@@ -1316,9 +1316,9 @@
                 "end": "2025-10-03T11:30:00+00:00",
                 "endLocal": "2025-10-03T19:30:00+08:00",
                 "hasTime": true,
-                "weatherCondition": 501,
+                "weatherCondition": 500,
                 "weatherIcon": "10n",
-                "weatherRainProbability": 1,
+                "weatherRainProbability": 0.98,
                 "isNightEvent": true,
                 "channels": [],
                 "hasSummary": false
@@ -1335,7 +1335,7 @@
                 "hasTime": true,
                 "weatherCondition": 804,
                 "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherRainProbability": 0.8,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
@@ -1352,7 +1352,7 @@
                 "hasTime": true,
                 "weatherCondition": 804,
                 "weatherIcon": "04d",
-                "weatherRainProbability": 0.38,
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
