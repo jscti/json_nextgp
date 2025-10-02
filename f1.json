@@ -4224,9 +4224,9 @@
                 "end": "2025-10-03T10:30:00+00:00",
                 "endLocal": "2025-10-03T18:30:00+08:00",
                 "hasTime": true,
-                "weatherCondition": 501,
+                "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherRainProbability": 0.54,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
@@ -4243,7 +4243,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10n",
-                "weatherRainProbability": 1,
+                "weatherRainProbability": 0.95,
                 "isNightEvent": true,
                 "channels": [],
                 "hasSummary": false
