@@ -4361,9 +4361,9 @@
                 "end": "2025-09-27T01:40:00+00:00",
                 "endLocal": "2025-09-27T10:40:00+09:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -4384,9 +4384,9 @@
                 "end": "2025-09-27T02:30:00+00:00",
                 "endLocal": "2025-09-27T11:30:00+09:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -4527,7 +4527,7 @@
                 "end": "2025-10-04T02:40:00+00:00",
                 "endLocal": "2025-10-04T10:40:00+08:00",
                 "hasTime": true,
-                "weatherCondition": 803,
+                "weatherCondition": 804,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
@@ -4555,7 +4555,7 @@
                 "end": "2025-10-04T03:30:00+00:00",
                 "endLocal": "2025-10-04T11:30:00+08:00",
                 "hasTime": true,
-                "weatherCondition": 803,
+                "weatherCondition": 804,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
@@ -4612,9 +4612,9 @@
                 "end": "2025-10-05T08:00:00+00:00",
                 "endLocal": "2025-10-05T16:00:00+08:00",
                 "hasTime": true,
-                "weatherCondition": 803,
+                "weatherCondition": 804,
                 "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherRainProbability": 0.03,
                 "isNightEvent": false,
                 "channels": [
                     {
