@@ -4263,7 +4263,7 @@
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "86770a62a",
@@ -4286,7 +4286,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "6778824be",
@@ -4300,7 +4300,7 @@
                 "hasTime": true,
                 "weatherCondition": 804,
                 "weatherIcon": "04n",
-                "weatherRainProbability": 0,
+                "weatherRainProbability": 0.24,
                 "isNightEvent": true,
                 "channels": [
                     {
