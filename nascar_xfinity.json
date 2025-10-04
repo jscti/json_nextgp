@@ -3892,9 +3892,9 @@
                 "startLocal": "2025-09-27T09:30:00-05:00",
                 "endLocal": "2025-09-27T10:30:00-05:00",
                 "index": null,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false
             },
             {
@@ -3909,9 +3909,9 @@
                 "startLocal": "2025-09-27T10:35:00-05:00",
                 "endLocal": "2025-09-27T11:30:00-05:00",
                 "index": null,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false
             },
             {
@@ -3954,11 +3954,12 @@
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2025-10-04T15:30:00+00:00",
+                "end": "2025-10-04T16:20:00+00:00",
                 "channels": [],
                 "hasSummary": false,
                 "hasTime": true,
                 "startLocal": "2025-10-04T11:30:00-04:00",
-                "endLocal": null,
+                "endLocal": "2025-10-04T12:20:00-04:00",
                 "index": null,
                 "weatherCondition": 802,
                 "weatherIcon": "03d",
@@ -3976,8 +3977,8 @@
                 "startLocal": "2025-10-04T12:40:00-04:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false
             },
@@ -3992,8 +3993,8 @@
                 "startLocal": "2025-10-04T17:00:00-04:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false
             }
