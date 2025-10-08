@@ -3916,7 +3916,7 @@
         "index": "19 / 22",
         "season": "2025",
         "title": "Australian Motorcycle Grand Prix",
-        "start": "2025-10-17T03:05:00+00:00",
+        "start": "2025-10-16T22:50:00+00:00",
         "end": "2025-10-19T02:15:00+00:00",
         "timezone": "Australia/Victoria",
         "latitude": "-38.501418",
@@ -3926,10 +3926,33 @@
         "cityName": "Phillip Island",
         "steps": [
             {
+                "id": "f00e37d44",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2025-10-16T22:50:00+00:00",
+                "startLocal": "2025-10-17T09:50:00+11:00",
+                "end": "2025-10-16T23:30:00+00:00",
+                "endLocal": "2025-10-17T10:30:00+11:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": ""
+                    }
+                ],
+                "hasSummary": false
+            },
+            {
                 "id": "4fd247809",
                 "title": "Practice 2",
                 "type": "practice",
-                "index": 1,
+                "index": 2,
                 "start": "2025-10-17T03:05:00+00:00",
                 "startLocal": "2025-10-17T14:05:00+11:00",
                 "end": "2025-10-17T03:45:00+00:00",
@@ -3949,14 +3972,14 @@
                 "hasSummary": false
             },
             {
-                "id": "f00e37d44",
-                "title": "Practice 1",
+                "id": "c9776945c",
+                "title": "Practice 3",
                 "type": "practice",
-                "index": 2,
-                "start": "2025-10-17T22:50:00+00:00",
-                "startLocal": "2025-10-18T09:50:00+11:00",
-                "end": "2025-10-17T23:30:00+00:00",
-                "endLocal": "2025-10-18T10:30:00+11:00",
+                "index": 3,
+                "start": "2025-10-17T22:25:00+00:00",
+                "startLocal": "2025-10-18T09:25:00+11:00",
+                "end": "2025-10-17T22:55:00+00:00",
+                "endLocal": "2025-10-18T09:55:00+11:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
@@ -3978,31 +4001,8 @@
                 "index": null,
                 "start": "2025-10-18T02:45:00+00:00",
                 "startLocal": "2025-10-18T13:45:00+11:00",
-                "end": "2025-10-18T03:25:00+00:00",
-                "endLocal": "2025-10-18T14:25:00+11:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
-                "hasSummary": false
-            },
-            {
-                "id": "c9776945c",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2025-10-18T22:25:00+00:00",
-                "startLocal": "2025-10-19T09:25:00+11:00",
-                "end": "2025-10-18T22:55:00+00:00",
-                "endLocal": "2025-10-19T09:55:00+11:00",
+                "end": "2025-10-18T03:20:00+00:00",
+                "endLocal": "2025-10-18T14:20:00+11:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
