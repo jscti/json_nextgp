@@ -3095,11 +3095,17 @@
                 "end": "2025-10-11T08:20:00+00:00",
                 "endLocal": "2025-10-11T09:20:00+01:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Eurosport 360 5",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": false
             },
             {
@@ -3113,11 +3119,17 @@
                 "end": "2025-10-11T10:15:00+00:00",
                 "endLocal": "2025-10-11T11:15:00+01:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Eurosport 360 5",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": false
             },
             {
@@ -3130,11 +3142,17 @@
                 "end": "2025-10-11T14:00:00+00:00",
                 "endLocal": "2025-10-11T15:00:00+01:00",
                 "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Eurosport 360 5",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": false
             },
             {
