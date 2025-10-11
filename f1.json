@@ -4275,17 +4275,11 @@
                 "end": "2025-10-04T14:00:00+00:00",
                 "endLocal": "2025-10-04T22:00:00+08:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04n",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": true,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": true
             },
             {
