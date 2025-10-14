@@ -3885,9 +3885,15 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.87,
+                "weatherRainProbability": 0.48,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": false
             },
             {
@@ -3917,9 +3923,9 @@
                 "end": "2025-10-17T22:10:00+00:00",
                 "endLocal": "2025-10-18T09:10:00+11:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.69,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
@@ -3934,9 +3940,9 @@
                 "end": "2025-10-18T02:25:00+00:00",
                 "endLocal": "2025-10-18T13:25:00+11:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
@@ -3951,9 +3957,9 @@
                 "end": "2025-10-19T01:00:00+00:00",
                 "endLocal": "2025-10-19T12:00:00+11:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false

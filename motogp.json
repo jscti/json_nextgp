@@ -4564,14 +4564,20 @@
                 "index": 1,
                 "start": "2025-10-16T23:45:00+00:00",
                 "startLocal": "2025-10-17T10:45:00+11:00",
-                "end": "2025-10-18T00:30:00+00:00",
-                "endLocal": "2025-10-18T11:30:00+11:00",
+                "end": "2025-10-17T00:30:00+00:00",
+                "endLocal": "2025-10-17T11:30:00+11:00",
                 "hasTime": true,
                 "weatherCondition": 500,
-                "weatherIcon": "10n",
+                "weatherIcon": "10d",
                 "weatherRainProbability": 1,
-                "isNightEvent": true,
-                "channels": [],
+                "isNightEvent": false,
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": false
             },
             {
@@ -4601,9 +4607,9 @@
                 "end": "2025-10-17T23:40:00+00:00",
                 "endLocal": "2025-10-18T10:40:00+11:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.61,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
@@ -4618,9 +4624,9 @@
                 "end": "2025-10-18T00:30:00+00:00",
                 "endLocal": "2025-10-18T11:30:00+11:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.61,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
@@ -4636,9 +4642,9 @@
                 "end": "2025-10-18T04:30:00+00:00",
                 "endLocal": "2025-10-18T15:30:00+11:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
@@ -4653,9 +4659,9 @@
                 "end": "2025-10-19T04:00:00+00:00",
                 "endLocal": "2025-10-19T15:00:00+11:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
