@@ -3882,7 +3882,7 @@
         "season": "2025",
         "title": "Australian Motorcycle Grand Prix",
         "start": "2025-10-16T22:50:00+00:00",
-        "end": "2025-10-19T02:15:00+00:00",
+        "end": "2025-10-19T03:15:00+00:00",
         "timezone": "Australia/Victoria",
         "latitude": "-38.501418",
         "longitude": "145.232269",
@@ -3957,7 +3957,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "1910bdf62",
@@ -3980,28 +3980,23 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "deb3aeea2",
                 "title": "Race",
                 "type": "race",
                 "index": null,
-                "start": "2025-10-19T01:15:00+00:00",
-                "startLocal": "2025-10-19T12:15:00+11:00",
-                "end": "2025-10-19T02:15:00+00:00",
-                "endLocal": "2025-10-19T13:15:00+11:00",
+                "start": "2025-10-19T02:15:00+00:00",
+                "startLocal": "2025-10-19T13:15:00+11:00",
+                "end": "2025-10-19T03:15:00+00:00",
+                "endLocal": "2025-10-19T14:15:00+11:00",
                 "hasTime": true,
                 "weatherCondition": 804,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": ""
-                    },
                     {
                         "countryCode": "BE",
                         "channelName": "Tipik",

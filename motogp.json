@@ -4549,7 +4549,7 @@
         "season": "2025",
         "title": "Australian Grand Prix",
         "start": "2025-10-16T23:45:00+00:00",
-        "end": "2025-10-19T04:00:00+00:00",
+        "end": "2025-10-19T05:00:00+00:00",
         "timezone": "Australia/Victoria",
         "latitude": "-38.501418",
         "longitude": "145.232269",
@@ -4624,7 +4624,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "65e253b14",
@@ -4647,7 +4647,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "a22ae13cb",
@@ -4678,10 +4678,10 @@
                 "title": "Race",
                 "type": "race",
                 "index": 2,
-                "start": "2025-10-19T03:00:00+00:00",
-                "startLocal": "2025-10-19T14:00:00+11:00",
-                "end": "2025-10-19T04:00:00+00:00",
-                "endLocal": "2025-10-19T15:00:00+11:00",
+                "start": "2025-10-19T04:00:00+00:00",
+                "startLocal": "2025-10-19T15:00:00+11:00",
+                "end": "2025-10-19T05:00:00+00:00",
+                "endLocal": "2025-10-19T16:00:00+11:00",
                 "hasTime": true,
                 "weatherCondition": 804,
                 "weatherIcon": "04d",
