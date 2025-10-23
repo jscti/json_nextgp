@@ -4459,8 +4459,8 @@
                 "end": "2025-10-24T19:30:00+00:00",
                 "endLocal": "2025-10-24T13:30:00-06:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
@@ -4505,8 +4505,8 @@
                 "end": "2025-10-25T18:30:00+00:00",
                 "endLocal": "2025-10-25T12:30:00-06:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
@@ -4528,8 +4528,8 @@
                 "end": "2025-10-25T22:00:00+00:00",
                 "endLocal": "2025-10-25T16:00:00-06:00",
                 "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
@@ -4551,14 +4551,19 @@
                 "end": "2025-10-26T22:00:00+00:00",
                 "endLocal": "2025-10-26T16:00:00-06:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
                         "countryCode": "BE",
                         "channelName": "Tipik",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
                         "channelCode": ""
                     }
                 ],
