@@ -3900,9 +3900,9 @@
                 "end": "2025-10-16T23:30:00+00:00",
                 "endLocal": "2025-10-17T10:30:00+11:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.2,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -3923,9 +3923,9 @@
                 "end": "2025-10-17T03:45:00+00:00",
                 "endLocal": "2025-10-17T14:45:00+11:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -4034,7 +4034,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.9,
+                "weatherRainProbability": 1,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -4060,9 +4060,9 @@
                 "end": "2025-10-24T06:45:00+00:00",
                 "endLocal": "2025-10-24T15:45:00+09:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0.76,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.96,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -4144,7 +4144,7 @@
                 "end": "2025-10-26T06:15:00+00:00",
                 "endLocal": "2025-10-26T15:15:00+09:00",
                 "hasTime": true,
-                "weatherCondition": 804,
+                "weatherCondition": 803,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
