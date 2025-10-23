@@ -112,7 +112,7 @@
         "timezone": "Europe/Lisbon",
         "latitude": "37.2313331",
         "longitude": "-8.6305163",
-        "trackName": "Autodromo International Algarve",
+        "trackName": "Algarve International Circuit",
         "countryCode": "PT",
         "cityName": "Portimao",
         "steps": [
@@ -4015,9 +4015,9 @@
                 "end": "2025-10-24T01:35:00+00:00",
                 "endLocal": "2025-10-24T10:35:00+09:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 1,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -4043,9 +4043,9 @@
                 "end": "2025-10-24T05:50:00+00:00",
                 "endLocal": "2025-10-24T14:50:00+09:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.2,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -4071,7 +4071,7 @@
                 "end": "2025-10-25T01:10:00+00:00",
                 "endLocal": "2025-10-25T10:10:00+09:00",
                 "hasTime": true,
-                "weatherCondition": 804,
+                "weatherCondition": 803,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
@@ -4079,6 +4079,11 @@
                     {
                         "countryCode": "BE",
                         "channelName": "Tipik",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
                         "channelCode": ""
                     }
                 ],
@@ -4094,14 +4099,19 @@
                 "end": "2025-10-25T05:25:00+00:00",
                 "endLocal": "2025-10-25T14:25:00+09:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
                         "countryCode": "BE",
                         "channelName": "Tipik",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
                         "channelCode": ""
                     }
                 ],
