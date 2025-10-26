@@ -3951,17 +3951,11 @@
                 "end": "2025-10-19T02:00:00+00:00",
                 "endLocal": "2025-10-19T13:00:00+11:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": true
             }
         ]
@@ -3973,7 +3967,7 @@
         "season": "2025",
         "title": "Grand Prix of Malaysia",
         "start": "2025-10-24T01:00:00+00:00",
-        "end": "2025-10-26T05:00:00+00:00",
+        "end": "2025-10-26T06:40:00+00:00",
         "timezone": "Asia/Tokyo",
         "latitude": "2.761134",
         "longitude": "101.73696",
@@ -4098,24 +4092,19 @@
                 "title": "Race",
                 "type": "race",
                 "index": null,
-                "start": "2025-10-26T04:00:00+00:00",
-                "startLocal": "2025-10-26T13:00:00+09:00",
-                "end": "2025-10-26T05:00:00+00:00",
-                "endLocal": "2025-10-26T14:00:00+09:00",
+                "start": "2025-10-26T05:40:00+00:00",
+                "startLocal": "2025-10-26T14:40:00+09:00",
+                "end": "2025-10-26T06:40:00+00:00",
+                "endLocal": "2025-10-26T15:40:00+09:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
                         "countryCode": "BE",
                         "channelName": "Tipik",
-                        "channelCode": ""
-                    },
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
                         "channelCode": ""
                     }
                 ],
