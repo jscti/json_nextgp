@@ -5240,16 +5240,17 @@
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2025-10-25T21:40:00+00:00",
+                "end": "2025-10-25T22:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2025-10-25T17:40:00-04:00",
-                "endLocal": null,
+                "endLocal": "2025-10-25T18:30:00-04:00",
                 "index": null,
                 "weatherCondition": 802,
-                "weatherIcon": "03n",
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
-                "isNightEvent": true
+                "isNightEvent": false
             },
             {
                 "id": "6ae0790ae",
@@ -5262,7 +5263,7 @@
                 "startLocal": "2025-10-26T14:00:00-04:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": 803,
+                "weatherCondition": 804,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false
