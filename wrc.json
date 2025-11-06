@@ -2024,7 +2024,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "22b088271",
@@ -2036,8 +2036,8 @@
                 "end": "2025-11-07T08:45:00+00:00",
                 "endLocal": "2025-11-07T17:45:00+09:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04n",
+                "weatherCondition": 800,
+                "weatherIcon": "01n",
                 "weatherRainProbability": 0,
                 "isNightEvent": true,
                 "channels": [
@@ -2054,8 +2054,8 @@
                 "title": "Day 3",
                 "type": "race",
                 "index": 3,
-                "start": "2025-11-07T22:15:00+00:00",
-                "startLocal": "2025-11-08T07:15:00+09:00",
+                "start": "2025-11-07T22:20:00+00:00",
+                "startLocal": "2025-11-08T07:20:00+09:00",
                 "end": "2025-11-08T10:05:00+00:00",
                 "endLocal": "2025-11-08T19:05:00+09:00",
                 "hasTime": true,
@@ -2077,12 +2077,12 @@
                 "title": "Day 4",
                 "type": "race",
                 "index": 4,
-                "start": "2025-11-08T23:30:00+00:00",
-                "startLocal": "2025-11-09T08:30:00+09:00",
+                "start": "2025-11-08T23:35:00+00:00",
+                "startLocal": "2025-11-09T08:35:00+09:00",
                 "end": "2025-11-09T06:45:00+00:00",
                 "endLocal": "2025-11-09T15:45:00+09:00",
                 "hasTime": true,
-                "weatherCondition": 803,
+                "weatherCondition": 804,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
@@ -2090,6 +2090,11 @@
                     {
                         "countryCode": "FR",
                         "channelName": "Canal+ Sport 360",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -2126,7 +2131,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": false
             },
             {
@@ -2143,7 +2154,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": false
             },
             {
@@ -2160,7 +2177,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": false
             },
             {
@@ -2177,7 +2200,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": false
             }
         ]
