@@ -4537,7 +4537,7 @@
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "0c36b45a4",
@@ -4550,8 +4550,8 @@
                 "end": "2025-11-07T19:14:00+00:00",
                 "endLocal": "2025-11-07T16:14:00-03:00",
                 "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
