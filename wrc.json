@@ -2047,7 +2047,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "8ae8f5e4b",
@@ -2082,9 +2082,9 @@
                 "end": "2025-11-09T06:45:00+00:00",
                 "endLocal": "2025-11-09T15:45:00+09:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.78,
                 "isNightEvent": false,
                 "channels": [
                     {
