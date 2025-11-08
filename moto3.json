@@ -4144,7 +4144,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "32b2ba71e",
@@ -4156,8 +4156,8 @@
                 "end": "2025-11-08T13:25:00+00:00",
                 "endLocal": "2025-11-08T13:25:00Z",
                 "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
