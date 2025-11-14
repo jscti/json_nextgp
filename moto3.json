@@ -4108,13 +4108,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": true
             },
             {
@@ -4262,7 +4256,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "8124df1f4",
@@ -4330,8 +4324,8 @@
                 "end": "2025-11-16T11:00:00+00:00",
                 "endLocal": "2025-11-16T12:00:00+01:00",
                 "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
