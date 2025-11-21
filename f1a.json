@@ -1406,7 +1406,7 @@
                 "weatherRainProbability": 0.96,
                 "isNightEvent": true,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "2b414d553",
@@ -1418,7 +1418,7 @@
                 "end": "2025-11-22T02:45:00+00:00",
                 "endLocal": "2025-11-21T18:45:00-08:00",
                 "hasTime": true,
-                "weatherCondition": 804,
+                "weatherCondition": 803,
                 "weatherIcon": "04n",
                 "weatherRainProbability": 0,
                 "isNightEvent": true,
