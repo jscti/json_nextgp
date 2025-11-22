@@ -2102,7 +2102,13 @@
                 "weatherIcon": "01n",
                 "weatherRainProbability": 0,
                 "isNightEvent": true,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": false
             },
             {
@@ -2115,11 +2121,17 @@
                 "end": "2025-11-27T21:30:00+00:00",
                 "endLocal": "2025-11-28T00:30:00+03:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 801,
+                "weatherIcon": "02n",
+                "weatherRainProbability": 0,
                 "isNightEvent": true,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": false
             },
             {
@@ -2136,7 +2148,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": true,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": false
             },
             {
@@ -2153,7 +2171,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "La Trois",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": false
             }
         ]
