@@ -300,24 +300,10 @@
                 "laps": 50
             },
             {
-                "name": "Lando Norris",
-                "countryCode": "GB",
-                "team": "McLaren",
-                "time": "+20.741",
-                "laps": 50
-            },
-            {
                 "name": "George Russell",
                 "countryCode": "GB",
                 "team": "Mercedes AMG Motorsport",
                 "time": "+23.546",
-                "laps": 50
-            },
-            {
-                "name": "Oscar Piastri",
-                "countryCode": "AU",
-                "team": "McLaren",
-                "time": "+27.650",
                 "laps": 50
             },
             {
@@ -431,6 +417,18 @@
                 "team": "Aston Martin F1 Team",
                 "time": null,
                 "laps": 0
+            },
+            {
+                "name": "Lando Norris",
+                "countryCode": "GB",
+                "team": "McLaren",
+                "time": null
+            },
+            {
+                "name": "Oscar Piastri",
+                "countryCode": "AU",
+                "team": "McLaren",
+                "time": null
             }
         ]
     },
