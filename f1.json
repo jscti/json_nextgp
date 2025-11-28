@@ -4671,7 +4671,7 @@
                 "endLocal": "2025-11-21T17:30:00-08:00",
                 "hasTime": true,
                 "weatherCondition": 804,
-                "weatherIcon": "04n",
+                "weatherIcon": "04d",
                 "weatherRainProbability": 0.8,
                 "isNightEvent": true,
                 "channels": [],
@@ -4762,16 +4762,6 @@
                     },
                     {
                         "countryCode": "FR",
-                        "channelName": "Eurosport 2",
-                        "channelCode": ""
-                    },
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Eurosport 360 4",
-                        "channelCode": ""
-                    },
-                    {
-                        "countryCode": "FR",
                         "channelName": "Canal+ Sport",
                         "channelCode": ""
                     }
@@ -4832,11 +4822,6 @@
                         "countryCode": "FR",
                         "channelName": "Canal+ Sport",
                         "channelCode": ""
-                    },
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Eurosport 360 8",
-                        "channelCode": ""
                     }
                 ],
                 "hasSummary": false
@@ -4879,8 +4864,8 @@
                 "end": "2025-11-30T18:00:00+00:00",
                 "endLocal": "2025-11-30T21:00:00+03:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04n",
+                "weatherCondition": 801,
+                "weatherIcon": "02n",
                 "weatherRainProbability": 0,
                 "isNightEvent": true,
                 "channels": [
