@@ -4670,9 +4670,9 @@
                 "end": "2025-11-22T01:30:00+00:00",
                 "endLocal": "2025-11-21T17:30:00-08:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0.8,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": true,
                 "channels": [],
                 "hasSummary": true
@@ -4687,17 +4687,11 @@
                 "end": "2025-11-22T05:00:00+00:00",
                 "endLocal": "2025-11-21T21:00:00-08:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04n",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": true,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": true
             },
             {
