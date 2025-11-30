@@ -4868,7 +4868,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             }
         ]
     },
@@ -4920,8 +4920,8 @@
                 "end": "2025-12-05T14:00:00+00:00",
                 "endLocal": "2025-12-05T18:00:00+04:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": true,
                 "channels": [
