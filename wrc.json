@@ -2098,16 +2098,11 @@
                 "end": "2025-11-26T19:05:00+00:00",
                 "endLocal": "2025-11-26T22:05:00+03:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01n",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": true,
                 "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "La Trois",
-                        "channelCode": ""
-                    },
                     {
                         "countryCode": "FR",
                         "channelName": "Canal+ Sport 360",
@@ -2131,11 +2126,6 @@
                 "weatherRainProbability": 0,
                 "isNightEvent": true,
                 "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "La Trois",
-                        "channelCode": ""
-                    },
                     {
                         "countryCode": "FR",
                         "channelName": "Canal+ Sport 360",
@@ -2165,11 +2155,6 @@
                 "isNightEvent": false,
                 "channels": [
                     {
-                        "countryCode": "BE",
-                        "channelName": "La Trois",
-                        "channelCode": ""
-                    },
-                    {
                         "countryCode": "FR",
                         "channelName": "Canal+ Sport 360",
                         "channelCode": ""
@@ -2192,11 +2177,6 @@
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "La Trois",
-                        "channelCode": ""
-                    },
                     {
                         "countryCode": "FR",
                         "channelName": "Canal+ Sport 360",
