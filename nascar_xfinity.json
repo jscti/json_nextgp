@@ -5,8 +5,8 @@
         "index": "1 / 33",
         "season": 2025,
         "title": "NASCAR Xfinity Series at Daytona",
-        "start": "2025-02-15T22:00:00+00:00",
-        "end": "2025-02-14T22:25:00+00:00",
+        "start": "2025-02-14T21:30:00+00:00",
+        "end": "2025-02-16T01:00:00+00:00",
         "timezone": "America/New_York",
         "latitude": 29.2108147,
         "longitude": -81.0228331,
@@ -15,6 +15,23 @@
         "cityName": "Daytona Beach",
         "stateName": "Florida",
         "steps": [
+            {
+                "id": "39b58b56a",
+                "title": "Practice 1",
+                "type": "practice",
+                "start": "2025-02-14T21:30:00+00:00",
+                "end": "2025-02-14T22:25:00+00:00",
+                "channels": [],
+                "hasSummary": true,
+                "hasTime": true,
+                "startLocal": "2025-02-14T16:30:00-05:00",
+                "endLocal": "2025-02-14T17:25:00-05:00",
+                "index": null,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false
+            },
             {
                 "id": "ecac7c1a5",
                 "title": "Race 1",
@@ -31,23 +48,6 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": true
-            },
-            {
-                "id": "39b58b56a",
-                "title": "Practice 1",
-                "type": "practice",
-                "start": "2026-02-13T21:30:00+00:00",
-                "end": "2025-02-14T22:25:00+00:00",
-                "channels": [],
-                "hasSummary": true,
-                "hasTime": true,
-                "startLocal": "2026-02-13T16:30:00-05:00",
-                "endLocal": "2025-02-14T17:25:00-05:00",
-                "index": null,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false
             }
         ]
     },
