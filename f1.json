@@ -4774,9 +4774,9 @@
                 "end": "2025-11-29T15:00:00+00:00",
                 "endLocal": "2025-11-29T18:00:00+03:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01n",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": true,
                 "channels": [
                     {
@@ -4975,7 +4975,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "85cc8d889",
