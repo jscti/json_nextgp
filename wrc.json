@@ -1,5 +1,1127 @@
 [
     {
+        "id": "962d02e5d",
+        "type": "wrc",
+        "index": "1 / 14",
+        "season": "2025",
+        "title": "Rally de Monte-Carlo",
+        "start": "2025-01-23T18:05:00+00:00",
+        "end": "2025-01-26T12:45:00+00:00",
+        "timezone": "Europe/Paris",
+        "latitude": "43.735386",
+        "longitude": "7.424122",
+        "trackName": "Monaco harbour",
+        "countryCode": "MC",
+        "cityName": "Monaco",
+        "steps": [
+            {
+                "id": "1cba3bf68",
+                "title": "Day 1",
+                "type": "race",
+                "index": 1,
+                "start": "2025-01-23T18:05:00+00:00",
+                "startLocal": "2025-01-23T19:05:00+01:00",
+                "end": "2025-01-23T19:35:00+00:00",
+                "endLocal": "2025-01-23T20:35:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": true,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "5cfc6967f",
+                "title": "Day 2",
+                "type": "race",
+                "index": 2,
+                "start": "2025-01-24T08:15:00+00:00",
+                "startLocal": "2025-01-24T09:15:00+01:00",
+                "end": "2025-01-24T19:35:00+00:00",
+                "endLocal": "2025-01-24T20:35:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": true,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "7bf5e2fe4",
+                "title": "Day 3",
+                "type": "race",
+                "index": 3,
+                "start": "2025-01-25T08:10:00+00:00",
+                "startLocal": "2025-01-25T09:10:00+01:00",
+                "end": "2025-01-25T18:35:00+00:00",
+                "endLocal": "2025-01-25T19:35:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": true,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "8c644f583",
+                "title": "Day 4",
+                "type": "race",
+                "index": 4,
+                "start": "2025-01-26T06:25:00+00:00",
+                "startLocal": "2025-01-26T07:25:00+01:00",
+                "end": "2025-01-26T12:45:00+00:00",
+                "endLocal": "2025-01-26T13:45:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "337acbe5b",
+        "type": "wrc",
+        "index": "2 / 14",
+        "season": "2025",
+        "title": "Rally Sweden",
+        "start": "2025-02-13T18:05:00+00:00",
+        "end": "2025-02-16T12:45:00+00:00",
+        "timezone": "Europe/Stockholm",
+        "latitude": 63.8256568,
+        "longitude": 20.2630745,
+        "trackName": "Umea",
+        "countryCode": "SE",
+        "cityName": "Umea",
+        "steps": [
+            {
+                "id": "ff9f96e8e",
+                "title": "Day 1",
+                "type": "race",
+                "index": 1,
+                "start": "2025-02-13T18:05:00+00:00",
+                "startLocal": "2025-02-13T19:05:00+01:00",
+                "end": "2025-02-13T19:35:00+00:00",
+                "endLocal": "2025-02-13T20:35:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": true,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "cc9e1e075",
+                "title": "Day 2",
+                "type": "race",
+                "index": 2,
+                "start": "2025-02-14T08:15:00+00:00",
+                "startLocal": "2025-02-14T09:15:00+01:00",
+                "end": "2025-02-14T19:35:00+00:00",
+                "endLocal": "2025-02-14T20:35:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": true,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "7de919089",
+                "title": "Day 3",
+                "type": "race",
+                "index": 3,
+                "start": "2025-02-15T08:10:00+00:00",
+                "startLocal": "2025-02-15T09:10:00+01:00",
+                "end": "2025-02-15T18:35:00+00:00",
+                "endLocal": "2025-02-15T19:35:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": true,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "7bae240d8",
+                "title": "Day 4",
+                "type": "race",
+                "index": 4,
+                "start": "2025-02-16T06:25:00+00:00",
+                "startLocal": "2025-02-16T07:25:00+01:00",
+                "end": "2025-02-16T12:45:00+00:00",
+                "endLocal": "2025-02-16T13:45:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "a43182aab",
+        "type": "wrc",
+        "index": "3 / 14",
+        "season": "2025",
+        "title": "Safari Rally Kenya",
+        "start": "2025-03-20T10:05:00+00:00",
+        "end": "2025-03-23T12:45:00+00:00",
+        "timezone": "Africa/Nairobi",
+        "latitude": -0.7224425,
+        "longitude": 36.4387834,
+        "trackName": "Naivasha",
+        "countryCode": "KE",
+        "cityName": "Naivasha",
+        "steps": [
+            {
+                "id": "11d065cd2",
+                "title": "Day 1",
+                "type": "race",
+                "index": 1,
+                "start": "2025-03-20T10:05:00+00:00",
+                "startLocal": "2025-03-20T13:05:00+03:00",
+                "end": "2025-03-20T14:30:00+00:00",
+                "endLocal": "2025-03-20T17:30:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "2b8d134cb",
+                "title": "Day 2",
+                "type": "race",
+                "index": 2,
+                "start": "2025-03-21T04:25:00+00:00",
+                "startLocal": "2025-03-21T07:25:00+03:00",
+                "end": "2025-03-21T15:00:00+00:00",
+                "endLocal": "2025-03-21T18:00:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "bcf59e05b",
+                "title": "Day 3",
+                "type": "race",
+                "index": 3,
+                "start": "2025-03-22T05:40:00+00:00",
+                "startLocal": "2025-03-22T08:40:00+03:00",
+                "end": "2025-03-22T15:40:00+00:00",
+                "endLocal": "2025-03-22T18:40:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "16cf9a2c5",
+                "title": "Day 4",
+                "type": "race",
+                "index": 4,
+                "start": "2025-03-23T04:50:00+00:00",
+                "startLocal": "2025-03-23T07:50:00+03:00",
+                "end": "2025-03-23T12:45:00+00:00",
+                "endLocal": "2025-03-23T15:45:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "4f034dd2f",
+        "type": "wrc",
+        "index": "4 / 14",
+        "season": "2025",
+        "title": "Rally Islas Canarias",
+        "start": "2025-04-25T07:00:00+00:00",
+        "end": "2025-04-27T13:45:00+00:00",
+        "timezone": "Atlantic/Canary",
+        "latitude": 28.1288694,
+        "longitude": -15.4349015,
+        "trackName": "Gran Canaria",
+        "countryCode": "ES",
+        "cityName": "Las Palmas de Gran Canaria",
+        "steps": [
+            {
+                "id": "7e5dc3a67",
+                "title": "Day 1",
+                "type": "race",
+                "index": 1,
+                "start": "2025-04-25T07:00:00+00:00",
+                "startLocal": "2025-04-25T08:00:00+01:00",
+                "end": "2025-04-25T19:10:00+00:00",
+                "endLocal": "2025-04-25T20:10:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "8b699a655",
+                "title": "Day 2",
+                "type": "race",
+                "index": 2,
+                "start": "2025-04-26T07:05:00+00:00",
+                "startLocal": "2025-04-26T08:05:00+01:00",
+                "end": "2025-04-26T21:05:00+00:00",
+                "endLocal": "2025-04-26T22:05:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": true,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "63473e120",
+                "title": "Day 3",
+                "type": "race",
+                "index": 3,
+                "start": "2025-04-27T07:10:00+00:00",
+                "startLocal": "2025-04-27T08:10:00+01:00",
+                "end": "2025-04-27T13:45:00+00:00",
+                "endLocal": "2025-04-27T14:45:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "696af4c51",
+        "type": "wrc",
+        "index": "5 / 14",
+        "season": "2025",
+        "title": "Rally de Portugal",
+        "start": "2025-05-15T18:05:00+00:00",
+        "end": "2025-05-18T14:00:00+00:00",
+        "timezone": "Europe/Lisbon",
+        "latitude": 41.1806814,
+        "longitude": -8.6821998,
+        "trackName": "Exponor Exhibition Centre",
+        "countryCode": "PT",
+        "cityName": "Matosinhos",
+        "steps": [
+            {
+                "id": "6982767cd",
+                "title": "Day 1",
+                "type": "race",
+                "index": 1,
+                "start": "2025-05-15T18:05:00+00:00",
+                "startLocal": "2025-05-15T19:05:00+01:00",
+                "end": "2025-05-15T19:05:00+00:00",
+                "endLocal": "2025-05-15T20:05:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "e6ddb1297",
+                "title": "Day 2",
+                "type": "race",
+                "index": 2,
+                "start": "2025-05-16T06:35:00+00:00",
+                "startLocal": "2025-05-16T07:35:00+01:00",
+                "end": "2025-05-16T20:15:00+00:00",
+                "endLocal": "2025-05-16T21:15:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": true,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "81f5dd643",
+                "title": "Day 3",
+                "type": "race",
+                "index": 3,
+                "start": "2025-05-17T06:35:00+00:00",
+                "startLocal": "2025-05-17T07:35:00+01:00",
+                "end": "2025-05-17T20:15:00+00:00",
+                "endLocal": "2025-05-17T21:15:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": true,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "3c55282f9",
+                "title": "Day 4",
+                "type": "race",
+                "index": 4,
+                "start": "2025-05-18T05:40:00+00:00",
+                "startLocal": "2025-05-18T06:40:00+01:00",
+                "end": "2025-05-18T14:00:00+00:00",
+                "endLocal": "2025-05-18T15:00:00+01:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "8858b7a8a",
+        "type": "wrc",
+        "index": "6 / 14",
+        "season": "2025",
+        "title": "Rally Italia",
+        "start": "2025-06-06T07:00:00+00:00",
+        "end": "2025-06-08T12:30:00+00:00",
+        "timezone": "Europe/Rome",
+        "latitude": 40.9232659,
+        "longitude": 9.5027442,
+        "trackName": "Olbia",
+        "countryCode": "IT",
+        "cityName": "Olbia",
+        "steps": [
+            {
+                "id": "c7c39e02f",
+                "title": "Day 1",
+                "type": "race",
+                "index": 1,
+                "start": "2025-06-06T07:00:00+00:00",
+                "startLocal": "2025-06-06T09:00:00+02:00",
+                "end": "2025-06-06T17:35:00+00:00",
+                "endLocal": "2025-06-06T19:35:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "ff68f10b5",
+                "title": "Day 2",
+                "type": "race",
+                "index": 2,
+                "start": "2025-06-07T07:05:00+00:00",
+                "startLocal": "2025-06-07T09:05:00+02:00",
+                "end": "2025-06-07T17:05:00+00:00",
+                "endLocal": "2025-06-07T19:05:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "01a461e21",
+                "title": "Day 3",
+                "type": "race",
+                "index": 3,
+                "start": "2025-06-08T05:25:00+00:00",
+                "startLocal": "2025-06-08T07:25:00+02:00",
+                "end": "2025-06-08T12:30:00+00:00",
+                "endLocal": "2025-06-08T14:30:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "bd7561e69",
+        "type": "wrc",
+        "index": "7 / 14",
+        "season": "2025",
+        "title": "Rally Greece",
+        "start": "2025-06-26T15:05:00+00:00",
+        "end": "2025-06-29T12:45:00+00:00",
+        "timezone": "Europe/Athens",
+        "latitude": 38.8993832,
+        "longitude": 22.433582,
+        "trackName": "Lamia",
+        "countryCode": "GR",
+        "cityName": "Lamia",
+        "steps": [
+            {
+                "id": "8f2be3f63",
+                "title": "Day 1",
+                "type": "race",
+                "index": 1,
+                "start": "2025-06-26T15:05:00+00:00",
+                "startLocal": "2025-06-26T18:05:00+03:00",
+                "end": "2025-06-26T16:35:00+00:00",
+                "endLocal": "2025-06-26T19:35:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "4136e466d",
+                "title": "Day 2",
+                "type": "race",
+                "index": 2,
+                "start": "2025-06-27T04:25:00+00:00",
+                "startLocal": "2025-06-27T07:25:00+03:00",
+                "end": "2025-06-27T18:00:00+00:00",
+                "endLocal": "2025-06-27T21:00:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "afd3eb337",
+                "title": "Day 3",
+                "type": "race",
+                "index": 3,
+                "start": "2025-06-28T05:20:00+00:00",
+                "startLocal": "2025-06-28T08:20:00+03:00",
+                "end": "2025-06-28T17:00:00+00:00",
+                "endLocal": "2025-06-28T20:00:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "22d8f3e40",
+                "title": "Day 4",
+                "type": "race",
+                "index": 4,
+                "start": "2025-06-29T05:00:00+00:00",
+                "startLocal": "2025-06-29T08:00:00+03:00",
+                "end": "2025-06-29T12:45:00+00:00",
+                "endLocal": "2025-06-29T15:45:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "aaddd0d0e",
+        "type": "wrc",
+        "index": "8 / 14",
+        "season": "2025",
+        "title": "Rally Estonia",
+        "start": "2025-07-17T17:05:00+00:00",
+        "end": "2025-07-20T11:45:00+00:00",
+        "timezone": "Europe/Tallinn",
+        "latitude": 58.3801207,
+        "longitude": 26.72245,
+        "trackName": "Tartu",
+        "countryCode": "EE",
+        "cityName": "Tartu",
+        "steps": [
+            {
+                "id": "211126105",
+                "title": "Day 1",
+                "type": "race",
+                "index": 1,
+                "start": "2025-07-17T17:05:00+00:00",
+                "startLocal": "2025-07-17T20:05:00+03:00",
+                "end": "2025-07-17T18:35:00+00:00",
+                "endLocal": "2025-07-17T21:35:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "9955aa8be",
+                "title": "Day 2",
+                "type": "race",
+                "index": 2,
+                "start": "2025-07-18T06:15:00+00:00",
+                "startLocal": "2025-07-18T09:15:00+03:00",
+                "end": "2025-07-18T17:45:00+00:00",
+                "endLocal": "2025-07-18T20:45:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "aca957b8e",
+                "title": "Day 3",
+                "type": "race",
+                "index": 3,
+                "start": "2025-07-19T05:20:00+00:00",
+                "startLocal": "2025-07-19T08:20:00+03:00",
+                "end": "2025-07-19T17:25:00+00:00",
+                "endLocal": "2025-07-19T20:25:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "f5ef0fef3",
+                "title": "Day 4",
+                "type": "race",
+                "index": 4,
+                "start": "2025-07-20T06:35:00+00:00",
+                "startLocal": "2025-07-20T09:35:00+03:00",
+                "end": "2025-07-20T11:45:00+00:00",
+                "endLocal": "2025-07-20T14:45:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "9e0ff0b92",
+        "type": "wrc",
+        "index": "9 / 14",
+        "season": "2025",
+        "title": "Rally Finland",
+        "start": "2025-07-31T16:05:00+00:00",
+        "end": "2025-08-03T11:45:00+00:00",
+        "timezone": "Europe/Helsinki",
+        "latitude": 62.2393431,
+        "longitude": 25.7458236,
+        "trackName": "Jyvaskyla",
+        "countryCode": "FI",
+        "cityName": "Jyvaskyla",
+        "steps": [
+            {
+                "id": "8aa387a07",
+                "title": "Day 1",
+                "type": "race",
+                "index": 1,
+                "start": "2025-07-31T16:05:00+00:00",
+                "startLocal": "2025-07-31T19:05:00+03:00",
+                "end": "2025-07-31T17:35:00+00:00",
+                "endLocal": "2025-07-31T20:35:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "0cb7e027c",
+                "title": "Day 2",
+                "type": "race",
+                "index": 2,
+                "start": "2025-08-01T05:00:00+00:00",
+                "startLocal": "2025-08-01T08:00:00+03:00",
+                "end": "2025-08-01T18:00:00+00:00",
+                "endLocal": "2025-08-01T21:00:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "387bdaeeb",
+                "title": "Day 3",
+                "type": "race",
+                "index": 3,
+                "start": "2025-08-02T05:00:00+00:00",
+                "startLocal": "2025-08-02T08:00:00+03:00",
+                "end": "2025-08-02T18:00:00+00:00",
+                "endLocal": "2025-08-02T21:00:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "5cffcd04a",
+                "title": "Day 4",
+                "type": "race",
+                "index": 4,
+                "start": "2025-08-03T07:35:00+00:00",
+                "startLocal": "2025-08-03T10:35:00+03:00",
+                "end": "2025-08-03T11:45:00+00:00",
+                "endLocal": "2025-08-03T14:45:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "0707e1f0f",
+        "type": "wrc",
+        "index": "10 / 14",
+        "season": "2025",
+        "title": "Rally de Paraguay",
+        "start": "2025-08-29T11:00:00+00:00",
+        "end": "2025-08-31T17:45:00+00:00",
+        "timezone": "America/Asuncion",
+        "latitude": -27.3376114,
+        "longitude": -55.8669492,
+        "trackName": "Encarnacion",
+        "countryCode": "PY",
+        "cityName": "Encarnacion",
+        "steps": [
+            {
+                "id": "4814834ff",
+                "title": "Day 1",
+                "type": "race",
+                "index": 1,
+                "start": "2025-08-29T11:00:00+00:00",
+                "startLocal": "2025-08-29T08:00:00-03:00",
+                "end": "2025-08-29T20:15:00+00:00",
+                "endLocal": "2025-08-29T17:15:00-03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "20f8d453e",
+                "title": "Day 2",
+                "type": "race",
+                "index": 2,
+                "start": "2025-08-30T10:35:00+00:00",
+                "startLocal": "2025-08-30T07:35:00-03:00",
+                "end": "2025-08-30T20:20:00+00:00",
+                "endLocal": "2025-08-30T17:20:00-03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "7a441f240",
+                "title": "Day 3",
+                "type": "race",
+                "index": 3,
+                "start": "2025-08-31T11:25:00+00:00",
+                "startLocal": "2025-08-31T08:25:00-03:00",
+                "end": "2025-08-31T17:45:00+00:00",
+                "endLocal": "2025-08-31T14:45:00-03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "12f62caf6",
+        "type": "wrc",
+        "index": "11 / 14",
+        "season": "2025",
+        "title": "Rally Chile",
+        "start": "2025-09-12T11:15:00+00:00",
+        "end": "2025-09-14T19:45:00+00:00",
+        "timezone": "America/Santiago",
+        "latitude": -36.8270795,
+        "longitude": -73.0502399,
+        "trackName": "Concepcion",
+        "countryCode": "CL",
+        "cityName": "Concepcion",
+        "steps": [
+            {
+                "id": "d4a3cb7e6",
+                "title": "Day 1",
+                "type": "race",
+                "index": 1,
+                "start": "2025-09-12T11:15:00+00:00",
+                "startLocal": "2025-09-12T08:15:00-03:00",
+                "end": "2025-09-12T21:00:00+00:00",
+                "endLocal": "2025-09-12T18:00:00-03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "d75247c74",
+                "title": "Day 2",
+                "type": "race",
+                "index": 2,
+                "start": "2025-09-13T00:05:00+00:00",
+                "startLocal": "2025-09-12T21:05:00-03:00",
+                "end": "2025-09-13T21:35:00+00:00",
+                "endLocal": "2025-09-13T18:35:00-03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": true,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "a053dad33",
+                "title": "Day 3",
+                "type": "race",
+                "index": 3,
+                "start": "2025-09-14T11:20:00+00:00",
+                "startLocal": "2025-09-14T08:20:00-03:00",
+                "end": "2025-09-14T19:45:00+00:00",
+                "endLocal": "2025-09-14T16:45:00-03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "118567d81",
+        "type": "wrc",
+        "index": "12 / 14",
+        "season": "2025",
+        "title": "Rally Central European",
+        "start": "2025-10-16T12:30:00+00:00",
+        "end": "2025-10-19T12:45:00+00:00",
+        "timezone": "Europe/Berlin",
+        "latitude": 48.5748229,
+        "longitude": 13.4609744,
+        "trackName": "Passau",
+        "countryCode": "DE",
+        "cityName": "Passau",
+        "steps": [
+            {
+                "id": "1b5301cc0",
+                "title": "Day 1",
+                "type": "race",
+                "index": 1,
+                "start": "2025-10-16T12:30:00+00:00",
+                "startLocal": "2025-10-16T14:30:00+02:00",
+                "end": "2025-10-16T17:30:00+00:00",
+                "endLocal": "2025-10-16T19:30:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": true,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "36dbf423d",
+                "title": "Day 2",
+                "type": "race",
+                "index": 2,
+                "start": "2025-10-17T06:30:00+00:00",
+                "startLocal": "2025-10-17T08:30:00+02:00",
+                "end": "2025-10-17T17:45:00+00:00",
+                "endLocal": "2025-10-17T19:45:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": true,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "6de2cbadd",
+                "title": "Day 3",
+                "type": "race",
+                "index": 3,
+                "start": "2025-10-18T06:15:00+00:00",
+                "startLocal": "2025-10-18T08:15:00+02:00",
+                "end": "2025-10-18T17:55:00+00:00",
+                "endLocal": "2025-10-18T19:55:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": true,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "1f86e8c78",
+                "title": "Day 4",
+                "type": "race",
+                "index": 4,
+                "start": "2025-10-19T06:25:00+00:00",
+                "startLocal": "2025-10-19T08:25:00+02:00",
+                "end": "2025-10-19T12:45:00+00:00",
+                "endLocal": "2025-10-19T14:45:00+02:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "c6c7f40f0",
+        "type": "wrc",
+        "index": "13 / 14",
+        "season": "2025",
+        "title": "Rally Japan",
+        "start": "2025-11-06T07:05:00+00:00",
+        "end": "2025-11-09T06:45:00+00:00",
+        "timezone": "Asia/Tokyo",
+        "latitude": 35.15195,
+        "longitude": 137.301478,
+        "trackName": "Toyota",
+        "countryCode": "JP",
+        "cityName": "Toyota",
+        "steps": [
+            {
+                "id": "61f132ece",
+                "title": "Day 1",
+                "type": "race",
+                "index": 1,
+                "start": "2025-11-06T07:05:00+00:00",
+                "startLocal": "2025-11-06T16:05:00+09:00",
+                "end": "2025-11-06T08:35:00+00:00",
+                "endLocal": "2025-11-06T17:35:00+09:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": true,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "22b088271",
+                "title": "Day 2",
+                "type": "race",
+                "index": 2,
+                "start": "2025-11-06T22:10:00+00:00",
+                "startLocal": "2025-11-07T07:10:00+09:00",
+                "end": "2025-11-07T08:45:00+00:00",
+                "endLocal": "2025-11-07T17:45:00+09:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": true,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "8ae8f5e4b",
+                "title": "Day 3",
+                "type": "race",
+                "index": 3,
+                "start": "2025-11-07T22:20:00+00:00",
+                "startLocal": "2025-11-08T07:20:00+09:00",
+                "end": "2025-11-08T10:05:00+00:00",
+                "endLocal": "2025-11-08T19:05:00+09:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": true,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "3f6028602",
+                "title": "Day 4",
+                "type": "race",
+                "index": 4,
+                "start": "2025-11-08T23:35:00+00:00",
+                "startLocal": "2025-11-09T08:35:00+09:00",
+                "end": "2025-11-09T06:45:00+00:00",
+                "endLocal": "2025-11-09T15:45:00+09:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
+        "id": "c39973cc1",
+        "type": "wrc",
+        "index": "14 / 14",
+        "season": "2025",
+        "title": "Rally Saudi Arabia",
+        "start": "2025-11-26T17:35:00+00:00",
+        "end": "2025-11-29T11:45:00+00:00",
+        "timezone": "Asia/Riyadh",
+        "latitude": 21.5810088,
+        "longitude": 39.1653612,
+        "trackName": "Jeddah",
+        "countryCode": "SA",
+        "cityName": "Jeddah",
+        "steps": [
+            {
+                "id": "4bf79fcab",
+                "title": "Day 1",
+                "type": "race",
+                "index": 1,
+                "start": "2025-11-26T17:35:00+00:00",
+                "startLocal": "2025-11-26T20:35:00+03:00",
+                "end": "2025-11-26T19:05:00+00:00",
+                "endLocal": "2025-11-26T22:05:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": true,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "ed6a47825",
+                "title": "Day 2",
+                "type": "race",
+                "index": 2,
+                "start": "2025-11-27T05:05:00+00:00",
+                "startLocal": "2025-11-27T08:05:00+03:00",
+                "end": "2025-11-27T18:55:00+00:00",
+                "endLocal": "2025-11-27T21:55:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": true,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "926760702",
+                "title": "Day 3",
+                "type": "race",
+                "index": 3,
+                "start": "2025-11-28T05:25:00+00:00",
+                "startLocal": "2025-11-28T08:25:00+03:00",
+                "end": "2025-11-28T14:35:00+00:00",
+                "endLocal": "2025-11-28T17:35:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            },
+            {
+                "id": "0991d759c",
+                "title": "Day 4",
+                "type": "race",
+                "index": 4,
+                "start": "2025-11-29T05:35:00+00:00",
+                "startLocal": "2025-11-29T08:35:00+03:00",
+                "end": "2025-11-29T11:45:00+00:00",
+                "endLocal": "2025-11-29T14:45:00+03:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": true
+            }
+        ]
+    },
+    {
         "id": "719144680",
         "type": "wrc",
         "index": "1 / 14",
@@ -30,20 +1152,20 @@
                 "isNightEvent": true,
                 "channels": [
                     {
-                        "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "e9af3b9b1",
                 "title": "Day 2",
                 "type": "race",
                 "index": 2,
-                "start": "2026-01-23T08:04:00+00:00",
-                "startLocal": "2026-01-23T09:04:00+01:00",
+                "start": "2026-01-23T08:00:00+00:00",
+                "startLocal": "2026-01-23T09:00:00+01:00",
                 "end": "2026-01-23T18:35:00+00:00",
                 "endLocal": "2026-01-23T19:35:00+01:00",
                 "hasTime": true,
@@ -53,8 +1175,8 @@
                 "isNightEvent": true,
                 "channels": [
                     {
-                        "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
                         "channelCode": ""
                     }
                 ],
@@ -65,19 +1187,24 @@
                 "title": "Day 3",
                 "type": "race",
                 "index": 3,
-                "start": "2026-01-24T07:31:00+00:00",
-                "startLocal": "2026-01-24T08:31:00+01:00",
+                "start": "2026-01-24T07:30:00+00:00",
+                "startLocal": "2026-01-24T08:30:00+01:00",
                 "end": "2026-01-24T19:05:00+00:00",
                 "endLocal": "2026-01-24T20:05:00+01:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10n",
+                "weatherRainProbability": 1,
                 "isNightEvent": true,
                 "channels": [
                     {
-                        "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+",
                         "channelCode": ""
                     }
                 ],
@@ -93,14 +1220,24 @@
                 "end": "2026-01-25T13:45:00+00:00",
                 "endLocal": "2026-01-25T14:45:00+01:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10n",
+                "weatherRainProbability": 0.56,
                 "isNightEvent": false,
                 "channels": [
                     {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+",
+                        "channelCode": ""
+                    },
+                    {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -140,7 +1277,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -163,7 +1300,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -186,7 +1323,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -209,7 +1346,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -249,7 +1386,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -272,7 +1409,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -295,7 +1432,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -318,7 +1455,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -358,7 +1495,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -381,7 +1518,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -404,7 +1541,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -427,7 +1564,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -467,7 +1604,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -490,7 +1627,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -513,7 +1650,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -536,7 +1673,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -576,7 +1713,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -599,7 +1736,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -622,7 +1759,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -645,7 +1782,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -685,7 +1822,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -708,7 +1845,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -731,7 +1868,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -754,7 +1891,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -794,7 +1931,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -817,7 +1954,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -840,7 +1977,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -863,7 +2000,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -903,7 +2040,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -926,7 +2063,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -949,7 +2086,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -972,7 +2109,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -1012,7 +2149,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -1035,7 +2172,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -1058,7 +2195,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -1081,7 +2218,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -1121,7 +2258,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -1144,7 +2281,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -1167,7 +2304,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -1190,7 +2327,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -1246,7 +2383,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -1269,7 +2406,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -1292,7 +2429,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -1315,7 +2452,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -1355,7 +2492,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -1378,7 +2515,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -1401,7 +2538,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -1424,7 +2561,7 @@
                 "channels": [
                     {
                         "countryCode": "BE",
-                        "channelName": "La Trois",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
