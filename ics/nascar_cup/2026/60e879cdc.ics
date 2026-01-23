@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | NascarCup | NASCAR Cup Series at North Wilkesboro
+BEGIN:VEVENT
+UID:nascar_cup-60e879cdc-c88976c1a@nextgp.app
+DTSTAMP:20260123T114043Z
+DTSTART:20260719T230000Z
+SUMMARY:NascarCup | Race | NASCAR Cup Series at North Wilkesboro 
+DESCRIPTION:Details with NextGP app: nextgp://detail/60e879cdc
+LOCATION:North Wilkesboro Speedway\, North Wilkesboro\, US
+GEO:36.1584651;-81.1475841
+URL:nextgp://detail/60e879cdc
+CATEGORIES:NascarCup,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

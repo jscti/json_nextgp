@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | NascarCup | NASCAR Cup Series at Gateway
+BEGIN:VEVENT
+UID:nascar_cup-53890800d-2d17c51aa@nextgp.app
+DTSTAMP:20260123T114043Z
+DTSTART:20260912T193000Z
+SUMMARY:NascarCup | Practice | NASCAR Cup Series at Gateway 
+DESCRIPTION:Details with NextGP app: nextgp://detail/53890800d
+LOCATION:World Wide Technology Raceway at Gateway\, Madison\, US
+GEO:38.6825502;-90.1570536
+URL:nextgp://detail/53890800d
+CATEGORIES:NascarCup,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_cup-53890800d-7c4c0aef7@nextgp.app
+DTSTAMP:20260123T114043Z
+DTSTART:20260912T204000Z
+SUMMARY:NascarCup | Qualifying | NASCAR Cup Series at Gateway 
+DESCRIPTION:Details with NextGP app: nextgp://detail/53890800d
+LOCATION:World Wide Technology Raceway at Gateway\, Madison\, US
+GEO:38.6825502;-90.1570536
+URL:nextgp://detail/53890800d
+CATEGORIES:NascarCup,Motorsport,qualifying
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar_cup-53890800d-372f85613@nextgp.app
+DTSTAMP:20260123T114043Z
+DTSTART:20260913T190000Z
+SUMMARY:NascarCup | Race | NASCAR Cup Series at Gateway 
+DESCRIPTION:Details with NextGP app: nextgp://detail/53890800d
+LOCATION:World Wide Technology Raceway at Gateway\, Madison\, US
+GEO:38.6825502;-90.1570536
+URL:nextgp://detail/53890800d
+CATEGORIES:NascarCup,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
