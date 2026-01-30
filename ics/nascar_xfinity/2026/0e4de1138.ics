@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | NascarXfinity | NASCAR O'Reilly Auto Parts Series at Chicagoland
+BEGIN:VEVENT
+UID:nascar_xfinity-0e4de1138-c42065d2f@nextgp.app
+DTSTAMP:20260130T141537Z
+DTSTART:20260704T213000Z
+SUMMARY:NascarXfinity | Race | NASCAR O'Reilly Auto Parts Series at Chicagoland 
+DESCRIPTION:Details with NextGP app: nextgp://detail/0e4de1138
+LOCATION:Chicagoland Speedway\, Joliet\, US
+GEO:41.5263603;-88.0840212
+URL:nextgp://detail/0e4de1138
+CATEGORIES:NascarXfinity,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | NascarXfinity | NASCAR O'Reilly Auto Parts Series at Gateway
+BEGIN:VEVENT
+UID:nascar_xfinity-a2756cceb-6c66cc8d7@nextgp.app
+DTSTAMP:20260130T141537Z
+DTSTART:20260912T233000Z
+SUMMARY:NascarXfinity | Race | NASCAR O'Reilly Auto Parts Series at Gateway 
+DESCRIPTION:Details with NextGP app: nextgp://detail/a2756cceb
+LOCATION:World Wide Technology Raceway at Gateway\, Madison\, US
+GEO:38.6825502;-90.1570536
+URL:nextgp://detail/a2756cceb
+CATEGORIES:NascarXfinity,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

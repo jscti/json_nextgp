@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | NascarXfinity | NASCAR O'Reilly Auto Parts Series at Bristol
+BEGIN:VEVENT
+UID:nascar_xfinity-bfe788a71-d4b1459db@nextgp.app
+DTSTAMP:20260130T141537Z
+DTSTART:20260918T233000Z
+SUMMARY:NascarXfinity | Race | NASCAR O'Reilly Auto Parts Series at Bristol 
+DESCRIPTION:Details with NextGP app: nextgp://detail/bfe788a71
+LOCATION:Bristol Motor Speedway\, Bristol\, US
+GEO:36.5945034;-82.1885212
+URL:nextgp://detail/bfe788a71
+CATEGORIES:NascarXfinity,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

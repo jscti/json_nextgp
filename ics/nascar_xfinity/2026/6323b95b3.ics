@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | NascarXfinity | NASCAR O'Reilly Auto Parts Series at Sonoma
+BEGIN:VEVENT
+UID:nascar_xfinity-6323b95b3-341710851@nextgp.app
+DTSTAMP:20260130T141537Z
+DTSTART:20260627T213000Z
+SUMMARY:NascarXfinity | Race | NASCAR O'Reilly Auto Parts Series at Sonoma 
+DESCRIPTION:Details with NextGP app: nextgp://detail/6323b95b3
+LOCATION:Sonoma Raceway\, Sonoma\, US
+GEO:38.2930864;-122.457675
+URL:nextgp://detail/6323b95b3
+CATEGORIES:NascarXfinity,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

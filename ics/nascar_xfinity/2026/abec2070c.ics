@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | NascarXfinity | NASCAR O'Reilly Auto Parts Series at Texas
+BEGIN:VEVENT
+UID:nascar_xfinity-abec2070c-591987718@nextgp.app
+DTSTAMP:20260130T141537Z
+DTSTART:20260502T193000Z
+SUMMARY:NascarXfinity | Race | NASCAR O'Reilly Auto Parts Series at Texas 
+DESCRIPTION:Details with NextGP app: nextgp://detail/abec2070c
+LOCATION:Texas Motor Speedway\, Fort Worth\, US
+GEO:32.753177;-97.3327459
+URL:nextgp://detail/abec2070c
+CATEGORIES:NascarXfinity,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

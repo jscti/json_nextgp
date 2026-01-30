@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | NascarXfinity | NASCAR O'Reilly Auto Parts Series at Indianapolis
+BEGIN:VEVENT
+UID:nascar_xfinity-bc9b244c9-f1fb0acf9@nextgp.app
+DTSTAMP:20260130T141537Z
+DTSTART:20260725T200000Z
+SUMMARY:NascarXfinity | Race | NASCAR O'Reilly Auto Parts Series at Indianapolis 
+DESCRIPTION:Details with NextGP app: nextgp://detail/bc9b244c9
+LOCATION:Indianapolis Motor Speedway\, Speedway\, US
+GEO:39.7881233;-86.2407144
+URL:nextgp://detail/bc9b244c9
+CATEGORIES:NascarXfinity,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

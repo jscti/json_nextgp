@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | NascarXfinity | NASCAR O'Reilly Auto Parts Series at Charlotte
+BEGIN:VEVENT
+UID:nascar_xfinity-ffc9196c7-5741e94a6@nextgp.app
+DTSTAMP:20260130T141537Z
+DTSTART:20261010T200000Z
+SUMMARY:NascarXfinity | Race | NASCAR O'Reilly Auto Parts Series at Charlotte 
+DESCRIPTION:Details with NextGP app: nextgp://detail/ffc9196c7
+LOCATION:Charlotte Motor Speedway\, Concord\, US
+GEO:35.4094178;-80.5800049
+URL:nextgp://detail/ffc9196c7
+CATEGORIES:NascarXfinity,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
