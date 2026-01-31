@@ -5,9 +5,22 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:NextGP | NascarCup | NASCAR Cup Series at Bowman Gray
 BEGIN:VEVENT
+UID:nascar_cup-d5886f4f8-2ca719100@nextgp.app
+DTSTAMP:20260131T234029Z
+DTSTART:20260202T160000Z
+SUMMARY:NascarCup | Practice | NASCAR Cup Series at Bowman Gray 
+DESCRIPTION:Details with NextGP app: nextgp://detail/d5886f4f8
+LOCATION:Bowman Gray Stadium\, Winston-Salem\, US
+GEO:36.0998131;-80.2440518
+URL:nextgp://detail/d5886f4f8
+CATEGORIES:NascarCup,Motorsport,practice
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:nascar_cup-d5886f4f8-0377ee31d@nextgp.app
-DTSTAMP:20260131T174029Z
-DTSTART:20260201T230000Z
+DTSTAMP:20260131T234029Z
+DTSTART:20260202T213000Z
 SUMMARY:NascarCup | Race 1 | NASCAR Cup Series at Bowman Gray 
 DESCRIPTION:Details with NextGP app: nextgp://detail/d5886f4f8
 LOCATION:Bowman Gray Stadium\, Winston-Salem\, US
@@ -19,27 +32,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nascar_cup-d5886f4f8-5036eaee1@nextgp.app
-DTSTAMP:20260131T174029Z
-DTSTART:20260202T010000Z
+DTSTAMP:20260131T234029Z
+DTSTART:20260202T230000Z
 SUMMARY:NascarCup | Race 2 | NASCAR Cup Series at Bowman Gray 
 DESCRIPTION:Details with NextGP app: nextgp://detail/d5886f4f8
 LOCATION:Bowman Gray Stadium\, Winston-Salem\, US
 GEO:36.0998131;-80.2440518
 URL:nextgp://detail/d5886f4f8
 CATEGORIES:NascarCup,Motorsport,race
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:nascar_cup-d5886f4f8-2ca719100@nextgp.app
-DTSTAMP:20260131T174029Z
-DTSTART:20260202T160000Z
-SUMMARY:NascarCup | Practice | NASCAR Cup Series at Bowman Gray 
-DESCRIPTION:Details with NextGP app: nextgp://detail/d5886f4f8
-LOCATION:Bowman Gray Stadium\, Winston-Salem\, US
-GEO:36.0998131;-80.2440518
-URL:nextgp://detail/d5886f4f8
-CATEGORIES:NascarCup,Motorsport,practice
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
