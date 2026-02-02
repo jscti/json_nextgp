@@ -6,39 +6,33 @@ METHOD:PUBLISH
 X-WR-CALNAME:NextGP | NascarCup | NASCAR Cup Series at Texas
 BEGIN:VEVENT
 UID:nascar_cup-1f8424fdd-a67640257@nextgp.app
-DTSTAMP:20260201T174030Z
+DTSTAMP:20260202T145633Z
 DTSTART:20260502T163000Z
 SUMMARY:NascarCup | Practice | NASCAR Cup Series at Texas 
-DESCRIPTION:Details with NextGP app: nextgp://detail/1f8424fdd
 LOCATION:Texas Motor Speedway\, Fort Worth\, US
 GEO:32.753177;-97.3327459
-URL:nextgp://detail/1f8424fdd
 CATEGORIES:NascarCup,Motorsport,practice
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nascar_cup-1f8424fdd-60b2749d0@nextgp.app
-DTSTAMP:20260201T174030Z
+DTSTAMP:20260202T145633Z
 DTSTART:20260502T174000Z
 SUMMARY:NascarCup | Qualifying | NASCAR Cup Series at Texas 
-DESCRIPTION:Details with NextGP app: nextgp://detail/1f8424fdd
 LOCATION:Texas Motor Speedway\, Fort Worth\, US
 GEO:32.753177;-97.3327459
-URL:nextgp://detail/1f8424fdd
 CATEGORIES:NascarCup,Motorsport,qualifying
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nascar_cup-1f8424fdd-abee9cdb7@nextgp.app
-DTSTAMP:20260201T174030Z
+DTSTAMP:20260202T145633Z
 DTSTART:20260503T193000Z
 SUMMARY:NascarCup | Race | NASCAR Cup Series at Texas 
-DESCRIPTION:Details with NextGP app: nextgp://detail/1f8424fdd
 LOCATION:Texas Motor Speedway\, Fort Worth\, US
 GEO:32.753177;-97.3327459
-URL:nextgp://detail/1f8424fdd
 CATEGORIES:NascarCup,Motorsport,race
 STATUS:CONFIRMED
 TRANSP:OPAQUE

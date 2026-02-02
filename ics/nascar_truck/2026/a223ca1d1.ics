@@ -6,26 +6,22 @@ METHOD:PUBLISH
 X-WR-CALNAME:NextGP | NascarTruck | NASCAR Craftsman Truck Series at Atlanta
 BEGIN:VEVENT
 UID:nascar_truck-a223ca1d1-0d38d3c5f@nextgp.app
-DTSTAMP:20260201T174039Z
+DTSTAMP:20260202T145642Z
 DTSTART:20260220T200000Z
 SUMMARY:NascarTruck | Qualifying | NASCAR Craftsman Truck Series at Atlanta 
-DESCRIPTION:Details with NextGP app: nextgp://detail/a223ca1d1
 LOCATION:EchoPark Speedway\, Hampton\, US
 GEO:33.3870578;-84.2829784
-URL:nextgp://detail/a223ca1d1
 CATEGORIES:NascarTruck,Motorsport,qualifying
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nascar_truck-a223ca1d1-ba004bc87@nextgp.app
-DTSTAMP:20260201T174039Z
+DTSTAMP:20260202T145642Z
 DTSTART:20260221T183000Z
 SUMMARY:NascarTruck | Race | NASCAR Craftsman Truck Series at Atlanta 
-DESCRIPTION:Details with NextGP app: nextgp://detail/a223ca1d1
 LOCATION:EchoPark Speedway\, Hampton\, US
 GEO:33.3870578;-84.2829784
-URL:nextgp://detail/a223ca1d1
 CATEGORIES:NascarTruck,Motorsport,race
 STATUS:CONFIRMED
 TRANSP:OPAQUE

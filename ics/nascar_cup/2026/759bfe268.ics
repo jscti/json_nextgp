@@ -6,39 +6,33 @@ METHOD:PUBLISH
 X-WR-CALNAME:NextGP | NascarCup | NASCAR Cup Series at Las Vegas
 BEGIN:VEVENT
 UID:nascar_cup-759bfe268-630da75e9@nextgp.app
-DTSTAMP:20260201T174030Z
+DTSTAMP:20260202T145633Z
 DTSTART:20260314T183000Z
 SUMMARY:NascarCup | Practice | NASCAR Cup Series at Las Vegas 
-DESCRIPTION:Details with NextGP app: nextgp://detail/759bfe268
 LOCATION:Las Vegas Motor Speedway\, Las Vegas\, US
 GEO:36.1672559;-115.148516
-URL:nextgp://detail/759bfe268
 CATEGORIES:NascarCup,Motorsport,practice
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nascar_cup-759bfe268-943b3d0fa@nextgp.app
-DTSTAMP:20260201T174030Z
+DTSTAMP:20260202T145633Z
 DTSTART:20260314T194000Z
 SUMMARY:NascarCup | Qualifying | NASCAR Cup Series at Las Vegas 
-DESCRIPTION:Details with NextGP app: nextgp://detail/759bfe268
 LOCATION:Las Vegas Motor Speedway\, Las Vegas\, US
 GEO:36.1672559;-115.148516
-URL:nextgp://detail/759bfe268
 CATEGORIES:NascarCup,Motorsport,qualifying
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nascar_cup-759bfe268-5d6434d80@nextgp.app
-DTSTAMP:20260201T174030Z
+DTSTAMP:20260202T145633Z
 DTSTART:20260315T200000Z
 SUMMARY:NascarCup | Race | NASCAR Cup Series at Las Vegas 
-DESCRIPTION:Details with NextGP app: nextgp://detail/759bfe268
 LOCATION:Las Vegas Motor Speedway\, Las Vegas\, US
 GEO:36.1672559;-115.148516
-URL:nextgp://detail/759bfe268
 CATEGORIES:NascarCup,Motorsport,race
 STATUS:CONFIRMED
 TRANSP:OPAQUE

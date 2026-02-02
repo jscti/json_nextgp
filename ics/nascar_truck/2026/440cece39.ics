@@ -6,39 +6,33 @@ METHOD:PUBLISH
 X-WR-CALNAME:NextGP | NascarTruck | NASCAR Craftsman Truck Series at Lucas Oil
 BEGIN:VEVENT
 UID:nascar_truck-440cece39-498be0b19@nextgp.app
-DTSTAMP:20260201T174039Z
+DTSTAMP:20260202T145642Z
 DTSTART:20260724T190000Z
 SUMMARY:NascarTruck | Practice | NASCAR Craftsman Truck Series at Lucas Oil 
-DESCRIPTION:Details with NextGP app: nextgp://detail/440cece39
 LOCATION:Lucas Oil Indianapolis Raceway Park\, Indianapolis\, US
 GEO:39.7683331;-86.1583502
-URL:nextgp://detail/440cece39
 CATEGORIES:NascarTruck,Motorsport,practice
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nascar_truck-440cece39-16fd2e2ea@nextgp.app
-DTSTAMP:20260201T174039Z
+DTSTAMP:20260202T145642Z
 DTSTART:20260724T200500Z
 SUMMARY:NascarTruck | Qualifying | NASCAR Craftsman Truck Series at Lucas Oil 
-DESCRIPTION:Details with NextGP app: nextgp://detail/440cece39
 LOCATION:Lucas Oil Indianapolis Raceway Park\, Indianapolis\, US
 GEO:39.7683331;-86.1583502
-URL:nextgp://detail/440cece39
 CATEGORIES:NascarTruck,Motorsport,qualifying
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nascar_truck-440cece39-6bb4508a4@nextgp.app
-DTSTAMP:20260201T174039Z
+DTSTAMP:20260202T145642Z
 DTSTART:20260725T000000Z
 SUMMARY:NascarTruck | Race | NASCAR Craftsman Truck Series at Lucas Oil 
-DESCRIPTION:Details with NextGP app: nextgp://detail/440cece39
 LOCATION:Lucas Oil Indianapolis Raceway Park\, Indianapolis\, US
 GEO:39.7683331;-86.1583502
-URL:nextgp://detail/440cece39
 CATEGORIES:NascarTruck,Motorsport,race
 STATUS:CONFIRMED
 TRANSP:OPAQUE
