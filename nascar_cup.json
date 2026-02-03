@@ -2763,9 +2763,9 @@
                 "startLocal": "2026-02-04T13:30:00-05:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.2,
                 "isNightEvent": false
             },
             {
@@ -2779,9 +2779,9 @@
                 "startLocal": "2026-02-04T16:30:00-05:00",
                 "endLocal": null,
                 "index": 1,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.2,
                 "isNightEvent": true
             },
             {
@@ -2795,9 +2795,9 @@
                 "startLocal": "2026-02-04T18:00:00-05:00",
                 "endLocal": null,
                 "index": 2,
-                "weatherCondition": 500,
-                "weatherIcon": "10n",
-                "weatherRainProbability": 0.96,
+                "weatherCondition": 600,
+                "weatherIcon": "13n",
+                "weatherRainProbability": 0.6,
                 "isNightEvent": true
             }
         ]
