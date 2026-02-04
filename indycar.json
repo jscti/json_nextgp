@@ -1498,7 +1498,7 @@
     {
         "id": "830e8c95a",
         "type": "indycar",
-        "index": "1 / 17",
+        "index": "1 / 18",
         "season": "2026",
         "title": "Grand Prix of St. Petersburg",
         "start": "2026-02-27T18:30:00+00:00",
@@ -1583,7 +1583,7 @@
     {
         "id": "1d3e324fb",
         "type": "indycar",
-        "index": "2 / 17",
+        "index": "2 / 18",
         "season": "2026",
         "title": "Grand Prix of Phoenix",
         "start": "2026-03-06T15:00:00+00:00",
@@ -1685,7 +1685,7 @@
     {
         "id": "2467977a2",
         "type": "indycar",
-        "index": "3 / 17",
+        "index": "3 / 18",
         "season": "2026",
         "title": "Grand Prix of Arlington",
         "start": "2026-03-13T20:00:00+00:00",
@@ -1770,7 +1770,7 @@
     {
         "id": "19dc42df3",
         "type": "indycar",
-        "index": "4 / 17",
+        "index": "4 / 18",
         "season": "2026",
         "title": "Grand Prix of Alabama",
         "start": "2026-03-27T18:30:00+00:00",
@@ -1855,7 +1855,7 @@
     {
         "id": "88d1f38fc",
         "type": "indycar",
-        "index": "5 / 17",
+        "index": "5 / 18",
         "season": "2026",
         "title": "Grand Prix of Long Beach",
         "start": "2026-04-17T22:00:00+00:00",
@@ -1940,7 +1940,7 @@
     {
         "id": "f2123a6bd",
         "type": "indycar",
-        "index": "6 / 17",
+        "index": "6 / 18",
         "season": "2026",
         "title": "Grand Prix of Indianapolis",
         "start": "2026-05-08T13:30:00+00:00",
@@ -2025,7 +2025,7 @@
     {
         "id": "de416cbc7",
         "type": "indycar",
-        "index": "7 / 17",
+        "index": "7 / 18",
         "season": "2026",
         "title": "Indianapolis 500",
         "start": "2026-05-12T18:15:00+00:00",
@@ -2212,7 +2212,7 @@
     {
         "id": "c5389367c",
         "type": "indycar",
-        "index": "8 / 17",
+        "index": "8 / 18",
         "season": "2026",
         "title": "Detroit Grand Prix",
         "start": "2026-05-29T19:00:00+00:00",
@@ -2297,7 +2297,7 @@
     {
         "id": "6b3a898e5",
         "type": "indycar",
-        "index": "9 / 17",
+        "index": "9 / 18",
         "season": "2026",
         "title": "Grand Prix of Madison",
         "start": "2026-06-06T19:15:00+00:00",
@@ -2365,7 +2365,7 @@
     {
         "id": "90bf180c4",
         "type": "indycar",
-        "index": "10 / 17",
+        "index": "10 / 18",
         "season": "2026",
         "title": "Road America Grand Prix",
         "start": "2026-06-19T20:30:00+00:00",
@@ -2450,7 +2450,7 @@
     {
         "id": "557b87813",
         "type": "indycar",
-        "index": "11 / 17",
+        "index": "11 / 18",
         "season": "2026",
         "title": "Grand Prix of Lexington",
         "start": "2026-07-03T20:30:00+00:00",
@@ -2535,7 +2535,7 @@
     {
         "id": "a5476e053",
         "type": "indycar",
-        "index": "12 / 17",
+        "index": "12 / 18",
         "season": "2026",
         "title": "Grand Prix of Nashville",
         "start": "2026-07-18T14:30:00+00:00",
@@ -2620,7 +2620,7 @@
     {
         "id": "9f139f31a",
         "type": "indycar",
-        "index": "13 / 17",
+        "index": "13 / 18",
         "season": "2026",
         "title": "Grand Prix of Portland",
         "start": "2026-08-07T21:30:00+00:00",
@@ -2722,7 +2722,7 @@
     {
         "id": "4ee70b909",
         "type": "indycar",
-        "index": "14 / 17",
+        "index": "14 / 18",
         "season": "2026",
         "title": "Grand Prix of Markham",
         "start": "2026-08-14T19:00:00+00:00",
@@ -2805,9 +2805,43 @@
         ]
     },
     {
+        "id": "7c181a7fc",
+        "type": "indycar",
+        "index": "15 / 18",
+        "season": "2026",
+        "title": "Freedom 250 Grand Prix of Washington",
+        "start": "2026-08-23T18:00:00+00:00",
+        "end": "2026-08-23T19:00:00+00:00",
+        "timezone": null,
+        "latitude": null,
+        "longitude": null,
+        "trackName": null,
+        "countryCode": null,
+        "cityName": null,
+        "steps": [
+            {
+                "id": "5949b0959",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2026-08-23T18:00:00+00:00",
+                "startLocal": null,
+                "end": "2026-08-23T19:00:00+00:00",
+                "endLocal": null,
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": false
+            }
+        ]
+    },
+    {
         "id": "9f50b7225",
         "type": "indycar",
-        "index": "15 / 17",
+        "index": "16 / 18",
         "season": "2026",
         "title": "Milwaukee Mile 1",
         "start": "2026-08-28T19:35:00+00:00",
@@ -2875,7 +2909,7 @@
     {
         "id": "e424b98c9",
         "type": "indycar",
-        "index": "16 / 17",
+        "index": "17 / 18",
         "season": "2026",
         "title": "Milwaukee Mile 2",
         "start": "2026-08-30T15:15:00+00:00",
@@ -2926,7 +2960,7 @@
     {
         "id": "2bb6de432",
         "type": "indycar",
-        "index": "17 / 17",
+        "index": "18 / 18",
         "season": "2026",
         "title": "Grand Prix of Monterey",
         "start": "2026-09-04T21:00:00+00:00",
