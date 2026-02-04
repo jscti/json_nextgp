@@ -2763,9 +2763,9 @@
                 "startLocal": "2026-02-04T13:30:00-05:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.2,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false
             },
             {
@@ -2781,7 +2781,7 @@
                 "index": 1,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.2,
+                "weatherRainProbability": 0.33,
                 "isNightEvent": true
             },
             {
@@ -2797,7 +2797,7 @@
                 "index": 2,
                 "weatherCondition": 600,
                 "weatherIcon": "13n",
-                "weatherRainProbability": 0.6,
+                "weatherRainProbability": 0.29,
                 "isNightEvent": true
             }
         ]
@@ -4881,55 +4881,23 @@
         ]
     },
     {
-        "id": "9b7a5a2df",
+        "id": "d36dc979d",
         "type": "nascar_cup",
         "index": "34 / 38",
         "season": 2026,
-        "title": "NASCAR Cup Series at Charlotte Roval",
-        "start": "2026-10-10T17:00:00+00:00",
+        "title": "NASCAR Cup Series at Charlotte",
+        "start": "2026-10-11T19:00:00+00:00",
         "end": "2026-10-11T23:00:00+00:00",
         "timezone": "America/New_York",
         "latitude": 35.4094178,
         "longitude": -80.5800049,
-        "trackName": "Charlotte Motor Speedway Road Course",
+        "trackName": "Charlotte Motor Speedway",
         "countryCode": "US",
         "cityName": "Concord",
         "stateName": "North Carolina",
         "steps": [
             {
-                "id": "8dd276ed2",
-                "title": "Practice 1",
-                "type": "practice",
-                "start": "2026-10-10T17:00:00+00:00",
-                "channels": [],
-                "hasSummary": false,
-                "hasTime": true,
-                "startLocal": "2026-10-10T13:00:00-04:00",
-                "endLocal": null,
-                "index": null,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false
-            },
-            {
-                "id": "9b076ab21",
-                "title": "Qualifying",
-                "type": "qualifying",
-                "start": "2026-10-10T18:10:00+00:00",
-                "channels": [],
-                "hasSummary": false,
-                "hasTime": true,
-                "startLocal": "2026-10-10T14:10:00-04:00",
-                "endLocal": null,
-                "index": null,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false
-            },
-            {
-                "id": "21a69fd25",
+                "id": "4849a3321",
                 "title": "Race 1",
                 "type": "race",
                 "start": "2026-10-11T19:00:00+00:00",
