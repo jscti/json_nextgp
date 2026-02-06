@@ -4209,7 +4209,7 @@
         "index": "22 / 38",
         "season": 2026,
         "title": "NASCAR Cup Series at Atlanta",
-        "start": "2026-07-12T23:00:00+00:00",
+        "start": "2026-07-11T20:30:00+00:00",
         "end": "2026-07-13T03:00:00+00:00",
         "timezone": "America/New_York",
         "latitude": 33.3870578,
@@ -4219,6 +4219,22 @@
         "cityName": "Hampton",
         "stateName": "Georgia",
         "steps": [
+            {
+                "id": "109046a6b",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "start": "2026-07-11T20:30:00+00:00",
+                "channels": [],
+                "hasSummary": false,
+                "hasTime": true,
+                "startLocal": "2026-07-11T16:30:00-04:00",
+                "endLocal": null,
+                "index": null,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false
+            },
             {
                 "id": "111fbb2b8",
                 "title": "Race 1",
