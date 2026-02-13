@@ -1265,7 +1265,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "9964664cb",
@@ -1277,8 +1277,8 @@
                 "end": "2026-02-14T18:35:00+00:00",
                 "endLocal": "2026-02-14T19:35:00+01:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": true,
                 "channels": [
@@ -1300,8 +1300,8 @@
                 "end": "2026-02-15T12:45:00+00:00",
                 "endLocal": "2026-02-15T13:45:00+01:00",
                 "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02n",
+                "weatherCondition": 802,
+                "weatherIcon": "03n",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
