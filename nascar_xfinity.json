@@ -2218,9 +2218,9 @@
                 "startLocal": "2026-02-20T17:00:00-05:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 1,
                 "isNightEvent": true
             },
             {
@@ -2234,9 +2234,9 @@
                 "startLocal": "2026-02-21T17:00:00-05:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.27,
                 "isNightEvent": true
             }
         ]
@@ -3353,7 +3353,7 @@
         "index": "21 / 33",
         "season": 2026,
         "title": "NASCAR O'Reilly Auto Parts Series at Atlanta",
-        "start": "2026-07-11T23:00:00+00:00",
+        "start": "2026-07-11T15:00:00+00:00",
         "end": "2026-07-12T03:00:00+00:00",
         "timezone": "America/New_York",
         "latitude": 33.3870578,
@@ -3363,6 +3363,22 @@
         "cityName": "Hampton",
         "stateName": "Georgia",
         "steps": [
+            {
+                "id": "a159936c0",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "start": "2026-07-11T15:00:00+00:00",
+                "channels": [],
+                "hasSummary": false,
+                "hasTime": true,
+                "startLocal": "2026-07-11T11:00:00-04:00",
+                "endLocal": null,
+                "index": null,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false
+            },
             {
                 "id": "86ab2a49d",
                 "title": "Race 1",

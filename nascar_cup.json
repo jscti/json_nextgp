@@ -2930,7 +2930,7 @@
                 "start": "2026-02-15T18:30:00+00:00",
                 "end": "2026-02-15T22:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2026-02-15T13:30:00-05:00",
                 "endLocal": "2026-02-15T17:30:00-05:00",
@@ -2969,9 +2969,9 @@
                 "startLocal": "2026-02-21T11:00:00-05:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false
             },
             {
