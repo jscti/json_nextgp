@@ -6,8 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:NextGP | NascarXfinity | NASCAR O'Reilly Auto Parts Series at Atlanta
 BEGIN:VEVENT
 UID:nascar_xfinity-770ec5c8d-5408e2ad2@nextgp.app
-DTSTAMP:20260206T114042Z
+DTSTAMP:20260220T234038Z
 DTSTART:20260220T220000Z
+DTEND:20260220T233000Z
 SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Atlanta 
 LOCATION:EchoPark Speedway\, Hampton\, US
 GEO:33.3870578;-84.2829784
@@ -17,7 +18,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nascar_xfinity-770ec5c8d-27cde1e40@nextgp.app
-DTSTAMP:20260206T114042Z
+DTSTAMP:20260220T234038Z
 DTSTART:20260221T220000Z
 SUMMARY:NascarXfinity | Race | NASCAR O'Reilly Auto Parts Series at Atlanta 
 LOCATION:EchoPark Speedway\, Hampton\, US

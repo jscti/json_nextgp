@@ -2150,9 +2150,9 @@
                 "startLocal": "2026-02-13T16:30:00-05:00",
                 "endLocal": "2026-02-13T17:15:00-05:00",
                 "index": null,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false
             },
             {
@@ -2212,11 +2212,12 @@
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2026-02-20T22:00:00+00:00",
+                "end": "2026-02-20T23:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2026-02-20T17:00:00-05:00",
-                "endLocal": null,
+                "endLocal": "2026-02-20T18:30:00-05:00",
                 "index": null,
                 "weatherCondition": 802,
                 "weatherIcon": "03d",
@@ -2236,7 +2237,7 @@
                 "index": null,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.25,
+                "weatherRainProbability": 0.37,
                 "isNightEvent": true
             }
         ]
@@ -3192,10 +3193,12 @@
         "start": "2026-06-20T21:00:00+00:00",
         "end": "2026-06-21T01:00:00+00:00",
         "timezone": "America/Los_Angeles",
-        "latitude": "32.715738",
+        "latitude": "32.6997",
         "longitude": "-117.1610838",
         "trackName": "San Diego Street Course",
         "countryCode": "US",
+        "cityName": "San Diego",
+        "stateName": "CA",
         "steps": [
             {
                 "id": "c5596981d",
