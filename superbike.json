@@ -1754,7 +1754,7 @@
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "8ceb31818",
@@ -1766,9 +1766,9 @@
                 "end": "2026-02-22T02:30:00+00:00",
                 "endLocal": "2026-02-22T13:30:00+11:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.59,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0.01,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -1789,7 +1789,7 @@
                 "end": "2026-02-22T06:00:00+00:00",
                 "endLocal": "2026-02-22T17:00:00+11:00",
                 "hasTime": true,
-                "weatherCondition": 501,
+                "weatherCondition": 500,
                 "weatherIcon": "10d",
                 "weatherRainProbability": 1,
                 "isNightEvent": false,
