@@ -1777,7 +1777,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "10fb1957a",
@@ -1789,7 +1789,7 @@
                 "end": "2026-02-22T06:00:00+00:00",
                 "endLocal": "2026-02-22T17:00:00+11:00",
                 "hasTime": true,
-                "weatherCondition": 501,
+                "weatherCondition": 500,
                 "weatherIcon": "10d",
                 "weatherRainProbability": 1,
                 "isNightEvent": false,
