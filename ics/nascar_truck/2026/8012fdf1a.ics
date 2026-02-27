@@ -6,8 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:NextGP | NascarTruck | NASCAR Craftsman Truck Series at St. Petersburg
 BEGIN:VEVENT
 UID:nascar_truck-8012fdf1a-078bb9519@nextgp.app
-DTSTAMP:20260218T234039Z
+DTSTAMP:20260227T234041Z
 DTSTART:20260227T210000Z
+DTEND:20260227T215500Z
 SUMMARY:NascarTruck | Practice | NASCAR Craftsman Truck Series at St. Petersburg 
 LOCATION:Grand Prix of St. Petersburg\, St. Petersburg\, US
 GEO:27.767080;-82.6403
@@ -16,19 +17,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:nascar_truck-8012fdf1a-bd9085886@nextgp.app
-DTSTAMP:20260218T234039Z
-DTSTART:20260227T220500Z
-SUMMARY:NascarTruck | Qualifying | NASCAR Craftsman Truck Series at St. Petersburg 
-LOCATION:Grand Prix of St. Petersburg\, St. Petersburg\, US
-GEO:27.767080;-82.6403
-CATEGORIES:NascarTruck,Motorsport,qualifying
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:nascar_truck-8012fdf1a-3f0e22969@nextgp.app
-DTSTAMP:20260218T234039Z
+DTSTAMP:20260227T234041Z
 DTSTART:20260228T170000Z
 SUMMARY:NascarTruck | Race | NASCAR Craftsman Truck Series at St. Petersburg 
 LOCATION:Grand Prix of St. Petersburg\, St. Petersburg\, US
