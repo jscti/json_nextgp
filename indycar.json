@@ -1582,7 +1582,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             }
         ]
     },
@@ -1628,9 +1628,9 @@
                 "end": "2026-03-06T21:00:00+00:00",
                 "endLocal": "2026-03-06T21:00:00Z",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0,
                 "isNightEvent": true,
                 "channels": [],
                 "hasSummary": false
