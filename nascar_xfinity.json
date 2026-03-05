@@ -3988,7 +3988,7 @@
         "index": "31 / 33",
         "season": 2026,
         "title": "NASCAR O'Reilly Auto Parts Series at Talladega",
-        "start": "2026-10-24T19:30:00+00:00",
+        "start": "2026-10-24T15:00:00+00:00",
         "end": "2026-10-24T23:30:00+00:00",
         "timezone": "America/Chicago",
         "latitude": 33.4332833,
@@ -3998,6 +3998,22 @@
         "cityName": "Talladega",
         "stateName": "Alabama",
         "steps": [
+            {
+                "id": "75acfa674",
+                "title": "Qualifying",
+                "type": "qualifying",
+                "start": "2026-10-24T15:00:00+00:00",
+                "channels": [],
+                "hasSummary": false,
+                "hasTime": true,
+                "startLocal": "2026-10-24T10:00:00-05:00",
+                "endLocal": null,
+                "index": null,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false
+            },
             {
                 "id": "e366b4ae2",
                 "title": "Race 1",
