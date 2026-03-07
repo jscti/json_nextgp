@@ -1656,24 +1656,7 @@
                 "weatherRainProbability": 0,
                 "isNightEvent": true,
                 "channels": [],
-                "hasSummary": false
-            },
-            {
-                "id": "06395fde5",
-                "title": "Practice 3",
-                "type": "practice",
-                "index": 3,
-                "start": "2026-03-06T22:00:00+00:00",
-                "startLocal": "2026-03-06T22:00:00Z",
-                "end": "2026-03-06T23:00:00+00:00",
-                "endLocal": "2026-03-06T23:00:00Z",
-                "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "weatherRainProbability": 0,
-                "isNightEvent": true,
-                "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "1c1544ea7",
@@ -1685,8 +1668,8 @@
                 "end": "2026-03-07T22:30:00+00:00",
                 "endLocal": "2026-03-07T22:30:00Z",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": true,
                 "channels": [
