@@ -5,12 +5,12 @@
         "type": "driver",
         "entries": [
             {
+                "parentName": "Team Penske",
                 "name": "Josef Newgarden",
                 "countryCode": "US",
                 "position": 1,
                 "races": 1,
                 "points": 78,
-                "diff": 0,
                 "poles": 0,
                 "wins": 0,
                 "podiums": 0,
@@ -18,6 +18,7 @@
                 "hatTricks": 0
             },
             {
+                "parentName": "Andretti Global",
                 "name": "Kyle Kirkwood",
                 "countryCode": "US",
                 "position": 2,
@@ -27,24 +28,26 @@
                 "poles": 0,
                 "wins": 0,
                 "podiums": 0,
-                "fastestLaps": 0,
+                "fastestLaps": 1,
                 "hatTricks": 0
             },
             {
+                "parentName": "Team Penske",
                 "name": "Scott McLaughlin",
                 "countryCode": "NZ",
                 "position": 3,
                 "races": 1,
                 "points": 66,
                 "diff": -12,
-                "poles": 0,
+                "poles": 1,
                 "wins": 0,
                 "podiums": 1,
                 "fastestLaps": 0,
                 "hatTricks": 0
             },
             {
-                "name": "Pato O’Ward",
+                "parentName": "Arrow McLaren",
+                "name": "Pato O'Ward",
                 "countryCode": "MX",
                 "position": 4,
                 "races": 1,
@@ -57,6 +60,7 @@
                 "hatTricks": 0
             },
             {
+                "parentName": "Chip Ganassi Racing",
                 "name": "Alex Palou",
                 "countryCode": "ES",
                 "position": 5,
@@ -70,6 +74,7 @@
                 "hatTricks": 0
             },
             {
+                "parentName": "Team Penske",
                 "name": "David Malukas",
                 "countryCode": "US",
                 "position": 6,
@@ -83,6 +88,7 @@
                 "hatTricks": 0
             },
             {
+                "parentName": "Arrow McLaren",
                 "name": "Christian Lundgaard",
                 "countryCode": "DK",
                 "position": 7,
@@ -96,6 +102,7 @@
                 "hatTricks": 0
             },
             {
+                "parentName": "Meyer Shank Racing with Curb-Agajanian",
                 "name": "Marcus Armstrong",
                 "countryCode": "NZ",
                 "position": 8,
@@ -109,6 +116,7 @@
                 "hatTricks": 0
             },
             {
+                "parentName": "Andretti Global",
                 "name": "Marcus Ericsson",
                 "countryCode": "SE",
                 "position": 9,
@@ -122,6 +130,7 @@
                 "hatTricks": 0
             },
             {
+                "parentName": "Ed Carpenter Racing",
                 "name": "Alexander Rossi",
                 "countryCode": "US",
                 "position": 10,
@@ -135,6 +144,7 @@
                 "hatTricks": 0
             },
             {
+                "parentName": "Dale Coyne Racing",
                 "name": "Dennis Hauger",
                 "countryCode": "NO",
                 "position": 11,
@@ -148,9 +158,10 @@
                 "hatTricks": 0
             },
             {
+                "parentName": "Meyer Shank Racing with Curb-Agajanian",
                 "name": "Felix Rosenqvist",
                 "countryCode": "SE",
-                "position": 11,
+                "position": 12,
                 "races": 1,
                 "points": 36,
                 "diff": -42,
@@ -161,6 +172,7 @@
                 "hatTricks": 0
             },
             {
+                "parentName": "Chip Ganassi Racing",
                 "name": "Scott Dixon",
                 "countryCode": "NZ",
                 "position": 13,
@@ -174,9 +186,10 @@
                 "hatTricks": 0
             },
             {
+                "parentName": "Chip Ganassi Racing",
                 "name": "Kyffin Simpson",
-                "countryCode": "KY",
-                "position": 13,
+                "countryCode": "BB",
+                "position": 14,
                 "races": 1,
                 "points": 35,
                 "diff": -43,
@@ -187,6 +200,7 @@
                 "hatTricks": 0
             },
             {
+                "parentName": "Rahal Letterman Lanigan Racing",
                 "name": "Graham Rahal",
                 "countryCode": "US",
                 "position": 15,
@@ -200,7 +214,8 @@
                 "hatTricks": 0
             },
             {
-                "name": "Rinus Veekay",
+                "parentName": "Juncos Hollinger Racing",
+                "name": "Rinus Veekay Van Kalmthout",
                 "countryCode": "NL",
                 "position": 16,
                 "races": 1,
@@ -213,6 +228,7 @@
                 "hatTricks": 0
             },
             {
+                "parentName": "Dale Coyne Racing",
                 "name": "Romain Grosjean",
                 "countryCode": "FR",
                 "position": 17,
@@ -226,6 +242,7 @@
                 "hatTricks": 0
             },
             {
+                "parentName": "Ed Carpenter Racing",
                 "name": "Christian Rasmussen",
                 "countryCode": "DK",
                 "position": 18,
@@ -239,6 +256,7 @@
                 "hatTricks": 0
             },
             {
+                "parentName": "A.J. Foyt Enterprises",
                 "name": "Santino Ferrucci",
                 "countryCode": "US",
                 "position": 19,
@@ -252,19 +270,7 @@
                 "hatTricks": 0
             },
             {
-                "name": "Caio Collet",
-                "countryCode": "BR",
-                "position": 20,
-                "races": 1,
-                "points": 24,
-                "diff": -54,
-                "poles": 0,
-                "wins": 0,
-                "podiums": 0,
-                "fastestLaps": 0,
-                "hatTricks": 0
-            },
-            {
+                "parentName": "Rahal Letterman Lanigan Racing",
                 "name": "Louis Foster",
                 "countryCode": "GB",
                 "position": 20,
@@ -278,6 +284,21 @@
                 "hatTricks": 0
             },
             {
+                "parentName": "A.J. Foyt Enterprises",
+                "name": "Caio Collet",
+                "countryCode": "BR",
+                "position": 21,
+                "races": 1,
+                "points": 24,
+                "diff": -54,
+                "poles": 0,
+                "wins": 0,
+                "podiums": 0,
+                "fastestLaps": 0,
+                "hatTricks": 0
+            },
+            {
+                "parentName": "Andretti Global",
                 "name": "Will Power",
                 "countryCode": "AU",
                 "position": 22,
@@ -291,6 +312,7 @@
                 "hatTricks": 0
             },
             {
+                "parentName": "Arrow McLaren",
                 "name": "Nolan Siegel",
                 "countryCode": "US",
                 "position": 23,
@@ -304,6 +326,7 @@
                 "hatTricks": 0
             },
             {
+                "parentName": "Juncos Hollinger Racing",
                 "name": "Sting Ray Robb",
                 "countryCode": "US",
                 "position": 24,
@@ -317,6 +340,7 @@
                 "hatTricks": 0
             },
             {
+                "parentName": "Rahal Letterman Lanigan Racing",
                 "name": "Mick Schumacher",
                 "countryCode": "DE",
                 "position": 25,
@@ -337,32 +361,34 @@
         "type": "driver",
         "entries": [
             {
+                "parentName": "Chip Ganassi Racing",
                 "name": "Alex Palou",
                 "countryCode": "ES",
                 "position": 1,
                 "races": 17,
                 "points": 711,
-                "diff": 0,
-                "poles": 0,
+                "poles": 6,
                 "wins": 8,
                 "podiums": 13,
-                "fastestLaps": 0,
-                "hatTricks": 0
+                "fastestLaps": 5,
+                "hatTricks": 3
             },
             {
-                "name": "Pato O’Ward",
+                "parentName": "Arrow McLaren",
+                "name": "Pato O'Ward",
                 "countryCode": "MX",
                 "position": 2,
                 "races": 17,
                 "points": 515,
                 "diff": -196,
-                "poles": 0,
+                "poles": 3,
                 "wins": 2,
                 "podiums": 6,
-                "fastestLaps": 0,
+                "fastestLaps": 2,
                 "hatTricks": 0
             },
             {
+                "parentName": "Chip Ganassi Racing",
                 "name": "Scott Dixon",
                 "countryCode": "NZ",
                 "position": 3,
@@ -376,19 +402,21 @@
                 "hatTricks": 0
             },
             {
+                "parentName": "Andretti Global",
                 "name": "Kyle Kirkwood",
                 "countryCode": "US",
                 "position": 4,
                 "races": 17,
                 "points": 433,
                 "diff": -278,
-                "poles": 0,
+                "poles": 1,
                 "wins": 3,
                 "podiums": 3,
                 "fastestLaps": 0,
                 "hatTricks": 0
             },
             {
+                "parentName": "Arrow McLaren",
                 "name": "Christian Lundgaard",
                 "countryCode": "DK",
                 "position": 5,
@@ -402,6 +430,7 @@
                 "hatTricks": 0
             },
             {
+                "parentName": "Meyer Shank Racing",
                 "name": "Felix Rosenqvist",
                 "countryCode": "SE",
                 "position": 6,
@@ -411,23 +440,25 @@
                 "poles": 0,
                 "wins": 0,
                 "podiums": 1,
-                "fastestLaps": 0,
+                "fastestLaps": 1,
                 "hatTricks": 0
             },
             {
+                "parentName": "Andretti Global",
                 "name": "Colton Herta",
                 "countryCode": "US",
                 "position": 7,
                 "races": 17,
                 "points": 372,
                 "diff": -339,
-                "poles": 0,
+                "poles": 2,
                 "wins": 0,
                 "podiums": 2,
-                "fastestLaps": 0,
+                "fastestLaps": 1,
                 "hatTricks": 0
             },
             {
+                "parentName": "Meyer Shank Racing",
                 "name": "Marcus Armstrong",
                 "countryCode": "NZ",
                 "position": 8,
@@ -441,32 +472,35 @@
                 "hatTricks": 0
             },
             {
+                "parentName": "Team Penske",
                 "name": "Will Power",
                 "countryCode": "AU",
                 "position": 9,
                 "races": 17,
                 "points": 357,
                 "diff": -354,
-                "poles": 0,
+                "poles": 1,
                 "wins": 1,
                 "podiums": 3,
-                "fastestLaps": 0,
+                "fastestLaps": 1,
                 "hatTricks": 0
             },
             {
+                "parentName": "Team Penske",
                 "name": "Scott McLaughlin",
                 "countryCode": "NZ",
                 "position": 10,
-                "races": 17,
+                "races": 16,
                 "points": 356,
                 "diff": -355,
-                "poles": 0,
+                "poles": 1,
                 "wins": 0,
                 "podiums": 3,
-                "fastestLaps": 0,
+                "fastestLaps": 1,
                 "hatTricks": 0
             },
             {
+                "parentName": "A.J. Foyt Enterprises",
                 "name": "David Malukas",
                 "countryCode": "US",
                 "position": 11,
@@ -476,23 +510,25 @@
                 "poles": 0,
                 "wins": 0,
                 "podiums": 1,
-                "fastestLaps": 0,
+                "fastestLaps": 2,
                 "hatTricks": 0
             },
             {
+                "parentName": "Team Penske",
                 "name": "Josef Newgarden",
                 "countryCode": "US",
                 "position": 12,
                 "races": 17,
                 "points": 316,
                 "diff": -395,
-                "poles": 0,
+                "poles": 1,
                 "wins": 1,
                 "podiums": 3,
-                "fastestLaps": 0,
+                "fastestLaps": 1,
                 "hatTricks": 0
             },
             {
+                "parentName": "Ed Carpenter Racing",
                 "name": "Christian Rasmussen",
                 "countryCode": "DK",
                 "position": 13,
@@ -506,7 +542,8 @@
                 "hatTricks": 0
             },
             {
-                "name": "Rinus Veekay",
+                "parentName": "Dale Coyne Racing",
+                "name": "Rinus Veekay Van Kalmthout",
                 "countryCode": "NL",
                 "position": 14,
                 "races": 17,
@@ -519,6 +556,7 @@
                 "hatTricks": 0
             },
             {
+                "parentName": "Ed Carpenter Racing",
                 "name": "Alexander Rossi",
                 "countryCode": "US",
                 "position": 15,
@@ -532,10 +570,11 @@
                 "hatTricks": 0
             },
             {
+                "parentName": "A.J. Foyt Enterprises",
                 "name": "Santino Ferrucci",
                 "countryCode": "US",
                 "position": 16,
-                "races": 17,
+                "races": 16,
                 "points": 293,
                 "diff": -418,
                 "poles": 0,
@@ -545,8 +584,9 @@
                 "hatTricks": 0
             },
             {
+                "parentName": "Chip Ganassi Racing",
                 "name": "Kyffin Simpson",
-                "countryCode": "KY",
+                "countryCode": "BB",
                 "position": 17,
                 "races": 17,
                 "points": 282,
@@ -554,10 +594,11 @@
                 "poles": 0,
                 "wins": 0,
                 "podiums": 1,
-                "fastestLaps": 0,
+                "fastestLaps": 2,
                 "hatTricks": 0
             },
             {
+                "parentName": "Juncos Hollinger Racing",
                 "name": "Conor Daly",
                 "countryCode": "US",
                 "position": 18,
@@ -571,6 +612,7 @@
                 "hatTricks": 0
             },
             {
+                "parentName": "Rahal Letterman Lanigan Racing",
                 "name": "Graham Rahal",
                 "countryCode": "US",
                 "position": 19,
@@ -584,6 +626,7 @@
                 "hatTricks": 0
             },
             {
+                "parentName": "Andretti Global",
                 "name": "Marcus Ericsson",
                 "countryCode": "SE",
                 "position": 20,
@@ -597,6 +640,7 @@
                 "hatTricks": 0
             },
             {
+                "parentName": "Prema Racing",
                 "name": "Callum Ilott",
                 "countryCode": "GB",
                 "position": 21,
@@ -610,10 +654,11 @@
                 "hatTricks": 0
             },
             {
+                "parentName": "Arrow McLaren",
                 "name": "Nolan Siegel",
                 "countryCode": "US",
                 "position": 22,
-                "races": 17,
+                "races": 16,
                 "points": 213,
                 "diff": -498,
                 "poles": 0,
@@ -623,32 +668,35 @@
                 "hatTricks": 0
             },
             {
+                "parentName": "Rahal Letterman Lanigan Racing",
                 "name": "Louis Foster",
                 "countryCode": "GB",
                 "position": 23,
                 "races": 17,
                 "points": 213,
                 "diff": -498,
-                "poles": 0,
+                "poles": 1,
                 "wins": 0,
                 "podiums": 0,
                 "fastestLaps": 0,
                 "hatTricks": 0
             },
             {
+                "parentName": "Prema Racing",
                 "name": "Robert Shwartzman",
                 "countryCode": "IL",
                 "position": 24,
                 "races": 17,
                 "points": 211,
                 "diff": -500,
-                "poles": 0,
+                "poles": 1,
                 "wins": 0,
                 "podiums": 0,
                 "fastestLaps": 0,
                 "hatTricks": 0
             },
             {
+                "parentName": "Juncos Hollinger Racing",
                 "name": "Sting Ray Robb",
                 "countryCode": "US",
                 "position": 25,
@@ -662,7 +710,8 @@
                 "hatTricks": 0
             },
             {
-                "name": "Devlin DeFrancesco",
+                "parentName": "Rahal Letterman Lanigan Racing",
+                "name": "Devlin Defrancesco",
                 "countryCode": "CA",
                 "position": 26,
                 "races": 17,
@@ -675,6 +724,7 @@
                 "hatTricks": 0
             },
             {
+                "parentName": "Dale Coyne Racing",
                 "name": "Jacob Abel",
                 "countryCode": "US",
                 "position": 27,
@@ -688,6 +738,7 @@
                 "hatTricks": 0
             },
             {
+                "parentName": "Rahal Letterman Lanigan Racing",
                 "name": "Takuma Sato",
                 "countryCode": "JP",
                 "position": 28,
@@ -701,7 +752,8 @@
                 "hatTricks": 0
             },
             {
-                "name": "Helio Castroneves",
+                "parentName": "Meyer Shank Racing",
+                "name": "Hélio Castroneves",
                 "countryCode": "BR",
                 "position": 29,
                 "races": 1,
@@ -710,10 +762,11 @@
                 "poles": 0,
                 "wins": 0,
                 "podiums": 0,
-                "fastestLaps": 0,
+                "fastestLaps": 1,
                 "hatTricks": 0
             },
             {
+                "parentName": "Ed Carpenter Racing",
                 "name": "Ed Carpenter",
                 "countryCode": "US",
                 "position": 30,
@@ -727,6 +780,7 @@
                 "hatTricks": 0
             },
             {
+                "parentName": "Dreyer & Reinbold Racing/Cusick Motorsports",
                 "name": "Jack Harvey",
                 "countryCode": "GB",
                 "position": 31,
@@ -740,6 +794,7 @@
                 "hatTricks": 0
             },
             {
+                "parentName": "Dreyer & Reinbold Racing/Cusick Motorsports",
                 "name": "Ryan Hunter-Reay",
                 "countryCode": "US",
                 "position": 32,
@@ -753,6 +808,7 @@
                 "hatTricks": 0
             },
             {
+                "parentName": "Arrow McLaren/Rick Hendrick",
                 "name": "Kyle Larson",
                 "countryCode": "US",
                 "position": 33,
@@ -766,6 +822,7 @@
                 "hatTricks": 0
             },
             {
+                "parentName": "Andretti Global",
                 "name": "Marco Andretti",
                 "countryCode": "US",
                 "position": 34,

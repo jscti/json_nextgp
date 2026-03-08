@@ -5,52 +5,53 @@
         "type": "driver",
         "entries": [
             {
-                "parentName": "Mercedes-AMG Petronas Formula One Team",
+                "parentName": "Mercedes AMG Motorsport",
                 "name": "George Russell",
                 "countryCode": "GB",
                 "position": 1,
-                "races": 0,
+                "races": 1,
                 "points": 25,
-                "poles": 0,
-                "wins": 0,
-                "podiums": 0,
+                "diff": 0,
+                "poles": 1,
+                "wins": 1,
+                "podiums": 1,
                 "fastestLaps": 0,
                 "hatTricks": 0
             },
             {
-                "parentName": "Mercedes-AMG Petronas Formula One Team",
+                "parentName": "Mercedes AMG Motorsport",
                 "name": "Andrea Kimi Antonelli",
                 "countryCode": "IT",
                 "position": 2,
-                "races": 0,
+                "races": 1,
                 "points": 18,
                 "diff": -7,
                 "poles": 0,
                 "wins": 0,
-                "podiums": 0,
+                "podiums": 1,
                 "fastestLaps": 0,
                 "hatTricks": 0
             },
             {
-                "parentName": "Scuderia Ferrari HP",
+                "parentName": "Ferrari",
                 "name": "Charles Leclerc",
                 "countryCode": "MC",
                 "position": 3,
-                "races": 0,
+                "races": 1,
                 "points": 15,
                 "diff": -10,
                 "poles": 0,
                 "wins": 0,
-                "podiums": 0,
+                "podiums": 1,
                 "fastestLaps": 0,
                 "hatTricks": 0
             },
             {
-                "parentName": "Scuderia Ferrari HP",
+                "parentName": "Ferrari",
                 "name": "Lewis Hamilton",
                 "countryCode": "GB",
                 "position": 4,
-                "races": 0,
+                "races": 1,
                 "points": 12,
                 "diff": -13,
                 "poles": 0,
@@ -60,11 +61,11 @@
                 "hatTricks": 0
             },
             {
-                "parentName": "McLaren Mastercard F1 Team",
+                "parentName": "McLaren",
                 "name": "Lando Norris",
                 "countryCode": "GB",
                 "position": 5,
-                "races": 0,
+                "races": 1,
                 "points": 10,
                 "diff": -15,
                 "poles": 0,
@@ -74,25 +75,25 @@
                 "hatTricks": 0
             },
             {
-                "parentName": "Oracle Red Bull Racing",
+                "parentName": "Red Bull Racing",
                 "name": "Max Verstappen",
                 "countryCode": "NL",
                 "position": 6,
-                "races": 0,
+                "races": 1,
                 "points": 8,
                 "diff": -17,
                 "poles": 0,
                 "wins": 0,
                 "podiums": 0,
-                "fastestLaps": 0,
+                "fastestLaps": 1,
                 "hatTricks": 0
             },
             {
-                "parentName": "TGR Haas F1 Team",
+                "parentName": "Haas F1 Team",
                 "name": "Oliver Bearman",
                 "countryCode": "GB",
                 "position": 7,
-                "races": 0,
+                "races": 1,
                 "points": 6,
                 "diff": -19,
                 "poles": 0,
@@ -102,11 +103,11 @@
                 "hatTricks": 0
             },
             {
-                "parentName": "Visa Cash App Racing Bulls Formula One Team",
+                "parentName": "Racing Bulls",
                 "name": "Arvid Lindblad",
                 "countryCode": "GB",
                 "position": 8,
-                "races": 0,
+                "races": 1,
                 "points": 4,
                 "diff": -21,
                 "poles": 0,
@@ -116,11 +117,11 @@
                 "hatTricks": 0
             },
             {
-                "parentName": "Audi Revolut F1 Team",
+                "parentName": "Audi F1 Team",
                 "name": "Gabriel Bortoleto",
                 "countryCode": "BR",
                 "position": 9,
-                "races": 0,
+                "races": 1,
                 "points": 2,
                 "diff": -23,
                 "poles": 0,
@@ -130,11 +131,11 @@
                 "hatTricks": 0
             },
             {
-                "parentName": "BWT Alpine Formula One Team",
+                "parentName": "Alpine F1 Team",
                 "name": "Pierre Gasly",
                 "countryCode": "FR",
                 "position": 10,
-                "races": 0,
+                "races": 1,
                 "points": 1,
                 "diff": -24,
                 "poles": 0,
@@ -144,11 +145,11 @@
                 "hatTricks": 0
             },
             {
-                "parentName": "TGR Haas F1 Team",
+                "parentName": "Haas F1 Team",
                 "name": "Esteban Ocon",
                 "countryCode": "FR",
                 "position": 11,
-                "races": 0,
+                "races": 1,
                 "points": 0,
                 "diff": -25,
                 "poles": 0,
@@ -158,11 +159,11 @@
                 "hatTricks": 0
             },
             {
-                "parentName": "Atlassian Williams F1 Team",
+                "parentName": "Williams",
                 "name": "Alexander Albon",
                 "countryCode": "TH",
                 "position": 12,
-                "races": 0,
+                "races": 1,
                 "points": 0,
                 "diff": -25,
                 "poles": 0,
@@ -172,11 +173,11 @@
                 "hatTricks": 0
             },
             {
-                "parentName": "Visa Cash App Racing Bulls Formula One Team",
+                "parentName": "Racing Bulls",
                 "name": "Liam Lawson",
                 "countryCode": "NZ",
                 "position": 13,
-                "races": 0,
+                "races": 1,
                 "points": 0,
                 "diff": -25,
                 "poles": 0,
@@ -186,11 +187,11 @@
                 "hatTricks": 0
             },
             {
-                "parentName": "BWT Alpine Formula One Team",
+                "parentName": "Alpine F1 Team",
                 "name": "Franco Colapinto",
                 "countryCode": "AR",
                 "position": 14,
-                "races": 0,
+                "races": 1,
                 "points": 0,
                 "diff": -25,
                 "poles": 0,
@@ -200,10 +201,52 @@
                 "hatTricks": 0
             },
             {
-                "parentName": "Atlassian Williams F1 Team",
-                "name": "Carlos Sainz",
+                "parentName": "Williams",
+                "name": "Carlos Sainz Jr.",
                 "countryCode": "ES",
                 "position": 15,
+                "races": 1,
+                "points": 0,
+                "diff": -25,
+                "poles": 0,
+                "wins": 0,
+                "podiums": 0,
+                "fastestLaps": 0,
+                "hatTricks": 0
+            },
+            {
+                "parentName": "Cadillac",
+                "name": "Sergio Perez",
+                "countryCode": "MX",
+                "position": 16,
+                "races": 1,
+                "points": 0,
+                "diff": -25,
+                "poles": 0,
+                "wins": 0,
+                "podiums": 0,
+                "fastestLaps": 0,
+                "hatTricks": 0
+            },
+            {
+                "parentName": "Red Bull Racing",
+                "name": "Isack Hadjar",
+                "countryCode": "FR",
+                "position": 17,
+                "races": 1,
+                "points": 0,
+                "diff": -25,
+                "poles": 0,
+                "wins": 0,
+                "podiums": 0,
+                "fastestLaps": 0,
+                "hatTricks": 0
+            },
+            {
+                "parentName": "McLaren",
+                "name": "Oscar Piastri",
+                "countryCode": "AU",
+                "position": 18,
                 "races": 0,
                 "points": 0,
                 "diff": -25,
@@ -214,11 +257,39 @@
                 "hatTricks": 0
             },
             {
-                "parentName": "Cadillac Formula 1 Team",
-                "name": "Sergio Pérez",
-                "countryCode": "MX",
-                "position": 16,
+                "parentName": "Audi F1 Team",
+                "name": "Nico Hulkenberg",
+                "countryCode": "DE",
+                "position": 19,
                 "races": 0,
+                "points": 0,
+                "diff": -25,
+                "poles": 0,
+                "wins": 0,
+                "podiums": 0,
+                "fastestLaps": 0,
+                "hatTricks": 0
+            },
+            {
+                "parentName": "Aston Martin F1 Team",
+                "name": "Fernando Alonso",
+                "countryCode": "ES",
+                "position": 20,
+                "races": 1,
+                "points": 0,
+                "diff": -25,
+                "poles": 0,
+                "wins": 0,
+                "podiums": 0,
+                "fastestLaps": 0,
+                "hatTricks": 0
+            },
+            {
+                "parentName": "Cadillac",
+                "name": "Valtteri Bottas",
+                "countryCode": "FI",
+                "position": 21,
+                "races": 1,
                 "points": 0,
                 "diff": -25,
                 "poles": 0,
@@ -235,66 +306,136 @@
         "type": "team",
         "entries": [
             {
-                "name": "Mercedes",
+                "name": "Mercedes AMG Motorsport",
+                "countryCode": "DE",
                 "position": 1,
+                "races": 1,
                 "points": 43,
-                "wins": 1
+                "diff": 0,
+                "poles": 0,
+                "wins": 1,
+                "podiums": 2,
+                "fastestLaps": 0
             },
             {
                 "name": "Ferrari",
+                "countryCode": "IT",
                 "position": 2,
+                "races": 1,
                 "points": 27,
                 "diff": -16,
-                "wins": 0
+                "poles": 0,
+                "wins": 0,
+                "podiums": 1,
+                "fastestLaps": 0
             },
             {
-                "name": "McLaren-Mercedes",
+                "name": "McLaren",
+                "countryCode": "GB",
                 "position": 3,
+                "races": 1,
                 "points": 10,
                 "diff": -33,
-                "wins": 0
+                "poles": 0,
+                "wins": 0,
+                "podiums": 0,
+                "fastestLaps": 0
             },
             {
-                "name": "Red Bull",
+                "name": "Red Bull Racing",
+                "countryCode": "AT",
                 "position": 4,
+                "races": 1,
                 "points": 8,
                 "diff": -35,
-                "wins": 0
+                "poles": 0,
+                "wins": 0,
+                "podiums": 0,
+                "fastestLaps": 1
             },
             {
-                "name": "Haas-Ferrari",
+                "name": "Haas F1 Team",
+                "countryCode": "US",
                 "position": 5,
+                "races": 1,
                 "points": 6,
                 "diff": -37,
-                "wins": 0
+                "poles": 0,
+                "wins": 0,
+                "podiums": 0,
+                "fastestLaps": 0
             },
             {
-                "name": "Audi",
+                "name": "Racing Bulls",
+                "countryCode": "IT",
+                "position": 6,
+                "races": 1,
+                "points": 4,
+                "diff": -39,
+                "poles": 0,
+                "wins": 0,
+                "podiums": 0,
+                "fastestLaps": 0
+            },
+            {
+                "name": "Audi F1 Team",
+                "countryCode": "DE",
                 "position": 7,
+                "races": 1,
                 "points": 2,
                 "diff": -41,
-                "wins": 0
+                "poles": 0,
+                "wins": 0,
+                "podiums": 0,
+                "fastestLaps": 0
             },
             {
-                "name": "Alpine/Mercedes",
+                "name": "Alpine F1 Team",
+                "countryCode": "FR",
                 "position": 8,
+                "races": 1,
                 "points": 1,
                 "diff": -42,
-                "wins": 0
+                "poles": 0,
+                "wins": 0,
+                "podiums": 0,
+                "fastestLaps": 0
             },
             {
-                "name": "Williams-Mercedes",
+                "name": "Williams",
+                "countryCode": "GB",
                 "position": 9,
+                "races": 1,
                 "points": 0,
                 "diff": -43,
-                "wins": 0
+                "poles": 0,
+                "wins": 0,
+                "podiums": 0,
+                "fastestLaps": 0
             },
             {
-                "name": "Cadillac/Ferrari",
+                "name": "Cadillac",
+                "countryCode": "US",
                 "position": 10,
+                "races": 1,
                 "points": 0,
                 "diff": -43,
-                "wins": 0
+                "poles": 0,
+                "wins": 0,
+                "podiums": 0,
+                "fastestLaps": 0
+            },
+            {
+                "name": "Aston Martin F1 Team",
+                "countryCode": "GB",
+                "position": 11,
+                "races": 1,
+                "points": 0,
+                "diff": -43,
+                "poles": 0,
+                "wins": 0,
+                "podiums": 0,
+                "fastestLaps": 0
             }
         ]
     },
@@ -304,20 +445,21 @@
         "type": "driver",
         "entries": [
             {
-                "parentName": "McLaren Formula 1 Team",
+                "parentName": "McLaren",
                 "name": "Lando Norris",
                 "countryCode": "GB",
                 "position": 1,
                 "races": 24,
                 "points": 423,
+                "diff": 0,
                 "poles": 7,
                 "wins": 7,
                 "podiums": 18,
-                "fastestLaps": 5,
+                "fastestLaps": 6,
                 "hatTricks": 2
             },
             {
-                "parentName": "Oracle Red Bull Racing",
+                "parentName": "Red Bull Racing",
                 "name": "Max Verstappen",
                 "countryCode": "NL",
                 "position": 2,
@@ -331,7 +473,7 @@
                 "hatTricks": 1
             },
             {
-                "parentName": "McLaren Formula 1 Team",
+                "parentName": "McLaren",
                 "name": "Oscar Piastri",
                 "countryCode": "AU",
                 "position": 3,
@@ -345,7 +487,7 @@
                 "hatTricks": 3
             },
             {
-                "parentName": "Mercedes-AMG Petronas Formula One Team",
+                "parentName": "Mercedes AMG Motorsport",
                 "name": "George Russell",
                 "countryCode": "GB",
                 "position": 4,
@@ -359,7 +501,7 @@
                 "hatTricks": 1
             },
             {
-                "parentName": "Scuderia Ferrari HP",
+                "parentName": "Ferrari",
                 "name": "Charles Leclerc",
                 "countryCode": "MC",
                 "position": 5,
@@ -373,7 +515,7 @@
                 "hatTricks": 0
             },
             {
-                "parentName": "Scuderia Ferrari HP",
+                "parentName": "Ferrari",
                 "name": "Lewis Hamilton",
                 "countryCode": "GB",
                 "position": 6,
@@ -383,11 +525,11 @@
                 "poles": 0,
                 "wins": 0,
                 "podiums": 0,
-                "fastestLaps": 2,
+                "fastestLaps": 1,
                 "hatTricks": 0
             },
             {
-                "parentName": "Mercedes-AMG Petronas Formula One Team",
+                "parentName": "Mercedes AMG Motorsport",
                 "name": "Andrea Kimi Antonelli",
                 "countryCode": "IT",
                 "position": 7,
@@ -401,7 +543,7 @@
                 "hatTricks": 0
             },
             {
-                "parentName": "Atlassian Williams Racing",
+                "parentName": "Williams",
                 "name": "Alexander Albon",
                 "countryCode": "TH",
                 "position": 8,
@@ -415,8 +557,8 @@
                 "hatTricks": 0
             },
             {
-                "parentName": "Atlassian Williams Racing",
-                "name": "Carlos Sainz",
+                "parentName": "Williams",
+                "name": "Carlos Sainz Jr.",
                 "countryCode": "ES",
                 "position": 9,
                 "races": 23,
@@ -429,7 +571,7 @@
                 "hatTricks": 0
             },
             {
-                "parentName": "Aston Martin Aramco Formula One Team",
+                "parentName": "Aston Martin F1 Team",
                 "name": "Fernando Alonso",
                 "countryCode": "ES",
                 "position": 10,
@@ -443,8 +585,8 @@
                 "hatTricks": 0
             },
             {
-                "parentName": "Kick Sauber F1 Team",
-                "name": "Nico Hülkenberg",
+                "parentName": "Sauber",
+                "name": "Nico Hulkenberg",
                 "countryCode": "DE",
                 "position": 11,
                 "races": 23,
@@ -457,7 +599,7 @@
                 "hatTricks": 0
             },
             {
-                "parentName": "Visa Cash App Racing Bulls Formula One Team",
+                "parentName": "Racing Bulls",
                 "name": "Isack Hadjar",
                 "countryCode": "FR",
                 "position": 12,
@@ -471,7 +613,7 @@
                 "hatTricks": 0
             },
             {
-                "parentName": "MoneyGram Haas F1 Team",
+                "parentName": "Haas F1 Team",
                 "name": "Oliver Bearman",
                 "countryCode": "GB",
                 "position": 13,
@@ -485,11 +627,11 @@
                 "hatTricks": 0
             },
             {
-                "parentName": "Oracle Red Bull Racing",
+                "parentName": "Racing Bulls",
                 "name": "Liam Lawson",
                 "countryCode": "NZ",
                 "position": 14,
-                "races": 24,
+                "races": 23,
                 "points": 38,
                 "diff": -385,
                 "poles": 0,
@@ -499,7 +641,7 @@
                 "hatTricks": 0
             },
             {
-                "parentName": "MoneyGram Haas F1 Team",
+                "parentName": "Haas F1 Team",
                 "name": "Esteban Ocon",
                 "countryCode": "FR",
                 "position": 15,
@@ -513,7 +655,7 @@
                 "hatTricks": 0
             },
             {
-                "parentName": "Aston Martin Aramco Formula One Team",
+                "parentName": "Aston Martin F1 Team",
                 "name": "Lance Stroll",
                 "countryCode": "CA",
                 "position": 16,
@@ -527,11 +669,11 @@
                 "hatTricks": 0
             },
             {
-                "parentName": "Visa Cash App Racing Bulls Formula One Team",
+                "parentName": "Red Bull Racing",
                 "name": "Yuki Tsunoda",
                 "countryCode": "JP",
                 "position": 17,
-                "races": 24,
+                "races": 22,
                 "points": 33,
                 "diff": -390,
                 "poles": 0,
@@ -541,7 +683,7 @@
                 "hatTricks": 0
             },
             {
-                "parentName": "BWT Alpine F1 Team",
+                "parentName": "Alpine F1 Team",
                 "name": "Pierre Gasly",
                 "countryCode": "FR",
                 "position": 18,
@@ -555,7 +697,7 @@
                 "hatTricks": 0
             },
             {
-                "parentName": "Kick Sauber F1 Team",
+                "parentName": "Sauber",
                 "name": "Gabriel Bortoleto",
                 "countryCode": "BR",
                 "position": 19,
@@ -569,11 +711,11 @@
                 "hatTricks": 0
             },
             {
-                "parentName": "BWT Alpine F1 Team",
+                "parentName": "Alpine F1 Team",
                 "name": "Franco Colapinto",
                 "countryCode": "AR",
                 "position": 20,
-                "races": 17,
+                "races": 18,
                 "points": 0,
                 "diff": -423,
                 "poles": 0,
@@ -583,7 +725,7 @@
                 "hatTricks": 0
             },
             {
-                "parentName": "BWT Alpine F1 Team",
+                "parentName": "Alpine F1 Team",
                 "name": "Jack Doohan",
                 "countryCode": "AU",
                 "position": 21,
@@ -604,83 +746,124 @@
         "type": "team",
         "entries": [
             {
-                "name": "McLaren Formula 1 Team",
+                "name": "McLaren",
                 "countryCode": "GB",
                 "position": 1,
+                "races": 24,
                 "points": 833,
-                "wins": 14
+                "diff": 0,
+                "poles": 13,
+                "wins": 14,
+                "podiums": 34,
+                "fastestLaps": 12
             },
             {
-                "name": "Mercedes-AMG Petronas Formula One Team",
+                "name": "Mercedes AMG Motorsport",
                 "countryCode": "DE",
                 "position": 2,
+                "races": 24,
                 "points": 469,
                 "diff": -364,
-                "wins": 2
+                "poles": 2,
+                "wins": 2,
+                "podiums": 12,
+                "fastestLaps": 6
             },
             {
-                "name": "Oracle Red Bull Racing",
+                "name": "Red Bull Racing",
                 "countryCode": "AT",
                 "position": 3,
+                "races": 24,
                 "points": 451,
                 "diff": -382,
-                "wins": 8
+                "poles": 8,
+                "wins": 8,
+                "podiums": 15,
+                "fastestLaps": 3
             },
             {
-                "name": "Scuderia Ferrari HP",
+                "name": "Ferrari",
                 "countryCode": "IT",
                 "position": 4,
+                "races": 24,
                 "points": 398,
                 "diff": -435,
-                "wins": 0
+                "poles": 1,
+                "wins": 0,
+                "podiums": 7,
+                "fastestLaps": 2
             },
             {
-                "name": "Atlassian Williams Racing",
+                "name": "Williams",
                 "countryCode": "GB",
                 "position": 5,
+                "races": 24,
                 "points": 137,
                 "diff": -696,
-                "wins": 0
+                "poles": 0,
+                "wins": 0,
+                "podiums": 2,
+                "fastestLaps": 1
             },
             {
-                "name": "Racing Bulls/Honda RBPT",
+                "name": "Racing Bulls",
                 "countryCode": "IT",
                 "position": 6,
+                "races": 24,
                 "points": 92,
                 "diff": -741,
-                "wins": 0
+                "poles": 0,
+                "wins": 0,
+                "podiums": 1,
+                "fastestLaps": 0
             },
             {
-                "name": "Aston Martin Aramco Formula One Team",
+                "name": "Aston Martin F1 Team",
                 "countryCode": "GB",
                 "position": 7,
+                "races": 24,
                 "points": 89,
                 "diff": -744,
-                "wins": 0
+                "poles": 0,
+                "wins": 0,
+                "podiums": 0,
+                "fastestLaps": 0
             },
             {
-                "name": "MoneyGram Haas F1 Team",
+                "name": "Haas F1 Team",
                 "countryCode": "US",
                 "position": 8,
+                "races": 24,
                 "points": 79,
                 "diff": -754,
-                "wins": 0
+                "poles": 0,
+                "wins": 0,
+                "podiums": 0,
+                "fastestLaps": 0
             },
             {
                 "name": "Sauber",
-                "countryCode": "CH",
+                "countryCode": "DE",
                 "position": 9,
+                "races": 24,
                 "points": 70,
                 "diff": -763,
-                "wins": 0
+                "poles": 0,
+                "wins": 0,
+                "podiums": 1,
+                "fastestLaps": 0
             },
             {
-                "name": "BWT Alpine F1 Team",
+                "name": "Alpine F1 Team",
                 "countryCode": "FR",
                 "position": 10,
+                "races": 24,
                 "points": 22,
                 "diff": -811,
-                "wins": 0
+                "poles": 0,
+                "wins": 0,
+                "podiums": 0,
+                "fastestLaps": 0
             }
         ]
     }
