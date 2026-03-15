@@ -1298,7 +1298,7 @@
         "season": "2026",
         "title": "Rally Kenya",
         "start": "2026-03-12T13:05:00+00:00",
-        "end": "2026-03-15T13:00:00+00:00",
+        "end": "2026-03-15T11:45:00+00:00",
         "timezone": "Africa/Nairobi",
         "latitude": -0.7224425,
         "longitude": 36.4387834,
@@ -1380,10 +1380,10 @@
                 "title": "Day 4",
                 "type": "race",
                 "index": 4,
-                "start": "2026-03-15T05:10:00+00:00",
-                "startLocal": "2026-03-15T08:10:00+03:00",
-                "end": "2026-03-15T13:00:00+00:00",
-                "endLocal": "2026-03-15T16:00:00+03:00",
+                "start": "2026-03-15T05:05:00+00:00",
+                "startLocal": "2026-03-15T08:05:00+03:00",
+                "end": "2026-03-15T11:45:00+00:00",
+                "endLocal": "2026-03-15T14:45:00+03:00",
                 "hasTime": true,
                 "weatherCondition": 804,
                 "weatherIcon": "04d",
@@ -1401,7 +1401,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             }
         ]
     },
