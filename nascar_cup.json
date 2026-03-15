@@ -3108,9 +3108,9 @@
                 "startLocal": "2026-03-08T12:30:00-07:00",
                 "endLocal": "2026-03-08T16:30:00-07:00",
                 "index": null,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false
             }
         ]
@@ -3176,8 +3176,8 @@
                 "startLocal": "2026-03-15T13:00:00-07:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false
             }
