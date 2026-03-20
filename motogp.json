@@ -2765,7 +2765,7 @@
         "index": "2 / 22",
         "season": "2026",
         "title": "Grand Prix of Brazil",
-        "start": "2026-03-20T14:05:00+00:00",
+        "start": "2026-03-20T15:05:00+00:00",
         "end": "2026-03-22T19:00:00+00:00",
         "timezone": "Brazil/East",
         "latitude": "-16.718056",
@@ -2779,10 +2779,10 @@
                 "title": "Practice 1",
                 "type": "practice",
                 "index": 1,
-                "start": "2026-03-20T14:05:00+00:00",
-                "startLocal": "2026-03-20T11:05:00-03:00",
-                "end": "2026-03-20T15:05:00+00:00",
-                "endLocal": "2026-03-20T12:05:00-03:00",
+                "start": "2026-03-20T15:05:00+00:00",
+                "startLocal": "2026-03-20T12:05:00-03:00",
+                "end": "2026-03-20T16:05:00+00:00",
+                "endLocal": "2026-03-20T13:05:00-03:00",
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
@@ -2795,7 +2795,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "2dfd98cb3",
