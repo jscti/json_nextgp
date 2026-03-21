@@ -2421,7 +2421,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "efe821e0c",
@@ -2433,9 +2433,9 @@
                 "end": "2026-03-21T17:20:00+00:00",
                 "endLocal": "2026-03-21T14:20:00-03:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.42,
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
