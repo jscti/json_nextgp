@@ -2939,7 +2939,7 @@
                 "end": "2026-03-27T16:30:00+00:00",
                 "endLocal": "2026-03-27T11:30:00-05:00",
                 "hasTime": true,
-                "weatherCondition": 804,
+                "weatherCondition": 803,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
@@ -2947,6 +2947,11 @@
                     {
                         "countryCode": "BE",
                         "channelName": "Tipik",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
                         "channelCode": ""
                     }
                 ],
@@ -2971,6 +2976,11 @@
                         "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": ""
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": ""
                     }
                 ],
                 "hasSummary": false
@@ -2985,14 +2995,19 @@
                 "end": "2026-03-28T15:40:00+00:00",
                 "endLocal": "2026-03-28T10:40:00-05:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
                         "countryCode": "BE",
                         "channelName": "Tipik",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
                         "channelCode": ""
                     }
                 ],
@@ -3008,14 +3023,19 @@
                 "end": "2026-03-28T16:30:00+00:00",
                 "endLocal": "2026-03-28T11:30:00-05:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
                         "countryCode": "BE",
                         "channelName": "Tipik",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
                         "channelCode": ""
                     }
                 ],
@@ -3041,6 +3061,11 @@
                         "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": ""
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": ""
                     }
                 ],
                 "hasSummary": false
@@ -3055,9 +3080,9 @@
                 "end": "2026-03-29T21:00:00+00:00",
                 "endLocal": "2026-03-29T16:00:00-05:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
