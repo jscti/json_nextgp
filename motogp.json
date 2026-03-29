@@ -2870,9 +2870,9 @@
                 "end": "2026-03-22T19:00:00+00:00",
                 "endLocal": "2026-03-22T16:00:00-03:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -3056,8 +3056,8 @@
                 "end": "2026-03-29T21:00:00+00:00",
                 "endLocal": "2026-03-29T16:00:00-05:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
