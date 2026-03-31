@@ -1823,9 +1823,9 @@
                 "startLocal": "2026-04-03T11:00:00-04:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false
             },
             {
@@ -1839,9 +1839,9 @@
                 "startLocal": "2026-04-03T12:05:00-04:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false
             },
             {
@@ -1855,9 +1855,9 @@
                 "startLocal": "2026-04-03T16:30:00-04:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.97,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false
             }
         ]
@@ -1869,7 +1869,7 @@
         "season": 2026,
         "title": "NASCAR Craftsman Truck Series at Bristol",
         "start": "2026-04-10T19:30:00+00:00",
-        "end": "2026-09-17T23:00:00+00:00",
+        "end": "2026-04-11T03:30:00+00:00",
         "timezone": "America/New_York",
         "latitude": 36.5945034,
         "longitude": -82.1885212,
@@ -1888,7 +1888,7 @@
                 "hasTime": true,
                 "startLocal": "2026-04-10T15:30:00-04:00",
                 "endLocal": null,
-                "index": 1,
+                "index": null,
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
@@ -1925,22 +1925,6 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": true
-            },
-            {
-                "id": "0516db7bf",
-                "title": "Practice 2",
-                "type": "practice",
-                "start": "2026-09-17T19:00:00+00:00",
-                "channels": [],
-                "hasSummary": false,
-                "hasTime": true,
-                "startLocal": "2026-09-17T15:00:00-04:00",
-                "endLocal": null,
-                "index": 2,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false
             }
         ]
     },
