@@ -6,8 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:NextGP | NascarTruck | NASCAR Craftsman Truck Series at Rockingham
 BEGIN:VEVENT
 UID:nascar_truck-d230f55fe-1cf1cfd63@nextgp.app
-DTSTAMP:20260206T114046Z
+DTSTAMP:20260403T164047Z
 DTSTART:20260403T150000Z
+DTEND:20260403T155500Z
 SUMMARY:NascarTruck | Practice | NASCAR Craftsman Truck Series at Rockingham 
 LOCATION:Rockingham Speedway\, Rockingham\, US
 GEO:34.9393201;-79.7739457
@@ -17,7 +18,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nascar_truck-d230f55fe-2e7c9d83f@nextgp.app
-DTSTAMP:20260206T114046Z
+DTSTAMP:20260403T164047Z
 DTSTART:20260403T160500Z
 SUMMARY:NascarTruck | Qualifying | NASCAR Craftsman Truck Series at Rockingham 
 LOCATION:Rockingham Speedway\, Rockingham\, US
@@ -28,7 +29,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nascar_truck-d230f55fe-2b006c626@nextgp.app
-DTSTAMP:20260206T114046Z
+DTSTAMP:20260403T164047Z
 DTSTART:20260403T203000Z
 SUMMARY:NascarTruck | Race | NASCAR Craftsman Truck Series at Rockingham 
 LOCATION:Rockingham Speedway\, Rockingham\, US
