@@ -2547,9 +2547,9 @@
                 "startLocal": "2026-03-27T16:30:00-04:00",
                 "endLocal": "2026-03-27T17:15:00-04:00",
                 "index": null,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false
             },
             {
@@ -2598,9 +2598,9 @@
                 "startLocal": "2026-03-27T16:30:00-04:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": true
             },
             {
@@ -2614,9 +2614,9 @@
                 "startLocal": "2026-03-27T17:35:00-04:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": true
             },
             {
@@ -2675,11 +2675,12 @@
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2026-04-03T18:35:00+00:00",
+                "end": "2026-04-03T19:45:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2026-04-03T14:35:00-04:00",
-                "endLocal": null,
+                "endLocal": "2026-04-03T15:45:00-04:00",
                 "index": null,
                 "weatherCondition": 802,
                 "weatherIcon": "03d",
