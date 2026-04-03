@@ -696,7 +696,8 @@
             },
             {
                 "id": "d043bb494",
-                "title": "Race 1",
+                "title": "Sprint",
+                "subtitle": "Sprint",
                 "type": "race",
                 "index": 1,
                 "start": "2026-03-14T05:45:00+00:00",
@@ -713,7 +714,7 @@
             },
             {
                 "id": "3934b500e",
-                "title": "Race 2",
+                "title": "Feature Race",
                 "type": "race",
                 "index": 2,
                 "start": "2026-03-15T02:40:00+00:00",
@@ -780,8 +781,8 @@
                 "hasSummary": false
             },
             {
-                "id": "127bbdcfa",
-                "title": "Race 1",
+                "id": "a9f499bd6",
+                "title": "Opening Race",
                 "type": "race",
                 "index": 1,
                 "start": "2026-05-23T05:00:00+00:00",
@@ -797,10 +798,28 @@
                 "hasSummary": false
             },
             {
-                "id": "c1276be29",
-                "title": "Race 2",
+                "id": "127bbdcfa",
+                "title": "Sprint",
+                "subtitle": "Sprint",
                 "type": "race",
                 "index": 2,
+                "start": "2026-05-23T12:00:00+00:00",
+                "startLocal": "2026-05-23T08:00:00-04:00",
+                "end": null,
+                "endLocal": null,
+                "hasTime": false,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": false
+            },
+            {
+                "id": "c1276be29",
+                "title": "Feature Race",
+                "type": "race",
+                "index": 3,
                 "start": "2026-05-24T05:00:00+00:00",
                 "startLocal": "2026-05-24T01:00:00-04:00",
                 "end": null,
@@ -866,7 +885,8 @@
             },
             {
                 "id": "f60a5a8ec",
-                "title": "Race 1",
+                "title": "Sprint",
+                "subtitle": "Sprint",
                 "type": "race",
                 "index": 1,
                 "start": "2026-07-04T00:00:00+00:00",
@@ -883,7 +903,7 @@
             },
             {
                 "id": "449113e37",
-                "title": "Race 2",
+                "title": "Feature Race",
                 "type": "race",
                 "index": 2,
                 "start": "2026-07-05T00:00:00+00:00",
@@ -951,7 +971,8 @@
             },
             {
                 "id": "355483287",
-                "title": "Race 1",
+                "title": "Sprint",
+                "subtitle": "Sprint",
                 "type": "race",
                 "index": 1,
                 "start": "2026-08-21T23:00:00+00:00",
@@ -968,7 +989,7 @@
             },
             {
                 "id": "af81a502a",
-                "title": "Race 2",
+                "title": "Feature Race",
                 "type": "race",
                 "index": 2,
                 "start": "2026-08-22T23:00:00+00:00",
@@ -1035,8 +1056,8 @@
                 "hasSummary": false
             },
             {
-                "id": "8bf121bc1",
-                "title": "Race 1",
+                "id": "03fa391de",
+                "title": "Opening Race",
                 "type": "race",
                 "index": 1,
                 "start": "2026-10-24T06:00:00+00:00",
@@ -1052,10 +1073,28 @@
                 "hasSummary": false
             },
             {
-                "id": "cba589815",
-                "title": "Race 2",
+                "id": "8bf121bc1",
+                "title": "Sprint",
+                "subtitle": "Sprint",
                 "type": "race",
                 "index": 2,
+                "start": "2026-10-24T13:00:00+00:00",
+                "startLocal": "2026-10-24T08:00:00-05:00",
+                "end": null,
+                "endLocal": null,
+                "hasTime": false,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [],
+                "hasSummary": false
+            },
+            {
+                "id": "cba589815",
+                "title": "Feature Race",
+                "type": "race",
+                "index": 3,
                 "start": "2026-10-25T06:00:00+00:00",
                 "startLocal": "2026-10-25T01:00:00-05:00",
                 "end": null,
@@ -1121,7 +1160,8 @@
             },
             {
                 "id": "71eaaa2c1",
-                "title": "Race 1",
+                "title": "Sprint",
+                "subtitle": "Sprint",
                 "type": "race",
                 "index": 1,
                 "start": "2026-11-20T00:00:00+00:00",
@@ -1138,7 +1178,7 @@
             },
             {
                 "id": "fd7724d24",
-                "title": "Race 2",
+                "title": "Feature Race",
                 "type": "race",
                 "index": 2,
                 "start": "2026-11-21T00:00:00+00:00",
