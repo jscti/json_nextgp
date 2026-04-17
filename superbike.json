@@ -1947,7 +1947,7 @@
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "054940020",
@@ -1959,7 +1959,7 @@
                 "end": "2026-04-17T13:45:00+00:00",
                 "endLocal": "2026-04-17T15:45:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 803,
+                "weatherCondition": 804,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
@@ -2027,7 +2027,13 @@
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Eurosport 360 7",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": false
             },
             {
