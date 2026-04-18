@@ -1987,7 +1987,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "7ef0fbb86",
@@ -2050,7 +2050,13 @@
                 "weatherIcon": "10d",
                 "weatherRainProbability": 0.2,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Eurosport 360 6",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": false
             },
             {
@@ -2067,7 +2073,13 @@
                 "weatherIcon": "10d",
                 "weatherRainProbability": 0.97,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Eurosport 360 6",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": false
             }
         ]
