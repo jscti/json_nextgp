@@ -2011,7 +2011,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "6e5d4148f",
@@ -2023,9 +2023,9 @@
                 "end": "2026-04-18T14:30:00+00:00",
                 "endLocal": "2026-04-18T16:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.83,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -2048,7 +2048,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.2,
+                "weatherRainProbability": 0.44,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -2071,7 +2071,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.97,
+                "weatherRainProbability": 0.99,
                 "isNightEvent": false,
                 "channels": [
                     {
