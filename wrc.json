@@ -1469,8 +1469,8 @@
                 "end": "2026-04-23T18:35:00+00:00",
                 "endLocal": "2026-04-23T19:35:00+01:00",
                 "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
@@ -1520,11 +1520,22 @@
                 "end": "2026-04-25T17:55:00+00:00",
                 "endLocal": "2026-04-25T18:55:00+01:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04n",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10n",
+                "weatherRainProbability": 0.2,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": false
             },
             {
@@ -1537,9 +1548,9 @@
                 "end": "2026-04-26T13:45:00+00:00",
                 "endLocal": "2026-04-26T14:45:00+01:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10n",
-                "weatherRainProbability": 0.2,
+                "weatherCondition": 803,
+                "weatherIcon": "04n",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
