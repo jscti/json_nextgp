@@ -2574,9 +2574,9 @@
                 "end": "2026-04-24T08:30:00+00:00",
                 "endLocal": "2026-04-24T10:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.68,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -2599,7 +2599,7 @@
                 "hasTime": true,
                 "weatherCondition": 804,
                 "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherRainProbability": 0.05,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -2622,7 +2622,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.64,
+                "weatherRainProbability": 0.3,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -2645,7 +2645,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.9,
+                "weatherRainProbability": 0.2,
                 "isNightEvent": false,
                 "channels": [
                     {
