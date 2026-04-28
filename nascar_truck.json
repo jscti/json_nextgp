@@ -1961,7 +1961,7 @@
                 "startLocal": "2026-05-01T13:30:00-05:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": 500,
+                "weatherCondition": 502,
                 "weatherIcon": "10d",
                 "weatherRainProbability": 1,
                 "isNightEvent": false
@@ -1977,9 +1977,9 @@
                 "startLocal": "2026-05-01T14:35:00-05:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 502,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 1,
                 "isNightEvent": false
             },
             {
@@ -1993,9 +1993,9 @@
                 "startLocal": "2026-05-01T19:00:00-05:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 502,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 1,
                 "isNightEvent": true
             }
         ]
