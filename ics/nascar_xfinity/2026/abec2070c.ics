@@ -6,8 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:NextGP | NascarXfinity | NASCAR O'Reilly Auto Parts Series at Texas
 BEGIN:VEVENT
 UID:nascar_xfinity-abec2070c-d721986ab@nextgp.app
-DTSTAMP:20260206T114042Z
+DTSTAMP:20260501T224044Z
 DTSTART:20260501T210000Z
+DTEND:20260501T215000Z
 SUMMARY:NascarXfinity | Practice | NASCAR O'Reilly Auto Parts Series at Texas 
 LOCATION:Texas Motor Speedway\, Fort Worth\, US
 GEO:32.753177;-97.3327459
@@ -17,7 +18,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nascar_xfinity-abec2070c-98a47ada5@nextgp.app
-DTSTAMP:20260206T114042Z
+DTSTAMP:20260501T224044Z
 DTSTART:20260501T220500Z
 SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Texas 
 LOCATION:Texas Motor Speedway\, Fort Worth\, US
@@ -28,7 +29,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nascar_xfinity-abec2070c-591987718@nextgp.app
-DTSTAMP:20260206T114042Z
+DTSTAMP:20260501T224044Z
 DTSTART:20260502T193000Z
 SUMMARY:NascarXfinity | Race | NASCAR O'Reilly Auto Parts Series at Texas 
 LOCATION:Texas Motor Speedway\, Fort Worth\, US
