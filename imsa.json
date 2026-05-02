@@ -1655,7 +1655,7 @@
         "cityName": "Monterey",
         "steps": [
             {
-                "id": "b636f67d5",
+                "id": "2d95666e2",
                 "title": "",
                 "subtitle": null,
                 "type": "practice",
@@ -1665,12 +1665,12 @@
                 "end": "2026-05-01T23:50:00+00:00",
                 "endLocal": "2026-05-01T16:50:00-07:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "934466ec2",
