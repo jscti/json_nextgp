@@ -2705,9 +2705,9 @@
                 "end": "2026-05-08T12:45:00+00:00",
                 "endLocal": "2026-05-08T14:45:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.2,
                 "isNightEvent": false,
                 "channels": [
                     {
