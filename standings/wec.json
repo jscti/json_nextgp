@@ -975,6 +975,20 @@
             },
             {
                 "parentName": "Heart of Racing Team",
+                "name": "Gray Newell",
+                "countryCode": "US",
+                "position": 9,
+                "races": 1,
+                "points": 2,
+                "diff": -23,
+                "poles": 0,
+                "wins": 0,
+                "podiums": 0,
+                "fastestLaps": 6,
+                "hatTricks": 0
+            },
+            {
+                "parentName": "Heart of Racing Team",
                 "name": "Jonathan Adam",
                 "countryCode": "GB",
                 "position": 9,
@@ -1005,6 +1019,20 @@
                 "parentName": "Proton Competition",
                 "name": "Ben Tuck",
                 "countryCode": "GB",
+                "position": 10,
+                "races": 1,
+                "points": 1,
+                "diff": -24,
+                "poles": 0,
+                "wins": 0,
+                "podiums": 0,
+                "fastestLaps": 6,
+                "hatTricks": 0
+            },
+            {
+                "parentName": "Proton Competition",
+                "name": "Eric Powell",
+                "countryCode": "US",
                 "position": 10,
                 "races": 1,
                 "points": 1,
@@ -1375,6 +1403,7 @@
         "entries": [
             {
                 "name": "Toyota",
+                "countryCode": "JP",
                 "position": 1,
                 "points": 40,
                 "wins": 1
@@ -1395,6 +1424,7 @@
             },
             {
                 "name": "Alpine",
+                "countryCode": "FR",
                 "position": 4,
                 "points": 13,
                 "diff": -27,
@@ -1409,6 +1439,7 @@
             },
             {
                 "name": "Aston Martin",
+                "countryCode": "GB",
                 "position": 6,
                 "points": 2,
                 "diff": -38,
@@ -1416,6 +1447,7 @@
             },
             {
                 "name": "Peugeot",
+                "countryCode": "FR",
                 "position": 7,
                 "points": 0,
                 "diff": -40,
