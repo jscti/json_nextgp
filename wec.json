@@ -1529,7 +1529,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.32,
+                "weatherRainProbability": 1,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
@@ -1563,8 +1563,8 @@
                 "end": "2026-05-08T09:10:00+00:00",
                 "endLocal": "2026-05-08T11:10:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
@@ -1581,9 +1581,9 @@
                 "end": "2026-05-08T12:45:00+00:00",
                 "endLocal": "2026-05-08T14:45:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.2,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -1605,9 +1605,9 @@
                 "end": "2026-05-08T13:07:00+00:00",
                 "endLocal": "2026-05-08T15:07:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.2,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -1629,9 +1629,9 @@
                 "end": "2026-05-08T13:35:00+00:00",
                 "endLocal": "2026-05-08T15:35:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.2,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -1653,9 +1653,9 @@
                 "end": "2026-05-08T13:57:00+00:00",
                 "endLocal": "2026-05-08T15:57:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.21,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -1677,8 +1677,8 @@
                 "end": "2026-05-09T18:00:00+00:00",
                 "endLocal": "2026-05-09T20:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
