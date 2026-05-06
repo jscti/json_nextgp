@@ -3591,7 +3591,7 @@
                 "startLocal": "2026-05-09T13:00:00-04:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": 500,
+                "weatherCondition": 501,
                 "weatherIcon": "10d",
                 "weatherRainProbability": 1,
                 "isNightEvent": false
@@ -3607,7 +3607,7 @@
                 "startLocal": "2026-05-09T14:10:00-04:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": 500,
+                "weatherCondition": 501,
                 "weatherIcon": "10d",
                 "weatherRainProbability": 1,
                 "isNightEvent": false
@@ -3623,9 +3623,9 @@
                 "startLocal": "2026-05-10T15:00:00-04:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.2,
                 "isNightEvent": false
             }
         ]
@@ -3637,7 +3637,7 @@
         "season": 2026,
         "title": "NASCAR Cup Series at Dover",
         "start": "2026-05-15T19:00:00+00:00",
-        "end": "2026-05-17T23:00:00+00:00",
+        "end": "2026-05-17T21:00:00+00:00",
         "timezone": "America/New_York",
         "latitude": 39.158168,
         "longitude": -75.5243682,
@@ -3682,11 +3682,11 @@
                 "id": "28ed89b46",
                 "title": "Race 1",
                 "type": "race",
-                "start": "2026-05-17T19:00:00+00:00",
+                "start": "2026-05-17T17:00:00+00:00",
                 "channels": [],
                 "hasSummary": false,
                 "hasTime": true,
-                "startLocal": "2026-05-17T15:00:00-04:00",
+                "startLocal": "2026-05-17T13:00:00-04:00",
                 "endLocal": null,
                 "index": null,
                 "weatherCondition": null,
