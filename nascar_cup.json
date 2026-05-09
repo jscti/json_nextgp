@@ -3523,9 +3523,9 @@
                 "startLocal": "2026-05-02T11:30:00-05:00",
                 "endLocal": "2026-05-02T12:35:00-05:00",
                 "index": null,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false
             },
             {
@@ -3540,9 +3540,9 @@
                 "startLocal": "2026-05-02T12:40:00-05:00",
                 "endLocal": "2026-05-02T13:55:00-05:00",
                 "index": null,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false
             },
             {
@@ -3585,11 +3585,12 @@
                 "title": "Practice 1",
                 "type": "practice",
                 "start": "2026-05-09T17:00:00+00:00",
+                "end": "2026-05-09T18:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2026-05-09T13:00:00-04:00",
-                "endLocal": null,
+                "endLocal": "2026-05-09T14:00:00-04:00",
                 "index": null,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
@@ -3623,8 +3624,8 @@
                 "startLocal": "2026-05-10T15:00:00-04:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false
             }
