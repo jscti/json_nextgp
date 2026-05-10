@@ -2007,7 +2007,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             }
         ]
     },
@@ -2059,7 +2059,7 @@
                 "end": "2026-05-12T22:00:00+00:00",
                 "endLocal": "2026-05-12T18:00:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 803,
+                "weatherCondition": 804,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
@@ -2076,8 +2076,8 @@
                 "end": "2026-05-13T22:00:00+00:00",
                 "endLocal": "2026-05-13T18:00:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
