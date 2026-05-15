@@ -2081,7 +2081,7 @@
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "7f04d7514",
@@ -2095,7 +2095,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.39,
+                "weatherRainProbability": 0.44,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
@@ -2112,7 +2112,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.2,
+                "weatherRainProbability": 1,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
@@ -2129,7 +2129,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherRainProbability": 0.47,
                 "isNightEvent": true,
                 "channels": [],
                 "hasSummary": false
@@ -2144,9 +2144,9 @@
                 "end": "2026-05-17T19:00:00+00:00",
                 "endLocal": "2026-05-17T15:00:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0.61,
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
@@ -2161,8 +2161,8 @@
                 "end": "2026-05-18T19:00:00+00:00",
                 "endLocal": "2026-05-18T15:00:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
@@ -2178,8 +2178,8 @@
                 "end": "2026-05-18T19:00:00+00:00",
                 "endLocal": "2026-05-18T15:00:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
