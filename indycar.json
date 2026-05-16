@@ -1979,9 +1979,9 @@
                 "end": "2026-05-09T15:15:00+00:00",
                 "endLocal": "2026-05-09T11:15:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": true
@@ -2115,7 +2115,7 @@
                 "weatherRainProbability": 0.92,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "5d12e4d77",
