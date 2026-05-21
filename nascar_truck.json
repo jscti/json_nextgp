@@ -2168,9 +2168,9 @@
                 "startLocal": "2026-05-22T15:30:00-04:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.86,
                 "isNightEvent": false
             },
             {
@@ -2186,7 +2186,7 @@
                 "index": null,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.35,
+                "weatherRainProbability": 1,
                 "isNightEvent": false
             },
             {
@@ -2200,9 +2200,9 @@
                 "startLocal": "2026-05-22T19:30:00-04:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0.8,
                 "isNightEvent": true
             }
         ]
