@@ -2896,8 +2896,8 @@
                 "end": "2026-05-22T17:30:00+00:00",
                 "endLocal": "2026-05-22T13:30:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
@@ -2920,7 +2920,7 @@
                 "end": "2026-05-22T21:14:00+00:00",
                 "endLocal": "2026-05-22T17:14:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 803,
+                "weatherCondition": 804,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
@@ -2958,6 +2958,11 @@
                         "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": ""
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": ""
                     }
                 ],
                 "hasSummary": false
@@ -2981,6 +2986,11 @@
                         "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": ""
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": ""
                     }
                 ],
                 "hasSummary": false
@@ -2995,9 +3005,9 @@
                 "end": "2026-05-24T22:00:00+00:00",
                 "endLocal": "2026-05-24T18:00:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 1,
                 "isNightEvent": false,
                 "channels": [
                     {
