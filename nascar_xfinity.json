@@ -3113,7 +3113,7 @@
                 "index": null,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.26,
+                "weatherRainProbability": 1,
                 "isNightEvent": false
             }
         ]
@@ -3676,7 +3676,7 @@
                 "weatherCondition": null,
                 "weatherIcon": null,
                 "weatherRainProbability": null,
-                "isNightEvent": true
+                "isNightEvent": false
             }
         ]
     },
