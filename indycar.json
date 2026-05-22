@@ -2154,7 +2154,7 @@
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "798fe8ff2",
@@ -2166,9 +2166,9 @@
                 "end": "2026-05-24T19:00:00+00:00",
                 "endLocal": "2026-05-24T15:00:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0.12,
                 "isNightEvent": false,
                 "channels": [
                     {
