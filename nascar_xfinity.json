@@ -3045,9 +3045,9 @@
                 "startLocal": "2026-05-16T16:00:00-04:00",
                 "endLocal": "2026-05-16T18:30:00-04:00",
                 "index": null,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false
             }
         ]
@@ -3058,7 +3058,7 @@
         "index": "15 / 33",
         "season": 2026,
         "title": "NASCAR O'Reilly Auto Parts Series at Charlotte",
-        "start": "2026-05-23T15:00:00+00:00",
+        "start": "2026-05-23T21:00:00+00:00",
         "end": "2026-05-24T01:00:00+00:00",
         "timezone": "America/New_York",
         "latitude": 35.4094178,
@@ -3068,38 +3068,6 @@
         "cityName": "Concord",
         "stateName": "North Carolina",
         "steps": [
-            {
-                "id": "0ac981308",
-                "title": "Practice 1",
-                "type": "practice",
-                "start": "2026-05-23T15:00:00+00:00",
-                "channels": [],
-                "hasSummary": false,
-                "hasTime": true,
-                "startLocal": "2026-05-23T11:00:00-04:00",
-                "endLocal": null,
-                "index": null,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.6,
-                "isNightEvent": false
-            },
-            {
-                "id": "e1f2686ba",
-                "title": "Qualifying",
-                "type": "qualifying",
-                "start": "2026-05-23T16:05:00+00:00",
-                "channels": [],
-                "hasSummary": false,
-                "hasTime": true,
-                "startLocal": "2026-05-23T12:05:00-04:00",
-                "endLocal": null,
-                "index": null,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.6,
-                "isNightEvent": false
-            },
             {
                 "id": "9b28c95ae",
                 "title": "Race 1",
