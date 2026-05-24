@@ -2098,9 +2098,9 @@
                 "end": "2026-05-17T15:30:00+00:00",
                 "endLocal": "2026-05-17T11:30:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": true
@@ -2166,9 +2166,9 @@
                 "end": "2026-05-24T19:00:00+00:00",
                 "endLocal": "2026-05-24T15:00:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 500,
+                "weatherCondition": 501,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.77,
+                "weatherRainProbability": 1,
                 "isNightEvent": false,
                 "channels": [
                     {
