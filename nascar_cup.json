@@ -3709,7 +3709,7 @@
         "season": 2026,
         "title": "NASCAR Cup Series at Charlotte",
         "start": "2026-05-23T18:30:00+00:00",
-        "end": "2026-05-25T02:00:00+00:00",
+        "end": "2026-05-25T03:30:00+00:00",
         "timezone": "America/New_York",
         "latitude": 35.4094178,
         "longitude": -80.5800049,
@@ -3740,16 +3740,17 @@
                 "title": "Race 1",
                 "type": "race",
                 "start": "2026-05-24T22:00:00+00:00",
+                "end": "2026-05-25T03:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2026-05-24T18:00:00-04:00",
-                "endLocal": null,
+                "endLocal": "2026-05-24T23:30:00-04:00",
                 "index": null,
                 "weatherCondition": 804,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
-                "isNightEvent": false
+                "isNightEvent": true
             }
         ]
     },
@@ -3780,9 +3781,9 @@
                 "startLocal": "2026-05-30T15:30:00-05:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false
             },
             {
@@ -3796,9 +3797,9 @@
                 "startLocal": "2026-05-30T16:40:00-05:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false
             },
             {
