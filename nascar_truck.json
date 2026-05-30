@@ -2183,7 +2183,7 @@
         "season": 2026,
         "title": "NASCAR Craftsman Truck Series at Nashville",
         "start": "2026-05-29T20:00:00+00:00",
-        "end": "2026-05-30T04:00:00+00:00",
+        "end": "2026-05-29T05:00:00+00:00",
         "timezone": "America/Chicago",
         "latitude": 36.2079779,
         "longitude": -86.2910945,
@@ -2214,16 +2214,17 @@
                 "title": "Race 1",
                 "type": "race",
                 "start": "2026-05-30T00:00:00+00:00",
+                "end": "2026-05-29T05:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2026-05-29T19:00:00-05:00",
-                "endLocal": null,
+                "endLocal": "2026-05-29T00:00:00-05:00",
                 "index": null,
                 "weatherCondition": 501,
                 "weatherIcon": "10d",
                 "weatherRainProbability": 1,
-                "isNightEvent": true
+                "isNightEvent": false
             }
         ]
     },
