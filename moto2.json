@@ -2960,7 +2960,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "7bc4cad6f",
@@ -2972,8 +2972,8 @@
                 "end": "2026-05-31T11:15:00+00:00",
                 "endLocal": "2026-05-31T13:15:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
