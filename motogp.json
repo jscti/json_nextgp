@@ -3366,7 +3366,7 @@
         "season": "2026",
         "title": "Gran Premio d’Italia",
         "start": "2026-05-29T08:45:00+00:00",
-        "end": "2026-06-01T13:00:00+00:00",
+        "end": "2026-05-31T13:00:00+00:00",
         "timezone": "Europe/Rome",
         "latitude": "43.997431",
         "longitude": "11.372031",
@@ -3495,10 +3495,10 @@
                 "title": "Race",
                 "type": "race",
                 "index": 2,
-                "start": "2026-06-01T12:00:00+00:00",
-                "startLocal": "2026-06-01T14:00:00+02:00",
-                "end": "2026-06-01T13:00:00+00:00",
-                "endLocal": "2026-06-01T15:00:00+02:00",
+                "start": "2026-05-31T12:00:00+00:00",
+                "startLocal": "2026-05-31T14:00:00+02:00",
+                "end": "2026-05-31T13:00:00+00:00",
+                "endLocal": "2026-05-31T15:00:00+02:00",
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
@@ -3507,7 +3507,7 @@
                 "channels": [
                     {
                         "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
+                        "channelName": "Canal+",
                         "channelCode": ""
                     }
                 ],
@@ -3557,9 +3557,9 @@
                 "end": "2026-06-05T14:00:00+00:00",
                 "endLocal": "2026-06-05T16:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
