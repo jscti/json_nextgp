@@ -2966,22 +2966,11 @@
                 "end": "2026-05-24T22:00:00+00:00",
                 "endLocal": "2026-05-24T18:00:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.39,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+",
-                        "channelCode": ""
-                    },
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": true
             }
         ]
@@ -3013,7 +3002,7 @@
                 "hasTime": true,
                 "weatherCondition": 802,
                 "weatherIcon": "03d",
-                "weatherRainProbability": 0.02,
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
