@@ -5,20 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:NextGP | NascarXfinity | Qualifying
 BEGIN:VEVENT
-UID:nascar_xfinity-abec2070c-98a47ada5@nextgp.app
-DTSTAMP:20260530T224047Z
-DTSTART:20260501T220500Z
-DTEND:20260501T224500Z
-SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Texas 
-LOCATION:Texas Motor Speedway\, Fort Worth\, US
-GEO:32.753177;-97.3327459
-CATEGORIES:NascarXfinity,Motorsport,qualifying
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:nascar_xfinity-333a434f4-4dda2cef6@nextgp.app
-DTSTAMP:20260530T224047Z
+DTSTAMP:20260602T044044Z
 DTSTART:20260516T143500Z
 DTEND:20260516T153000Z
 SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Dover 
@@ -30,7 +18,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nascar_xfinity-86bd6312f-489d99c4a@nextgp.app
-DTSTAMP:20260530T224047Z
+DTSTAMP:20260602T044044Z
 DTSTART:20260613T153500Z
 SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Pocono 
 LOCATION:Pocono Raceway\, Long Pond\, US
@@ -41,7 +29,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nascar_xfinity-4996a85bf-9f728e7eb@nextgp.app
-DTSTAMP:20260530T224047Z
+DTSTAMP:20260602T044044Z
 DTSTART:20260620T170000Z
 SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at San Diego 
 LOCATION:San Diego Street Course\, San Diego\, US
@@ -52,7 +40,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nascar_xfinity-6323b95b3-1d6ebe88d@nextgp.app
-DTSTAMP:20260530T224047Z
+DTSTAMP:20260602T044044Z
 DTSTART:20260626T210500Z
 SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Sonoma 
 LOCATION:Sonoma Raceway\, Sonoma\, US
@@ -63,7 +51,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nascar_xfinity-0e4de1138-d932b2777@nextgp.app
-DTSTAMP:20260530T224047Z
+DTSTAMP:20260602T044044Z
 DTSTART:20260704T173000Z
 SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Chicagoland 
 LOCATION:Chicagoland Speedway\, Joliet\, US
@@ -74,7 +62,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nascar_xfinity-be8c0f951-a159936c0@nextgp.app
-DTSTAMP:20260530T224047Z
+DTSTAMP:20260602T044044Z
 DTSTART:20260711T150000Z
 SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Atlanta 
 LOCATION:EchoPark Speedway\, Hampton\, US
@@ -85,7 +73,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nascar_xfinity-bc9b244c9-41da4b37a@nextgp.app
-DTSTAMP:20260530T224047Z
+DTSTAMP:20260602T044044Z
 DTSTART:20260725T160000Z
 SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Indianapolis 
 LOCATION:Indianapolis Motor Speedway\, Speedway\, US
@@ -96,7 +84,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nascar_xfinity-ac9e49115-6958a8db6@nextgp.app
-DTSTAMP:20260530T224047Z
+DTSTAMP:20260602T044044Z
 DTSTART:20260808T163500Z
 SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Iowa 
 LOCATION:Iowa Speedway\, Newton\, US
@@ -107,7 +95,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nascar_xfinity-8c5b114bf-16f11d9c7@nextgp.app
-DTSTAMP:20260530T224047Z
+DTSTAMP:20260602T044044Z
 DTSTART:20260828T190000Z
 SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Daytona 
 LOCATION:Daytona International Speedway\, Daytona Beach\, US
@@ -118,7 +106,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nascar_xfinity-536ad6ee2-c0ae3e43d@nextgp.app
-DTSTAMP:20260530T224047Z
+DTSTAMP:20260602T044044Z
 DTSTART:20260905T183500Z
 SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Darlington 
 LOCATION:Darlington Raceway\, Darlington\, US
@@ -129,7 +117,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nascar_xfinity-a2756cceb-39d7a5ee7@nextgp.app
-DTSTAMP:20260530T224047Z
+DTSTAMP:20260602T044044Z
 DTSTART:20260912T180500Z
 SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Gateway 
 LOCATION:World Wide Technology Raceway at Gateway\, Madison\, US
@@ -140,7 +128,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nascar_xfinity-bfe788a71-5a431c2b4@nextgp.app
-DTSTAMP:20260530T224047Z
+DTSTAMP:20260602T044044Z
 DTSTART:20260918T190500Z
 SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Bristol 
 LOCATION:Bristol Motor Speedway\, Bristol\, US
@@ -151,7 +139,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nascar_xfinity-0772b6820-79fd14456@nextgp.app
-DTSTAMP:20260530T224047Z
+DTSTAMP:20260602T044044Z
 DTSTART:20261003T190500Z
 SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Las Vegas 
 LOCATION:Las Vegas Motor Speedway\, Las Vegas\, US
@@ -162,7 +150,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nascar_xfinity-ffc9196c7-a08b91178@nextgp.app
-DTSTAMP:20260530T224047Z
+DTSTAMP:20260602T044044Z
 DTSTART:20261010T153500Z
 SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Charlotte 
 LOCATION:Charlotte Motor Speedway\, Concord\, US
@@ -173,7 +161,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nascar_xfinity-d080e016f-bf6bed12a@nextgp.app
-DTSTAMP:20260530T224047Z
+DTSTAMP:20260602T044044Z
 DTSTART:20261017T190500Z
 SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Phoenix 
 LOCATION:Phoenix Raceway\, Avondale\, US
@@ -184,7 +172,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nascar_xfinity-dbb41a628-75acfa674@nextgp.app
-DTSTAMP:20260530T224047Z
+DTSTAMP:20260602T044044Z
 DTSTART:20261024T143000Z
 SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Talladega 
 LOCATION:Talladega Superspeedway\, Talladega\, US
@@ -195,7 +183,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:nascar_xfinity-183aba650-c80a8f42b@nextgp.app
-DTSTAMP:20260530T224047Z
+DTSTAMP:20260602T044044Z
 DTSTART:20261107T180000Z
 SUMMARY:NascarXfinity | Qualifying | NASCAR O'Reilly Auto Parts Series at Homestead-Miami 
 LOCATION:Homestead-Miami Speedway\, Homestead\, US
