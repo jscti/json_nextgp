@@ -2255,13 +2255,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": true
             }
         ]
@@ -2347,7 +2341,7 @@
                 "weatherRainProbability": 0.2,
                 "isNightEvent": true,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             }
         ]
     },
