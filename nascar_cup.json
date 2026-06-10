@@ -3799,9 +3799,9 @@
                 "startLocal": "2026-05-31T18:00:00-05:00",
                 "endLocal": "2026-05-31T23:30:00-05:00",
                 "index": null,
-                "weatherCondition": 501,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": true
             }
         ]
@@ -3813,7 +3813,7 @@
         "season": 2026,
         "title": "NASCAR Cup Series at Michigan",
         "start": "2026-06-06T21:00:00+00:00",
-        "end": "2026-06-07T23:00:00+00:00",
+        "end": "2026-06-07T22:30:00+00:00",
         "timezone": "America/Detroit",
         "latitude": 42.105874,
         "longitude": -84.2482819,
@@ -3861,11 +3861,12 @@
                 "title": "Race 1",
                 "type": "race",
                 "start": "2026-06-07T19:00:00+00:00",
+                "end": "2026-06-07T22:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2026-06-07T15:00:00-04:00",
-                "endLocal": null,
+                "endLocal": "2026-06-07T18:30:00-04:00",
                 "index": null,
                 "weatherCondition": 801,
                 "weatherIcon": "02d",
@@ -3901,9 +3902,9 @@
                 "startLocal": "2026-06-13T13:00:00-04:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false
             },
             {
@@ -3917,9 +3918,9 @@
                 "startLocal": "2026-06-13T14:10:00-04:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false
             },
             {
@@ -3933,9 +3934,9 @@
                 "startLocal": "2026-06-14T15:00:00-04:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false
             }
         ]
@@ -3949,9 +3950,9 @@
         "start": "2026-06-19T21:00:00+00:00",
         "end": "2026-06-22T00:00:00+00:00",
         "timezone": "America/Los_Angeles",
-        "latitude": "32.6997",
-        "longitude": "-117.1610838",
-        "trackName": "San Diego Street Course",
+        "latitude": 32.7174202,
+        "longitude": -117.1627728,
+        "trackName": "Naval Base Coronado",
         "countryCode": "US",
         "cityName": "San Diego",
         "stateName": "CA",
