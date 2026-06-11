@@ -1765,7 +1765,7 @@
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "902a495d0",
@@ -1850,8 +1850,8 @@
                 "end": "2026-06-11T22:00:00+00:00",
                 "endLocal": "2026-06-12T00:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03n",
+                "weatherCondition": 803,
+                "weatherIcon": "04n",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
