@@ -1861,9 +1861,9 @@
                 "end": "2026-06-26T16:55:00+00:00",
                 "endLocal": "2026-06-26T12:55:00-04:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.2,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
