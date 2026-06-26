@@ -3795,7 +3795,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "8e06fa4e5",
@@ -3835,8 +3835,8 @@
                 "end": "2026-06-27T08:40:00+00:00",
                 "endLocal": "2026-06-27T10:40:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
@@ -3863,8 +3863,8 @@
                 "end": "2026-06-27T09:30:00+00:00",
                 "endLocal": "2026-06-27T11:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
@@ -3892,9 +3892,9 @@
                 "end": "2026-06-27T13:30:00+00:00",
                 "endLocal": "2026-06-27T15:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.2,
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -3920,8 +3920,8 @@
                 "end": "2026-06-28T13:00:00+00:00",
                 "endLocal": "2026-06-28T15:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
