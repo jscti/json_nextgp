@@ -1851,7 +1851,7 @@
         "cityName": "Watkins Glen",
         "steps": [
             {
-                "id": "1051a8049",
+                "id": "0afa92fc0",
                 "title": "",
                 "subtitle": null,
                 "type": "practice",
@@ -1861,12 +1861,12 @@
                 "end": "2026-06-26T16:55:00+00:00",
                 "endLocal": "2026-06-26T12:55:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0.09,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "d808767ea",
@@ -1915,8 +1915,8 @@
                 "end": "2026-06-28T22:10:00+00:00",
                 "endLocal": "2026-06-28T18:10:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
