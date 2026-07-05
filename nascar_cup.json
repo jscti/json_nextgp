@@ -4075,9 +4075,9 @@
                 "startLocal": "2026-06-28T12:30:00-07:00",
                 "endLocal": "2026-06-28T15:30:00-07:00",
                 "index": null,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false
             }
         ]
@@ -4145,7 +4145,7 @@
                 "index": null,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.56,
+                "weatherRainProbability": 0.22,
                 "isNightEvent": false
             }
         ]
