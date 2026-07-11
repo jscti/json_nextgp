@@ -1958,7 +1958,7 @@
                 "hasSummary": true
             },
             {
-                "id": "f2323b3fe",
+                "id": "ba95d78a7",
                 "title": "",
                 "subtitle": null,
                 "type": "practice",
@@ -1968,12 +1968,12 @@
                 "end": "2026-07-11T16:05:00+00:00",
                 "endLocal": "2026-07-11T12:05:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "5dadc8f71",
@@ -2004,8 +2004,8 @@
                 "end": "2026-07-12T20:45:00+00:00",
                 "endLocal": "2026-07-12T16:45:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
