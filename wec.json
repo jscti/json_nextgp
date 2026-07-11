@@ -1962,7 +1962,7 @@
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "e3d101370",
@@ -1980,7 +1980,7 @@
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "5c27123e1",
@@ -1998,7 +1998,7 @@
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "c385949d6",
@@ -2016,7 +2016,7 @@
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "c5c7709c3",
@@ -2031,7 +2031,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.76,
+                "weatherRainProbability": 0.61,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
@@ -2077,10 +2077,10 @@
                 "subtitle": null,
                 "type": "practice",
                 "index": 2,
-                "start": "2026-09-04T21:30:00+00:00",
-                "startLocal": "2026-09-04T14:30:00-07:00",
-                "end": "2026-09-04T23:00:00+00:00",
-                "endLocal": "2026-09-04T16:00:00-07:00",
+                "start": "2026-09-04T21:00:00+00:00",
+                "startLocal": "2026-09-04T14:00:00-07:00",
+                "end": "2026-09-04T22:30:00+00:00",
+                "endLocal": "2026-09-04T15:30:00-07:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
