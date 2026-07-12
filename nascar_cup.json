@@ -4160,9 +4160,9 @@
                 "startLocal": "2026-07-05T17:00:00-05:00",
                 "endLocal": "2026-07-05T20:30:00-05:00",
                 "index": null,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.22,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false
             }
         ]
@@ -4211,9 +4211,9 @@
                 "startLocal": "2026-07-12T19:00:00-04:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": 500,
+                "weatherCondition": 501,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.97,
+                "weatherRainProbability": 1,
                 "isNightEvent": true
             }
         ]
