@@ -4188,11 +4188,12 @@
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2026-07-11T20:30:00+00:00",
+                "end": "2026-07-11T21:15:00+00:00",
                 "channels": [],
                 "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2026-07-11T16:30:00-04:00",
-                "endLocal": null,
+                "endLocal": "2026-07-11T17:15:00-04:00",
                 "index": null,
                 "weatherCondition": 803,
                 "weatherIcon": "04d",
@@ -4212,7 +4213,7 @@
                 "index": null,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.52,
+                "weatherRainProbability": 1,
                 "isNightEvent": true
             }
         ]
