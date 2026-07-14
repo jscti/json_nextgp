@@ -4174,7 +4174,7 @@
         "season": 2026,
         "title": "NASCAR Cup Series at Atlanta",
         "start": "2026-07-11T20:30:00+00:00",
-        "end": "2026-07-13T03:00:00+00:00",
+        "end": "2026-07-12T17:45:00+00:00",
         "timezone": "America/New_York",
         "latitude": 33.3870578,
         "longitude": -84.2829784,
@@ -4205,16 +4205,17 @@
                 "title": "Race 1",
                 "type": "race",
                 "start": "2026-07-12T23:00:00+00:00",
+                "end": "2026-07-12T17:45:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2026-07-12T19:00:00-04:00",
-                "endLocal": null,
+                "endLocal": "2026-07-12T13:45:00-04:00",
                 "index": null,
                 "weatherCondition": 501,
                 "weatherIcon": "10d",
                 "weatherRainProbability": 1,
-                "isNightEvent": true
+                "isNightEvent": false
             }
         ]
     },
@@ -4245,9 +4246,9 @@
                 "startLocal": "2026-07-18T17:00:00-04:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0.12,
                 "isNightEvent": false
             },
             {
@@ -4262,9 +4263,9 @@
                 "startLocal": "2026-07-18T18:10:00-04:00",
                 "endLocal": "2026-07-10T16:22:00-04:00",
                 "index": null,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0.12,
                 "isNightEvent": false
             },
             {
