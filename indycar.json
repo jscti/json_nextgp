@@ -2579,7 +2579,7 @@
                 "weatherRainProbability": 0.65,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "8c444a0e8",
@@ -2591,9 +2591,9 @@
                 "end": "2026-07-20T00:00:00+00:00",
                 "endLocal": "2026-07-19T19:00:00-05:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0.02,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.45,
                 "isNightEvent": false,
                 "channels": [
                     {
