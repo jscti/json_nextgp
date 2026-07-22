@@ -4314,8 +4314,8 @@
                 "startLocal": "2026-07-25T13:30:00-04:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false
             },
@@ -4330,9 +4330,9 @@
                 "startLocal": "2026-07-26T14:00:00-04:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.35,
                 "isNightEvent": false
             }
         ]
@@ -4505,11 +4505,11 @@
                 "id": "beff2006c",
                 "title": "Qualifying",
                 "type": "qualifying",
-                "start": "2026-08-22T15:40:00+00:00",
+                "start": "2026-08-22T15:35:00+00:00",
                 "channels": [],
                 "hasSummary": false,
                 "hasTime": true,
-                "startLocal": "2026-08-22T11:40:00-04:00",
+                "startLocal": "2026-08-22T11:35:00-04:00",
                 "endLocal": null,
                 "index": null,
                 "weatherCondition": null,
