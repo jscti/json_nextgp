@@ -1878,9 +1878,9 @@
                 "end": "2026-07-17T14:25:00+00:00",
                 "endLocal": "2026-07-17T16:25:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -1970,7 +1970,7 @@
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "f66a2ee74",
@@ -2029,8 +2029,8 @@
                 "end": "2026-07-26T10:25:00+00:00",
                 "endLocal": "2026-07-26T12:25:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
