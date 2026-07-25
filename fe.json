@@ -2307,7 +2307,7 @@
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "61c9ab010",
@@ -2338,7 +2338,7 @@
                 "hasTime": true,
                 "weatherCondition": 501,
                 "weatherIcon": "10n",
-                "weatherRainProbability": 1,
+                "weatherRainProbability": 0.95,
                 "isNightEvent": true,
                 "channels": [],
                 "hasSummary": false
@@ -2387,9 +2387,9 @@
                 "end": "2026-07-26T07:48:00+00:00",
                 "endLocal": "2026-07-26T16:48:00+09:00",
                 "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.2,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
@@ -2404,9 +2404,9 @@
                 "end": "2026-07-26T12:00:00+00:00",
                 "endLocal": "2026-07-26T21:00:00+09:00",
                 "hasTime": true,
-                "weatherCondition": 501,
+                "weatherCondition": 500,
                 "weatherIcon": "10n",
-                "weatherRainProbability": 1,
+                "weatherRainProbability": 0.32,
                 "isNightEvent": true,
                 "channels": [],
                 "hasSummary": false
