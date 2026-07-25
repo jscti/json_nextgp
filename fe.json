@@ -2341,7 +2341,7 @@
                 "weatherRainProbability": 0.95,
                 "isNightEvent": true,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             }
         ]
     },
@@ -2387,9 +2387,9 @@
                 "end": "2026-07-26T07:48:00+00:00",
                 "endLocal": "2026-07-26T16:48:00+09:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.2,
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
@@ -2406,7 +2406,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10n",
-                "weatherRainProbability": 0.32,
+                "weatherRainProbability": 0.23,
                 "isNightEvent": true,
                 "channels": [],
                 "hasSummary": false
