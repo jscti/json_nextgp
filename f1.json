@@ -2462,7 +2462,7 @@
     {
         "id": "fb7c0b5a5",
         "type": "f1",
-        "index": "1 / 22",
+        "index": "1 / 23",
         "season": "2026",
         "title": "Australian Grand Prix",
         "start": "2026-03-06T01:30:00+00:00",
@@ -2564,7 +2564,7 @@
     {
         "id": "871ef75dd",
         "type": "f1",
-        "index": "2 / 22",
+        "index": "2 / 23",
         "season": "2026",
         "title": "Chinese Grand Prix",
         "start": "2026-03-13T03:30:00+00:00",
@@ -2668,7 +2668,7 @@
     {
         "id": "417ea509e",
         "type": "f1",
-        "index": "3 / 22",
+        "index": "3 / 23",
         "season": "2026",
         "title": "Japanese Grand Prix",
         "start": "2026-03-27T02:30:00+00:00",
@@ -2770,7 +2770,7 @@
     {
         "id": "bfda30d77",
         "type": "f1",
-        "index": "4 / 22",
+        "index": "4 / 23",
         "season": "2026",
         "title": "Miami Grand Prix",
         "start": "2026-05-01T16:00:00+00:00",
@@ -2874,7 +2874,7 @@
     {
         "id": "b1256e423",
         "type": "f1",
-        "index": "5 / 22",
+        "index": "5 / 23",
         "season": "2026",
         "title": "Canadian Grand Prix",
         "start": "2026-05-22T16:30:00+00:00",
@@ -2978,7 +2978,7 @@
     {
         "id": "64bedb471",
         "type": "f1",
-        "index": "6 / 22",
+        "index": "6 / 23",
         "season": "2026",
         "title": "Monaco Grand Prix",
         "start": "2026-06-05T11:30:00+00:00",
@@ -3080,7 +3080,7 @@
     {
         "id": "a17379ae3",
         "type": "f1",
-        "index": "7 / 22",
+        "index": "7 / 23",
         "season": "2026",
         "title": "Barcelona Grand Prix",
         "start": "2026-06-12T11:30:00+00:00",
@@ -3182,7 +3182,7 @@
     {
         "id": "d64b2be90",
         "type": "f1",
-        "index": "8 / 22",
+        "index": "8 / 23",
         "season": "2026",
         "title": "Austrian Grand Prix",
         "start": "2026-06-26T11:30:00+00:00",
@@ -3284,7 +3284,7 @@
     {
         "id": "c452e4e40",
         "type": "f1",
-        "index": "9 / 22",
+        "index": "9 / 23",
         "season": "2026",
         "title": "British Grand Prix",
         "start": "2026-07-03T11:30:00+00:00",
@@ -3388,7 +3388,7 @@
     {
         "id": "5f434f0f6",
         "type": "f1",
-        "index": "10 / 22",
+        "index": "10 / 23",
         "season": "2026",
         "title": "Belgian Grand Prix",
         "start": "2026-07-17T11:30:00+00:00",
@@ -3490,7 +3490,7 @@
     {
         "id": "5f1bee28a",
         "type": "f1",
-        "index": "11 / 22",
+        "index": "11 / 23",
         "season": "2026",
         "title": "Hungarian Grand Prix",
         "start": "2026-07-24T11:30:00+00:00",
@@ -3632,7 +3632,7 @@
     {
         "id": "712b399de",
         "type": "f1",
-        "index": "12 / 22",
+        "index": "12 / 23",
         "season": "2026",
         "title": "Dutch Grand Prix",
         "start": "2026-08-21T10:30:00+00:00",
@@ -3766,7 +3766,7 @@
     {
         "id": "c4f65dbbd",
         "type": "f1",
-        "index": "13 / 22",
+        "index": "13 / 23",
         "season": "2026",
         "title": "Italian Grand Prix",
         "start": "2026-09-04T10:30:00+00:00",
@@ -3898,7 +3898,7 @@
     {
         "id": "0421384ed",
         "type": "f1",
-        "index": "14 / 22",
+        "index": "14 / 23",
         "season": "2026",
         "title": "Spanish Grand Prix",
         "start": "2026-09-11T11:30:00+00:00",
@@ -4030,7 +4030,7 @@
     {
         "id": "064005f4b",
         "type": "f1",
-        "index": "15 / 22",
+        "index": "15 / 23",
         "season": "2026",
         "title": "Azerbaijan Grand Prix",
         "start": "2026-09-24T08:30:00+00:00",
@@ -4160,9 +4160,141 @@
         ]
     },
     {
+        "id": "cf41e3f6e",
+        "type": "f1",
+        "index": "16 / 23",
+        "season": "2026",
+        "title": "Bahrain Grand Prix",
+        "start": "2026-10-02T11:30:00+00:00",
+        "end": "2026-10-04T17:00:00+00:00",
+        "timezone": "Asia/Tokyo",
+        "latitude": "2.761134",
+        "longitude": "101.73696",
+        "trackName": "Sepang International Circuit",
+        "countryCode": "MY",
+        "cityName": "Sepang",
+        "steps": [
+            {
+                "id": "02e1ee03c",
+                "title": "Practice 1",
+                "type": "practice",
+                "index": 1,
+                "start": "2026-10-02T11:30:00+00:00",
+                "startLocal": "2026-10-02T20:30:00+09:00",
+                "end": "2026-10-02T12:30:00+00:00",
+                "endLocal": "2026-10-02T21:30:00+09:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": true,
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": ""
+                    }
+                ],
+                "hasSummary": false
+            },
+            {
+                "id": "e68ef906a",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2026-10-02T15:00:00+00:00",
+                "startLocal": "2026-10-03T00:00:00+09:00",
+                "end": "2026-10-02T16:00:00+00:00",
+                "endLocal": "2026-10-03T01:00:00+09:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": ""
+                    }
+                ],
+                "hasSummary": false
+            },
+            {
+                "id": "3133e525e",
+                "title": "Practice 3",
+                "type": "practice",
+                "index": 3,
+                "start": "2026-10-03T12:30:00+00:00",
+                "startLocal": "2026-10-03T21:30:00+09:00",
+                "end": "2026-10-03T13:30:00+00:00",
+                "endLocal": "2026-10-03T22:30:00+09:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": true,
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": ""
+                    }
+                ],
+                "hasSummary": false
+            },
+            {
+                "id": "738502a8a",
+                "title": "Qualification",
+                "type": "qualifying",
+                "index": null,
+                "start": "2026-10-03T16:00:00+00:00",
+                "startLocal": "2026-10-04T01:00:00+09:00",
+                "end": "2026-10-03T17:00:00+00:00",
+                "endLocal": "2026-10-04T02:00:00+09:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": ""
+                    }
+                ],
+                "hasSummary": false
+            },
+            {
+                "id": "43f1a0027",
+                "title": "Race",
+                "type": "race",
+                "index": null,
+                "start": "2026-10-04T15:00:00+00:00",
+                "startLocal": "2026-10-05T00:00:00+09:00",
+                "end": "2026-10-04T17:00:00+00:00",
+                "endLocal": "2026-10-05T02:00:00+09:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": ""
+                    }
+                ],
+                "hasSummary": false
+            }
+        ]
+    },
+    {
         "id": "36203822b",
         "type": "f1",
-        "index": "16 / 22",
+        "index": "17 / 23",
         "season": "2026",
         "title": "Singapore Grand Prix",
         "start": "2026-10-09T08:30:00+00:00",
@@ -4296,7 +4428,7 @@
     {
         "id": "1e1e7c5c1",
         "type": "f1",
-        "index": "17 / 22",
+        "index": "18 / 23",
         "season": "2026",
         "title": "United States Grand Prix",
         "start": "2026-10-23T17:30:00+00:00",
@@ -4428,7 +4560,7 @@
     {
         "id": "db4b2e7da",
         "type": "f1",
-        "index": "18 / 22",
+        "index": "19 / 23",
         "season": "2026",
         "title": "Gran Premio de Mexico",
         "start": "2026-10-30T18:30:00+00:00",
@@ -4560,7 +4692,7 @@
     {
         "id": "4060b2874",
         "type": "f1",
-        "index": "19 / 22",
+        "index": "20 / 23",
         "season": "2026",
         "title": "Sao Paulo Grand Prix",
         "start": "2026-11-06T15:30:00+00:00",
@@ -4692,7 +4824,7 @@
     {
         "id": "94931f8fa",
         "type": "f1",
-        "index": "20 / 22",
+        "index": "21 / 23",
         "season": "2026",
         "title": "Las Vegas Grand Prix",
         "start": "2026-11-20T00:30:00+00:00",
@@ -4824,7 +4956,7 @@
     {
         "id": "5c04ae517",
         "type": "f1",
-        "index": "21 / 22",
+        "index": "22 / 23",
         "season": "2026",
         "title": "Qatar Grand Prix",
         "start": "2026-11-27T13:30:00+00:00",
@@ -4956,7 +5088,7 @@
     {
         "id": "927020581",
         "type": "f1",
-        "index": "22 / 22",
+        "index": "23 / 23",
         "season": "2026",
         "title": "Abu Dhabi Grand Prix",
         "start": "2026-12-04T09:30:00+00:00",
