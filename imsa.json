@@ -2029,7 +2029,7 @@
         "cityName": "Elkhart Lake",
         "steps": [
             {
-                "id": "b8d0e5871",
+                "id": "1271a7029",
                 "title": "",
                 "subtitle": null,
                 "type": "practice",
@@ -2039,12 +2039,12 @@
                 "end": "2026-07-31T17:55:00+00:00",
                 "endLocal": "2026-07-31T12:55:00-05:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "ebb6957e2",
@@ -2077,7 +2077,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.77,
+                "weatherRainProbability": 1,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
@@ -2093,9 +2093,9 @@
                 "end": "2026-08-02T21:40:00+00:00",
                 "endLocal": "2026-08-02T16:40:00-05:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.24,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
