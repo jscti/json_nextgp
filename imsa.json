@@ -2047,7 +2047,7 @@
                 "hasSummary": true
             },
             {
-                "id": "ebb6957e2",
+                "id": "52edc4a58",
                 "title": "",
                 "subtitle": null,
                 "type": "practice",
@@ -2057,12 +2057,12 @@
                 "end": "2026-08-01T16:35:00+00:00",
                 "endLocal": "2026-08-01T11:35:00-05:00",
                 "hasTime": true,
-                "weatherCondition": 501,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "3485c8478",
@@ -2077,7 +2077,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherRainProbability": 0.61,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
@@ -2093,9 +2093,9 @@
                 "end": "2026-08-02T21:40:00+00:00",
                 "endLocal": "2026-08-02T16:40:00-05:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.41,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
