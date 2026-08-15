@@ -2597,7 +2597,7 @@
         "season": 2026,
         "title": "NASCAR Craftsman Truck Series at Richmond",
         "start": "2026-08-14T17:00:00+00:00",
-        "end": "2026-08-15T03:30:00+00:00",
+        "end": "2026-08-15T20:00:00+00:00",
         "timezone": "America/New_York",
         "latitude": 37.5385087,
         "longitude": -77.43428,
@@ -2644,17 +2644,17 @@
                 "id": "77af36603",
                 "title": "Race 1",
                 "type": "race",
-                "start": "2026-08-14T23:30:00+00:00",
+                "start": "2026-08-15T16:00:00+00:00",
                 "channels": [],
                 "hasSummary": false,
                 "hasTime": true,
-                "startLocal": "2026-08-14T19:30:00-04:00",
+                "startLocal": "2026-08-15T12:00:00-04:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.86,
-                "isNightEvent": true
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
+                "isNightEvent": false
             }
         ]
     },
