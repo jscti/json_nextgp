@@ -2837,7 +2837,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherRainProbability": 0.79,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
@@ -2852,9 +2852,9 @@
                 "end": "2026-08-23T19:30:00+00:00",
                 "endLocal": "2026-08-23T15:30:00-04:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0.81,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
