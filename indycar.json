@@ -2820,7 +2820,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherRainProbability": 0.6,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
@@ -2837,7 +2837,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.79,
+                "weatherRainProbability": 1,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
@@ -2852,9 +2852,9 @@
                 "end": "2026-08-23T19:30:00+00:00",
                 "endLocal": "2026-08-23T15:30:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 803,
+                "weatherCondition": 804,
                 "weatherIcon": "04d",
-                "weatherRainProbability": 0.81,
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
