@@ -2710,9 +2710,9 @@
                 "end": "2026-08-15T15:25:00+00:00",
                 "endLocal": "2026-08-15T11:25:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": true
@@ -2806,7 +2806,7 @@
                 "weatherRainProbability": 0.2,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "b80c6523c",
