@@ -2118,7 +2118,7 @@
         "cityName": "Alton",
         "steps": [
             {
-                "id": "ed1bd824e",
+                "id": "c57abe86d",
                 "title": "",
                 "subtitle": null,
                 "type": "practice",
@@ -2128,12 +2128,12 @@
                 "end": "2026-08-21T20:40:00+00:00",
                 "endLocal": "2026-08-21T15:40:00-05:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "206ec1bb1",
