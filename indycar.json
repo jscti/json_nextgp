@@ -2812,9 +2812,9 @@
                 "end": "2026-08-22T18:00:00+00:00",
                 "endLocal": "2026-08-22T14:00:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": true
@@ -2829,9 +2829,9 @@
                 "end": "2026-08-22T21:45:00+00:00",
                 "endLocal": "2026-08-22T17:45:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": true
@@ -2908,7 +2908,7 @@
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "83fa45f92",
@@ -2965,7 +2965,7 @@
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "76bd42b1d",
@@ -2977,9 +2977,9 @@
                 "end": "2026-08-30T19:30:00+00:00",
                 "endLocal": "2026-08-30T14:30:00-05:00",
                 "hasTime": true,
-                "weatherCondition": 803,
+                "weatherCondition": 804,
                 "weatherIcon": "04d",
-                "weatherRainProbability": 0.73,
+                "weatherRainProbability": 0.8,
                 "isNightEvent": false,
                 "channels": [
                     {
