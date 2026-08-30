@@ -2931,7 +2931,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             }
         ]
     },
@@ -2977,9 +2977,9 @@
                 "end": "2026-08-30T19:30:00+00:00",
                 "endLocal": "2026-08-30T14:30:00-05:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0.8,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 1,
                 "isNightEvent": false,
                 "channels": [
                     {
