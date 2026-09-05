@@ -3775,7 +3775,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "9a5f52a76",
@@ -3815,8 +3815,8 @@
                 "end": "2026-09-06T15:00:00+00:00",
                 "endLocal": "2026-09-06T17:00:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
