@@ -4605,7 +4605,7 @@
         "season": 2026,
         "title": "NASCAR Cup Series at Darlington",
         "start": "2026-09-06T21:00:00+00:00",
-        "end": "2026-09-07T01:00:00+00:00",
+        "end": "2026-09-07T00:30:00+00:00",
         "timezone": "America/New_York",
         "latitude": 34.3028537,
         "longitude": -79.8710831,
@@ -4619,16 +4619,17 @@
                 "title": "Race 1",
                 "type": "race",
                 "start": "2026-09-06T21:00:00+00:00",
+                "end": "2026-09-07T00:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2026-09-06T17:00:00-04:00",
-                "endLocal": null,
+                "endLocal": "2026-09-06T20:30:00-04:00",
                 "index": null,
                 "weatherCondition": 803,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
-                "isNightEvent": false
+                "isNightEvent": true
             }
         ]
     },
