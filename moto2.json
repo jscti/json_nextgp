@@ -3596,7 +3596,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.99,
+                "weatherRainProbability": 0.48,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
@@ -3613,7 +3613,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherRainProbability": 0.43,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
@@ -3628,9 +3628,9 @@
                 "end": "2026-09-12T07:55:00+00:00",
                 "endLocal": "2026-09-12T09:55:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.94,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
@@ -3645,9 +3645,9 @@
                 "end": "2026-09-12T12:20:00+00:00",
                 "endLocal": "2026-09-12T14:20:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 1,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
