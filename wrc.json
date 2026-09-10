@@ -2017,7 +2017,13 @@
                 "weatherIcon": "10d",
                 "weatherRainProbability": 0.32,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": false
             },
             {
