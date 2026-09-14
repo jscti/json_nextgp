@@ -4626,9 +4626,9 @@
                 "startLocal": "2026-09-06T17:00:00-04:00",
                 "endLocal": "2026-09-06T20:30:00-04:00",
                 "index": null,
-                "weatherCondition": 803,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": true
             }
         ]
@@ -4640,7 +4640,7 @@
         "season": 2026,
         "title": "NASCAR Cup Series at Gateway",
         "start": "2026-09-12T19:30:00+00:00",
-        "end": "2026-09-13T23:00:00+00:00",
+        "end": "2026-09-13T22:30:00+00:00",
         "timezone": "America/Chicago",
         "latitude": 38.6825502,
         "longitude": -90.1570536,
@@ -4688,11 +4688,12 @@
                 "title": "Race 1",
                 "type": "race",
                 "start": "2026-09-13T19:00:00+00:00",
+                "end": "2026-09-13T22:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2026-09-13T14:00:00-05:00",
-                "endLocal": null,
+                "endLocal": "2026-09-13T17:30:00-05:00",
                 "index": null,
                 "weatherCondition": 803,
                 "weatherIcon": "04d",
@@ -4728,9 +4729,9 @@
                 "startLocal": "2026-09-18T16:30:00-04:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.48,
                 "isNightEvent": false
             },
             {
@@ -4744,9 +4745,9 @@
                 "startLocal": "2026-09-18T17:35:00-04:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.48,
                 "isNightEvent": true
             },
             {
