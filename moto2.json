@@ -3754,9 +3754,9 @@
                 "end": "2026-09-18T12:45:00+00:00",
                 "endLocal": "2026-09-18T14:45:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
-                "weatherRainProbability": 0.36,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0.12,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -3782,7 +3782,7 @@
                 "end": "2026-09-19T07:55:00+00:00",
                 "endLocal": "2026-09-19T09:55:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 804,
+                "weatherCondition": 803,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
@@ -3812,7 +3812,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.52,
+                "weatherRainProbability": 0.5,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -3838,14 +3838,19 @@
                 "end": "2026-09-20T11:15:00+00:00",
                 "endLocal": "2026-09-20T13:15:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
                         "countryCode": "BE",
                         "channelName": "Tipik",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
                         "channelCode": ""
                     }
                 ],
