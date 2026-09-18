@@ -3751,7 +3751,7 @@
                 "start": "2026-09-18T18:00:00+00:00",
                 "end": "2026-09-18T19:05:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2026-09-18T14:00:00-04:00",
                 "endLocal": "2026-09-18T15:05:00-04:00",
@@ -3766,11 +3766,12 @@
                 "title": "Qualifying",
                 "type": "qualifying",
                 "start": "2026-09-18T19:05:00+00:00",
+                "end": "2026-09-18T20:15:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2026-09-18T15:05:00-04:00",
-                "endLocal": null,
+                "endLocal": "2026-09-18T16:15:00-04:00",
                 "index": null,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
@@ -3790,7 +3791,7 @@
                 "index": null,
                 "weatherCondition": 500,
                 "weatherIcon": "10n",
-                "weatherRainProbability": 0.2,
+                "weatherRainProbability": 0.82,
                 "isNightEvent": true
             }
         ]
