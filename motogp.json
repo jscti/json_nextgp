@@ -4400,7 +4400,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "d33214fb8",
@@ -4440,9 +4440,9 @@
                 "end": "2026-09-19T08:40:00+00:00",
                 "endLocal": "2026-09-19T10:40:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0.43,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.36,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -4468,9 +4468,9 @@
                 "end": "2026-09-19T09:30:00+00:00",
                 "endLocal": "2026-09-19T11:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0.43,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.36,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -4499,7 +4499,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.47,
+                "weatherRainProbability": 0.53,
                 "isNightEvent": false,
                 "channels": [
                     {
