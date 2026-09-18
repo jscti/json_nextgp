@@ -2207,7 +2207,7 @@
         "cityName": "Indianapolis",
         "steps": [
             {
-                "id": "413bfa429",
+                "id": "645e6bfdd",
                 "title": "",
                 "subtitle": null,
                 "type": "practice",
@@ -2217,12 +2217,12 @@
                 "end": "2026-09-18T20:55:00+00:00",
                 "endLocal": "2026-09-18T16:55:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.2,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "0b1212b28",
