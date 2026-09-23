@@ -1462,8 +1462,8 @@
                 "end": "2026-09-24T09:30:00+00:00",
                 "endLocal": "2026-09-24T13:30:00+04:00",
                 "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
+                "weatherCondition": 802,
+                "weatherIcon": "03d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
@@ -1508,8 +1508,8 @@
                 "end": "2026-09-25T09:30:00+00:00",
                 "endLocal": "2026-09-25T13:30:00+04:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
@@ -1567,6 +1567,11 @@
                     {
                         "countryCode": "BE",
                         "channelName": "Tipik",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+",
                         "channelCode": ""
                     }
                 ],
