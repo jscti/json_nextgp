@@ -1527,9 +1527,14 @@
                         "countryCode": "FR",
                         "channelName": "Canal+ Sport",
                         "channelCode": ""
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+",
+                        "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "b04db7de2",
@@ -1554,6 +1559,11 @@
                     {
                         "countryCode": "BE",
                         "channelName": "Tipik",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+",
                         "channelCode": ""
                     }
                 ],
