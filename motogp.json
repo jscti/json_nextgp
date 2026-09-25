@@ -4824,10 +4824,33 @@
                 "hasSummary": false
             },
             {
+                "id": "75803725d",
+                "title": "Practice 2",
+                "type": "practice",
+                "index": 2,
+                "start": "2026-10-23T04:00:00+00:00",
+                "startLocal": "2026-10-23T15:00:00+11:00",
+                "end": "2026-10-23T05:00:00+00:00",
+                "endLocal": "2026-10-23T16:00:00+11:00",
+                "hasTime": true,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
+                "isNightEvent": false,
+                "channels": [
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
+                        "channelCode": ""
+                    }
+                ],
+                "hasSummary": false
+            },
+            {
                 "id": "43ee709c2",
                 "title": "Practice 3",
                 "type": "practice",
-                "index": 2,
+                "index": 3,
                 "start": "2026-10-23T23:10:00+00:00",
                 "startLocal": "2026-10-24T10:10:00+11:00",
                 "end": "2026-10-23T23:40:00+00:00",
@@ -4855,29 +4878,6 @@
                 "startLocal": "2026-10-24T10:50:00+11:00",
                 "end": "2026-10-24T00:30:00+00:00",
                 "endLocal": "2026-10-24T11:30:00+11:00",
-                "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
-                "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
-                "hasSummary": false
-            },
-            {
-                "id": "75803725d",
-                "title": "Practice 2",
-                "type": "practice",
-                "index": 3,
-                "start": "2026-10-24T04:00:00+00:00",
-                "startLocal": "2026-10-24T15:00:00+11:00",
-                "end": "2026-10-24T05:00:00+00:00",
-                "endLocal": "2026-10-24T16:00:00+11:00",
                 "hasTime": true,
                 "weatherCondition": null,
                 "weatherIcon": null,
