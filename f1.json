@@ -1680,14 +1680,19 @@
                 "end": "2026-10-03T05:30:00+00:00",
                 "endLocal": "2026-10-03T14:30:00+09:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0.01,
                 "isNightEvent": false,
                 "channels": [
                     {
                         "countryCode": "BE",
                         "channelName": "Tipik",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
                         "channelCode": ""
                     }
                 ],
@@ -1705,12 +1710,17 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.74,
+                "weatherRainProbability": 0.33,
                 "isNightEvent": false,
                 "channels": [
                     {
                         "countryCode": "BE",
                         "channelName": "Tipik",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
                         "channelCode": ""
                     }
                 ],
@@ -1728,7 +1738,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.94,
+                "weatherRainProbability": 0.71,
                 "isNightEvent": false,
                 "channels": [
                     {
