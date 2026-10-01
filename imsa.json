@@ -2360,9 +2360,9 @@
                 "end": "2026-10-02T19:35:00+00:00",
                 "endLocal": "2026-10-02T15:35:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.2,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
@@ -2380,7 +2380,7 @@
                 "hasTime": true,
                 "weatherCondition": 803,
                 "weatherIcon": "04d",
-                "weatherRainProbability": 0.51,
+                "weatherRainProbability": 0.53,
                 "isNightEvent": true,
                 "channels": [],
                 "hasSummary": false
