@@ -2296,7 +2296,7 @@
         "cityName": "Braselton",
         "steps": [
             {
-                "id": "9aec90cf4",
+                "id": "59a3adea7",
                 "title": "",
                 "subtitle": null,
                 "type": "practice",
@@ -2306,12 +2306,12 @@
                 "end": "2026-10-01T16:10:00+00:00",
                 "endLocal": "2026-10-01T12:10:00-04:00",
                 "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "e548d873f",
