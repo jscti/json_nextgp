@@ -1824,7 +1824,7 @@
                 "end": "2026-10-02T02:30:00+00:00",
                 "endLocal": "2026-10-02T11:30:00+09:00",
                 "hasTime": true,
-                "weatherCondition": 501,
+                "weatherCondition": 500,
                 "weatherIcon": "10d",
                 "weatherRainProbability": 1,
                 "isNightEvent": false,
@@ -1849,7 +1849,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherRainProbability": 0.99,
                 "isNightEvent": false,
                 "channels": [
                     {
