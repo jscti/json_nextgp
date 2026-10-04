@@ -1546,7 +1546,7 @@
         "season": "2026",
         "title": "Bahrain Grand Prix in Malaysia",
         "start": "2026-10-02T04:30:00+00:00",
-        "end": "2026-10-04T09:00:00+00:00",
+        "end": "2026-10-04T10:33:00+00:00",
         "timezone": "Asia/Tokyo",
         "latitude": "2.761134",
         "longitude": "101.73696",
@@ -1671,10 +1671,10 @@
                 "title": "Race",
                 "type": "race",
                 "index": null,
-                "start": "2026-10-04T07:00:00+00:00",
-                "startLocal": "2026-10-04T16:00:00+09:00",
-                "end": "2026-10-04T09:00:00+00:00",
-                "endLocal": "2026-10-04T18:00:00+09:00",
+                "start": "2026-10-04T08:33:00+00:00",
+                "startLocal": "2026-10-04T17:33:00+09:00",
+                "end": "2026-10-04T10:33:00+00:00",
+                "endLocal": "2026-10-04T19:33:00+09:00",
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
@@ -1689,6 +1689,11 @@
                     {
                         "countryCode": "FR",
                         "channelName": "Canal+",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
                         "channelCode": ""
                     }
                 ],
@@ -1721,9 +1726,9 @@
                 "end": "2026-10-09T09:30:00+00:00",
                 "endLocal": "2026-10-09T17:30:00+08:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.59,
                 "isNightEvent": false,
                 "channels": [
                     {
