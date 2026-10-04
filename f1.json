@@ -1697,7 +1697,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             }
         ]
     },
@@ -1750,9 +1750,9 @@
                 "end": "2026-10-09T13:14:00+00:00",
                 "endLocal": "2026-10-09T21:14:00+08:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10n",
+                "weatherRainProbability": 0.54,
                 "isNightEvent": true,
                 "channels": [
                     {
