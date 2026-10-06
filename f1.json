@@ -1570,11 +1570,6 @@
                 "isNightEvent": false,
                 "channels": [
                     {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    },
-                    {
                         "countryCode": "FR",
                         "channelName": "Canal+ Sport",
                         "channelCode": ""
@@ -1597,11 +1592,6 @@
                 "weatherRainProbability": 0.97,
                 "isNightEvent": false,
                 "channels": [
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    },
                     {
                         "countryCode": "FR",
                         "channelName": "Canal+ Sport",
@@ -1626,11 +1616,6 @@
                 "isNightEvent": false,
                 "channels": [
                     {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    },
-                    {
                         "countryCode": "FR",
                         "channelName": "Canal+ Sport",
                         "channelCode": ""
@@ -1654,13 +1639,13 @@
                 "isNightEvent": false,
                 "channels": [
                     {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
                         "channelCode": ""
                     },
                     {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -1726,8 +1711,8 @@
                 "end": "2026-10-09T09:30:00+00:00",
                 "endLocal": "2026-10-09T17:30:00+08:00",
                 "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
@@ -1750,8 +1735,8 @@
                 "end": "2026-10-09T13:14:00+00:00",
                 "endLocal": "2026-10-09T21:14:00+08:00",
                 "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03n",
+                "weatherCondition": 803,
+                "weatherIcon": "04n",
                 "weatherRainProbability": 0,
                 "isNightEvent": true,
                 "channels": [
@@ -1774,9 +1759,9 @@
                 "end": "2026-10-10T10:00:00+00:00",
                 "endLocal": "2026-10-10T18:00:00+08:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.68,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -1797,9 +1782,9 @@
                 "end": "2026-10-10T14:00:00+00:00",
                 "endLocal": "2026-10-10T22:00:00+08:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 804,
+                "weatherIcon": "04n",
+                "weatherRainProbability": 0.48,
                 "isNightEvent": true,
                 "channels": [
                     {
