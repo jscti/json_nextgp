@@ -1638,11 +1638,6 @@
                 "isNightEvent": false,
                 "channels": [
                     {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    },
-                    {
                         "countryCode": "FR",
                         "channelName": "Canal+",
                         "channelCode": ""
@@ -1650,6 +1645,11 @@
                     {
                         "countryCode": "FR",
                         "channelName": "Canal+ Sport",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -1784,7 +1784,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "a239749b8",
