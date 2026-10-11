@@ -1632,9 +1632,9 @@
                 "end": "2026-10-04T10:33:00+00:00",
                 "endLocal": "2026-10-04T19:33:00+09:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.39,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -1796,9 +1796,9 @@
                 "end": "2026-10-11T14:00:00+00:00",
                 "endLocal": "2026-10-11T22:00:00+08:00",
                 "hasTime": true,
-                "weatherCondition": 803,
+                "weatherCondition": 804,
                 "weatherIcon": "04n",
-                "weatherRainProbability": 0.08,
+                "weatherRainProbability": 0.1,
                 "isNightEvent": true,
                 "channels": [
                     {
