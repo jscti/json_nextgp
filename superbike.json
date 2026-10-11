@@ -3129,7 +3129,7 @@
                 "weatherRainProbability": 0.27,
                 "isNightEvent": false,
                 "channels": [],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "b9574be04",
@@ -3198,9 +3198,9 @@
                 "end": "2026-10-16T13:45:00+00:00",
                 "endLocal": "2026-10-16T15:45:00+02:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 803,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
