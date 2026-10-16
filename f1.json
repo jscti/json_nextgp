@@ -1688,18 +1688,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": true,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": ""
-                    },
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": true
             },
             {
@@ -1719,13 +1708,13 @@
                 "isNightEvent": false,
                 "channels": [
                     {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
                         "channelCode": ""
                     },
                     {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
@@ -1747,13 +1736,13 @@
                 "isNightEvent": true,
                 "channels": [
                     {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
                         "channelCode": ""
                     },
                     {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],

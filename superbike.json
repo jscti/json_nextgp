@@ -3055,9 +3055,9 @@
                 "end": "2026-10-09T14:45:00+00:00",
                 "endLocal": "2026-10-09T15:45:00+01:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": true
@@ -3215,7 +3215,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "9c7c69630",
@@ -3302,11 +3302,17 @@
                 "end": "2026-10-18T09:40:00+00:00",
                 "endLocal": "2026-10-18T11:40:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 500,
+                "weatherCondition": 501,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.95,
+                "weatherRainProbability": 1,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Eurosport 360 8",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": false
             },
             {
@@ -3321,7 +3327,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.23,
+                "weatherRainProbability": 0.3,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
