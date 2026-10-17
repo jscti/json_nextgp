@@ -3236,6 +3236,11 @@
                         "countryCode": "FR",
                         "channelName": "Eurosport 360 5",
                         "channelCode": ""
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Eurosport 360 7",
+                        "channelCode": ""
                     }
                 ],
                 "hasSummary": true
@@ -3259,6 +3264,11 @@
                     {
                         "countryCode": "FR",
                         "channelName": "Eurosport 360 5",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Eurosport 360 7",
                         "channelCode": ""
                     }
                 ],
@@ -3288,9 +3298,19 @@
                         "countryCode": "FR",
                         "channelName": "Eurosport 360 8",
                         "channelCode": ""
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Eurosport 360 6",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Eurosport 360 7",
+                        "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "1196a98e6",
@@ -3304,7 +3324,7 @@
                 "hasTime": true,
                 "weatherCondition": 501,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherRainProbability": 0.95,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -3325,11 +3345,17 @@
                 "end": "2026-10-18T14:30:00+00:00",
                 "endLocal": "2026-10-18T16:30:00+02:00",
                 "hasTime": true,
-                "weatherCondition": 501,
+                "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.97,
+                "weatherRainProbability": 0.2,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Eurosport 360 8",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": false
             }
         ]

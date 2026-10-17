@@ -1723,18 +1723,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": true,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": ""
-                    },
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": true
             },
             {
@@ -1753,13 +1742,13 @@
                 "isNightEvent": true,
                 "channels": [
                     {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
+                        "countryCode": "FR",
+                        "channelName": "Canal+",
                         "channelCode": ""
                     },
                     {
-                        "countryCode": "FR",
-                        "channelName": "Canal+",
+                        "countryCode": "BE",
+                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
