@@ -1740,18 +1740,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": true,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+",
-                        "channelCode": ""
-                    },
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": true
             }
         ]
