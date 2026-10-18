@@ -3124,9 +3124,9 @@
                 "end": "2026-10-11T10:40:00+00:00",
                 "endLocal": "2026-10-11T11:40:00+01:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.27,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": true
@@ -3333,7 +3333,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "93705b92d",
@@ -3347,7 +3347,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.2,
+                "weatherRainProbability": 0.81,
                 "isNightEvent": false,
                 "channels": [
                     {
