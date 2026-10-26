@@ -28,7 +28,7 @@
                 "diff": -123,
                 "poles": 0,
                 "wins": 3,
-                "podiums": 9,
+                "podiums": 8,
                 "fastestLaps": 2,
                 "hatTricks": 1
             },
@@ -42,7 +42,7 @@
                 "diff": -124,
                 "poles": 0,
                 "wins": 1,
-                "podiums": 7,
+                "podiums": 6,
                 "fastestLaps": 1,
                 "hatTricks": 0
             },
@@ -56,7 +56,7 @@
                 "diff": -129,
                 "poles": 0,
                 "wins": 2,
-                "podiums": 9,
+                "podiums": 10,
                 "fastestLaps": 2,
                 "hatTricks": 1
             },
@@ -70,7 +70,7 @@
                 "diff": -132,
                 "poles": 0,
                 "wins": 1,
-                "podiums": 5,
+                "podiums": 6,
                 "fastestLaps": 4,
                 "hatTricks": 0
             },
@@ -358,27 +358,27 @@
                 "fastestLaps": 5
             },
             {
-                "name": "McLaren",
-                "countryCode": "GB",
-                "position": 3,
-                "races": 17,
-                "points": 355,
-                "diff": -252,
-                "poles": 0,
-                "wins": 2,
-                "podiums": 7,
-                "fastestLaps": 2
-            },
-            {
                 "name": "Red Bull Racing",
                 "countryCode": "AT",
-                "position": 4,
+                "position": 3,
                 "races": 18,
                 "points": 355,
                 "diff": -252,
                 "poles": 0,
                 "wins": 2,
                 "podiums": 12,
+                "fastestLaps": 2
+            },
+            {
+                "name": "McLaren",
+                "countryCode": "GB",
+                "position": 4,
+                "races": 17,
+                "points": 355,
+                "diff": -252,
+                "poles": 0,
+                "wins": 2,
+                "podiums": 7,
                 "fastestLaps": 2
             },
             {
@@ -457,7 +457,7 @@
                 "name": "Cadillac",
                 "countryCode": "US",
                 "position": 11,
-                "races": 17,
+                "races": 18,
                 "points": 0,
                 "diff": -607,
                 "poles": 0,
