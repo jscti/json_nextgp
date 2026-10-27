@@ -528,6 +528,16 @@
                 ]
             },
             {
+                "name": "Cadillac Whelen",
+                "countryCode": null,
+                "team": "Aitken / Bamber",
+                "time": "+1.091",
+                "laps": 33,
+                "tags": [
+                    "GTP"
+                ]
+            },
+            {
                 "name": "Porsche Penske Motorsport ",
                 "countryCode": null,
                 "team": "Campbell / Jaminet",
@@ -633,6 +643,26 @@
                 "team": "Kraut / Andrews",
                 "time": "+3.544",
                 "laps": 24,
+                "tags": [
+                    "LMP2"
+                ]
+            },
+            {
+                "name": "United Autosports USA",
+                "countryCode": null,
+                "team": "Resta / Goldburg",
+                "time": "+3.709",
+                "laps": 31,
+                "tags": [
+                    "LMP2"
+                ]
+            },
+            {
+                "name": "Riley",
+                "countryCode": null,
+                "team": "Fraga / Robinson",
+                "time": "+3.937",
+                "laps": 25,
                 "tags": [
                     "LMP2"
                 ]
@@ -855,6 +885,26 @@
                 "laps": 27,
                 "tags": [
                     "GTD"
+                ]
+            },
+            {
+                "name": "Paul Miller Racing",
+                "countryCode": null,
+                "team": "Harper / Hesse",
+                "time": "+16.268",
+                "laps": 24,
+                "tags": [
+                    "GTD PRO"
+                ]
+            },
+            {
+                "name": "AO Racing",
+                "countryCode": null,
+                "team": "Heinrich / Bachler",
+                "time": "+16.311",
+                "laps": 29,
+                "tags": [
+                    "GTD PRO"
                 ]
             },
             {
@@ -1531,16 +1581,6 @@
                 "name": "TDS Racing",
                 "countryCode": null,
                 "team": "Jensen / Thomas",
-                "time": null,
-                "laps": 66,
-                "tags": [
-                    "LMP2"
-                ]
-            },
-            {
-                "name": "United Autosports USA",
-                "countryCode": null,
-                "team": "Fayer / Hanley",
                 "time": null,
                 "laps": 66,
                 "tags": [
