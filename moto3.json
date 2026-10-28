@@ -2884,7 +2884,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": true
             },
             {
@@ -2901,7 +2907,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": true
             },
             {
@@ -2918,7 +2930,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": true
             },
             {
@@ -2935,7 +2953,13 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": true
             },
             {
@@ -4002,17 +4026,11 @@
                 "end": "2026-10-22T22:35:00+00:00",
                 "endLocal": "2026-10-23T09:35:00+11:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": true
             },
             {
@@ -4025,17 +4043,11 @@
                 "end": "2026-10-23T02:50:00+00:00",
                 "endLocal": "2026-10-23T13:50:00+11:00",
                 "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": true
             },
             {
@@ -4048,17 +4060,11 @@
                 "end": "2026-10-23T22:10:00+00:00",
                 "endLocal": "2026-10-24T09:10:00+11:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": true
             },
             {
@@ -4071,17 +4077,11 @@
                 "end": "2026-10-24T02:25:00+00:00",
                 "endLocal": "2026-10-24T13:25:00+11:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.2,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": true
             }
         ]
@@ -4093,7 +4093,7 @@
         "season": "2026",
         "title": "Grand Prix of Malaysia",
         "start": "2026-10-30T01:00:00+00:00",
-        "end": "2026-11-01T04:00:00+00:00",
+        "end": "2026-11-01T05:00:00+00:00",
         "timezone": "Asia/Tokyo",
         "latitude": "2.761134",
         "longitude": "101.73696",
@@ -4111,9 +4111,9 @@
                 "end": "2026-10-30T01:35:00+00:00",
                 "endLocal": "2026-10-30T10:35:00+09:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0.58,
+                "weatherCondition": 501,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 1,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
@@ -4130,7 +4130,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.98,
+                "weatherRainProbability": 1,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
@@ -4145,9 +4145,9 @@
                 "end": "2026-10-31T01:10:00+00:00",
                 "endLocal": "2026-10-31T10:10:00+09:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0.08,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.54,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
@@ -4162,9 +4162,9 @@
                 "end": "2026-10-31T05:25:00+00:00",
                 "endLocal": "2026-10-31T14:25:00+09:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.45,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
@@ -4174,14 +4174,14 @@
                 "title": "Race",
                 "type": "race",
                 "index": null,
-                "start": "2026-11-01T03:00:00+00:00",
-                "startLocal": "2026-11-01T12:00:00+09:00",
-                "end": "2026-11-01T04:00:00+00:00",
-                "endLocal": "2026-11-01T13:00:00+09:00",
+                "start": "2026-11-01T04:00:00+00:00",
+                "startLocal": "2026-11-01T13:00:00+09:00",
+                "end": "2026-11-01T05:00:00+00:00",
+                "endLocal": "2026-11-01T14:00:00+09:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
