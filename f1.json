@@ -2037,9 +2037,9 @@
                 "end": "2026-11-06T20:00:00+00:00",
                 "endLocal": "2026-11-06T17:00:00-03:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 1,
                 "isNightEvent": false,
                 "channels": [
                     {
