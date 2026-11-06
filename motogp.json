@@ -2332,7 +2332,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "de94f0b9e",
@@ -2344,8 +2344,8 @@
                 "end": "2026-11-06T17:00:00+00:00",
                 "endLocal": "2026-11-06T20:00:00+03:00",
                 "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02n",
+                "weatherCondition": 800,
+                "weatherIcon": "01n",
                 "weatherRainProbability": 0,
                 "isNightEvent": true,
                 "channels": [
@@ -2372,7 +2372,7 @@
                 "end": "2026-11-07T11:30:00+00:00",
                 "endLocal": "2026-11-07T14:30:00+03:00",
                 "hasTime": true,
-                "weatherCondition": 804,
+                "weatherCondition": 803,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
@@ -2400,7 +2400,7 @@
                 "end": "2026-11-07T12:20:00+00:00",
                 "endLocal": "2026-11-07T15:20:00+03:00",
                 "hasTime": true,
-                "weatherCondition": 804,
+                "weatherCondition": 803,
                 "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
