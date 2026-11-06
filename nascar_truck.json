@@ -3096,7 +3096,7 @@
                 "type": "practice",
                 "start": "2026-11-05T23:30:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2026-11-05T18:30:00-05:00",
                 "endLocal": null,
@@ -3119,7 +3119,7 @@
                 "index": null,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.25,
+                "weatherRainProbability": 0.2,
                 "isNightEvent": false
             },
             {
@@ -3133,9 +3133,9 @@
                 "startLocal": "2026-11-06T19:30:00-05:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": 500,
-                "weatherIcon": "10n",
-                "weatherRainProbability": 0.2,
+                "weatherCondition": 801,
+                "weatherIcon": "02n",
+                "weatherRainProbability": 0,
                 "isNightEvent": true
             }
         ]
