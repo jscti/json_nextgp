@@ -4151,9 +4151,9 @@
                 "startLocal": "2026-11-07T13:00:00-05:00",
                 "endLocal": null,
                 "index": null,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "weatherRainProbability": 0,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.24,
                 "isNightEvent": false
             },
             {
@@ -4169,7 +4169,7 @@
                 "index": null,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.3,
+                "weatherRainProbability": 0.39,
                 "isNightEvent": true
             }
         ]
