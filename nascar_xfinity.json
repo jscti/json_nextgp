@@ -4100,9 +4100,9 @@
                 "startLocal": "2026-10-31T16:00:00-04:00",
                 "endLocal": "2026-10-31T18:30:00-04:00",
                 "index": null,
-                "weatherCondition": 802,
-                "weatherIcon": "03d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": true
             }
         ]
@@ -4146,7 +4146,7 @@
                 "type": "qualifying",
                 "start": "2026-11-07T18:00:00+00:00",
                 "channels": [],
-                "hasSummary": false,
+                "hasSummary": true,
                 "hasTime": true,
                 "startLocal": "2026-11-07T13:00:00-05:00",
                 "endLocal": null,
@@ -4169,7 +4169,7 @@
                 "index": null,
                 "weatherCondition": 500,
                 "weatherIcon": "10d",
-                "weatherRainProbability": 0.39,
+                "weatherRainProbability": 0.45,
                 "isNightEvent": true
             }
         ]
