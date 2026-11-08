@@ -1911,19 +1911,14 @@
                 "end": "2026-11-01T06:15:00+00:00",
                 "endLocal": "2026-11-01T15:15:00+09:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 0.37,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [
                     {
                         "countryCode": "FR",
                         "channelName": "Canal+ Sport 360",
-                        "channelCode": ""
-                    },
-                    {
-                        "countryCode": "BE",
-                        "channelName": "Tipik",
                         "channelCode": ""
                     }
                 ],
