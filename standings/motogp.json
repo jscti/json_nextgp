@@ -468,6 +468,157 @@
     },
     {
         "sport": "motogp",
+        "year": 2026,
+        "type": "team",
+        "entries": [
+            {
+                "name": "Aprilia Racing",
+                "countryCode": "IT",
+                "position": 1,
+                "races": 19,
+                "points": 728,
+                "diff": 0,
+                "poles": 0,
+                "wins": 7,
+                "podiums": 21,
+                "fastestLaps": 3
+            },
+            {
+                "name": "Ducati Lenovo Team",
+                "countryCode": "IT",
+                "position": 2,
+                "races": 19,
+                "points": 604,
+                "diff": -124,
+                "poles": 0,
+                "wins": 7,
+                "podiums": 12,
+                "fastestLaps": 6
+            },
+            {
+                "name": "Superfile Trackhouse MotoGP Team",
+                "countryCode": "US",
+                "position": 3,
+                "races": 19,
+                "points": 552,
+                "diff": -176,
+                "poles": 0,
+                "wins": 2,
+                "podiums": 10,
+                "fastestLaps": 3
+            },
+            {
+                "name": "Red Bull KTM Factory Racing",
+                "countryCode": "AT",
+                "position": 4,
+                "races": 19,
+                "points": 427,
+                "diff": -301,
+                "poles": 0,
+                "wins": 1,
+                "podiums": 7,
+                "fastestLaps": 2
+            },
+            {
+                "name": "Pertamina Enduro VR46 Racing Team",
+                "countryCode": "IT",
+                "position": 5,
+                "races": 19,
+                "points": 352,
+                "diff": -376,
+                "poles": 0,
+                "wins": 1,
+                "podiums": 3,
+                "fastestLaps": 2
+            },
+            {
+                "name": "BK8 Gresini Racing MotoGP",
+                "countryCode": "IT",
+                "position": 6,
+                "races": 19,
+                "points": 344,
+                "diff": -384,
+                "poles": 0,
+                "wins": 1,
+                "podiums": 4,
+                "fastestLaps": 1
+            },
+            {
+                "name": "Red Bull KTM Tech3",
+                "countryCode": "AT",
+                "position": 7,
+                "races": 19,
+                "points": 169,
+                "diff": -559,
+                "poles": 0,
+                "wins": 0,
+                "podiums": 0,
+                "fastestLaps": 1
+            },
+            {
+                "name": "Honda HRC Castrol",
+                "countryCode": "ES",
+                "position": 8,
+                "races": 19,
+                "points": 158,
+                "diff": -570,
+                "poles": 0,
+                "wins": 0,
+                "podiums": 0,
+                "fastestLaps": 0
+            },
+            {
+                "name": "Castrol Honda LCR",
+                "countryCode": "JP",
+                "position": 9,
+                "races": 19,
+                "points": 141,
+                "diff": -587,
+                "poles": 0,
+                "wins": 0,
+                "podiums": 0,
+                "fastestLaps": 0
+            },
+            {
+                "name": "Monster Energy Yamaha MotoGP",
+                "countryCode": "JP",
+                "position": 10,
+                "races": 18,
+                "points": 108,
+                "diff": -620,
+                "poles": 0,
+                "wins": 0,
+                "podiums": 0,
+                "fastestLaps": 0
+            },
+            {
+                "name": "Prima Pramac Yamaha MotoGP",
+                "countryCode": "IT",
+                "position": 11,
+                "races": 18,
+                "points": 49,
+                "diff": -679,
+                "poles": 0,
+                "wins": 0,
+                "podiums": 0,
+                "fastestLaps": 0
+            },
+            {
+                "name": "Yamaha Factory Racing Team",
+                "countryCode": "JP",
+                "position": 12,
+                "races": 3,
+                "points": 5,
+                "diff": -723,
+                "poles": 0,
+                "wins": 0,
+                "podiums": 0,
+                "fastestLaps": 0
+            }
+        ]
+    },
+    {
+        "sport": "motogp",
         "year": 2025,
         "type": "driver",
         "entries": [
@@ -876,6 +1027,145 @@
                 "podiums": 0,
                 "fastestLaps": 0,
                 "hatTricks": 0
+            }
+        ]
+    },
+    {
+        "sport": "motogp",
+        "year": 2025,
+        "type": "team",
+        "entries": [
+            {
+                "name": "Ducati Lenovo Team",
+                "countryCode": "IT",
+                "position": 1,
+                "races": 22,
+                "points": 835,
+                "diff": 0,
+                "poles": 0,
+                "wins": 13,
+                "podiums": 23,
+                "fastestLaps": 11
+            },
+            {
+                "name": "BK8 Gresini Racing MotoGP",
+                "countryCode": "IT",
+                "position": 2,
+                "races": 22,
+                "points": 681,
+                "diff": -154,
+                "poles": 0,
+                "wins": 4,
+                "podiums": 15,
+                "fastestLaps": 6
+            },
+            {
+                "name": "Pertamina Enduro VR46 Racing Team",
+                "countryCode": "IT",
+                "position": 3,
+                "races": 22,
+                "points": 493,
+                "diff": -342,
+                "poles": 0,
+                "wins": 0,
+                "podiums": 6,
+                "fastestLaps": 1
+            },
+            {
+                "name": "Red Bull KTM Factory Racing",
+                "countryCode": "AT",
+                "position": 4,
+                "races": 22,
+                "points": 462,
+                "diff": -373,
+                "poles": 0,
+                "wins": 0,
+                "podiums": 5,
+                "fastestLaps": 1
+            },
+            {
+                "name": "Aprilia Racing",
+                "countryCode": "IT",
+                "position": 5,
+                "races": 22,
+                "points": 395,
+                "diff": -440,
+                "poles": 0,
+                "wins": 3,
+                "podiums": 9,
+                "fastestLaps": 2
+            },
+            {
+                "name": "Monster Energy Yamaha MotoGP",
+                "countryCode": "JP",
+                "position": 6,
+                "races": 22,
+                "points": 269,
+                "diff": -566,
+                "poles": 0,
+                "wins": 0,
+                "podiums": 1,
+                "fastestLaps": 0
+            },
+            {
+                "name": "Superfile Trackhouse MotoGP Team",
+                "countryCode": "US",
+                "position": 7,
+                "races": 22,
+                "points": 261,
+                "diff": -574,
+                "poles": 0,
+                "wins": 1,
+                "podiums": 2,
+                "fastestLaps": 1
+            },
+            {
+                "name": "Honda HRC Castrol",
+                "countryCode": "ES",
+                "position": 8,
+                "races": 22,
+                "points": 238,
+                "diff": -597,
+                "poles": 0,
+                "wins": 0,
+                "podiums": 2,
+                "fastestLaps": 0
+            },
+            {
+                "name": "Red Bull KTM Tech3",
+                "countryCode": "AT",
+                "position": 9,
+                "races": 22,
+                "points": 213,
+                "diff": -622,
+                "poles": 0,
+                "wins": 0,
+                "podiums": 1,
+                "fastestLaps": 0
+            },
+            {
+                "name": "Castrol Honda LCR",
+                "countryCode": "JP",
+                "position": 10,
+                "races": 22,
+                "points": 155,
+                "diff": -680,
+                "poles": 0,
+                "wins": 1,
+                "podiums": 2,
+                "fastestLaps": 0
+            },
+            {
+                "name": "Prima Pramac Yamaha MotoGP",
+                "countryCode": "IT",
+                "position": 11,
+                "races": 22,
+                "points": 125,
+                "diff": -710,
+                "poles": 0,
+                "wins": 0,
+                "podiums": 0,
+                "fastestLaps": 0
             }
         ]
     }
