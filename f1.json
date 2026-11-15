@@ -2162,9 +2162,9 @@
                 "end": "2026-11-08T19:00:00+00:00",
                 "endLocal": "2026-11-08T16:00:00-03:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10d",
-                "weatherRainProbability": 1,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": false,
                 "channels": [
                     {
@@ -2202,9 +2202,9 @@
                 "end": "2026-11-20T01:30:00+00:00",
                 "endLocal": "2026-11-19T17:30:00-08:00",
                 "hasTime": true,
-                "weatherCondition": 804,
-                "weatherIcon": "04d",
-                "weatherRainProbability": 0.77,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.21,
                 "isNightEvent": true,
                 "channels": [
                     {
@@ -2227,7 +2227,7 @@
                 "hasTime": true,
                 "weatherCondition": 500,
                 "weatherIcon": "10n",
-                "weatherRainProbability": 1,
+                "weatherRainProbability": 0.83,
                 "isNightEvent": true,
                 "channels": [
                     {
