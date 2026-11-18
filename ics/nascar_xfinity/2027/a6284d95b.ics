@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | NascarXfinity | NASCAR O'Reilly Auto Parts Series at Talladega
+BEGIN:VEVENT
+UID:nascar_xfinity-a6284d95b-7cbced995@nextgp.app
+DTSTAMP:20261118T054108Z
+DTSTART:20270424T050000Z
+SUMMARY:NascarXfinity | Race | NASCAR O'Reilly Auto Parts Series at Talladega 
+LOCATION:Talladega Superspeedway\, Talladega\, US
+GEO:33.4332833;-86.098631
+CATEGORIES:NascarXfinity,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | NascarXfinity | NASCAR O'Reilly Auto Parts Series at Nashville
+BEGIN:VEVENT
+UID:nascar_xfinity-f557ed8c4-2bcf6c463@nextgp.app
+DTSTAMP:20261118T054108Z
+DTSTART:20270605T050000Z
+SUMMARY:NascarXfinity | Race | NASCAR O'Reilly Auto Parts Series at Nashville 
+LOCATION:Nashville Superspeedway\, Lebanon\, US
+GEO:36.2079779;-86.2910945
+CATEGORIES:NascarXfinity,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | NascarTruck | NASCAR FedEx Freight Truck Series at St. Petersburg
+BEGIN:VEVENT
+UID:nascar_truck-b220a0745-06242a759@nextgp.app
+DTSTAMP:20261118T054142Z
+DTSTART:20270306T060000Z
+SUMMARY:NascarTruck | Race | NASCAR FedEx Freight Truck Series at St. Petersburg 
+LOCATION:Grand Prix of St. Petersburg\, St. Petersburg\, US
+GEO:27.767080;-82.6403
+CATEGORIES:NascarTruck,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | NascarXfinity | NASCAR O'Reilly Auto Parts Series at Richmond
+BEGIN:VEVENT
+UID:nascar_xfinity-a015acad5-990e4869f@nextgp.app
+DTSTAMP:20261118T054108Z
+DTSTART:20270910T050000Z
+SUMMARY:NascarXfinity | Race | NASCAR O'Reilly Auto Parts Series at Richmond 
+LOCATION:Richmond Raceway\, Richmond\, US
+GEO:37.5385087;-77.43428
+CATEGORIES:NascarXfinity,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

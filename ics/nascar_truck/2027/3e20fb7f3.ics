@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | NascarTruck | NASCAR FedEx Freight Truck Series at Daytona
+BEGIN:VEVENT
+UID:nascar_truck-3e20fb7f3-93eee768b@nextgp.app
+DTSTAMP:20261118T054142Z
+DTSTART:20270219T060000Z
+SUMMARY:NascarTruck | Race | NASCAR FedEx Freight Truck Series at Daytona 
+LOCATION:Daytona International Speedway\, Daytona Beach\, US
+GEO:29.2108147;-81.0228331
+CATEGORIES:NascarTruck,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

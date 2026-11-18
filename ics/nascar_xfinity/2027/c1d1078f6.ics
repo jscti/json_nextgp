@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | NascarXfinity | NASCAR O'Reilly Auto Parts Series at Daytona
+BEGIN:VEVENT
+UID:nascar_xfinity-c1d1078f6-c84ce15cd@nextgp.app
+DTSTAMP:20261118T054108Z
+DTSTART:20270827T050000Z
+SUMMARY:NascarXfinity | Race | NASCAR O'Reilly Auto Parts Series at Daytona 
+LOCATION:Daytona International Speedway\, Daytona Beach\, US
+GEO:29.2108147;-81.0228331
+CATEGORIES:NascarXfinity,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | NascarXfinity | NASCAR O'Reilly Auto Parts Series at Watkins Glen
+BEGIN:VEVENT
+UID:nascar_xfinity-3110ad843-93377dca3@nextgp.app
+DTSTAMP:20261118T054108Z
+DTSTART:20270918T050000Z
+SUMMARY:NascarXfinity | Race | NASCAR O'Reilly Auto Parts Series at Watkins Glen 
+LOCATION:Watkins Glen International\, Watkins Glen\, US
+GEO:42.3810555;-76.8705777
+CATEGORIES:NascarXfinity,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

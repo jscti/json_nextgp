@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextGP//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NextGP | NascarTruck | NASCAR FedEx Freight Truck Series at Martinsville
+BEGIN:VEVENT
+UID:nascar_truck-db0708f43-4f0111e20@nextgp.app
+DTSTAMP:20261118T054142Z
+DTSTART:20271105T050000Z
+SUMMARY:NascarTruck | Race | NASCAR FedEx Freight Truck Series at Martinsville 
+LOCATION:Martinsville Speedway\, Ridgeway\, US
+GEO:36.5768047;-79.8583721
+CATEGORIES:NascarTruck,Motorsport,race
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
