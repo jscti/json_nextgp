@@ -4257,17 +4257,11 @@
                 "end": "2026-11-08T14:00:00+00:00",
                 "endLocal": "2026-11-08T17:00:00+03:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
-                "weatherRainProbability": 0,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": true,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport 360",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": true
             }
         ]
@@ -4279,7 +4273,7 @@
         "season": "2026",
         "title": "Grande Premio de Portugal",
         "start": "2026-11-20T09:00:00+00:00",
-        "end": "2026-11-22T15:30:00+00:00",
+        "end": "2026-11-22T11:00:00+00:00",
         "timezone": "Europe/Lisbon",
         "latitude": "37.2313331",
         "longitude": "-8.6305163",
@@ -4297,11 +4291,17 @@
                 "end": "2026-11-20T09:35:00+00:00",
                 "endLocal": "2026-11-20T09:35:00Z",
                 "hasTime": true,
-                "weatherCondition": 801,
-                "weatherIcon": "02d",
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
                 "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": false
             },
             {
@@ -4314,11 +4314,17 @@
                 "end": "2026-11-20T13:50:00+00:00",
                 "endLocal": "2026-11-20T13:50:00Z",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": false
             },
             {
@@ -4331,11 +4337,17 @@
                 "end": "2026-11-21T09:10:00+00:00",
                 "endLocal": "2026-11-21T09:10:00Z",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 804,
+                "weatherIcon": "04d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": false
             },
             {
@@ -4348,11 +4360,17 @@
                 "end": "2026-11-21T13:25:00+00:00",
                 "endLocal": "2026-11-21T13:25:00Z",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 500,
+                "weatherIcon": "10d",
+                "weatherRainProbability": 0.53,
                 "isNightEvent": false,
-                "channels": [],
+                "channels": [
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport 360",
+                        "channelCode": ""
+                    }
+                ],
                 "hasSummary": false
             },
             {
@@ -4360,14 +4378,14 @@
                 "title": "Race",
                 "type": "race",
                 "index": null,
-                "start": "2026-11-22T14:30:00+00:00",
-                "startLocal": "2026-11-22T14:30:00Z",
-                "end": "2026-11-22T15:30:00+00:00",
-                "endLocal": "2026-11-22T15:30:00Z",
+                "start": "2026-11-22T10:00:00+00:00",
+                "startLocal": "2026-11-22T10:00:00Z",
+                "end": "2026-11-22T11:00:00+00:00",
+                "endLocal": "2026-11-22T11:00:00Z",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [],
                 "hasSummary": false
