@@ -2133,7 +2133,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             },
             {
                 "id": "0375ccbbb",
@@ -2145,9 +2145,9 @@
                 "end": "2026-11-21T05:00:00+00:00",
                 "endLocal": "2026-11-20T21:00:00-08:00",
                 "hasTime": true,
-                "weatherCondition": 802,
-                "weatherIcon": "03n",
-                "weatherRainProbability": 0.25,
+                "weatherCondition": 804,
+                "weatherIcon": "04n",
+                "weatherRainProbability": 0.03,
                 "isNightEvent": true,
                 "channels": [
                     {
