@@ -2160,7 +2160,7 @@
                         "channelCode": ""
                     }
                 ],
-                "hasSummary": false
+                "hasSummary": true
             }
         ]
     },
@@ -2212,9 +2212,9 @@
                 "end": "2026-11-27T13:45:00+00:00",
                 "endLocal": "2026-11-27T14:45:00+01:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 800,
+                "weatherIcon": "01d",
+                "weatherRainProbability": 0,
                 "isNightEvent": false,
                 "channels": [
                     {
