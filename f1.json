@@ -2218,14 +2218,19 @@
                 "end": "2026-11-27T14:30:00+00:00",
                 "endLocal": "2026-11-27T17:30:00+03:00",
                 "hasTime": true,
-                "weatherCondition": 800,
-                "weatherIcon": "01d",
+                "weatherCondition": 801,
+                "weatherIcon": "02d",
                 "weatherRainProbability": 0,
                 "isNightEvent": true,
                 "channels": [
                     {
                         "countryCode": "BE",
                         "channelName": "Tipik",
+                        "channelCode": ""
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
                         "channelCode": ""
                     }
                 ],
@@ -2250,6 +2255,11 @@
                         "countryCode": "BE",
                         "channelName": "Tipik",
                         "channelCode": ""
+                    },
+                    {
+                        "countryCode": "FR",
+                        "channelName": "Canal+ Sport",
+                        "channelCode": ""
                     }
                 ],
                 "hasSummary": false
@@ -2264,9 +2274,9 @@
                 "end": "2026-11-28T15:30:00+00:00",
                 "endLocal": "2026-11-28T18:30:00+03:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 800,
+                "weatherIcon": "01n",
+                "weatherRainProbability": 0,
                 "isNightEvent": true,
                 "channels": [
                     {
@@ -2287,9 +2297,9 @@
                 "end": "2026-11-28T19:00:00+00:00",
                 "endLocal": "2026-11-28T22:00:00+03:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 800,
+                "weatherIcon": "01n",
+                "weatherRainProbability": 0,
                 "isNightEvent": true,
                 "channels": [
                     {
@@ -2310,9 +2320,9 @@
                 "end": "2026-11-29T18:00:00+00:00",
                 "endLocal": "2026-11-29T21:00:00+03:00",
                 "hasTime": true,
-                "weatherCondition": null,
-                "weatherIcon": null,
-                "weatherRainProbability": null,
+                "weatherCondition": 804,
+                "weatherIcon": "04n",
+                "weatherRainProbability": 0,
                 "isNightEvent": true,
                 "channels": [
                     {
