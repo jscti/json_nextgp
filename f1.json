@@ -2080,13 +2080,7 @@
                 "weatherIcon": null,
                 "weatherRainProbability": null,
                 "isNightEvent": true,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": true
             },
             {
@@ -2099,17 +2093,11 @@
                 "end": "2026-11-20T05:00:00+00:00",
                 "endLocal": "2026-11-19T21:00:00-08:00",
                 "hasTime": true,
-                "weatherCondition": 500,
-                "weatherIcon": "10n",
-                "weatherRainProbability": 0.82,
+                "weatherCondition": null,
+                "weatherIcon": null,
+                "weatherRainProbability": null,
                 "isNightEvent": true,
-                "channels": [
-                    {
-                        "countryCode": "FR",
-                        "channelName": "Canal+ Sport",
-                        "channelCode": ""
-                    }
-                ],
+                "channels": [],
                 "hasSummary": true
             },
             {
